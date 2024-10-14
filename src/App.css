@@ -1,38 +1,130 @@
-.App {
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.enigma-container {
+  padding: 20px;
   text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.input-field {
+  margin: 10px;
+  width: 80%;
+  max-width: 400px;
+  height: 40px;
+  font-size: 1.2rem;
+  padding: 5px 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-left: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.drums-container {
+  margin: 20px auto;
+  width: 100%;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+.drum-row {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.drum-cell {
+  flex: 0 0 auto;
+  width: 3vw;
+  height: 4vw;
+  min-width: 30px;
+  min-height: 40px;
+  margin: 0.5vw;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  font-size: 2vw;
+  font-weight: bold;
+  text-align: center;
+  line-height: 4vw;
+  border-radius: 5px;
+  box-sizing: border-box;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.middle-row {
+  display: flex;
+  justify-content: center;
+}
+
+.middle-cell {
+  background-color: #ffd700;
+}
+
+@keyframes scrollDrum {
+  0% {
+    transform: translateX(0);
   }
-  to {
-    transform: rotate(360deg);
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.encrypted-message {
+  word-wrap: break-word;
+  word-break: break-all;
+  overflow-wrap: break-word;
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 90%;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: left;
+  font-size: 1.1rem;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 800px) {
+  .drum-cell {
+    width: 5vw;
+    height: 6vw;
+    font-size: 3vw;
+    line-height: 6vw;
+    margin: 1vw;
+  }
+
+  .input-field {
+    width: 90%;
+    max-width: 350px;
+  }
+
+  .button {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .drum-cell {
+    width: 8vw;
+    height: 10vw;
+    font-size: 4vw;
+    line-height: 10vw;
+    margin: 1.5vw;
+  }
+
+  .input-field {
+    width: 95%;
+    max-width: 300px;
+  }
+
+  .button {
+    padding: 8px 16px;
+    font-size: 1rem;
   }
 }
