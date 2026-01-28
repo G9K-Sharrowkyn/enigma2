@@ -899,7 +899,7 @@
 - longan - zuo-duo
 - los, przeznaczenie - piao-pai
 - lotnisko - tu-dong
-- lotos - mu-qun
+- lotos - muo-qun
 - lubić - re
 - lud - gun-ci
 - ludność - bing-lie
@@ -1382,12 +1382,12 @@
 - pijać (formalnie) - chong-mi
 - pilnik - ke-gen
 - piosenka - song-zhai
-- pisarz - mu-ren
-- pisać - mu
-- pisać list - mu-pei
+- pisarz - muo-ren
+- pisać - muo
+- pisać list - muo-pei
 - pisklę - li-shang
-- pismo Duo-Pao - mu-hui
-- pismo urzędowe - mu-niu
+- pismo Duo-Pao - muo-hui
+- pismo urzędowe - muo-niu
 - piwonia - niang-miao
 - piwonia biała - qi-chuan
 - piwonia zielna - jia-xuan
@@ -1497,7 +1497,7 @@
 - porucznik - ce-luan
 - porywczy - bao-shuan
 - porzucić - bei-guan
-- porządkować, organizować - mu-zheng
+- porządkować, organizować - muo-zheng
 - porównywać - dui-chu
 - posiadać - biao-tou
 - post od zbóż - hun-ha
@@ -2010,7 +2010,7 @@
 - szalik - sun-cu
 - szanować - cao-huan
 - szanowny - dun-fou
-- szanowny pan - mu-song
+- szanowny pan - muo-song
 - szanowny panie (urzędnik) - ka-xin
 - szansa, okazja - wang-shen
 - szarańcza - mai-bai
@@ -2048,7 +2048,7 @@
 - szpik kostny - kuang-liang
 - szpilka - chen-bei
 - szpilka do włosów - jiong-kuan
-- szpinak - mu-kao
+- szpinak - muo-kao
 - szpital - ke-zha
 - szron - ling-zong
 - sztabka srebra - gan-bing
@@ -2175,7 +2175,7 @@
 - tutaj - kuan-kua
 - twarda siła - ti-chuo
 - twarde drewno - ka-zheng
-- twardy - jin
+- twardy - jino
 - twierdza - hen-sen
 - tworzyć - ze
 - ty - ni
@@ -2507,7 +2507,7 @@
 - zaparcia - dou-bin
 - zaparzać herbatę - pang-kuan
 - zapisywać, rejestrować - bian-deng
-- zapobiegać - mu-jiang
+- zapobiegać - muo-jiang
 - zapomnieć - gong-kuai
 - zapomnieć całkowicie - zeng-ding
 - zapraszać - guan-shao
@@ -2569,7 +2569,7 @@
 - zezwalać - can-ling
 - zgadywanie zagadek - zu-zai
 - zgadzać się - ge-nuo
-- zgubić - mu-dia
+- zgubić - muo-dia
 - zielona herbata - kuai-lao
 - zielona trawa - nano-liu
 - zielone warzywa - nano-qie
@@ -2679,7 +2679,7 @@
 - świat ludzi - zhan-fa-bian
 - świat zwierząt - lin-xie-re
 - światło słoneczne - ce-wo
-- świeca - mu-ling
+- świeca - muo-ling
 - świecznik - shun-pin
 - świerszcz - nin-reng
 - świetlik - dai-die-xiang

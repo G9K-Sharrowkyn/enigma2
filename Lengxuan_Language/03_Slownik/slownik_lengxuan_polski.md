@@ -988,7 +988,6 @@
 - jie-zhi - pod wiatr
 - jie-zhui - skarpetki
 - jieo - 17
-- jin - twardy
 - jin-qi - rozpoznać
 - jin-shi - mieć gorączkę
 - jin-wei - przekształcać
@@ -1002,6 +1001,7 @@
 - jing-rang - miednica
 - jing-tian - skała
 - jing-xi-reng - katastrofa spowodowana przez
+- jino - twardy
 - jiong-gong - zięć
 - jiong-kuan - szpilka do włosów
 - jiong-peng - świeżo pachnący
@@ -1495,18 +1495,18 @@
 - mou-sheng - gotowany ryż
 - mou-tao - gotowany, ugotowany
 - mou-wen - gotować
-- mu - pisać
-- mu-dia - zgubić
-- mu-hui - pismo Duo-Pao
-- mu-jiang - zapobiegać
-- mu-kao - szpinak
-- mu-ling - świeca
-- mu-niu - pismo urzędowe
-- mu-pei - pisać list
-- mu-qun - lotos
-- mu-ren - pisarz
-- mu-song - szanowny pan
-- mu-zheng - porządkować, organizować
+- muo - pisać
+- muo-dia - zgubić
+- muo-hui - pismo Duo-Pao
+- muo-jiang - zapobiegać
+- muo-kao - szpinak
+- muo-ling - świeca
+- muo-niu - pismo urzędowe
+- muo-pei - pisać list
+- muo-qun - lotos
+- muo-ren - pisarz
+- muo-song - szanowny pan
+- muo-zheng - porządkować, organizować
 - na-hei - namiestnik
 - na-rong - reinkarnacja
 - na-shao - rzucać
