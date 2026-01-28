@@ -1,0 +1,8 @@
+RAPORT HOMONIMII - SLOWNIK LENGXUAN FINAL
+============================================================
+
+Calkowita liczba wpisow: 3004
+Unikalne slowa: 3004
+Homonimow: 0
+
+BRAK HOMONIMOW!

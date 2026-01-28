@@ -1,0 +1,2720 @@
+# Słownik Lengxuan → Polski
+
+- a-er-ma - nie ma za co
+- a-ke - jaskinia w górze
+- a-qian - zwycięstwo
+- a-yang - butelka wody
+- a-yin-gen - ametyst
+- ai - być
+- ai-cui - doświadczać, zrozumieć
+- ai-kui - ryba mandarynka
+- ai-ma - grzmot
+- ai-niang - dawać w prezencie
+- ai-te - park
+- an - mieć
+- an-guo - błyskawica
+- an-nao - taki sam
+- an-shi - jaszczurka ścienna
+- ang - kupować
+- ang-neng - sto
+- ang-nuo - trawnik
+- ang-ran - ból
+- ang-tou - jastrząb, sokół
+- ang-ying - skracać
+- ang-yong - prowadzić
+- ao - ja
+- ao-duo - przysięgła siostra
+- ao-gou - częściowo pochmurnie
+- ao-ha - węch
+- ao-long - natura, charakter (rzeczy)
+- ao-meng - gardło
+- ashikagama - ashikagama (nazwa własna)
+- ba - robić
+- ba-niu - odwaga
+- ba-wang - tradycja
+- ba-xue - klon
+- ba-za - przysięga
+- bai - sprzedawać
+- bai-nang - waga
+- bai-pai - ścierka
+- bai-wan - milion
+- bai-xiong - siostra cioteczna (starsza)
+- bai-zou - przysięgły brat
+- ban - sugestia/potwierdzenie (marker)
+- ban-ang - port
+- ban-chua - organizować
+- ban-gou - muzyk
+- ban-hun - garncarz
+- ban-kuang - leżeć na brzuchu
+- ban-xie - siekać
+- ban-zhan - historia, opowieść
+- bang - nóż
+- bang-bai - niegrzeczny, psotny
+- bang-guai - metoda
+- bang-pin - niezwykły
+- bang-zang - technika
+- bao - płacić
+- bao-jun - kowal
+- bao-shao - rynek
+- bao-shuan - porywczy
+- bao-zei - lazurowy smok (kierunek wschód)
+- bao-zi - bułeczki gotowane na parze
+- bao-zong - morska fala
+- bei - bardzo
+- bei-de - kichać
+- bei-den - wąskohoryzontalny
+- bei-guan - porzucić
+- bei-hui - szeroki
+- bei-xi - cegła
+- bei-xiang - pierścień
+- bei-zei - lina
+- bei-zhao - patogen wiatru
+- ben - 11
+- ben-cen - instrument muzyczny
+- ben-she - pracowity
+- beng - kij
+- beng-chuan - mierzyć
+- beng-dao - beżowy
+- beng-gao - chwytanie i kontrola
+- beng-kan - niskość
+- beng-lue - inspirować
+- beng-rou - zasoby
+- beng-weng - niebiański król
+- beng-ze - meteoryt
+- bi - mówić
+- bi-dan - staza krwi
+- bi-ma - kaczka mandarynka (para)
+- bi-mian - peleryna
+- bi-qia - nasiona lotosu
+- bi-zhen - homar
+- bian - łuk
+- bian-chui - przekąska, przysmak
+- bian-dao - kłącze lotosu
+- bian-deng - zapisywać, rejestrować
+- bian-hen - krzyczeć, wołać
+- bian-huang - marszałek
+- bian-kang - źrebię
+- bian-na - poziom, sfera
+- bian-pei - siła
+- bian-pian - wewnętrzny-zewnętrzny
+- bian-ruo - energiczny, żywy
+- bian-seng - źródło
+- bian-xian - biodro
+- biao - strzała
+- biao-deng - wnuk (od córki)
+- biao-huai - sąsiad
+- biao-tou - posiadać
+- biao-yun - uprawiać hazard
+- biao-zui - opóźniony
+- bie - jechać
+- bie-ga - pyłek kwiatowy
+- bie-jing - zabrudzony, zanieczyszczony
+- bie-keng - zaufanie
+- bie-men-xin - kolosalny, gigantyczny
+- bie-meng - zjednoczone Trony Wschodu
+- bie-pang - suknia ślubna
+- bie-peng - willa
+- bie-pian - zobaczyć
+- bie-seng - kontynuować
+- bie-wa - garnitur
+- bie-you - przestrzeń
+- bie-zhu - piechota
+- bin - pływać
+- bin-dia - poczucie winy
+- bin-gua - umysł duchowy
+- bin-he - mandat Niebios
+- bin-hei - moneta miedziana
+- bin-jin - piec, grillować
+- bin-tan - policzek
+- bin-za - zapach mięsa
+- bin-ze - zachęcać
+- bin-zei - informacja
+- bin-zhuai - sekretarz
+- bing - pięść
+- bing-du - dyscyplina naukowa
+- bing-jie - uczciwość
+- bing-lie - ludność
+- bing-wai - wilgotny, mokry
+- bing-wo - wół
+- bo - powiedzieć
+- bo-lie - szmaragdowy
+- bo-tuo - odwar lekarski
+- bo-zhe - rafinowanie esencji
+- bu - pytać
+- bu-ba - skupiony
+- bu-pao - para wodna
+- ca - odpowiadać
+- ca-cou - rafinowanie ducha
+- ca-ei-kou - podstawowe ćwiczenia
+- ca-fen - ropucha
+- ca-fu - szczur
+- ca-gou - zamek
+- ca-li - argumentować
+- ca-mi - zabawka
+- ca-zang - szczęście
+- ca-zhun - przypływ i odpływ
+- ca-zhun-suan - mityczna opowieść
+- ca-zui - gaza, muślin
+- cai - podnosić
+- cai-a - stopiony
+- cai-dao - kuchnia
+- cai-ken - wujek (brat matki)
+- cai-rao - poria
+- cai-zheng - wszyscy
+- can - przepraszam
+- can-keng - temperatura
+- can-ling - zezwalać
+- can-quan - blokować
+- can-xiang - utrzymywać, konserwować
+- can-xiong - sprzątać
+- cang - ręka
+- cang-bing - brutalny, gwałtowny
+- cang-chu - postrzegać
+- cang-huang - chwytać, łapać
+- cang-jiu - praca domowa, zadanie
+- cang-liu-zhang - miecz Trzech Przysiąg
+- cang-sou - dół
+- cang-suo - korzeń
+- cang-ze - cytryna
+- cang-zun-ken - instrument perkusyjny
+- cao - upuścić
+- cao-ceng - myśliwy
+- cao-cuan - żółw błotny
+- cao-gou - torba, worek
+- cao-guan - recytować
+- cao-huan - szanować
+- cao-hun - niewyraźny, zamglony
+- cao-kuai - meble
+- cao-kuang - pan (szlachetny)
+- cao-liang - terapia medyczna
+- ce - iść
+- ce-cao - sala przodków
+- ce-dian - rozmiar
+- ce-er - wycofać się
+- ce-luan - porucznik
+- ce-wo - światło słoneczne
+- cen - 3
+- cen-bai - podejrzliwość
+- cen-bu - ganić, łajać
+- cen-cao - trzy
+- cen-kai - cecha charakterystyczna
+- cen-pao - kroić
+- cen-qiu - papierowy pieniądz
+- cen-zhao - ideał
+- cen-zhuan - wzrastać
+- ceng - palec
+- ceng-ceng-dai - ryżowar
+- ceng-cun - instalować
+- ceng-en - otrzymać, przyjąć
+- ceng-feng - wiadomości
+- ceng-ha - trąba powietrzna
+- ceng-qia - wyniosły
+- ceng-run - niespodziewany atak
+- ceng-wo - oszczędzać
+- ceng-zun - wygodny, dogodny
+- cha-che - dźwięczny, czysty
+- cha-cong - przezroczysty
+- cha-cun - zasada
+- cha-huai - myć twarz
+- cha-huang - wyrzucać
+- cha-hui - czysty
+- cha-jing - czyścić, myć
+- cha-jiong - transakcja
+- cha-qiu - myć podłogę
+- cha-suo - wyraźny, określony
+- cha-wu - działanie, efekt
+- cha-zhan-bao - nieprzezroczysty
+- chai - noga
+- chai-cen - ten
+- chai-duan - sztorm
+- chai-hun - wojownik
+- chai-mie - sposób, metoda
+- chai-shun - brązowy
+- chai-xun - zmienny
+- chan - stopa
+- chan-di - wieś
+- chan-gan-duan - zainteresowany
+- chan-geng - wstęp, początkujący
+- chan-kou - emocja (rzeczownik)
+- chan-mang - jaskinia
+- chan-miao - długotrwały
+- chan-ni - filiżanka do herbaty
+- chan-nong - kaczka
+- chan-ruo - jaspis, jade
+- chan-shun - odwrócić/otworzyć
+- chan-tao - dokładnie północ
+- chang-man - świt
+- chang-run - kora drzewa
+- chang-ruo - kredens
+- chang-yan - pocić się
+- chang-yong - skosztować
+- chang-zhuo - regulacja
+- chao - głowa
+- chao-guan - wartość
+- chao-kao - pierwotna natura
+- chao-le - przodek
+- chao-mo - wschód
+- chao-qia - równonoc wiosenna
+- chao-shuo - koń bojowy
+- chao-ta - mleko
+- chao-teng - niebiański-mistrz
+- chao-ye - konstelacja
+- che - rzucić
+- che-ao - syndrom nadmiaru
+- che-hong - koszt, cena zakupu
+- che-tao - północ
+- che-yao - drugi
+- che-ze - wyzwanie
+- chen - oko
+- chen-bei - szpilka
+- chen-chun - zegarek
+- chen-lu - chen Lu (imię własne)
+- chen-tou - poprawiać
+- chen-yue - trzydzieści
+- chen-zu-qiong - błyskawiczny
+- cheng-chen - mistrz (ogólne, szanujące)
+- cheng-gang - płaski
+- cheng-liao - koszula
+- cheng-lu - wznosić (budowlę)
+- cheng-ni-pai - teoria Pięciu Elementów
+- cheng-suan - wymieniać
+- cheng-teng - pięć elementów
+- cheng-yuan - browarnik, gorzelnik
+- chi - złapać
+- chi-cong - narracja, opowiadanie
+- chi-fa-duo - różnorodność
+- chi-guang - przełożony
+- chi-jing-shui - dzikie zwierzęta
+- chi-mie - goleń
+- chi-qia-zui - filozof
+- chi-shang - jabłko
+- chi-she - natychmiastowy
+- chong-cuo - kara
+- chong-mi - pijać (formalnie)
+- chong-qun - czcić bogów
+- chong-tiao - wspinać się
+- chong-zhao - jajko kacze
+- chou - ucho
+- chou-a - pięta
+- chou-guo - orzeszki ziemne
+- chou-hui - salon
+- chou-jie - zmniejszać
+- chou-zhen - szlachetny mąż
+- chu - trzymać
+- chu-a - forma,
+- chu-cao - wzruszenie
+- chu-fang - szarża
+- chu-mang - żaglowiec
+- chu-pei - otrzymywać, zbierać
+- chu-rao - człowiek niski
+- chu-xun - rozpocząć podróż
+- chu-yin - restaurować
+- chu-zhu - konfucjanizm
+- chu-zhuan - dzięgiel chiński
+- chua - nos
+- chua-cheng - zmęczenie
+- chua-chu - pędzić, gnać
+- chua-fa - przyjęcie (z alkoholem)
+- chua-gui - znudzenie, zmęczenie
+- chua-rao - pył
+- chua-shan - zbrodniarz
+- chua-zhou - delikatnie pachnący
+- chua-zhuang - niedbale, od niechcenia
+- chuai-ci - goździk
+- chuai-geng - kłamstwo
+- chuai-lin - pozycja konia
+- chuai-nen - padać (śnieg)
+- chuai-shang - punkt
+- chuai-teng - prześcieradło
+- chuan-che - chusteczka
+- chuan-jiu - weranda
+- chuan-sai - podarować
+- chuan-zhuo - materiał
+- chuang - klatka piersiowa
+- chuang-cao - miękka droga (japoński termin)
+- chuang-hun - wkrótce, za chwilę
+- chuang-peng - strategia
+- chuang-rui - łoskot, huk
+- chuang-weng - auspicyjny
+- chuang-xi - młotek
+- chui - usta
+- chui-duo - portfel
+- chui-kan - broń
+- chui-luan - czterdzieści
+- chui-nong - widelec
+- chun - ząb
+- chun-gan - pojedynek
+- chun-guan - muł
+- chun-man - zwiększać
+- chun-ming - zewnętrzna alchemia
+- chun-xue - zaraz, natychmiast
+- chuo - serce
+- chuo-ce-zeng - pasta z bobu
+- chuo-chen - pasterz
+- chuo-chuo - wewnętrzna siła
+- chuo-dun - pomniejszać
+- chuo-long - spotkać się
+- chuo-niang - zmartwienie, niepokój
+- chuo-pei - żuć
+- chuo-zui - słuchacz
+- ci - przyjść
+- ci-cang - poinformować, powiedzieć
+- ci-die - użyj miękkości, aby pokonać twardość
+- ci-ge - pacjent
+- ci-ne - tarcza
+- ci-shi - powszechny
+- ci-shuo - lojalność
+- cong - krew
+- cong-geng - nawóz
+- cong-kuo-hua - sklep spożywczy
+- cong-lou - szorować
+- cong-ni - poezja (formalna)
+- cong-piao - wiertło
+- cong-wang - sokół treser
+- cou - on/ona
+- cou-bai - pożyczyć (komuś)
+- cou-chang - jeden
+- cou-liao - płaszcz skórzany
+- cou-luo - patrzeć w dal
+- cou-ning - bęben
+- cou-quan-piao - dawno się sui-qu widzieliśmy
+- cou-ruo - matematyka
+- cu - wracać
+- cu-guan-gun - napierśnik
+- cu-hun - głupi
+- cu-ran - babcia od ojca
+- cu-shao - schodzić w dół
+- cu-ti - natura serca/umysłu
+- cu-wei - bardzo szybki
+- cu-xie - wąż
+- cu-zhuang - pyton
+- cuan - kość
+- cuan-bin - zazdrość (rzeczownik)
+- cuan-gai - łabędź
+- cuan-piao - pszenica
+- cuan-qing - baron
+- cuan-se - błogosławieństwo
+- cuan-yong - rozbierać, burzyć
+- cuan-zhui - wielokątny
+- cui - pokazać
+- cui-ca - głęboki
+- cui-de - zapłacić
+- cui-gong - potrząsać głową (zaprzeczenie)
+- cui-tuan - starożytność
+- cun - ukryć
+- cun-kuang - rezultat, skutek
+- cun-li - torebka zapachowa
+- cun-lou - kamieniarz
+- cun-run - lew
+- cun-ze - spisek, intryga
+- cuo - dotknąć
+- cuo-fa-duo - amulet ochronny
+- cuo-hui - ogień serca
+- cuo-pang - piętro, warstwa
+- cuo-qie - odmawiać
+- cuo-rao - glina garnczarska
+- da - negacja (nie)
+- da-cheng - smażyć do sucha
+- da-dui - smażyć na dużym ogniu
+- da-fei - zakonnica
+- da-ri - szybko smażyć
+- da-shuo - przytulać
+- da-sun - pokój medytacji
+- da-tuo-rao - sala koncertowa
+- da-wang - smażony (stir-fry)
+- da-xun - balustrada
+- da-yang - kora cynamonu
+- da-zhu - doświadczenie
+- da-zhuan - smażyć warzywa
+- da-zou - smażony makaron
+- dai - zmienić
+- dai-an - przyłączyć się
+- dai-die-xiang - świetlik
+- dai-lu - okazja
+- dai-pa - nieśmiertelny, bóstwo
+- dai-pai - podziw, uznanie
+- dai-pao - fala
+- dai-pin - obawa
+- dai-ran - rząd
+- dai-te - mądrość
+- dan - wybierać
+- dan-biao - zirytowany, zdenerwowany
+- dan-che - złota rybka
+- dan-di - legenda
+- dan-lang - mieszkanie
+- dan-nan - ważka
+- dan-shun - babcia
+- dang - skóra
+- dang-ban - proces
+- dang-cong - byk
+- dang-hang - debata, spór
+- dang-hao - hałas
+- dang-pin - czcić
+- dang-ruo - ramię (bark)
+- dang-sen - południowy wschód
+- dang-ti - literatura
+- dang-xu - intuicja
+- dang-zhong - przyznawać, uznawać
+- dao - dobry
+- dao-cuo - indygo (roślina)
+- dao-eng - wznieść toast
+- dao-geng - odczuwać
+- dao-tuan - guan-Ruan (lutnia)
+- de - odejść
+- de-jun - kongie, kleik ryżowy
+- de-seng - biała rosa
+- de-shun - hipokryta, fałszywy
+- de-tian - brzuch
+- de-wu - dobry przyjaciel
+- de-zha - tofu
+- de-zhai - szkoła
+- dei - zły
+- dei-gun - kwiat brzoskwini
+- dei-kei - drogą wodną
+- dei-xue - chryzantema
+- den-ao-qun - zastępca przywódcy
+- den-nen - lodowiec
+- den-sang - kupiec
+- deng-meng - siedemset
+- deng-pu - ceramika
+- deng-ya - umiłowanie
+- di - dać
+- di-cu - chodzić, iść pieszo
+- di-dao - kogut
+- di-fan - chwalić
+- di-zao - nadzieja
+- dia-dei - rozpacz
+- dia-hen - zagubienie, konfuzja
+- dia-long - święto
+- dia-ya - rozbijać
+- dia-zhua - restauracja
+- dian - ryż
+- dian-ba - Akademia konfucjańska
+- dian-ben - zbroja, pancerz
+- dian-jia - powstrzymywać
+- dian-kan - marzenie, sen (aspiracja)
+- dian-lao - kostka (nogi)
+- dian-liao - najlepiej
+- dian-pang - zbocze
+- dian-quan - żądać
+- dian-zhan - buddyzm
+- diao - chleb
+- diao-eng - bezpieczeństwo
+- diao-gei - nagolennice
+- diao-kua - meduza
+- diao-ren - rzeźbiarz
+- diao-tuo - osiemset
+- diao-you - ceremonia
+- diao-zhua - siew ziarna
+- die - długi
+- die-bian - płynąć statkiem
+- die-hai - maska
+- die-mo - mysz, szczur
+- die-pin - piekarz (ciasto)
+- die-shen - drewno sosnowe
+- die-you-jue - opera
+- die-zhao-cheng - zwierzęta zagrożone
+- ding - mięso
+- ding-han - brwi
+- ding-hui - kontaktować się
+- ding-ke - wielokrotnie powtarzać
+- ding-sang - strażnik, protektor
+- ding-suo - zagajnik
+- ding-zei - mały upał
+- ding-zui - podziwiać
+- diu - krótki
+- diu-hei - niejasny, mglisty
+- diu-li - lada
+- diu-liu - siedemdziesiąt
+- diu-wei - czcić przodków
+- diu-zhai - lśniący, błyszczący
+- dong - ryba
+- dong-chang - z tyłu
+- dong-er - fasola, bob
+- dong-mie - przewrócić
+- dong-nong - podekscytowany
+- dong-shuan - obojętny, apatyczny
+- dong-tang - język
+- dong-zei - sławny
+- dong-zuo - problem
+- dou - albo
+- dou-bin - zaparcia
+- dou-ci-wu - zanieczyszczenie
+- dou-kun - przełamać
+- dou-xia - powinien
+- du - wziąć
+- du-bi - lis
+- du-luo - wachlarz
+- du-nin - kurczak
+- du-xiong - ostatnio
+- du-ying - wulkan
+- duan - owoc
+- duan-cuan - nerka (organ)
+- duan-he-hua - sprzedawca
+- duan-luo - opanować (umiejętność)
+- duan-ri - skórka owocu
+- duan-suo - kurtka
+- dui - nowy
+- dui-bai-suan - dziadek
+- dui-chang-shuai - historyk
+- dui-chu - porównywać
+- dui-dan - miękka siła
+- dui-gao - skórka mandarynki
+- dui-juan - Dynastia
+- dui-qiong - Ministerstwo Sprawiedliwości
+- dui-shen - pięć
+- dui-ting - różnica
+- dui-za - aromatyczny
+- dun - stary
+- dun-fou - szanowny
+- dun-mang - składać (papier, tkaninę)
+- dun-sa - nienawistny, wstrętny
+- dun-xia - pielić
+- dun-zhun - świnia
+- duo - młody
+- duo-gu - wisiorek z jadeitu
+- duo-gua-bao - żelazna dłoń
+- duo-kuan - potwierdzić
+- duo-mian - łączyć, jednoczyć
+- duo-pao - jiang-Zhua
+- duo-wan - sypialnia
+- duo-xuan - diament
+- duo-zuo-a - olej sezamowy
+- e-liao - przemawiać, wygłaszać
+- e-ling - życzliwość
+- e-lue - lilia
+- ei - dostać
+- ei-cuo - naczynie, przyrząd
+- ei-hun - pustka
+- ei-kei - siodło
+- ei-ma - babcia od matki
+- ei-mu - podglądać
+- ei-ni - wok
+- ei-pa - przyjemność
+- ei-pang - surna
+- ei-qie - krótka kurtka
+- ei-run - początek wiosny
+- ei-ruo - wynalazek
+- ei-tan - łucznicy
+- ei-yun - shiitake
+- en - tak
+- en-dun-le - autostrada
+- en-ei - kierunek wiatru
+- en-luan - zimorodek
+- en-pang - przestraszony
+- en-si - liczi
+- en-xiang - urwisko
+- en-zong - fioletowy
+- eng - gorący
+- eng-bin - dość, całkiem
+- eng-chuai - syn
+- eng-den - wewnątrz
+- eng-hei - cenny, rzadki
+- eng-jin - szyja
+- eng-neng - parawan
+- eng-nian-po - prostokątny
+- eng-shu - szafa
+- er - widzieć
+- er-ba - strata
+- er-da - lecieć
+- er-fou - ilość
+- er-nie - jeleń
+- er-ye - kolendra
+- fa - patrzeć
+- fa-gen - gorąca energia
+- fa-gu - świat
+- fa-ren - prawnik
+- fa-san-xing - park narodowy
+- fa-wu - zaprzeczać
+- fan - 6
+- fan-keng - odepchnąć
+- fang - warzywo
+- fang-jin - tysięcznik
+- fang-tou - raportować, zgłaszać
+- fang-wo - bawół wodny
+- fang-zhao - ani trochę
+- fang-zhuan - gwóźdź
+- fang-zui-lun - stacja
+- fei - zimny
+- fei-chui - okulary
+- fen - ciepły
+- fen-fang - technika włóczni
+- fen-mai - szabla, miecz
+- fen-qiu - gra
+- fen-shuo - skrobać (terapia)
+- fen-wan - obawiać się
+- feng - sól
+- feng-biao - początek jesieni
+- feng-pian - arhat
+- feng-su - smak
+- feng-zheng - gratulacje
+- feng-zhuan - palić kadzidło
+- fo - słyszeć
+- fo-jiong - bicz
+- fo-mao - odległość
+- fo-nuan - oblegać
+- fo-ping - dyskutować
+- fo-qiao - początek zimy
+- fo-qun - obok
+- fo-sun - wytrzeć do sucha
+- fo-you-zuo - konkurent
+- fo-yuan - podróżny kupiec
+- fou - chłodny
+- fou-bing - żołnierz
+- fou-duan - przedstawiać (kogoś)
+- fou-ti - stosować (zewnętrznie)
+- fou-wang - mundur wojskowy
+- fu - słuchać
+- fu-diu - jego Wysokość (cesarz)
+- fu-jun - krowa
+- fu-mai - zniszczony, zużyty
+- fu-qia - srebroszary
+- fu-qiong - szary
+- fu-suan - pigułka
+- fu-xue - ptak latający
+- fu-ze - Minister
+- fu-zou - pszczoła
+- ga - wiedzieć
+- ga-biao - morela
+- ga-cong - szale
+- ga-juan - opuścić się, spaść
+- ga-mie - urzędnik
+- ga-sa - podłoga
+- ga-tao - inteligencja
+- gai - szybki
+- gai-zhai - tajemniczy
+- gai-zhuo - przechowywać
+- gan - 1
+- gan-a - biegać
+- gan-bing - sztabka srebra
+- gan-jin - siła umysłowa
+- gan-lei - pasek
+- gan-liao - kapitan
+- gan-rao - ręcznik
+- gan-tai - narzędzia rolnicze
+- gang - herbata
+- gang-bin - umiejętność, wysiłek, kung cuan-se
+- gang-can - cyfra
+- gang-chun - zawiadomienie
+- gang-gong - róża chińska
+- gang-gou - zwichnięcie
+- gang-mao - kopać
+- gang-nou - czasem
+- gang-piao - pyszny
+- gang-pu - szkoła taoistyczna
+- gao - dużo
+- gao-beng - drugorzędny
+- gao-de - karp
+- gao-feng - przyjmować (gości)
+- gao-ha - razem
+- gao-jiao - kamień do rozcierania tuszu
+- gao-luo - niefortunny
+- gao-niang - król
+- gao-qie - smalec
+- gao-ta - oolong
+- ge - myśleć
+- ge-chuan - nieprzytomny
+- ge-ga - samolot
+- ge-lao - konserwatywny
+- ge-lei - obracać
+- ge-nuo - zgadzać się
+- ge-shui - rumak
+- ge-sun - przydzielać
+- ge-tan - wyrzucić
+- ge-xiu - wspominać
+- gei - wolny
+- gei-bao - wiosna
+- gei-chen - sieć rybacka
+- gei-cou - krosno
+- gei-fu - późny wieczór
+- gei-mu - osiemdziesiąt
+- gei-song - gorąco płuc
+- gei-ya - kierowca
+- gei-zha-dian - jubiler
+- gen - wysoki
+- gen-da - brat cioteczny (młodszy)
+- gen-du - wysokość
+- gen-hen-jiang - bezpiecznej podróży
+- gen-jiao - zimna rosa
+- gen-pa - autor
+- geng - wino
+- geng-fan - wyrabiać ceramikę
+- geng-guo - czoło
+- geng-heng - zamiar, cel
+- geng-leng - kwiaty i trawy
+- geng-ming - deszczowy dzień
+- geng-nang - rozluźniony
+- geng-nuan-tuan - fortuna, dobrobyt, długowieczność
+- geng-wai - mądry, inteligentny
+- geng-xi - jedwab
+- geng-zao - ksitigarbha (bodhisattwa)
+- geng-zuo - ostatni
+- gong - miska
+- gong-ce - wysyłać
+- gong-cheng-ren - inżynier
+- gong-de - wczoraj
+- gong-gei - bar
+- gong-kuai - zapomnieć
+- gong-piao - Cesarz (tytuł)
+- gong-qiao - szeptać
+- gong-ren - rzemieślnik
+- gong-tan - proszę pozwolić zapytać
+- gong-zuan - kultywować, trenować
+- gou - niski
+- gou-ai - przekazać, podać
+- gou-gei - ceremonia taoistyczna
+- gou-ka - zachód
+- gou-liao - wodospad
+- gou-mao - zabierać
+- gou-zun - kroić w plasterki
+- gu - chcieć
+- gu-che - kłuć, dźgać
+- gu-chua - tusz
+- gu-chuan - przedłużać
+- gu-gui - religia
+- gu-rao - do widzenia
+- gu-ruo - pustynia
+- gu-shi - mgła i opary
+- gu-shuo - rodzice
+- gua - bliski
+- gua-bing - nierozgarnięty
+- gua-gan - banan
+- gua-lan-wai - trójkątny
+- gua-wei - późno
+- guai - kubek
+- guai-can - jajko stulecia
+- guai-chan - sztuka
+- guai-pao - przyklejać (plaster)
+- guai-suan - erupcja
+- guan - butelka
+- guan-dou - kapusta chińska
+- guan-mie - symptom
+- guan-mou - pole ryżowe
+- guan-nian - przeciwnik
+- guan-ruan - lutnia chińska
+- guan-sen - długość
+- guan-shao - zapraszać
+- guan-wang - radość, szczęście
+- guang-leng-tang - nieregularny
+- guang-nang - klamra, haczyk
+- guang-suo - dobranoc
+- gui - szlachetny, arystokratyczny
+- gui-lai - premier, kanclerz
+- gui-liang - córka
+- gui-mie - być posłusznym
+- gui-nin - pięćdziesiąt
+- gun - bo / ponieważ
+- gun-ci - lud
+- gun-ping - firmiana
+- gun-wan - klęczeć
+- gun-zhun - jedna z 5 części nocy
+- guo - już
+- guo-jiao - księżniczka
+- guo-liang - dzielić, rozdzielać
+- guo-nen-zhuo - zrównoważony
+- guo-zen - pagoda buddyjska
+- guo-zhui-zheng - mistrz sztuk walki
+- ha - potrzebować
+- ha-chuo - niebiańskie Imperium Smoczej Korony
+- ha-cou - pokonać
+- ha-fan-ming - niekoniecznie
+- ha-ga - obracać się
+- ha-gong - odpowiedź, rozwiązanie
+- ha-jing - statek, łódź
+- ha-mou - zwyczaj
+- ha-shui - spodnie
+- hai - mocny
+- hai-fei - tathagata
+- hai-jin - drewniany bęben rybka
+- hai-le - era, epoka
+- hai-ni - kuzyn (starszy, od matki)
+- hai-pang - oszołomiony
+- hai-sai - koza
+- hai-seng - rybak
+- han - słaby
+- han-hei - duch węża
+- han-jian - ślimak
+- han-lie - powiększać
+- han-tou - prawość, sprawiedliwość
+- han-wai - dmuchać (na gorące)
+- hang - ubranie
+- hang-bao - mleko sojowe
+- hang-bin-min - jedna czwarta
+- hang-cheng - robić zakupy
+- hang-di - siekać na miazgę
+- hang-gun - telewizja
+- hang-nuo - wstawać
+- hang-sun - meteor, spadająca gwiazda
+- hang-xin - życzę tobie
+- hao - ciężki
+- hao-chuan - terapia manipulacyjna
+- hao-gong - niskiej jakości
+- hao-pu - podwładny
+- hao-quan - demon, potwór
+- he - móc
+- he-ceng - samantabhadra (bodhisattwa)
+- he-fou - tekstura
+- he-nai - małpa
+- he-nue - małe dziecko
+- he-peng - kampania wojenna
+- he-sang - przed południem
+- he-she - świątynia taoistyczna
+- he-shuang - pasmo górskie
+- he-zhuan - ciocia (siostra ojca)
+- hei - nikt
+- hei-bie - naprawiać
+- hei-pao - duma (pozytywna)
+- hei-zhan - krzesło
+- heijiro - heijiro (imię własne)
+- hen - lekki
+- hen-lun - włosy na głowie
+- hen-sen - twierdza
+- hen-yuan - gdzie
+- heng - but
+- heng-gao - żeń-szeń
+- heng-nen - spichlerz
+- hong - pieniądze
+- hong-la - pozioma kreska
+- hong-zen - równowaga
+- hou - pełny
+- hou-fen - zasługa wojenna
+- hou-fu - krótkość
+- hou-han - ogier
+- hou-hen - spierać się
+- hou-huo - kotlarz
+- hou-ke - współczujący, litościwy
+- hou-ku - nagroda wojenna
+- hou-rui - rozwiązać
+- hou-sun - początek lata
+- hu - musieć
+- hu-dou - tamci
+- hu-pian - drewno różane
+- hu-ren - pielęgniarka
+- hu-sui - egzaminy cesarskie
+- hu-ting - dwa
+- hu-wa - dusza
+- hua - pusty
+- hua-ba - malować obrazy
+- hua-ba-ba - malarstwo pejzażowe
+- hua-biao - ya-Ju
+- hua-cu - pogardzać
+- hua-kuo - proszę wejść
+- hua-lan - pielęgnować uczucie
+- hua-nao - przeszłość
+- hua-nuan - morwa
+- hua-ou - purpurowy
+- hua-ping - praca oczu
+- hua-rang - piekło
+- hua-ren - malarz
+- hua-sha - pokorny ja (skromność)
+- hua-wei-hei - rezerwat
+- hua-weng - malarstwo
+- hua-ze - zwój malarzy
+- huai - złoto
+- huai-bing - mit
+- huai-luan - bagno, mokradła
+- huai-yu - trzy zasady
+- huan - czas
+- huan-dei-long - kwiat granatu
+- huan-pin - wiedzieć jak
+- huang-fu - katastrofa
+- huang-gong - podbródek
+- huang-tang - osiągnięcie
+- huang-tie - pakować
+- hui-ce - pamięć, wspomnienie
+- hui-den - dynia
+- hui-guai - techniki ręczne
+- hui-jie - wewnętrzna alchemia
+- hui-leng - stały, niezmien ny
+- hun - 2
+- hun-bang - starożytna
+- hun-chuo-seng - klasyk zmiany ścięgien
+- hun-dian - cel
+- hun-ha - post od zbóż
+- hun-lan - ceremonia buddyjska
+- hun-long - wieszać, zawieszać
+- hun-ning - hrabia
+- hun-re - ból brzucha
+- hun-rou - bułeczki na parze
+- huo - brudny
+- huo-da - trafić
+- huo-hong - następca tronu
+- huo-jiong - oszukiwać
+- huo-pie - uczucie (dotyk)
+- ji - jeść
+- ji-ci - rozmieszczenie (wojsk)
+- ji-deng - jedzenie
+- ji-diao - wysyłać list
+- ji-kai - droga medyczna
+- ji-nai - grzyb
+- ji-tao - instrument dęty
+- ji-te - przebaczać
+- jia - jeśli
+- jia-biao - kadzidło
+- jia-dou-che - wiciokrzew japoński
+- jia-ge - cena
+- jia-gui - zła energia
+- jia-jia-fo - bicz dziewięcioczłonowy
+- jia-tui - Jelito cienkie (organ TCM)
+- jia-xuan - piwonia zielna
+- jian - dzień
+- jian-chun - młodsza współuczennica
+- jian-du - wąskość
+- jian-lang - handel, transakcja
+- jian-nan - zaatakować
+- jian-run - farma
+- jian-yan-pei - trudno powiedzieć
+- jian-ye - słowo
+- jian-yue - rafinowanie pustki
+- jiang-can - śruba
+- jiang-jian-zou - hala
+- jiang-juan - powoli
+- jiang-nue - grubość
+- jiang-qia - siekiera
+- jiang-zhua - mu-ling
+- jiao - noc
+- jiao-chou - tajfun
+- jiao-fo - dźwięk
+- jie - 17
+- jie-chuo - wasza Wysokość
+- jie-fo - ubierać się
+- jie-kui - zadowolenie, satysfakcja
+- jie-lian - technika miecza
+- jie-na - haczyk
+- jie-wu - przekazywać
+- jie-zhi - pod wiatr
+- jie-zhui - skarpetki
+- jin - twardy
+- jin-qi - rozpoznać
+- jin-shi - mieć gorączkę
+- jin-wei - przekształcać
+- jin-wen - wróżenie z losu
+- jin-zhao - uniform
+- jing - rano
+- jing-gu - feniks
+- jing-hang - owad
+- jing-lou - merydian
+- jing-luo - meridiany
+- jing-rang - miednica
+- jing-tian - skała
+- jing-xi-reng - katastrofa spowodowana przez
+- jiong-gong - zięć
+- jiong-kuan - szpilka do włosów
+- jiong-peng - świeżo pachnący
+- jiong-qin - puchar ceremonialny
+- jiong-seng - rodzinna wioska/miasto
+- jiu - miękki
+- jiu-kuang - przypominać sobie
+- jiu-long - smaczny (umami)
+- jiu-shou - rezerwować, przygotować z wyprzedzeniem
+- jiu-zheng - społeczeństwo
+- ju - pić
+- ju-guan-dian - styl podobny do Shotokan
+- ju-jia - ohydny, odpychający
+- ju-kuo - wrona
+- ju-le - cal (~3cm)
+- ju-lou - upić się
+- ju-reng - kołowrotek
+- ju-zhan - zarzucać sieć
+- juan - wieczór
+- juan-bin - guqin (cytra)
+- juan-chua - kreatywność
+- juan-nie - mąż
+- juan-nu - oblężenie
+- juan-ru - bóstwo
+- juan-tai - kaligraficzny skarb
+- juan-tuo - dzieło, utwór
+- jue - 19
+- jue-han-ga - motocykl
+- jue-heng - dawać rabat
+- jue-hong - trasa
+- jue-kao - ludzkość
+- jue-keng - pokolenie (starsze/młodsze)
+- jue-la - bankiet
+- jue-nian - intensywnie pachnący
+- jue-pa - ukarać
+- jue-rang - imbir
+- jue-tiao - hołd (w mantrach)
+- jun - słodki
+- jun-heng - fabryka
+- jun-liu - leżeć
+- jun-qi - sztuka ręki (japoński termin, ale używany)
+- jun-rang - pędzel do pisania
+- jun-sang - tkać tkaninę
+- jun-tuo - uczucie rodzinne
+- jun-zhuang - komin
+- ka - spać
+- ka-can - qilin
+- ka-lie - przebudzenie owadów
+- ka-nin - senny
+- ka-qia - rozgwiazda
+- ka-ting - uczony-kandydat
+- ka-xin - szanowny panie (urzędnik)
+- ka-zheng - twarde drewno
+- kai - kwaśny
+- kai-du - uczony, literat
+- kai-eng - możliwe
+- kai-ha - bystry, mądry
+- kai-luo - połowa
+- kai-tuan - chińska jagoda woskowa
+- kan - gorzki
+- kan-duo - list, korespondencja
+- kan-mou - żal, skrucha
+- kan-na-pi - niestabilny
+- kan-xuan - spódnica
+- kan-zhuo - strączki fasolowe
+- kan-zou-song - ośmiokątny
+- kang - rok
+- kang-biao - wypuszczenie siły
+- kang-eng - perła
+- kang-hen - pokwitowanie
+- kang-ou - kolega z pracy
+- kang-xiao - zbyt, za bardzo
+- kao - słony
+- kao-bo - słodko-kwaśne
+- kao-dao - troskliwy, dbający
+- kao-en - wicegenerał
+- kao-fa - baran
+- kao-sun - zmywać naczynia
+- ke - obudzić się
+- ke-bu - gospodarz
+- ke-chi - ulica
+- ke-gen - pilnik
+- ke-nian - smutny
+- ke-shuo - żałoba, głęboki smutek
+- ke-yun - tratwa
+- ke-za - miu-Du i krew
+- ke-zha - szpital
+- ke-zhang - smutek, zmartwienie
+- ke-zui - sprawiedliwy
+- kei - okej
+- kei-hou - pokorny sługa (o sobie)
+- kei-niang - agat
+- kei-qu - świątynia, sanktuarium
+- ken - piękny
+- ken-dong - gazeta
+- ken-liao - sztuka walki szablą
+- ken-pa - lekka umiejętność (latanie)
+- ken-qin - degustować
+- ken-ting-diao - rower
+- ken-xi - degustować herbatę
+- ken-xing - dywan, mata
+- keng - miesiąc
+- keng-cao-gu - owalny
+- keng-chui - roślina
+- keng-cui - sui-Tun
+- keng-feng - gubernator generalny
+- keng-la - wschód słońca
+- keng-pai - równonoc jesienna
+- keng-reng - tykwa
+- keng-shen - opisywać
+- keng-shun - mieć spotkanie
+- keng-tong - duży deszcz
+- keng-zen - który
+- keng-zhuan - ponownie
+- kong - 0
+- kong-dia-rua - wielki generał
+- kong-xin - kraina wróżek
+- kou - 7
+- kou-hai - zewnętrzna moc
+- kou-zhui-zuan - pięciokątny
+- ku - siedzieć
+- ku-ge - zmierzch
+- ku-tou - konkurować
+- ku-xie - przeciwstawiać się
+- kua - 16
+- kua-bie - kwiat gruszy
+- kua-gun - potrójny ogrzewacz (organ)
+- kua-niao - zakrzywiony
+- kua-suo - poprawność
+- kua-zha - rekin
+- kuai - koń
+- kuai-ben - wielki Mistrz
+- kuai-ku - wrócić (tam)
+- kuai-lao - zielona herbata
+- kuai-zei - główny, podstawowy
+- kuai-zen - ogórek
+- kuai-zun - srebrnik
+- kuan - pies
+- kuan-gun - wyczerpany
+- kuan-han - kierunek
+- kuan-kua - tutaj
+- kuan-kuan - wujek-mistrz (młodszy brat mistrza)
+- kuan-ni - ogień wątroby
+- kuan-nong - przechodzić przez
+- kuan-pang - perfumy
+- kuang-ce - wędka
+- kuang-hen - hałaśliwy
+- kuang-jiu - harmonia
+- kuang-kai - siostra stryjeczna (młodsza)
+- kuang-liang - szpik kostny
+- kuang-miu - jak, podobny do (spójnik)
+- kuang-qing - ananas
+- kuang-shuo - odosobniony
+- kuang-zhun - zamarzanie
+- kui - brzydki
+- kui-fou - kolor
+- kui-gong - prawidłowość, wzorzec
+- kun - każdy
+- kun-beng - machać ręką
+- kun-beng-e - nie można
+- kun-eng - złamać
+- kun-guan - narzędzie
+- kun-hong - znaczenie, sens
+- kun-kan - drzewo sandałowe
+- kun-lin - jechać wozem
+- kun-wa - sztuka walki kijem
+- kun-zou - błękitny
+- kuo - łatwy
+- kuo-biao - robotnik
+- kuo-cao - dostosowywać
+- kuo-che - orchidea
+- kuo-heng - zwalniać
+- kuo-jiong - żołądek (organ)
+- kuo-kun - członek sekty/klanu
+- kuo-nie-gui - próby, trudne testy
+- kuo-shuai - lewa strona
+- kuo-xiu - osa
+- la - stać
+- la-ba - policjant
+- la-ce - flet bambusowy
+- la-seng - tolerancyjny, wyrozumiały
+- la-sha - glina
+- la-tang - pokrzewka
+- la-xian - reishi (grzyb nieśmiertelności)
+- lai - trudny
+- lai-kei - dokument
+- lai-lun - konwertować
+- lai-zuo-ti - jedność nieba i człowieka
+- lan - my
+- lan-ba - podnieść, wziąć
+- lan-deng - prawa
+- lan-mai-hu - oszczędność energii
+- lan-re - magazyn
+- lang - kot
+- lang-du - różny, inny
+- lang-ka - walić młotem
+- lang-ku - ciotka (siostra ojca)
+- lang-shang - bezcenny
+- lang-tan-kou - kupować rzeczy
+- lang-tuan - przeciwstawiać
+- lang-xia - dusić w sosie
+- lao - prawdziwy
+- lao-bi - taniec
+- lao-ceng - Ministerstwo Wojny
+- lao-chun - podeszwa stopy
+- lao-dui - makaron
+- lao-nuo - zapach
+- lao-shun - powieść
+- lao-you - niedobór Miu-Du
+- lao-za - tańczyć
+- le - biec
+- le-ceng - ewolucja
+- le-dang - kwiaciarnia
+- le-hai-qian - rdest chiński
+- le-qu - parowanie
+- le-xu - pałac postu
+- lei - wy
+- lei-bo - sprzeczność
+- lei-dan - marynarka
+- lei-gun - doktor (stopień)
+- lei-nuan - trzęsienie ziemi
+- lei-peng - pochmurny dzień
+- lei-zhen - tęsknić za
+- lei-zhuai - ukończyć
+- lei-zhuan - podwójne haki
+- leng - ptak
+- leng-dou - przeznaczenie, los
+- leng-ku - lampa
+- leng-mi - człowiek zemsty
+- li - skakać
+- li-gei-ka - mikroskopijny
+- li-hou - częściowo
+- li-lang - astragalus
+- li-le - drewno cedrowe
+- li-shang - pisklę
+- li-tie - ozdoba włosów
+- li-ying - kraj, państwo
+- lian - smok
+- lian-chan - smoczy żółw
+- lian-chuan - książę (syn króla)
+- lian-cong - wędrować, zwiedzać
+- lian-reng - architektura
+- lian-reng-ren - architekt
+- lian-shuan - wcześnie
+- lian-zhuang - ekspert
+- liang-lie - wydra
+- liang-miao - patogen suchości
+- liang-tuo - pałka
+- liang-xin - mieszać (składniki)
+- lianyu - lianyu (nazwa własna)
+- liao-ang - młot
+- liao-ca - krokodyl
+- liao-nen - zestaw dzwonów
+- liao-qiao - wzdychać
+- liao-re - tani
+- liao-ri - dokładny, precyzyjny
+- liao-tai - palisander
+- liao-xiang - mały bęben
+- lie - fałszywy
+- lie-de - nici do haftu
+- lie-gong - najbardziej
+- lie-ling - pozwalać
+- lie-luan - zasłona, namiot
+- lie-nong - rzęsy
+- lie-shua - lekcja (z błędu)
+- lin - oni/one
+- lin-pa - zwijać
+- lin-pen - niedobór śledziony
+- lin-tuo - dżungla
+- lin-xie-re - świat zwierząt
+- lin-zhe - jeż
+- ling-dian - ściana
+- ling-mie-rang - kaligraf
+- ling-ni - świst wiatru
+- ling-nian-fo - narzędzia ogrodnicze
+- ling-sou - sucha energia
+- ling-tuo - sala sutr
+- ling-zai - iść wolno
+- ling-zong - szron
+- liu - ważny
+- liu-bi - z wiatrem
+- liu-gao - grzybek srebrny
+- liu-hu - powodzenia
+- liu-kao - banknot srebrny
+- liu-reng-chen - granit
+- liu-xia - chronić
+- liu-ye - srebrny
+- liu-zhong - sadzonka
+- liu-zu - latarnia
+- lo - partykuła tematu
+- long-chuai - talerz
+- long-gong - jasność
+- long-heng - niezadowolenie
+- long-lao - pozycja słupowa
+- long-long - naręcznice
+- long-qiao-zan - uprawy
+- long-zhan - spokój
+- lou - gotowy
+- lou-dang - wyspa morska
+- lou-fan - metafora
+- lou-piao - płonąć
+- lu-bao - wyrafinowany
+- lu-bing - szyk bojowy
+- lu-nue - miękkie drewno
+- lu-qing - odmrożenie
+- lu-rui - ofiara (przedmiot)
+- lu-xi - sześćdziesiąt
+- luan-bo - koral
+- luan-hang - kroić w kostkę
+- luan-huai - historyczne/Geograficzne Centrum
+- luan-lou-de - tornado
+- luan-miu - płakać, łkać
+- luan-shen - przytomny
+- luan-xia - zamiatać
+- luan-zhua - ronić łzy
+- lue - żywy
+- lue-hang - ekologia
+- lue-ning - duch (ogólnie)
+- lue-shuan - okręt wojenny
+- lue-tian - susza
+- lue-xiu - delektować się, degustować
+- lue-zhen - zdanie
+- lue-zhuan - Turniej Boskiego Cesarza
+- lun - i
+- lun-ao - gabinet
+- luo - martwy
+- luo-di - walka
+- luo-du - sui-Tun dole
+- luo-gai - tymczasowy
+- luo-shuo - ostryga
+- luo-su-sao - nieuchronność
+- ma - uczyć
+- ma-an - nauka
+- ma-bai - nauka Xiao-Diu
+- ma-cha - uczeń, adept
+- ma-chao - sala Buddy
+- ma-chuo - wielki nauczyciel (tytuł)
+- ma-dou - nauka Fen-Mai
+- ma-ju - nauczyć się
+- ma-kuang - zewnętrzny uczeń
+- ma-lu - uczyć się
+- ma-nan - wewnętrzny uczeń
+- ma-nian - nauczyciel pięściarstwa
+- ma-ren - nauczyciel
+- ma-rong - uczeń osobisty
+- ma-sen - współuczeń (ogólnie)
+- ma-ti - z przodu
+- ma-xie - starszy współuczeń (mężczyzna)
+- ma-zhao - zrealizować
+- ma-zuan - nauka walki, sztuki
+- mai - jasny
+- mai-bai - szarańcza
+- mai-mi - osioł
+- mai-suan-fa - herbata jaśminowa
+- mai-tang - garnek
+- man - ciemny
+- man-bei - zazwyczaj
+- man-chai - sto tysięcy
+- man-chao - ochrona zdrowia
+- man-dui - mnich buddyjski
+- man-er - obrona
+- man-jiu - kiedyś, niegdyś
+- man-mian-xiang - sklep z ubraniami
+- man-mu - punkt wrzenia
+- man-pu - pole, dzikie pole
+- man-song-di - nie ma problemu
+- man-zui - staw
+- mang-dai - pręcik
+- mang-han - wnuczka
+- mang-kao-xiang - zwierzęta
+- mang-lao - maleńki, drobny
+- mang-tai - szczęśliwy, wesoły
+- mang-tai-nuan - diagram Taiji
+- mang-wei - gubernator
+- mao - czerwony
+- mao-ban - czerwony ptak (kierunek południe)
+- mao-chi - północny wschód
+- mao-chuang - jasnoczerwony
+- mao-diu - pomelo
+- mao-gen - ciemnoczerwony
+- mao-kua - sklep z butami
+- mao-kuo - sprzęt
+- mao-nuo - brzoskwinia
+- mao-que - dobić do brzegu
+- mao-wu - makaron w zupie
+- mao-xie - taktyka
+- mao-yue - brzeg rzeki
+- mei - czarny
+- mei-biao - wstrzymywać
+- mei-bu - kruk czarny
+- mei-chi - środek, umiarkowanie
+- mei-da - czarny wojownik (kierunek północ), żółw i wąż
+- mei-gen - udo
+- mei-kuan-xu - styl podobny do Muay
+- mei-liang - jesień
+- mei-pei - niedźwiedź czarny
+- mei-ta - syn Niebios (tytuł władcy)
+- mei-wu - zemścić się
+- mei-ya - drogą lądową
+- men - może
+- men-da - niepełny, uszkodzony
+- men-gei - zagajnik bambusowy
+- men-la - iloraz
+- men-qia - anyż gwiaździsty
+- meng-chuai - dziewięćset
+- meng-mo - plaża
+- meng-nuan - schody
+- meng-shua - imperium
+- meng-tui - pogoda
+- meng-ya - mózg
+- meng-yu - punkt zamarzania
+- meng-zhu - krwawić
+- meng-zhui - półka, regał
+- mi - czytać
+- mi-ba - akupunktura i moksybucja
+- mi-ba-ren - akupunkturzysta
+- mi-ben - wdzięczność (głęboka)
+- mi-can - arbuz
+- mi-cun - przepowiednia
+- mi-fou - godzina
+- mi-kei - różowy
+- mi-li - ćwierkanie
+- mi-ming - czytać książki
+- mi-pi - sezam
+- mi-sheng - cień
+- mi-shui - senior (hierarchia)
+- mi-zu - czytelnik
+- mian-ao - sprawa, rzecz
+- mian-hua - jaszczurka
+- mian-lou - słuchanie siły
+- mian-lue - choroba (formalne)
+- mian-pai - kość słoniowa
+- mian-sui - klacz
+- miao-ao - lakiernik
+- miao-gu - gościnny
+- miao-ju - rytuał, etykieta
+- miao-ke - mały deszcz
+- miao-mai - stłumiony
+- miao-rou-kua - urzędnik departamentu
+- miao-seng - świeży
+- miao-xin - sprzedać
+- miao-xuan - rodzina od żony
+- miao-you - żona
+- miao-zhang - zadowolony
+- miao-zui - drzemka
+- mie - nigdy
+- mie-die - wega (tkaczka, gwiazda)
+- mie-ken - brać kąpiel
+- mie-mi - towarzysz
+- mie-nao - imbir świeży
+- mie-ri - zatoka
+- mie-tang - wyrażać (uczucia, myśli)
+- min - mało
+- min-chuo - niedobór esencji
+- min-duan - otrzymać płatność
+- min-ling - wymiotować
+- min-mao - motyl
+- ming-bao - papier
+- ming-en - jakość
+- ming-qi - rzeźba
+- ming-shan - zewnętrzna siła
+- ming-ta - gałąź
+- ming-wo - zasadzka
+- miu - biały
+- miu-du - sztandar, chorągiew
+- miu-nin - tyka, drążek
+- miu-shan - punkt startowy
+- miu-shui - ekscytacja
+- miu-zen - biały tygrys
+- mo - partykuła pytania
+- mo-chou - wierność, lojalność
+- mo-cou - jaskółka
+- mo-dan - zaćmienie słońca
+- mo-nue - komplet
+- mo-qi - Śledziona (TCM)
+- mo-rua - skręcenie
+- mo-shan - piaskowiec
+- mo-sou - chropowaty, drapiący
+- mo-ta - pożar
+- mo-wan-huang - amitabha (mantra)
+- mou - 12
+- mou-ba - gotować ponownie
+- mou-dan - gotować na parze
+- mou-jia - gotować w wodzie
+- mou-jing - gotować ryż
+- mou-kang - gotowany na parze
+- mou-kua - gotować na parze bułeczki
+- mou-kui - uszkodzony, zepsuty
+- mou-lai - potomek
+- mou-pa - gotować wodę
+- mou-ruo-kang - nie szkodzi
+- mou-sheng - gotowany ryż
+- mou-tao - gotowany, ugotowany
+- mou-wen - gotować
+- mu - pisać
+- mu-dia - zgubić
+- mu-hui - pismo Duo-Pao
+- mu-jiang - zapobiegać
+- mu-kao - szpinak
+- mu-ling - świeca
+- mu-niu - pismo urzędowe
+- mu-pei - pisać list
+- mu-qun - lotos
+- mu-ren - pisarz
+- mu-song - szanowny pan
+- mu-zheng - porządkować, organizować
+- na-hei - namiestnik
+- na-rong - reinkarnacja
+- na-shao - rzucać
+- na-zhui - ósmy
+- nai - nie
+- nai-cen - wojskowy
+- nai-che - honor, chwała
+- nai-fen - hafciarka
+- nai-ming - ile
+- nai-pian - sukces
+- nai-yan - rzepa, rzodkiew
+- nai-zi - ubolewać
+- nan - zielony
+- nan-ci - produkować
+- nan-geng-cao - muzeum
+- nan-hong - wapień
+- nan-juan - zatwierdzać
+- nan-liu - zielona trawa
+- nan-liu-li - ciemnozielony
+- nan-miao - wolność
+- nan-qie - zielone warzywa
+- nan-rua - Ministerstwo Dochodów
+- nan-ta - dzikie zwierzę
+- nan-tun - jaskrawozielony
+- nan-xu - prymitywny, zgrubny
+- nan-zun - wojna
+- nang-chuan - wstrętny
+- nang-diao - często
+- nang-fang - kompleks niższości
+- nang-hui - suma
+- nang-niang - nadmiernie
+- nang-qian - niebiańskie
+- nang-qin - osiem trigramów
+- nang-wang - przenosić
+- nang-xuan - plac
+- nang-zhai - wychodzić (z kimś)
+- nao - niebieski
+- nao-du - korzeń drzewa
+- nao-guo - naramienniki
+- nao-ling - ciemnoniebieski
+- nao-nu - przebijać oblężenie
+- nao-xuan - głaz
+- ne - pracować
+- ne-bi - sześć
+- ne-bian - popełnić przestępstwo
+- ne-chong - gorliwy, entuzjastyczny
+- ne-cuan-wo - marmur
+- ne-gu - aromat
+- ne-lai - przystojny, atrakcyjny
+- ne-nang-ha - strój kung
+- ne-nei - dźwigać (na ramieniu)
+- ne-suo - ból głowy
+- ne-zha - cesarskie
+- nei - aspekt trwający (marker)
+- nei-he-ren - tłumacz
+- nei-mei - wyspa
+- nei-niao - oczywiście
+- nei-ping - zastępować
+- nei-sui - trujący grzyb
+- nei-sun - okrutny, bezlitosny
+- nei-yue - negować
+- nen - jeszcze
+- nen-jing - zima
+- nen-jun - sędzia
+- nen-lian - leniwy
+- nen-zong-zheng - rzeźbiarz
+- neng-huan - mur miejski
+- neng-ru - co
+- neng-shang - owca
+- neng-zui - wilgotna energia
+- ni - ty
+- ni-gu - oparzenie
+- ni-lian - syndrom niedoboru
+- ni-tong - ośmiornica
+- nian-cai - dawać
+- nian-de - pielęgniarka
+- nian-hen - małe dojrzewanie
+- nian-pa - opadanie szronu
+- nian-pu - mdłości
+- nian-se - pałac, hala pałacowa
+- niang-chao - partner
+- niang-chi - trenować
+- niang-cun - dłuto
+- niang-fan - nauczać
+- niang-miao - piwonia
+- niang-ning - ukryta broń
+- niang-ran - wspierać
+- niang-sha - przesilenie letnie
+- niang-xin - wznawiać, przywracać
+- niang-zou - uroczy, słodki
+- niao-bao - smocza Pięść
+- niao-nong - pytanie i odpowiedź
+- niao-pan - topnienie
+- niao-tuan - najwyższa ostateczność (Taiji)
+- nie-he - melodia
+- nie-huai - igła do szycia
+- nie-juan - rolnik
+- nie-nai-mai - ważność
+- nie-shou - scenariusz
+- nie-wu - cofać się, podupadać
+- nie-zhuai - sytuacja, okoliczności
+- nin - proszę
+- nin-ding - ukośna w lewo
+- nin-hang - zdający egzamin cesarski
+- nin-lin - grad
+- nin-pin - sidła, pułapka
+- nin-reng - świerszcz
+- nin-se - nie lubić
+- nin-tian - prawda
+- nin-xie - bydło
+- nin-zeng - grzeczność
+- ning-kua - około
+- ning-lang - nie rozumieć
+- ning-nin-hua - pałac Boskich
+- ning-pian - postępować, rozwijać
+- ning-qiu - delfin
+- ning-wen - czajnik do herbaty
+- niu - 8
+- niu-qu - tsunami
+- niu-rong - ba-Xue mian-kou
+- niu-she-xiao - rzodkiew biała
+- niu-ya - przed chwilą
+- niu-zuan - nagle
+- nong-bie - wrzeszczeć
+- nong-bin - wzywać
+- nong-ci - przyjmować uczniów
+- nong-gui - nuty muzyczne
+- nong-reng - czterysta
+- nong-wai - uważać że, sądzić
+- nong-yue - permanentny
+- nou - żółty
+- nou-chou - złotożółty
+- nou-en - uciec
+- nou-gang - żółty ziemisty
+- nou-gu-nu - złoty dzwon (technika)
+- nou-gu-zun - osiem kawałków brokatu
+- nou-ju - oceniać, wartościować
+- nou-run - złoty eliksir
+- nou-shan - pałeczki
+- nou-zhang-huan - dorsz żółty
+- nu - walczyć
+- nu-lin - klient
+- nu-meng - owocowy zapach
+- nu-xun - Niedobór (TCM)
+- nuan-cou - oczekiwać z niecierpliwością
+- nuan-duan - stęchły
+- nuan-sang - śniadanie
+- nuan-shan - trzymaj się! Dalej!
+- nue - bogaty
+- nue-han - niezły, dobry
+- nue-jiong - komendant
+- nue-nang - klepać
+- nue-nou - wzór, dekoracja
+- nue-qi - budda-przodek
+- nue-wu - pierwotne niemowlę
+- nue-ze - szukać drogi, dążyć do celu
+- nue-zui - rozkazywać
+- nun - teraz
+- nun-ceng - pająk
+- nun-jiao - ulka, dzban
+- nun-men - łódź rybacka
+- nun-mie - wypytywać (o objawy)
+- nun-ying-luo - niekompletny
+- nun-zhuo - zdenerwowany, spięty
+- nuo - biedny
+- nuo-chua - niebiańskie Schody Ziemi
+- nuo-er - za każdym razem
+- nuo-ken - specjalny, szczególny
+- nuo-lun - polityka
+- nuo-xi - deska
+- nuo-zhun - łyżka
+- nuo-zong-sou - zdrowia (dosł. ciało zdrowe)
+- o-an - plutonowy
+- o-chang - konkubina cesarska
+- o-gui - poczuć zapach
+- o-kuo - cierpienie wewnętrzne
+- o-ming-nie - szmaragd
+- o-tai - litera
+- o-yang - doskonały, wyśmienity
+- o-yong - papuga
+- o-zao - erudycja
+- ou - uderzyć
+- ou-guai - wstyd
+- ou-jiao - wielki opiekun (tytuł)
+- ou-lou - królowa
+- ou-ning - rzutka
+- ou-shang - gałązki cynamonu
+- ou-tui - hełm
+- ou-xiong - rzemieślnik
+- ou-ya-dun - zmęczyłeś się (współczucie)
+- pa - ciąć
+- pa-ban - nawozić
+- pa-en - pomarańcza/mandarynka
+- pa-hen - medytować (ogólnie)
+- pa-nong - pędzel i tusz
+- pa-nue - patogen wilgoci
+- pa-que - surowy
+- pa-xie - siedząca medytacja
+- pa-xuan - rozczarowanie
+- pai - spokojny
+- pai-gei - dać prezent
+- pai-huai - latający nóż
+- pai-luan-que - kręty i nierówny
+- pai-nu - para (ludzi, rzeczy)
+- pai-xia - kosz (duży)
+- pai-yu - pozdrawiać
+- pai-zun - gad
+- pan - 4
+- pan-fa - ujście rzeki
+- pan-gong - bodhisattwa
+- pan-hui - poranek
+- pan-nei - przepraszać
+- pan-qing - porażka
+- pan-ren-liang - zdawać sobie sprawę
+- pan-tu - Cesarzowa
+- pan-tuo - punkty akupunkturowe
+- pang-ang - tęcza
+- pang-den - pomidor
+- pang-hang - istnieć, mieć
+- pang-kuan - zaparzać herbatę
+- pang-weng - próg
+- pao - głośny
+- pao-he - można
+- pei - 15
+- pei-die - zapach dymu
+- pei-gai - droga Człowieka
+- pei-nan - duchy i bóstwa
+- pei-shao - współpracować
+- pen - cichy
+- pen-de - baranina
+- pen-jing - przyczyna
+- pen-kei - biurko
+- pen-lun - diu-Ruan z łóżka
+- pen-ne - gubernator prowincji
+- pen-nuo-lian - zwierzęta wymarłe
+- pen-xin - zamiatać podłogę
+- peng-chuo - pierwszy na egzaminie cesarskim
+- peng-tan - połykać
+- pi - zabić
+- pi-biao - ocet
+- pi-guo - żona wujka
+- pi-meng - metropolia
+- pi-ri - belka
+- pi-shan-zha - targ warzywny
+- pi-yu - mięta
+- pian-chan - nasiono
+- pian-chua - teoria
+- pian-cuan - szczypior
+- pian-er - rzuty
+- pian-feng - wybór, selekcja
+- pian-jiu - sosna
+- pian-niu - podobny
+- pian-she-nei - rubin
+- pian-zuo - herbaciarnia
+- piao-chong - niebezpieczeństwo
+- piao-ci-pian - marchew
+- piao-ju - potrząsać, kiwać
+- piao-na - rozwijać się
+- piao-pai - los, przeznaczenie
+- piao-qin - wstrząsać
+- pie - głodny
+- pie-mian - syndrom gorąca
+- pie-miu - bank
+- pie-qin - oślepić wzrok
+- pie-tun - reguła, przepis
+- pin - spragniony
+- pin-ao - syriusz (gwiazda)
+- pin-ba - serce-umysł
+- pin-jiang - uporządkowany, schludny
+- pin-kun - ślub
+- pin-lai-huai - enoki
+- pin-tai - kara śmierci
+- pin-za - ceremonia pogrzebowa
+- ping-mie - skrzypce chińskie
+- ping-qin - dharma buddyjska
+- ping-shun - grawerować
+- po-min - stopnie
+- poye - dziękuję
+- pu - umrzeć
+- pu-cha - barwienie
+- pu-dao - droga Nieba
+- pu-feng - herbata kwiatowa
+- pu-ha - korespondować
+- pu-miao - południe
+- pu-sou - niewygodny
+- pu-tong - zdrada
+- qi - żyć
+- qi-chuan - piwonia biała
+- qi-kai - usłyszeć
+- qi-kuai - koniec upału
+- qi-niao - łowy
+- qi-ning - kroić w paski
+- qi-pang - ulewny deszcz
+- qi-xi - rozkaz wojskowy (tabliczka)
+- qi-xiao - wojsko (dosł. żołnierze i konie)
+- qia - chory
+- qia-fen-ling - następny
+- qia-fo - palec u ręki
+- qia-hai - przeskoczyć
+- qia-zhua - dialog
+- qian-chong - drwal
+- qian-heng - pamiętać
+- qian-jiang - królik (mięso)
+- qian-mang - bambusa rdzawa
+- qian-shen - uspokojony
+- qian-wen - lojalny
+- qian-zang - w końcu
+- qian-zi-run - styl Kung Cuan-Se
+- qiang-kou - uroczo piękny
+- qiang-pu - targować się
+- qiang-tui - sparring z partnerem
+- qiao-dai - podnieść rękę
+- qiao-lei - naczynie krwionośne
+- qiao-zuan - łańcuch
+- qie - coś
+- qie-ban - tydzień
+- qie-bu - taoizm
+- qie-min - ograniczony, mieć granice
+- qie-pu - przesilenie zimowe
+- qie-qiao - nożyce
+- qie-wa - smarować (farbą)
+- qie-you - duch przodka
+- qin - zdrowy
+- qin-dei - wygnanie
+- qing-dian - rzadki
+- qing-ning - sztuka walki włócznią
+- qing-nu - przedmiot
+- qing-xiong - relaksować się
+- qiong-chui - niemożliwy do...
+- qiong-mao - strzelać z łuku
+- qiu - 13
+- qiu-ai - kolczyki
+- qiu-cao - podróż
+- qiu-chai - wakacje
+- qiu-kei - kształt
+- qiu-kuan - dręczyć
+- qiu-min - czarna herbata
+- qiu-pang - liście herbaty
+- qiu-xin - śmiertelny wróg
+- qu - kochać
+- qu-ben - deszcz zbóż
+- qu-ci - stabilność
+- qu-pao - szeregować
+- qu-san - miłość romantyczna
+- qu-xiao - uczestniczyć
+- qu-yang - kieliszek do wina
+- qu-yuan - ciekawy, interesujący
+- qu-yue - zawias
+- qu-zhan - teatr
+- qu-zhen - klimat
+- qu-zhou - miłość (rzeczownik)
+- quan-fang - konewka
+- quan-long - wiśnia
+- quan-mei - etykieta
+- quan-nuan - skomplikowany
+- quan-wa - wóz, pojazd
+- quan-xun - starsza siostra
+- quan-zhuang - towarzysko obcować
+- que - człowiek
+- que-bian - system korzeniowy
+- que-na - festiwal
+- que-shuai - budzący respekt
+- que-wu-chou - kelner
+- que-xiao - sos sojowy
+- que-ye - sierp
+- que-ying - zapach ziół
+- qun - mężczyzna
+- qun-ceng - powolny
+- qun-cha - parasol
+- qun-te - zupa
+- ran - 18
+- ran-ka - burza
+- ran-niang - młodszy generał
+- ran-pan - kawowy
+- ran-tie - makrel
+- rang-bei - energia
+- rang-diu - przygotowywać
+- rang-duo - przywódca
+- rang-gen - sklep z torbami
+- rang-gun - ćwiczyć, praktykować
+- rang-sun-que - bambus łzawy
+- rao - kobieta
+- rao-ang - kulisty
+- rao-en - guanyin (bogini litości)
+- rao-nian - kondensacja
+- rao-qiang - równina
+- rao-tao - zysk
+- rao-zeng - tłuste mięso
+- rao-zha - obserwować
+- re - lubić
+- re-biao - wszechświat
+- re-jie - spłacić dług
+- re-kong - ratan
+- re-mang - miejsce
+- re-nai - błyszczący
+- re-nong - dokładnie wschód
+- re-rou - post-niebiański
+- ren - dziecko
+- ren-ban - Płuco (organ TCM)
+- ren-da-chun - sklep z czapkami
+- ren-liang - prowadzenie i rozciąganie
+- ren-nong - urodziny
+- ren-re - nad ranem
+- ren-shui - dawno temu
+- reng-bin - sui-Tun pewno
+- reng-wa - zdrajczy
+- reng-xue - geografia
+- reng-zui - wielki upał
+- ri - nienawidzić
+- ri-dai - kości
+- ri-pie - kto
+- ri-qian-nei - oszczędność zasobów
+- ri-xu - pierś (żeńska)
+- ri-xun - nienawiść (rzeczownik)
+- ri-zan - tragedia
+- rong-bai - mały śnieg
+- rong-cang - bogactwo
+- rong-chua - ślimak wodny
+- rong-ji - brama (budowla)
+- rong-man - ren-zhai (czas)
+- rong-niao - lecący Kopniak
+- rong-pai - pieczony
+- rong-qie - więzienie
+- rong-sha - pogodny dzień
+- rong-wang - wielki człowiek (tytuł)
+- rou - ojciec
+- ru - bać się
+- ru-ce - junior (hierarchia)
+- ru-gu - dzik
+- ru-ku - altair (pasterz wołów, gwiazda)
+- ru-lian - zakazywać
+- ru-meng - cierpienie
+- ru-she - strach (rzeczownik)
+- ru-tuo - straszny
+- rua - matka
+- rua-cai - wieprzowina
+- rua-chun - farbarz
+- rua-fang - oleje
+- ruan-chan - kwadratowy
+- ruan-gan - cukry
+- ruan-qiong - mrówka
+- rui - brat
+- rui-huang - soja
+- rui-kuo - prędkość wiatru
+- rui-zhuo - szorstki
+- run - siostra
+- run-hai - autorytet
+- run-rua - mundur
+- run-rui - ziemia orna
+- run-ting - lampa oliwna
+- run-zei - lekki wiatr
+- run-zhang - klucz
+- run-zhao - silny
+- ruo - rodzina
+- ruo-dao - Pęcherzyk żółciowy (organ TCM)
+- ruo-fan-lan - zobaczymy (dosł. patrz sytuacja)
+- ruo-ni - pomyśleć o, wpaść na pomysł
+- ruo-nie - nosorożec
+- ruo-tuan - panda
+- ruo-zei - wicehrabia
+- ruo-zheng - stracić
+- sa - pomagać
+- sa-can - niedobór nerek
+- sa-dei - mniej
+- sa-guang - dolina
+- sa-ling - symetryczny
+- sa-liu - tkacz
+- sa-qiao - modlić się
+- sa-shua - korygować
+- sa-wa - cang-Sou
+- sai - 5
+- sai-mei - etyka
+- sai-zui - odróżnić
+- san - przyjaciel
+- san-chuo - lukrecja
+- san-wang - pod Niebem, świat
+- san-wo - ogród wewnętrzny
+- san-zei - rozbierać się
+- sang-di-dang - esencja-energia-duch
+- sang-ha - długa szata
+- sang-mu - teraźniejszość
+- sang-pi - objaśniać
+- sang-te-geng - szafir
+- sang-xiao - wcześniejszy
+- sang-zao - bliscy,
+- sao - wróg
+- sao-dong - dziedziniec
+- sao-kua - poprzednim razem
+- sao-niang - pewność
+- sao-que - zamknąć na klucz
+- sao-tun - silny wiatr
+- se - leczyć
+- se-duan - trzeci
+- se-lei - zasady Niebios
+- se-li - uczony człowiek
+- se-nu - ostry, pikantny
+- se-qi - komfortowy, wygodny
+- se-seng - wąchać aromat
+- se-shang - biografia
+- se-si - scalać, łączyć
+- se-ya - dystrybuować
+- sen - liczba mnoga (marker)
+- sen-fou - motyka
+- sen-shuo - jajka
+- sen-zhua - głód
+- seng-da - Pęcherz moczowy (organ TCM)
+- seng-fang - cieśnina
+- seng-lou - łapać (w powietrzu)
+- seng-ne - czysta Kraina
+- seng-zhong - papryka chili
+- seng-zui - naprzeciwko
+- sha - imię
+- sha-dia - stół
+- sha-hou - maitreya (przyszły Budda)
+- sha-na - kolorowy
+- sha-teng - zboże
+- sha-tu - kratka okienna
+- sha-wei - tusz w sztabce
+- sha-xue - poduszka
+- sha-ying - powtarzać
+- shai-bie - panika
+- shai-ju - towary
+- shai-lou - kciuk
+- shai-luan - dowód
+- shai-qi - skwar
+- shai-ting - kwiat bambusa
+- shai-you - wicher
+- shan-cuan - zewnątrz
+- shan-yun - przerywać
+- shan-zui-rong - wielki Turniej Dziedzictwa Fengzhana
+- shan-zuo - akapit
+- shang-diao - supermarket
+- shang-shan - obliczać, liczyć
+- shao-guo - dżdżownica
+- she - ktoś
+- she-mao - prawnik
+- she-nei - kryzys, niebezpieczeństwo
+- she-pin - pięćset
+- she-xia - zaskoczenie
+- shen-cong - szkoła konfucjańska
+- shen-cun - liść drzewa
+- shen-jing - planować
+- shen-qing - przyśpieszać
+- shen-shuan - sprzeciwiać się
+- sheng-bai - górska ścieżka
+- sheng-ben - esej, kompozycja pisemna
+- sheng-guai - podejść blisko
+- sheng-liao - stabilny, niewzruszony
+- sheng-si - pojedynek na śmierć i życie
+- sheng-ting-san - cylindryczny
+- sheng-zu - płytki
+- shi - dom
+- shi-ben - w ogóle
+- shi-dong - ying-Gang
+- shi-hai - wielbłąd
+- shi-hou - pierwotna pustka
+- shi-huai - zrozumieć
+- shi-lao - regał na książki
+- shi-ren - historyk
+- shi-xian-zha - sześciokątny
+- shi-zi - fasola mung
+- shou-bei - właśnie (w trakcie)
+- shou-bin - stół jadalny
+- shou-cao - szacunek
+- shou-dao - zawroty głowy
+- shu - pokój
+- shu-chai - upaść
+- shu-ku - gołąb
+- shu-lan - sześćset
+- shu-sun - brama góry (klasztoru)
+- shua-kua - pole bitwy
+- shua-luan - paznokieć
+- shua-min - statek handlowy
+- shua-zhun - krytykować
+- shuai-duan - grać na flecie
+- shuai-fang - popołudnie
+- shuai-ga - rzeczywisty, faktyczny
+- shuai-meng - rozkojarzony
+- shuai-min-shui - pralka
+- shuai-nei - bielizna
+- shuai-nu - powrócić
+- shuai-shuo-niu - siłownia
+- shuan-ei - zwykły, przeciętny
+- shuan-ti - świadek
+- shuan-tou - odkrycie
+- shuan-wen - dziewięćdziesiąt
+- shuan-zu - zioła lecznicze
+- shuang-hen - dzisiaj
+- shuang-lai - ciąża
+- shuang-mao - taca do herbaty
+- shuang-reng - wierzchnie ubranie
+- shuang-zha - jutro
+- shuang-zhan - wiadomość, informacja
+- shui - cienkość
+- shui-ai - artykuł
+- shui-jia - intencja
+- shui-kou - konieczny
+- shui-wu - rafinowanie miu-du
+- shun-an - kolej
+- shun-bie - markiz
+- shun-bu - fermentować, warzyć
+- shun-den - srebro (jako waluta)
+- shun-diao - niewinny
+- shun-nen - mała łódź
+- shun-pin - świecznik
+- shun-qin - więcej
+- shun-you - bicie dzwonu
+- shuo-lin - błąd
+- shuo-sou - placek, naleśnik
+- shuo-yin - zamieć
+- shuo-zhuo - suknia wieczorowa
+- si - wznieść się wysoko
+- si-ge - suchy
+- si-hou - szczyt góry
+- si-mo - chusta, szal
+- si-mu - czcigodny (dla władców/bóstw)
+- si-sen - czapla szara
+- si-zhai - kompletny, cały
+- song-dong - zauważyć, zwracać uwagę
+- song-dun - gniew
+- song-ye - śpiewać
+- song-zhai - piosenka
+- song-zhuo - głos śpiewu
+- sou - drzwi
+- sou-an - jadalny grzyb
+- sou-fei - dokładnie południe
+- sou-mei - krawiec
+- sou-yu - mężny, nieustraszony
+- sou-zai - wielki Wóz (konstelacja)
+- sou-zhui - ból pleców
+- su - otworzyć
+- su-cen - dowódca dziesiątki
+- su-han - negocjacje
+- su-tai - dziczyzna
+- su-zha - całkowicie
+- suan-chi - rozliczyć rachunek
+- suan-chuang - masaż
+- suan-fu-ju - naprawdę?
+- suan-o - zawiniątko
+- suan-shuo - przyciągnąć
+- suan-zeng - wyjaśniać
+- sui - okno
+- sui-chun - samotność
+- sui-den - edukować
+- sui-gen - kiedy
+- sui-ha - jadeitowa Rzeka
+- sui-jiang-ju - sufit
+- sui-jun - rozpakowywać
+- sui-kuai - włócznia
+- sui-la - pieszo
+- sui-liao - łagodny, delikatny
+- sui-pang - lodówka
+- sui-qu - ugniatać
+- sui-rong - wstrząsnąć
+- sui-sang - złotnik
+- sui-shuang - powódź
+- sui-tao - prefekt
+- sui-xu - burza z piorunami
+- sun - tylko
+- sun-cu - szalik
+- sun-hui-bu - wielka
+- sun-jin - opuścić, wyjechać
+- sun-kan - atakować
+- sun-wan - stagnacja Miu-Du
+- suo - więc
+- suo-lei - długi czas
+- suo-niao - mata (do siedzenia)
+- suo-pai - bić w bęben
+- suo-zhua - dobrze, porządnie
+- ta - zamknąć
+- ta-kun - kawaleria
+- ta-song - wiceminister
+- ta-tiao - cynobrowy
+- ta-yao - przedmioty z jadeitu
+- tai - droga
+- tai-biao - dwieście
+- tai-dou - topaz
+- tai-fa - strzemiona
+- tai-nuo - kwiat moreli
+- tai-ruan - ligusticum
+- tai-ti - pochodnia
+- tan - ale
+- tan-da - atractylodes
+- tan-fou - instrument strunowy
+- tan-guai - tym razem
+- tan-ou - dodawać
+- tan-ruan - jajko kurze
+- tan-tong - syndrom zimna
+- tan-tun-yu - naukowiec
+- tan-wei - łowić ryby
+- tang-bai - szczypce
+- tang-dian - wyobrażać sobie
+- tang-jiao - pre-niebiański
+- tang-lu - rękawiczki
+- tang-nin - tysiąc
+- tang-sheng - kąpać się
+- tang-za - prawo pięści
+- tao - most
+- tao-bao - zwierzę domowe
+- tao-bin - uśmiechać się
+- tao-deng - mąż cioci
+- tao-fou - linia, wiersz
+- tao-heng - technika nóg
+- tao-kang - rozumieć, znać
+- tao-ke - sala Dharmy
+- tao-mai - śmiać się radośnie
+- tao-pin - śmiać się
+- tao-zhuan - komedia
+- te - zacząć
+- te-bian - czapla biała
+- te-teng - wiara, przekonanie
+- teng - 10
+- teng-fa - rzeczywistość
+- teng-kuo - obietnica
+- teng-xia - czapka
+- teng-zhang - budowniczy łodzi
+- ti - skończyć
+- ti-chuo - twarda siła
+- ti-cou - taoista
+- ti-de - zdolność
+- ti-dun-ou - basen
+- ti-rou - lina z grotem
+- tian-cun - prawdopodobnie
+- tian-dai - pomarańczowy
+- tian-gua - niedobór Kao-Fa
+- tian-guai - grzywna
+- tian-ha - zdecydowanie
+- tian-he - kao-Fa wątroby
+- tian-hen - wróżbiarstwo
+- tian-jian - guzheng (cytra)
+- tian-jie - rozciągać, przedłużać
+- tian-pin - chłód
+- tian-ruo - droga Niebios jest bez końca
+- tian-xing - obiad
+- tiao-chou - przybyć, dotrzeć
+- tiao-heng - cywilizacja
+- tiao-liu - kiełki fasoli
+- tiao-ne - poważnie, starannie
+- tiao-xuan - grabie
+- tie - miasto
+- tie-dei - Cesarzowa wdowa
+- tie-tao - szlachetna konkubina
+- ting-cen - sznur, lina
+- ting-gen - posyłać, dostarczać
+- ting-gua - ciemność
+- ting-jia - uraza, pretensja
+- ting-nie - jadekit
+- ting-tui - sklep
+- tong-ken - skoncentrowany
+- tong-mai - ostrzegać
+- tong-sa - pierwotna energia
+- tou - potem
+- tou-chun - kałamarnica
+- tou-diao-xin - słodki sos fasolowy
+- tou-fu - niedobór Lue-Xue
+- tou-qiang - etap, faza
+- tou-shuo - jadowity wąż
+- tu-dong - lotnisko
+- tu-fen - skromność
+- tu-lai - półwysep
+- tu-pi - płatek
+- tu-zan - oddzielać
+- tuan-jiong - bat jeździecki
+- tuan-que - miotła
+- tuan-re - iść szybko
+- tuan-shua - sweter
+- tuan-ye - gruszka
+- tui - wioska
+- tui-tiao - wełna
+- tun - góra
+- tun-dia - kung cuan-se, sztuka walki
+- tun-kou - patogen ognia
+- tun-lian - chmura
+- tun-zhang - terminy solarne (24)
+- tuo - rzeka
+- tuo-bo - zewnętrzna
+- tuo-cheng - sprawiedliwość
+- tuo-lao-suan - trzask, łoskot
+- tuo-lin - dokładać drewna
+- tuo-luo - apteka
+- wa - czekać
+- wa-chan - produkty
+- wa-jing - odwiedzać
+- wa-luo - diagram rzeki
+- wa-nen - niemowlę
+- wa-nuan - aluzja klasyczna
+- wa-shuo - kaligrafia
+- wa-xia-seng - latający-kopnięcie-uderzenie
+- wai - jezioro
+- wai-bo - zniszczyć całkowicie
+- wan - wszystko
+- wan-ang - mokradła
+- wan-chang-ya - mżawka
+- wan-gang - sport
+- wan-lang - pragnąć, życzyć sobie
+- wang-cha - ściereczka do herbaty
+- wang-dong - piąty
+- wang-hu-su - inny
+- wang-shen - szansa, okazja
+- wei - morze
+- wei-bin - odnawiać, aktualizować
+- wei-heng - technika szabli
+- wen - las
+- wen-bei - badania
+- wen-cao - pogrzeb
+- wen-dai - ochrona środowiska
+- wen-fang - naruszyć (zasadę)
+- wen-gai - najwyższy
+- wen-ling - bracia
+- wen-qia - dzban na wodę
+- wen-reng - ogromny, gigantyczny
+- wen-ying - melon zimowy
+- weng-liu - technika ciała, ruch
+- weng-nie-jin - styl
+- weng-qing - śmierć
+- weng-yuan - zastój krwi
+- weng-zhong - pole eliksiru (centrum energii)
+- wo - zostać
+- wo-ba - plotka, pogłoska
+- wo-jiao - kolorystyka
+- wo-lun - dziewiąty
+- wo-nang - wędzić
+- wu - nic
+- wu-ding - wąwóz
+- wu-gui - konsultować, omawiać
+- wu-hong - w pobliżu
+- wu-hun - poznać, rozpoznać
+- wu-jia - szef
+- wu-nou - igiełkowaty
+- wu-nu - szczególny
+- wu-peng - kalendarz księżycowy
+- wu-que - mięsień
+- wu-shou - lepiej
+- wu-wei - karmić piersią
+- wu-xuan - armia
+- xi - aspekt dokonany (marker)
+- xi-pai-lun - lis używający tygrysiej siły (idiom)
+- xi-song - pestka
+- xi-suo - bransoletka
+- xia - drzewo
+- xia-eng - biała herbata
+- xia-fo - krewni od męża
+- xia-mei - zrozumienie siły
+- xia-neng-mao - sowa
+- xia-piao - jednym
+- xia-rang - przywódca szkoły/sekty
+- xia-zou - wolna walka
+- xian-cai - przyjaźń
+- xian-dong - włosy
+- xian-gai - swędzieć
+- xian-miao - drabina
+- xian-qiu - katar
+- xian-tang - przykucnąć
+- xian-zu - kusza
+- xiang - słoń
+- xiang-ba - kino
+- xiang-dong - ból zęba
+- xiang-kong - niespokojny
+- xiang-o - wóz wołowy
+- xiang-zhang - metoda serca/umysłu
+- xiao-ce - wewnętrzna moc
+- xiao-diu - lue-Xue i Kao-Fa
+- xiao-lou - wiadro
+- xiao-na-shu - dlaczego
+- xiao-ri - pośladki
+- xiao-zhuang - student
+- xie - kwiat
+- xie-sao - cztery
+- xie-zang-san - nieuważny
+- xin - trawa
+- xin-duo - taoistyczny kapłan
+- xin-gei - poczta
+- xin-heng - sztuka walki mieczem
+- xin-hou - stolarz, cieśla
+- xin-li - talent
+- xin-pan - kruchy, delikatny
+- xing-bu-sa - czajnik
+- xing-jian - konwersować
+- xing-lie - rozbity
+- xing-sheng - fasola azuki
+- xing-shou - osłabiać
+- xing-wan - leżeć na plecach
+- xing-yao - żółw
+- xiong-ding - lakierować
+- xiong-ju - pierwszy
+- xiong-mang - każdy z osobna
+- xiong-mei - naczynia stołowe
+- xiong-ning - uniwersytet
+- xiong-qia - naszyjnik
+- xiong-ruan - winny
+- xiong-wa - kawałek, bryła
+- xiu - liść
+- xiu-cen - uprzejmy
+- xiu-ken-guan - pływać dia-ya wietrze i falach
+- xiu-kong - nieznany
+- xiu-nang - klej
+- xiu-nei - pielęgnowanie życia
+- xu - wejść
+- xu-bo - tchórzostwo
+- xu-chou - powóz konny
+- xu-fa - gęsina
+- xu-gan-dei - taczka
+- xu-lin - grać na instrumencie strunowym
+- xu-nong - wstać (na nogi)
+- xu-pu-nei - biblioteka
+- xuan-die - kwiat śliwy
+- xuan-fu - czarka do herbaty
+- xuan-nei - proszę usiąść
+- xuan-ze - hipopotam
+- xue - niebo
+- xue-han - kucharz
+- xue-kuan - kaszleć
+- xue-min-cuan - olej orzechowy
+- xue-mo - kamienna płyta
+- xue-xian - produkty mleczne
+- xue-yi - osmanthus
+- xue-zhuan - kłopot
+- xun - trochę
+- xun-cui - tradycyjna medycyna chińska
+- xun-lian - winogrona
+- xun-nie - kopanie
+- xun-rang - lekarz
+- xun-sun - osiem
+- xun-zei - być może
+- xun-zong - moneta
+- ya - wyjść
+- ya-chu - rozważać, przemyśleć
+- ya-ju - liryka (forma poetycka)
+- ya-piao - dokładnie zachód
+- yan - ziemia
+- yan-ang - lato
+- yan-gu - dekret prawny
+- yan-mie - wewnętrzna
+- yan-zuan - technika pięści
+- yang-ang - żółwia prędkość
+- yang-cang - kadzielnica
+- yang-kai - wieloryb
+- yang-nue - punkt akupunkturowy
+- yang-sa - w dół
+- yang-tong - prędkość
+- yang-wai - nawadniać
+- yang-zhai - terapia
+- yao - 9
+- yao-ce - członek
+- yao-heng - wydać wyrok
+- yao-lie - wilk
+- yao-na - unikalny
+- yao-ning-ge - ukryty smok, czający się tygrys (idiom)
+- yao-quan - pustkowie
+- yao-ru - broda, wąsy
+- yao-ying - zmieniać się
+- ye - przynieść
+- ye-cai - paifang, łuk pamiątkowy
+- ye-dong - wypłynąć
+- ye-fen - rozpatrywać
+- ye-hu - oddychanie (praktyka)
+- ye-kua - bronić się
+- yi-fo - północny zachód
+- yi-hei-fan - możliwość
+- yi-jue - król smoków
+- yi-ka - krab
+- yi-ming - bambus
+- yi-nen - współczesność
+- yi-peng - wierzyć
+- yin - słońce
+- yin-bao - zimna energia
+- yin-beng - niepokoić, przeszkadzać
+- yin-dia - zachód słońca
+- yin-gai - pocieszenie, ukojenie
+- yin-ne - zatrucie
+- yin-pang - jeździć konno
+- yin-wen - uzyskać
+- yin-zhe - okrągły kształt
+- ying-dei - księgarnia
+- ying-gang - wyprostowany
+- ying-gui - pieczęć
+- ying-hua - kwiat wiśni
+- ying-ke - zamęt umysłowy
+- ying-liu - trzy skarby
+- ying-sa-su - pozdrawiać głośno
+- yong - zawsze
+- yong-huo - umowa
+- yong-que - punkt końcowy
+- you - księżyc
+- you-bing - wycierać
+- you-hu - posypywać
+- yu - używać
+- yu-bin - jeszcze sui-qu
+- yu-fa - stawać się, zostawać
+- yu-ga - wysłannik
+- yu-hua - yu-hua (język)
+- yu-jun - wąski
+- yu-kao - decydować
+- yu-wa-hun - poprzedni
+- yuan-cang - czwarty
+- yuan-lan - pociąg
+- yuan-meng - gwarancja
+- yuan-piao - wołowina
+- yue - też
+- yue-cu - siódmy
+- yue-ren - muzyk
+- yue-you - zmieniać
+- yue-yu-en - globalne ocieplenie
+- yue-zha - sroka
+- yun - gwiazda
+- yun-bing - lekkość/ciężkość
+- yun-nen - ogórek morski
+- yun-qin - wybrzeże
+- yun-xiong - suszyć na słońcu
+- za-niu - dziesiąty
+- za-qing - entuzjazm, zapał
+- za-ru - złamanie
+- za-rua - marnować
+- za-sun - roślina ryżowa
+- zai - wiatr
+- zai-ji - szósty
+- zai-lian - uderzenie w punkt akupunkturowy
+- zai-sai - miąższ owocu
+- zai-wu - konsumować, zużywać
+- zai-zhun - kura
+- zan - znowu
+- zan-de - sztuki piękne
+- zan-di - dłoń
+- zan-hu - dziwny, osobliwy
+- zan-ning - wózek
+- zan-ren - relacja, związek
+- zan-shou - fantazja, iluzja
+- zan-wa - starożytne Królestwo
+- zan-yao - prosty
+- zan-ye - ocean
+- zang-fou - aksamitny
+- zang-liao - zwyciężyć
+- zang-qie - dachówka
+- zao - deszcz
+- zao-ding - wpływ
+- zao-jia - przybity
+- zao-piao - dzika trawa
+- zao-xiang - poeta
+- zao-xin - nuda
+- zao-xiong - lue-Xue nerek
+- ze - tworzyć
+- ze-ban-yuan - kawiarnia
+- zei - śnieg
+- zei-fu - brokat
+- zei-hua - pieprz syczuański
+- zei-mao - Ministerstwo Personelu
+- zei-men - generał
+- zei-shi - natychmiast
+- zen - lód
+- zen-ding - gość
+- zen-fu - sądzić, proces
+- zen-kao - mityczne zwierzę
+- zen-zen - szerokość
+- zeng-ai - odcinać
+- zeng-ding - zapomnieć całkowicie
+- zeng-dong - irytacja
+- zeng-gan - nietoperz
+- zeng-luan - lodowaty, mroźny
+- zeng-niu-miu - uderzenie z fintą (wschód-zachód)
+- zeng-peng - alkohol, wino
+- zeng-ran - pięć stałości
+- zeng-reng - śmieć
+- zha - ogień
+- zha-chua - filozofia
+- zha-hao - niedobór krwi
+- zha-mang - delikatny, subtelny
+- zha-mie - gasić ogień
+- zhai - partykuła posiadania/określenia
+- zhai-lie - łóżko
+- zhan-chong - piżama
+- zhan-deng - mały chłód
+- zhan-fa-bian - świat ludzi
+- zhan-heng - wrzątek, gotowana woda
+- zhan-ne - książka
+- zhan-ti - bakłażan
+- zhang-ji - cang-Sou ze skrzyżowanymi nogami
+- zhang-le - truskawka
+- zhang-nie - w porządku, też dobrze
+- zhao-ding - przyszłość
+- zhao-dun - ziemniak
+- zhao-ruo - lekarstwo, zioła
+- zhao-shui - futro
+- zhao-xuan - diagnoza
+- zhe - woda
+- zhe-cao-jian - mieć biegunkę
+- zhe-chu-o - cztery skarby gabinetu (pędzel, tusz, papier, kamień)
+- zhe-gua - roztrzaskać
+- zhe-ni - kolacja
+- zhe-qin - bawełna (tkanina)
+- zhe-ren - filozof
+- zhe-tui - kwadratowy kształt
+- zhe-za - muszla, skorupiak
+- zhen-ba - szelest
+- zhen-diu-jun - inżynier
+- zhen-si - odrodzić się, powstać
+- zhen-tuo - nudny
+- zhen-zhe - żniwa
+- zheng-diu - jajko solone
+- zheng-liang-ou - niemożliwe
+- zhi - kamień
+- zhi-dia - moralność
+- zhi-mou - podwójna tęcza
+- zhi-nun - prezydent
+- zhi-re - średni
+- zhi-zhai - cnota, moc
+- zhong-dian - ścigać (wroga)
+- zhong-yue - barwnik
+- zhong-ze - papier chuan-jiu
+- zhou-kang-yin - stożkowaty
+- zhou-nong - delikatnie piękny
+- zhou-zan - kolega z klasy
+- zhu - piasek
+- zhu-chou - jagody goji
+- zhu-da - pięść podbija
+- zhu-dun - zdobyć, otrzymać
+- zhu-kang - czesać włosy
+- zhu-zong-ou - cordyceps
+- zhua-ju - wróbel
+- zhua-lai - unikać
+- zhua-lun - krewetka
+- zhuai-den - wyczyny bojowe
+- zhuai-hu - środowisko
+- zhuai-ling - setnik
+- zhuai-niu - gładki
+- zhuai-nu - otwarty
+- zhuai-quan - właściciel sklepu
+- zhuai-shen - dowódca wojskowy
+- zhuan-kua - róg wojenny
+- zhuan-po - następnym razem
+- zhuan-reng - flegma-wilgoć
+- zhuan-yuan - przedwczoraj
+- zhuan-zang - kalendarz słoneczny
+- zhuang-dang - dekarz
+- zhuang-en - wytrwałość, trwać
+- zhuang-gong - zarządzać
+- zhuang-gua - dudnienie
+- zhuang-mi - południowy zachód
+- zhuang-rui - dzień dobry
+- zhuang-tao - nalewać wodę
+- zhuang-wei - według, na podstawie
+- zhui-ai - słuch
+- zhui-lai - zarządca powiatu
+- zhui-liu - siła sprężynująca
+- zhui-lou - stan, warunki
+- zhui-o - porcelana
+- zhui-sao - zachowywać, przechowywać
+- zhui-wen - Jelito grube (organ TCM)
+- zhui-za - bardzo ciężki
+- zhui-zhuai - żwir
+- zhun-cui - władca, monarcha
+- zhun-jie - kryształ
+- zhun-nin - wierzba
+- zhun-nun - eksploracja, poszukiwanie
+- zhun-pao - położyć, postawić
+- zhun-ping - klasyfikować
+- zhun-sang - szczegółowy
+- zhun-shen - zła fortuna
+- zhun-shuo - proza
+- zhun-sun - wznieść się
+- zhuo - 14
+- zhuo-jiang - pierogi
+- zhuo-qun - bić pokłony
+- zhuo-reng - step
+- zhuo-xia - pozycja łuku
+- zhuo-zhong - lejce
+- zi - niszczyć
+- zi-dao-na - zmiana klimatu
+- zi-fan - cyprys
+- zi-lang - dodatkowy, pomocniczy
+- zong-ba - potężny
+- zong-fen - wielki chłód
+- zong-kuang - sposób myślenia
+- zong-lu - kanon klasyczny
+- zong-seng - chaotyczny
+- zong-ting - dusić powoli
+- zong-xing - polowanie
+- zong-zong - władza, prawo
+- zou - metal
+- zou-en - poddać się
+- zou-gui - krok, etap
+- zu - budować
+- zu-bing - palec u nogi
+- zu-chu - budować łódź
+- zu-huai - rzemiosło
+- zu-ji - daktyl chiński
+- zu-run - ciągle
+- zu-ting - budynek piętrowy
+- zu-wa - naczelnik powiatu
+- zu-zai - zgadywanie zagadek
+- zuan-chan - czuć
+- zuan-zhi - astronomia
+- zuan-zhuang - wzmacniać
+- zui - drewno
+- zui-dan - poduszka do siedzenia
+- zui-ka - wzrok
+- zui-keng - tchórzliwy
+- zui-si - wyciągać sieć
+- zun - 20
+- zun-che - perilla
+- zun-ding - osądzać, oceniać
+- zun-gao - kłus
+- zun-man - kultura
+- zun-neng - haft
+- zun-xiao - krótkotrwały
+- zuo - miecz
+- zuo-chao - uszko Judasza
+- zuo-deng - stołek
+- zuo-duo - longan
+- zuo-hu - kiwać głową
+- zuo-huan - zatrzymać
+- zuo-tian - rówieśnik
+- zuo-zen - uderzać pięścią
+- zuo-zhou - intensywny (kolor)
+- zuo-zhui - dziękować
