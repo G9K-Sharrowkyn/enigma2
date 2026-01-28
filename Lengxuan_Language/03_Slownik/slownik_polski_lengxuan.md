@@ -1,4 +1,4 @@
-# Słownik Polski → Lengxuan
+# Słownik Polski  Lengxuan
 
 - 0 - kong
 - 1 - gan
@@ -17,29 +17,28 @@
 - 3 - cen
 - 4 - pan
 - 5 - sai
-- 6 - fano
 - 7 - kou
 - 8 - niu
-- 9 - yao
+- 9 - yaon
 - agat - kei-niang
 - Akademia konfucjańska - dian-ba
 - akapit - shan-zuo
 - aksamitny - zang-fou
 - akupunktura i moksybucja - mi-ba
 - akupunkturzysta - mi-ba-ren
-- albo - dou
+- albo - douo
 - ale - tan
-- alkohol, wino - zeng-peng
-- altair (pasterz wołów, gwiazda) - ru-ku
+- alkohol, wino - geng-peng
+- altair (pasterz wołów, gwiazda) - guango-ku
 - aluzja klasyczna - wa-nuan
 - ametyst - a-yin-gen
 - amitabha (mantra) - mo-wan-huang
 - amulet ochronny - cuo-fa-duo
 - ananas - kuang-qing
 - ani trochę - fang-zhao
-- anyż gwiaździsty - men-qia
+- anyż gwiaździsty - liao-qia
 - apteka - tuo-luo
-- arbuz - mi-can
+- arbuz - guoo-can
 - architekt - lian-reng-ren
 - architektura - lian-reng
 - argumentować - ca-li
@@ -49,7 +48,6 @@
 - aromatyczny - dui-za
 - artykuł - shui-ai
 - ashikagama (nazwa własna) - ashikagama
-- aspekt dokonany (marker) - xio
 - aspekt trwający (marker) - nei
 - astragalus - li-lang
 - astronomia - zuan-zhi
@@ -67,16 +65,16 @@
 - bagno, mokradła - huai-luan
 - bakłażan - zhan-ti
 - balustrada - da-xun
-- bambus - yi-ming
-- bambus łzawy - rang-sun-que
-- bambusa rdzawa - qian-mang
-- banan - gua-gan
+- bambus - zhuo-ming
+- bambus łzawy - zhuo-que
+- bambusa rdzawa - zhuo-mang
+- banan - guoo-gan
 - bank - pie-miu
 - bankiet - jue-la
 - banknot srebrny - liu-kao
 - bar - gong-gei
 - baran - kao-fa
-- baranina - pen-de
+- baranina - rouo-de
 - bardzo - beio
 - bardzo ciężki - zhui-za
 - bardzo szybki - cu-wei
@@ -86,23 +84,22 @@
 - basen - ti-dun-ou
 - bat jeździecki - tuan-jiong
 - bawełna (tkanina) - zhe-qin
-- bawół wodny - fang-wo
+- bawół wodny - niuo-wo
 - bać się - ru
 - belka - pi-ri
 - bezcenny - lang-shang
 - bezpieczeństwo - diao-eng
 - bezpiecznej podróży - gen-hen-jiang
 - beżowy - beng-dao
-- biała herbata - xia-eng
+- biała herbata - gango-eng
 - biała rosa - de-seng
 - biały - miu
-- biały tygrys - miu-zen
+- biały tygrys - tigo-zen
 - biblioteka - xu-pu-nei
 - bicie dzwonu - shun-you
 - bicz - fo-jiong
 - bicz dziewięcioczłonowy - jia-jia-fo
 - biec - le
-- biedny - nuo
 - biegać - gan-a
 - bielizna - shuai-nei
 - biodro - bian-xian
@@ -119,7 +116,7 @@
 - bogaty - nue
 - bracia - wen-ling
 - brama (budowla) - rong-ji
-- brama góry (klasztoru) - shu-sun
+- brama góry (klasztoru) - shano-sun
 - bransoletka - xi-suo
 - brat - rui
 - brat cioteczny (młodszy) - gen-da
@@ -132,8 +129,8 @@
 - brudny - huao
 - brutalny, gwałtowny - cang-bing
 - brwi - ding-han
-- brzeg rzeki - mao-yue
-- brzoskwinia - mao-nuo
+- brzeg rzeki - heo-yue
+- brzoskwinia - guoo-nuo
 - brzuch - de-tian
 - brzydki - kui
 - brązowy - chai-shun
@@ -144,8 +141,8 @@
 - budowniczy łodzi - teng-zhang
 - budynek piętrowy - zu-ting
 - budzący respekt - que-shuai
-- burza - ran-ka
-- burza z piorunami - sui-xu
+- burza - baoo-ka
+- burza z piorunami - baoo-xu
 - but - heng
 - butelka - guan
 - butelka wody - a-yang
@@ -165,8 +162,8 @@
 - bóstwo - juan-ru
 - bęben - cou-ning
 - błogosławieństwo - cuan-se
-- błyskawica - an-guo
-- błyskawiczny - chen-zu-qiong
+- błyskawica - diano-guo
+- błyskawiczny - diano-qiong
 - błyszczący - re-nai
 - błąd - shuo-lin
 - błękitny - kun-zou
@@ -192,8 +189,8 @@
 - chcieć - guoo
 - chen Lu (imię własne) - chen-lu
 - chińska jagoda woskowa - kai-tuan
-- chleb - diao
-- chmura - tun-lian
+- chleb - miano
+- chmura - tiano-lian
 - chodzić, iść pieszo - di-cu
 - choroba (formalne) - mian-lue
 - chory - qia
@@ -205,9 +202,9 @@
 - chwalić - di-fan
 - chwytanie i kontrola - beng-gao
 - chwytać, łapać - cang-huang
-- chłodny - fou
+- chłodny - weno-fou
 - chłód - tian-pin
-- cichy - pen
+- cichy - ango-pen
 - ciekawy, interesujący - qu-yuan
 - ciemnoczerwony - mao-gen
 - ciemnoniebieski - nao-ling
@@ -215,7 +212,7 @@
 - ciemność - ting-gua
 - ciemny - mano
 - cienkość - shuio
-- ciepły - feno
+- ciepły - weno-feno
 - cierpienie - ru-meng
 - cierpienie wewnętrzne - o-kuo
 - cień - mi-sheng
@@ -236,7 +233,7 @@
 - cylindryczny - sheng-ting-san
 - cynobrowy - ta-tiao
 - cyprys - zi-fan
-- cytryna - cang-ze
+- cytryna - guoo-ze
 - cywilizacja - tiao-heng
 - czajnik - xing-bu-sa
 - czajnik do herbaty - ning-wen
@@ -244,9 +241,9 @@
 - czapla biała - te-bian
 - czapla szara - si-sen
 - czarka do herbaty - xuan-fu
-- czarna herbata - qiu-min
+- czarna herbata - gango-min
 - czarny - mei
-- czarny wojownik (kierunek północ), żółw i wąż - mei-da
+- czarny wojownik (kierunek północ), żółw i wąż - sheo-da
 - czas - huan
 - czasem - gang-nou
 - czcigodny (dla władców/bóstw) - si-mu
@@ -260,7 +257,7 @@
 - czoło - geng-guo
 - czterdzieści - chui-luan
 - cztery - xie-sao
-- cztery skarby gabinetu (pędzel, tusz, papier, kamień) - zhe-chu-o
+- cztery skarby gabinetu (pędzel, tusz, papier, kamień) - zhio-chu-o
 - czterysta - nong-reng
 - czuć - zuan-chan
 - czwarty - yuan-cang
@@ -272,7 +269,7 @@
 - czyścić, myć - cha-jing
 - często - nang-diao
 - częściowo - li-hou
-- częściowo pochmurnie - ao-gou
+- częściowo pochmurnie - tiano-gou
 - członek - yao-ce
 - członek sekty/klanu - kuo-kun
 - człowiek - que
@@ -295,15 +292,15 @@
 - dekarz - zhuang-dang
 - dekret prawny - yan-gu
 - delektować się, degustować - lue-xiu
-- delfin - ning-qiu
+- delfin - haio-qiu
 - delikatnie pachnący - chua-zhou
 - delikatnie piękny - zhou-nong
 - delikatny, subtelny - zha-mang
 - demon, potwór - hao-quan
 - deska - nuo-xi
-- deszcz - zao
-- deszcz zbóż - qu-ben
-- deszczowy dzień - geng-ming
+- deszcz - yuo
+- deszcz zbóż - yuo-ben
+- deszczowy dzień - yuo-ming
 - dharma buddyjska - ping-qin
 - diagnoza - zhao-xuan
 - diagram rzeki - wa-luo
@@ -312,9 +309,9 @@
 - diament - duo-xuan
 - diu-Ruan z łóżka - pen-lun
 - dlaczego - xiaoo-na-shu
-- dmuchać (na gorące) - han-wai
+- dmuchać (na gorące) - shio-han
 - do widzenia - gu-rao
-- dobić do brzegu - mao-que
+- dobić do brzegu - haio-que
 - dobranoc - guang-suo
 - dobry przyjaciel - de-wu
 - dobrze, porządnie - suo-zhua
@@ -328,9 +325,9 @@
 - dokładnie wschód - fang-dong-zheng
 - dokładnie zachód - fang-xi-zheng
 - dokładny, precyzyjny - liao-ri
-- dolina - sa-guang
+- dolina - guo-guang
 - dom - shio
-- dorsz żółty - nou-zhang-huan
+- dorsz żółty - dongo-huan
 - doskonały, wyśmienity - o-yang
 - dostać - ei
 - dostosowywać - kuo-cao
@@ -359,7 +356,7 @@
 - drwal - qian-chong
 - drzemka - miao-zui
 - drzewo - xiaoo
-- drzewo sandałowe - kun-kan
+- drzewo sandałowe - tano-kan
 - drzwi - sou
 - dręczyć - qiu-kuan
 - duch (ogólnie) - lue-ning
@@ -367,12 +364,12 @@
 - duch węża - han-hei
 - duchy i bóstwa - pei-nan
 - dudnienie - zhuang-gua
-- duma (pozytywna) - hei-pao
-- dusić powoli - zong-ting
-- dusić w sosie - lang-xia
+- duma (pozytywna) - rongo-pao
+- dusić powoli - duo-ting
+- dusić w sosie - yoo-xia
 - dusza - hu-wa
 - dużo - gaoo
-- duży deszcz - keng-tong
+- duży deszcz - yuo-tong
 - dwa - hu-ting
 - dwieście - tai-biao
 - Dynastia - dui-juan
@@ -396,9 +393,9 @@
 - dzień - jian
 - dzień dobry - zhuang-rui
 - dzik - ru-gu
-- dzika trawa - zao-piao
-- dzikie zwierzę - nano-ta
-- dzikie zwierzęta - chi-jing-shui
+- dzika trawa - xino-piao
+- dzikie zwierzę - dongo-ta
+- dzikie zwierzęta - dongo-shui
 - dzisiaj - shuang-hen
 - dziwny, osobliwy - zan-hu
 - dzięgiel chiński - chu-zhuan
@@ -442,9 +439,9 @@
 - fantazja, iluzja - zan-shou
 - farbarz - rua-chun
 - farma - jian-run
-- fasola azuki - xing-sheng
-- fasola mung - shi-zi
-- fasola, bob - dong-er
+- fasola azuki - caio-sheng
+- fasola mung - caio-zi
+- fasola, bob - caio-er
 - fałszywy - lie
 - feniks - jing-gu
 - fermentować, warzyć - shun-bu
@@ -456,7 +453,7 @@
 - fioletowy - en-zong
 - firmiana - gun-ping
 - flegma-wilgoć - zhuan-reng
-- flet bambusowy - la-ce
+- flet bambusowy - zhuo-ce
 - forma, - chu-a
 - fortuna, dobrobyt, długowieczność - geng-nuan-tuan
 - futro - zhao-shui
@@ -470,38 +467,38 @@
 - gasić ogień - zha-mie
 - gaza, muślin - ca-zui
 - gazeta - ken-dong
-- gałązki cynamonu - ou-shang
-- gałąź - ming-ta
+- gałązki cynamonu - liao-shang
+- gałąź - zhio-ta
 - gdzie - hen-yuan
 - generał - zei-men
 - geografia - reng-xue
 - glina - la-sha
 - glina garnczarska - cuo-rao
-- globalne ocieplenie - yue-yu-en
-- gniew - song-dun
+- globalne ocieplenie - qio-yu-en
+- gniew - nuo-dun
 - godzina - mi-fou
 - goleń - chi-mie
 - gorliwy, entuzjastyczny - ne-chong
 - gorzki - kano
-- gorąca energia - fa-gen
-- gorąco płuc - gei-song
-- gorący - eng
+- gorąca energia - qio-gen
+- gorąco płuc - qio-song
+- gorący - weno-eng
 - gospodarz - ke-bu
 - gotowany na parze - mou-kang
-- gotowany ryż - mou-sheng
+- gotowany ryż - fano-sheng
 - gotowany, ugotowany - mou-tao
 - gotować - mou-wen
 - gotować na parze - mou-dan
 - gotować na parze bułeczki - mou-kua
 - gotować ponownie - mou-ba
-- gotować ryż - mou-jing
+- gotować ryż - fano-jing
 - gotować w wodzie - mou-jia
 - gotować wodę - mou-pa
-- gotowy - lou
-- gołąb - shu-ku
+- gotowy - zhüo
+- gołąb - geo-ku
 - gościnny - miao-gu
 - gość - zen-ding
-- goździk - chuai-ci
+- goździk - liao-ci
 - gra - fen-qiu
 - grabie - tiao-xuan
 - grad - nin-lin
@@ -511,7 +508,7 @@
 - grać na flecie - shuai-duan
 - grać na instrumencie strunowym - xu-lin
 - grubość - jiang-nue
-- gruszka - tuan-ye
+- gruszka - guoo-ye
 - grzeczność - nin-zeng
 - grzmot - ai-ma
 - grzyb - ji-nai
@@ -525,9 +522,9 @@
 - guqin (cytra) - juan-bin
 - guzheng (cytra) - tian-jian
 - gwarancja - yuan-meng
-- gwiazda - yuno
+- gwiazda - guango-no
 - gwóźdź - fang-zhuan
-- góra - tun
+- góra - shano
 - górska ścieżka - sheng-bai
 - gęsina - xu-fa
 - gładki - zhuai-niu
@@ -545,14 +542,14 @@
 - haft - zun-neng
 - hala - jiang-jian-zou
 - handel, transakcja - jian-lang
-- harmonia - kuang-jiu
+- harmonia - ango-jiu
 - hałas - dang-hao
 - hałaśliwy - kuang-hen
 - heijiro (imię własne) - heijiro
 - herbaciarnia - pian-zuo
 - herbata - gango
-- herbata jaśminowa - mai-suan-fa
-- herbata kwiatowa - pu-feng
+- herbata jaśminowa - gango-fa
+- herbata kwiatowa - xie-feng
 - hełm - ou-tui
 - hipokryta, fałszywy - de-shun
 - hipopotam - xuan-ze
@@ -560,8 +557,8 @@
 - historyczne/Geograficzne Centrum - luan-huai
 - historyk - dui-chang-shuai
 - historyk - shi-ren
-- homar - bi-zhen
-- honor, chwała - nai-che
+- homar - xialo-zhen
+- honor, chwała - rongo
 - hołd (w mantrach) - jue-tiao
 - hrabia - hun-ning
 - i - lun
@@ -571,11 +568,11 @@
 - ile - nai-ming
 - iloraz - men-la
 - ilość - er-fou
-- imbir - jue-rang
-- imbir świeży - mie-nao
+- imbir - liao-rang
+- imbir świeży - liao-nao
 - imię - sha
 - imperium - meng-shua
-- indygo (roślina) - dao-cuo
+- indygo (roślina) - caoo-cuo
 - informacja - bin-zei
 - inny - wang-hu-su
 - inspirować - beng-lue
@@ -591,21 +588,21 @@
 - intuicja - dang-xu
 - inżynier - gong-cheng-ren
 - inżynier - zhen-diu-jun
-- irytacja - zeng-dong
+- irytacja - nuo-dong
 - istnieć, mieć - pang-hang
 - iść - ce
 - iść szybko - tuan-re
 - iść wolno - ling-zai
 - ja - ao
-- jabłko - chi-shang
+- jabłko - guoo-shang
 - jadalny grzyb - sou-an
-- jadeitowa Rzeka - sui-ha
+- jadeitowa Rzeka - heo-ha
 - jadekit - ting-nie
-- jadowity wąż - tou-shuo
+- jadowity wąż - sheo-shuo
 - jagody goji - zhu-chou
 - jajka - sen-shuo
 - jajko kacze - chong-zhao
-- jajko kurze - tan-ruan
+- jajko kurze - jio-ruan
 - jajko solone - zheng-diu
 - jajko stulecia - guai-can
 - jak, podobny do (spójnik) - kuang-miu
@@ -613,14 +610,14 @@
 - jaskinia - chan-mang
 - jaskinia w górze - a-ke
 - jaskrawozielony - nano-tun
-- jaskółka - mo-cou
+- jaskółka - yeno-cou
 - jasnoczerwony - mao-chuang
 - jasność - long-gong
 - jasny - maio
 - jaspis, jade - chan-ruo
-- jastrząb, sokół - ang-tou
-- jaszczurka - mian-hua
-- jaszczurka ścienna - an-shi
+- jastrząb, sokół - yingo-tou
+- jaszczurka - sheo-hua
+- jaszczurka ścienna - sheo-shi
 - jechać - bie
 - jechać wozem - kun-lin
 - jeden - cou-chang
@@ -629,16 +626,16 @@
 - jedność nieba i człowieka - lai-zuo-ti
 - jednym - xia-piao
 - jedwab - geng-xi
-- jedzenie - ji-deng
+- jedzenie - shio-deng
 - jego Wysokość (cesarz) - fu-diu
-- jeleń - er-nie
+- jeleń - luo-nie
 - Jelito cienkie (organ TCM) - jia-tui
 - Jelito grube (organ TCM) - zhui-wen
 - jesień - mei-liang
 - jeszcze - nen
 - jeszcze sui-qu - yu-bin
-- jezioro - wai
-- jeśli - jia
+- jezioro - huoo
+- jeśli - jiao
 - jeść - ji
 - jeździć konno - yin-pang
 - jeż - lin-zhe
@@ -647,11 +644,11 @@
 - junior (hierarchia) - ru-ce
 - jutro - shuang-zha
 - język - dong-tang
-- kaczka - chan-nong
-- kaczka mandarynka (para) - bi-ma
+- kaczka - yamo-nong
+- kaczka mandarynka (para) - yamo-ma
 - kadzidło - jia-biao
 - kadzielnica - yang-cang
-- kalendarz księżycowy - wu-peng
+- kalendarz księżycowy - guango-peng
 - kalendarz słoneczny - zhuan-zang
 - kaligraf - ling-mie-rang
 - kaligrafia - wa-shuo
@@ -659,16 +656,16 @@
 - kamieniarz - cun-lou
 - kamienna płyta - xue-mo
 - kamień - zhio
-- kamień do rozcierania tuszu - gao-jiao
+- kamień do rozcierania tuszu - zhio-jiao
 - kampania wojenna - he-peng
 - kanon klasyczny - zong-lu
 - kao-Fa wątroby - tian-he
 - kapitan - gan-liao
-- kapusta chińska - guan-dou
+- kapusta chińska - caio-dou
 - kara - chong-cuo
 - kara śmierci - pin-tai
 - karmić piersią - wu-wei
-- karp - gao-de
+- karp - lio-de
 - kaszleć - xue-kuan
 - katar - xian-qiu
 - katastrofa - huang-fu
@@ -688,7 +685,7 @@
 - kieliszek do wina - qu-yang
 - kierowca - gei-ya
 - kierunek - kuan-han
-- kierunek wiatru - en-ei
+- kierunek wiatru - fengo-ei
 - kiełki fasoli - tiao-liu
 - kij - beng
 - kino - xiang-ba
@@ -701,14 +698,14 @@
 - klej - xiu-nang
 - klepać - nue-nang
 - klient - nu-lin
-- klimat - qu-zhen
+- klimat - qio-zhen
 - klon - ba-xue
 - klucz - run-zhang
 - klęczeć - gun-wan
 - kobieta - rao
 - kochać - quo
 - kogut - di-dao
-- kolacja - zhe-ni
+- kolacja - fano-ni
 - kolczyki - qiu-ai
 - kolega z klasy - zhou-zan
 - kolega z pracy - kang-ou
@@ -728,7 +725,7 @@
 - kondensacja - rao-nian
 - konewka - quan-fang
 - konfucjanizm - chu-zhu
-- kongie, kleik ryżowy - de-jun
+- kongie, kleik ryżowy - fano-jun
 - koniec upału - qi-kuai
 - konieczny - shui-kou
 - konkubina cesarska - o-chang
@@ -744,28 +741,28 @@
 - konwertować - lai-lun
 - kopanie - xun-nie
 - kopać - gang-mao
-- kora cynamonu - da-yang
+- kora cynamonu - liao-yang
 - kora drzewa - chang-run
 - koral - luan-bo
 - korespondować - pu-ha
 - korygować - sa-shua
-- korzeń - cang-suo
-- korzeń drzewa - nao-du
+- korzeń - geno-suo
+- korzeń drzewa - geno-du
 - kostka (nogi) - dian-lao
 - kosz (duży) - pai-xia
 - koszt, cena zakupu - che-hong
 - koszula - cheng-liao
-- kot - lang
+- kot - maoo
 - kotlarz - hou-huo
 - kowal - bao-jun
-- koza - hai-sai
+- koza - yango-sai
 - kołowrotek - ju-reng
-- koń - kuaio
-- koń bojowy - chao-shuo
+- koń - pao
+- koń bojowy - pao-shuo
 - kości - ri-dai
 - kość - cuan
 - kość słoniowa - mian-pai
-- krab - yi-ka
+- krab - paoo-ka
 - kraina wróżek - kong-xin
 - kraj, państwo - li-ying
 - kratka okienna - sha-tu
@@ -773,18 +770,18 @@
 - kreatywność - juan-chua
 - kredens - chang-ruo
 - krew - cong
-- krewetka - zhua-lun
+- krewetka - xialo-lun
 - krewni od męża - xia-fo
-- kroić - cen-pao
-- kroić w kostkę - luan-hang
-- kroić w paski - qi-ning
-- kroić w plasterki - gou-zun
+- kroić - qiao-pao
+- kroić w kostkę - qiao-hang
+- kroić w paski - qiao-ning
+- kroić w plasterki - qiao-zun
 - krok, etap - zou-gui
-- krokodyl - liao-ca
+- krokodyl - eo-ca
 - krosno - gei-cou
-- krowa - fu-jun
+- krowa - niuo-jun
 - kruchy, delikatny - xin-pan
-- kruk czarny - mei-bu
+- kruk czarny - yamo-bu
 - krwawić - meng-zhu
 - kryształ - zhun-jie
 - krytykować - shua-zhun
@@ -792,8 +789,8 @@
 - krzesło - hei-zhan
 - krzyczeć, wołać - bian-hen
 - król - gao-niang
-- król smoków - yi-jue
-- królik (mięso) - qian-jiang
+- król smoków - lian-jue
+- królik (mięso) - tuo-jiang
 - królowa - ou-lou
 - krótka kurtka - ei-qie
 - krótki - diu
@@ -805,14 +802,14 @@
 - książę (syn króla) - lian-chuan
 - księgarnia - ying-dei
 - księżniczka - guo-jiao
-- księżyc - youo
+- księżyc - guango-yo
 - kształt - qiu-kei
 - kto - ri-pie
 - ktoś - she
 - który - keng-zen
 - kubek - guai
 - kucharz - xue-han
-- kuchnia - cai-dao
+- kuchnia - shio-dao
 - kulisty - rao-ang
 - kultura - zun-man
 - kultywować, trenować - gong-zuan
@@ -820,8 +817,8 @@
 - kupiec - den-sang
 - kupować - ang
 - kupować rzeczy - lang-tan-kou
-- kura - zai-zhun
-- kurczak - du-nin
+- kura - jio-zhun
+- kurczak - jio-nin
 - kurtka - duan-suo
 - kusza - xian-zu
 - kuzyn (starszy, od matki) - hai-ni
@@ -830,14 +827,14 @@
 - kwaśny - kai
 - kwiaciarnia - le-dang
 - kwiat - xie
-- kwiat bambusa - shai-ting
-- kwiat brzoskwini - dei-gun
-- kwiat granatu - huan-dei-long
-- kwiat gruszy - kua-bie
-- kwiat moreli - tai-nuo
-- kwiat wiśni - ying-hua
-- kwiat śliwy - xuan-die
-- kwiaty i trawy - geng-leng
+- kwiat bambusa - xie-ting
+- kwiat brzoskwini - xie-gun
+- kwiat granatu - xie-long
+- kwiat gruszy - xie-bie
+- kwiat moreli - xie-nuo
+- kwiat wiśni - xie-hua
+- kwiat śliwy - xie-die
+- kwiaty i trawy - xie-leng
 - kąpać się - tang-sheng
 - kłamstwo - chuai-geng
 - kłopot - xue-zhuan
@@ -849,12 +846,12 @@
 - lakierować - xiong-ding
 - lampa - leng-ku
 - lampa oliwna - run-ting
-- las - weno
+- las - lino
 - latający nóż - pai-huai
 - latający-kopnięcie-uderzenie - wa-xia-seng
 - latarnia - liu-zu
 - lato - yan-ang
-- lazurowy smok (kierunek wschód) - bao-zei
+- lazurowy smok (kierunek wschód) - lian-zei
 - lecieć - er-da
 - leczyć - se
 - lecący Kopniak - rong-niao
@@ -864,12 +861,12 @@
 - lekarz - xun-rang
 - lekcja (z błędu) - lie-shua
 - lekka umiejętność (latanie) - ken-pa
-- lekki - hen
-- lekki wiatr - run-zei
+- lekki - heno
+- lekki wiatr - fengo-zei
 - lekkość/ciężkość - yun-bing
 - leniwy - nen-lian
 - lepiej - wu-shou
-- lew - cun-run
+- lew - leo-run
 - lewa strona - kuo-shuai
 - leżeć - jun-liu
 - leżeć na brzuchu - ban-kuang
@@ -883,8 +880,8 @@
 - lina z grotem - ti-rou
 - linia, wiersz - tao-fou
 - liryka (forma poetycka) - ya-ju
-- lis - du-bi
-- lis używający tygrysiej siły (idiom) - xi-pai-lun
+- lis - hulo-bi
+- lis używający tygrysiej siły (idiom) - tigo-lun
 - list, korespondencja - kan-duo
 - litera - o-tai
 - literatura - dang-ti
@@ -913,8 +910,8 @@
 - machać ręką - kun-beng
 - magazyn - lan-re
 - maitreya (przyszły Budda) - sha-hou
-- makaron - lao-dui
-- makaron w zupie - mao-wu
+- makaron - miano-dui
+- makaron w zupie - miano-wu
 - makrel - ran-tie
 - malarstwo - hua-weng
 - malarstwo pejzażowe - hua-ba-ba
@@ -922,7 +919,7 @@
 - maleńki, drobny - mang-lao
 - malować obrazy - hua-ba
 - mandat Niebios - bin-he
-- marchew - piao-ci-pian
+- marchew - caio-pian
 - markiz - shun-bie
 - marmur - ne-cuan-wo
 - marnować - za-rua
@@ -940,28 +937,28 @@
 - małe dojrzewanie - nian-hen
 - małe dziecko - he-nue
 - mało - min
-- małpa - he-nai
+- małpa - houo-nai
 - mały bęben - liao-xiang
 - mały chłód - zhan-deng
-- mały deszcz - miao-ke
+- mały deszcz - yuo-ke
 - mały upał - ding-zei
-- mały śnieg - rong-bai
+- mały śnieg - xueo-bai
 - mdłości - nian-pu
 - meble - cao-kuai
-- meduza - diao-kua
+- meduza - zheo-kua
 - medytować (ogólnie) - pa-hen
 - melodia - nie-he
-- melon zimowy - wen-ying
+- melon zimowy - guoo-ying
 - meridiany - jing-luo
 - merydian - jing-lou
 - metafora - lou-fan
 - metal - zouo
-- meteor, spadająca gwiazda - hang-sun
+- meteor, spadająca gwiazda - guango-sun
 - meteoryt - beng-ze
 - metoda - bang-guai
 - metoda serca/umysłu - xiang-zhang
 - metropolia - pi-meng
-- mgła i opary - gu-shi
+- mgła i opary - wuo-shi
 - miasto - tie
 - miecz - zuoo
 - miecz Trzech Przysiąg - cang-liu-zhang
@@ -969,11 +966,11 @@
 - miejsce - re-mang
 - mierzyć - beng-chuan
 - miesiąc - keng
-- mieszać (składniki) - liang-xin
+- mieszać (składniki) - bano-xin
 - mieszkanie - dan-lang
 - mieć - an
 - mieć biegunkę - zhe-cao-jian
-- mieć gorączkę - jin-shi
+- mieć gorączkę - qio-shi
 - mieć spotkanie - keng-shun
 - mikroskopijny - li-gei-ka
 - milion - bai-wan
@@ -988,20 +985,20 @@
 - mistrz sztuk walki - guo-zhui-zheng
 - mit - huai-bing
 - mityczna opowieść - ca-zhun-suan
-- mityczne zwierzę - zen-kao
+- mityczne zwierzę - dongo-kao
 - miu-Du i krew - ke-za
-- miąższ owocu - zai-sai
+- miąższ owocu - duano-sai
 - miękka droga (japoński termin) - chuang-cao
 - miękka siła - dui-dan
 - miękki - jiuo
 - miękkie drewno - lu-nue
 - mięsień - wu-que
-- mięso - ding
+- mięso - rouo
 - mięta - pi-yu
 - miłość (rzeczownik) - qu-zhou
 - miłość romantyczna - qu-san
-- mleko - chao-ta
-- mleko sojowe - hang-bao
+- mleko - naio-ta
+- mleko sojowe - naio-bao
 - mnich buddyjski - man-dui
 - mniej - sa-dei
 - mocny - hai
@@ -1010,36 +1007,34 @@
 - moneta - xun-zong
 - moneta miedziana - bin-hei
 - moralność - zhi-dia
-- morela - ga-biao
+- morela - guoo-biao
 - morska fala - bao-zong
 - morwa - hua-nuan
-- morze - wei
-- most - tao
+- morze - haio
 - motocykl - jue-han-ga
 - motyka - sen-fou
-- motyl - min-mao
+- motyl - dieo-mao
 - może - meno
 - możliwe - kai-eng
 - możliwość - yi-hei-fan
 - można - pao-he
-- mrówka - ruan-qiong
+- mrówka - yio-qiong
 - mu-ling - jiang-zhua
 - mundur - run-rua
 - mundur wojskowy - fou-wang
 - mur miejski - neng-huan
 - musieć - hu
-- muszla, skorupiak - zhe-za
+- muszla, skorupiak - beo-za
 - muzeum - nano-geng-cao
 - muzyk - ban-gou
 - muzyk - yue-ren
 - muł - chun-guan
 - my - lano
-- mysz, szczur - die-mo
+- mysz, szczur - rao-mo
 - myć podłogę - cha-qiu
 - myć twarz - cha-huai
 - myśleć - geo
 - myśliwy - cao-ceng
-- móc - heo
 - mówić - bi
 - mózg - meng-ya
 - mądrość - dai-te
@@ -1081,8 +1076,8 @@
 - narzędzia rolnicze - gan-tai
 - narzędzie - kun-guan
 - naręcznice - long-long
-- nasiona lotosu - bi-qia
-- nasiono - pian-chan
+- nasiona lotosu - zhono-qia
+- nasiono - zhono-chan
 - następca tronu - huo-hong
 - następny - qia-fen-ling
 - następnym razem - zhuan-po
@@ -1103,7 +1098,7 @@
 - nawadniać - yang-wai
 - nawozić - pa-ban
 - nawóz - cong-geng
-- negacja (nie) - dao
+- negacja (nie) - daoo
 - negocjacje - su-han
 - negować - nei-yue
 - nerka (organ) - duan-cuan
@@ -1123,7 +1118,7 @@
 - niebiańskie Imperium Smoczej Korony - ha-chuo
 - niebiańskie Schody Ziemi - nuo-chua
 - niebieski - nao
-- niebo - xue
+- niebo - tiano
 - niedbale, od niechcenia - chua-zhuang
 - Niedobór (TCM) - nu-xun
 - niedobór esencji - min-chuo
@@ -1133,7 +1128,7 @@
 - niedobór Miu-Du - lao-you
 - niedobór nerek - sa-can
 - niedobór śledziony - lin-pen
-- niedźwiedź czarny - mei-pei
+- niedźwiedź czarny - xiongo-pei
 - niefortunny - gao-luo
 - niegrzeczny, psotny - bang-bai
 - niejasny, mglisty - diu-hei
@@ -1171,7 +1166,6 @@
 - niskiej jakości - hao-gong
 - niskość - beng-kan
 - niszczyć - zi
-- noc - jiao
 - noga - chai
 - nos - chua
 - nosorożec - ruo-nie
@@ -1181,7 +1175,7 @@
 - nudny - zhen-tuo
 - nuty muzyczne - nong-gui
 - nóż - bang
-- obawa - dai-pin
+- obawa - ru-pin
 - obawiać się - fen-wan
 - obiad - tian-xing
 - obietnica - teng-kuo
@@ -1196,9 +1190,9 @@
 - obrona - man-er
 - obserwować - rao-zha
 - obudzić się - ke
-- ocean - zan-ye
+- ocean - haio-ye
 - oceniać, wartościować - nou-ju
-- ocet - pi-biao
+- ocet - yoo-biao
 - ochrona zdrowia - man-chao
 - ochrona środowiska - wen-dai
 - oczekiwać z niecierpliwością - nuan-cou
@@ -1207,7 +1201,7 @@
 - odczuwać - dao-geng
 - oddychanie (praktyka) - ye-hu
 - oddzielać - tu-zan
-- odejść - de
+- odejść - deo
 - odepchnąć - fan-keng
 - odkrycie - shuan-tou
 - odległość - fo-mao
@@ -1231,8 +1225,8 @@
 - ograniczony, mieć granice - qie-min
 - ogromny, gigantyczny - wen-reng
 - ogród wewnętrzny - san-wo
-- ogórek - kuai-zen
-- ogórek morski - yun-nen
+- ogórek - caio-zen
+- ogórek morski - caio-nen
 - ohydny, odpychający - ju-jia
 - ojciec - rou
 - okazja - dai-lu
@@ -1244,9 +1238,9 @@
 - okrągły kształt - yin-zhe
 - okręt wojenny - lue-shuan
 - okulary - fei-chui
-- olej orzechowy - xue-min-cuan
-- olej sezamowy - duo-zuo-a
-- oleje - rua-fang
+- olej orzechowy - yoo-cuan
+- olej sezamowy - yoo-a
+- oleje - yoo-fang
 - on/ona - cou
 - oni/one - lin
 - oolong - gao-ta
@@ -1261,7 +1255,7 @@
 - orchidea - kuo-che
 - organizować - ban-chua
 - orzeszki ziemne - chou-guo
-- osa - kuo-xiu
+- osa - mio-xiu
 - osiem - xun-sun
 - osiem kawałków brokatu - nou-gu-zun
 - osiem trigramów - nang-qin
@@ -1287,20 +1281,20 @@
 - otrzymywać, zbierać - chu-pei
 - otwarty - zhuai-nu
 - otworzyć - su
-- owad - jing-hang
+- owad - chongo
 - owalny - keng-cao-gu
-- owca - neng-shang
+- owca - yango-shang
 - owoc - duano
-- owocowy zapach - nu-meng
+- owocowy zapach - duano-meng
 - ozdoba włosów - li-tie
 - oślepić wzrok - pie-qin
 - ośmiokątny - kan-zou-song
-- ośmiornica - ni-tong
+- ośmiornica - zhango-tong
 - pacjent - ci-ge
-- padać (śnieg) - chuai-nen
+- padać (śnieg) - yuo-nen
 - pagoda buddyjska - guo-zen
 - paifang, łuk pamiątkowy - ye-cai
-- pająk - nun-ceng
+- pająk - zhüo-ceng
 - pakować - huang-tie
 - palec - ceng
 - palec u nogi - zu-bing
@@ -1311,12 +1305,12 @@
 - pamięć, wspomnienie - hui-ce
 - pan (szlachetny) - cao-kuang
 - panda - ruo-tuan
-- panika - shai-bie
+- panika - ru-bie
 - papier - ming-bao
 - papier chuan-jiu - zhong-ze
 - papierowy pieniądz - cen-qiu
-- papryka chili - seng-zhong
-- papuga - o-yong
+- papryka chili - caio-zhong
+- papuga - wuo-yong
 - para (ludzi, rzeczy) - pai-nu
 - para wodna - bu-pao
 - parasol - qun-cha
@@ -1333,8 +1327,8 @@
 - pasta z bobu - chuo-ce-zeng
 - pasterz - chuo-chen
 - patogen ognia - tun-kou
-- patogen suchości - liang-miao
-- patogen wiatru - bei-zhao
+- patogen suchości - qio-miao
+- patogen wiatru - fengo-zhao
 - patogen wilgoci - pa-nue
 - patrzeć - fa
 - patrzeć w dal - cou-luo
@@ -1352,11 +1346,11 @@
 - pestka - xi-song
 - pewność - sao-niang
 - pełny - hou
-- piasek - zhu
+- piasek - shao
 - piaskowiec - mo-shan
-- piec, grillować - bin-jin
+- piec, grillować - kaoo-jin
 - piechota - bie-zhu
-- pieczony - rong-pai
+- pieczony - kaoo-pai
 - pieczęć - ying-gui
 - piekarz (ciasto) - die-pin
 - piekło - hua-rang
@@ -1366,7 +1360,7 @@
 - pielęgnowanie życia - xiu-nei
 - pielęgnować uczucie - hua-lan
 - pieniądze - hongo
-- pieprz syczuański - zei-hua
+- pieprz syczuański - liao-hua
 - pierogi - zhuo-jiang
 - pierwotna energia - tong-sa
 - pierwotna natura - chao-kao
@@ -1376,7 +1370,7 @@
 - pierwszy na egzaminie cesarskim - peng-chuo
 - pierś (żeńska) - ri-xu
 - pierścień - bei-xiang
-- pies - kuan
+- pies - gouo
 - pieszo - sui-la
 - pigułka - fu-suan
 - pijać (formalnie) - chong-mi
@@ -1408,10 +1402,10 @@
 - plac - nang-xuan
 - placek, naleśnik - shuo-sou
 - planować - shen-jing
-- plaża - meng-mo
+- plaża - haio-mo
 - plotka, pogłoska - wo-ba
 - plutonowy - o-an
-- pochmurny dzień - lei-peng
+- pochmurny dzień - tiano-peng
 - pochodnia - tai-ti
 - pocieszenie, ukojenie - yin-gai
 - pociąg - yuan-lan
@@ -1424,7 +1418,7 @@
 - początek wiosny - ei-run
 - początek zimy - fo-qiao
 - pod Niebem, świat - san-wang
-- pod wiatr - jie-zhi
+- pod wiatr - fengo-zhi
 - podarować - chuan-sai
 - podbródek - huang-gong
 - poddać się - zou-en
@@ -1442,7 +1436,7 @@
 - podstawowe ćwiczenia - ca-ei-kou
 - poduszka - sha-xue
 - poduszka do siedzenia - zui-dan
-- podwójna tęcza - zhi-mou
+- podwójna tęcza - hongo-mou
 - podwójne haki - lei-zhuan
 - podwładny - hao-pu
 - podziw, uznanie - dai-pai
@@ -1451,7 +1445,7 @@
 - poeta - zao-xiang
 - poezja (formalna) - cong-ni
 - pogardzać - hua-cu
-- pogoda - meng-tui
+- pogoda - qio-tui
 - pogodny dzień - rong-sha
 - pogrzeb - wen-cao
 - poinformować, powiedzieć - ci-cang
@@ -1464,21 +1458,21 @@
 - pokorny sługa (o sobie) - kei-hou
 - pokrzewka - la-tang
 - pokwitowanie - kang-hen
-- pokój - shu
+- pokój - ango-shu
 - pokój medytacji - da-sun
 - pole bitwy - shua-kua
 - pole eliksiru (centrum energii) - weng-zhong
-- pole ryżowe - guan-mou
+- pole ryżowe - fano-mou
 - pole, dzikie pole - man-pu
 - policjant - la-ba
 - policzek - bin-tan
 - polityka - nuo-lun
 - polowanie - zong-xing
 - pomagać - sa
-- pomarańcza/mandarynka - pa-en
+- pomarańcza/mandarynka - guoo-en
 - pomarańczowy - tian-dai
 - pomelo - mao-diu
-- pomidor - pang-den
+- pomidor - caio-den
 - pomniejszać - chuo-dun
 - pomyśleć o, wpaść na pomysł - ruo-ni
 - ponownie - keng-zhuan
@@ -1526,7 +1520,7 @@
 - powstrzymywać - dian-jia
 - powszechny - ci-shi
 - powtarzać - sha-ying
-- powódź - sui-shuang
+- powódź - shuo-shuang
 - powóz konny - xu-chou
 - pozdrawiać - pai-yu
 - pozdrawiać głośno - ying-sa-su
@@ -1598,7 +1592,7 @@
 - przekazać, podać - gou-ai
 - przekazywać - jie-wu
 - przekształcać - jin-wei
-- przekąska, przysmak - bian-chui
+- przekąska, przysmak - fano-chui
 - przemawiać, wygłaszać - e-liao
 - przenosić - nang-wang
 - przepowiednia - mi-cun
@@ -1623,7 +1617,7 @@
 - przyciągnąć - suan-shuo
 - przyczyna - pen-jing
 - przydzielać - ge-sun
-- przygotowywać - rang-diu
+- przygotowywać - jio-diu
 - przyjaciel - sano
 - przyjaźń - xian-cai
 - przyjemność - ei-pa
@@ -1652,11 +1646,11 @@
 - próg - pang-weng
 - pręcik - mang-dai
 - prędkość - yang-tong
-- prędkość wiatru - rui-kuo
-- pszczoła - fu-zou
-- pszenica - cuan-piao
-- ptak - leng
-- ptak latający - fu-xue
+- prędkość wiatru - fengo-kuo
+- pszczoła - mio-zou
+- pszenica - miano-piao
+- ptak - niao
+- ptak latający - niao-xue
 - puchar ceremonialny - jiong-qin
 - punkt - chuai-shang
 - punkt akupunkturowy - yang-nue
@@ -1672,15 +1666,15 @@
 - pustynia - gu-ruo
 - pyszny - gang-piao
 - pytanie i odpowiedź - niao-nong
-- pytać - bu
+- pytać - buo
 - pyton - cu-zhuang
 - pył - chua-rao
-- pyłek kwiatowy - bie-ga
+- pyłek kwiatowy - xie-ga
 - półka, regał - meng-zhui
 - północ - fang-bei
 - północny wschód - fang-bei-dong
 - północny zachód - fang-bei-xi
-- półwysep - tu-lai
+- półwysep - haio-lai
 - późno - gua-wei
 - późny wieczór - gei-fu
 - Pęcherz moczowy (organ TCM) - seng-da
@@ -1688,7 +1682,7 @@
 - pędzel do pisania - jun-rang
 - pędzel i tusz - pa-nong
 - pędzić, gnać - chua-chu
-- płakać, łkać - luan-miu
+- płakać, łkać - beio-miu
 - płaski - cheng-gang
 - płaszcz skórzany - cou-liao
 - płatek - tu-pi
@@ -1699,7 +1693,7 @@
 - pływać - bin
 - pływać dia-ya wietrze i falach - xiu-ken-guan
 - qilin - ka-can
-- radość, szczęście - guan-wang
+- radość, szczęście - huano-wang
 - rafinowanie ducha - ca-cou
 - rafinowanie esencji - bo-zhe
 - rafinowanie miu-du - shui-wu
@@ -1716,7 +1710,7 @@
 - reguła, przepis - pie-tun
 - reinkarnacja - na-rong
 - reishi (grzyb nieśmiertelności) - la-xian
-- rekin - kua-zha
+- rekin - sharo-zha
 - relacja, związek - zan-ren
 - relaksować się - qing-xiong
 - religia - gu-gui
@@ -1724,7 +1718,7 @@
 - restauracja - dia-zhua
 - restaurować - chu-yin
 - rezerwat - hua-wei-hei
-- rezerwować, przygotować z wyprzedzeniem - jiu-shou
+- rezerwować, przygotować z wyprzedzeniem - jio-shou
 - rezultat, skutek - cun-kuang
 - robić - bao
 - robić zakupy - hang-cheng
@@ -1735,8 +1729,8 @@
 - rodzinna wioska/miasto - jiong-seng
 - rok - kang
 - rolnik - nie-juan
-- ronić łzy - luan-zhua
-- ropucha - ca-fen
+- ronić łzy - beio-zhua
+- ropucha - wao-fen
 - rower - ken-ting-diao
 - rozbierać się - san-zei
 - rozbierać, burzyć - cuan-yong
@@ -1744,7 +1738,7 @@
 - rozbity - xing-lie
 - rozciągać, przedłużać - tian-jie
 - rozczarowanie - pa-xuan
-- rozgwiazda - ka-qia
+- rozgwiazda - guango-qia
 - rozkaz wojskowy (tabliczka) - qi-xi
 - rozkazywać - nue-zui
 - rozkojarzony - shuai-meng
@@ -1752,7 +1746,7 @@
 - rozluźniony - geng-nang
 - rozmiar - ce-dian
 - rozmieszczenie (wojsk) - ji-ci
-- rozpacz - dia-dei
+- rozpacz - beio-dei
 - rozpakowywać - sui-jun
 - rozpatrywać - ye-fen
 - rozpocząć podróż - chu-xun
@@ -1762,21 +1756,21 @@
 - rozważać, przemyśleć - ya-chu
 - rozwijać się - piao-na
 - rozwiązać - hou-rui
-- roślina - keng-chui
-- roślina ryżowa - za-sun
+- roślina - caoo-chui
+- roślina ryżowa - caoo-sun
 - rubin - pian-she-nei
 - rumak - ge-shui
 - ryba - dongo
-- ryba mandarynka - ai-kui
-- rybak - hai-seng
+- ryba mandarynka - dongo-kui
+- rybak - haio-seng
 - rynek - bao-shao
 - rytuał, etykieta - miao-ju
-- ryż - dian
-- ryżowar - ceng-ceng-dai
+- ryż - fano
+- ryżowar - fano-dai
 - rzadki - qing-dian
 - rzeczywistość - teng-fa
 - rzeczywisty, faktyczny - shuai-ga
-- rzeka - tuo
+- rzeka - heo
 - rzemieślnik - gong-ren
 - rzemieślnik - ou-xiong
 - rzemiosło - zu-huai
@@ -1793,7 +1787,7 @@
 - rzęsy - lie-nong
 - róg wojenny - zhuan-kua
 - rówieśnik - zuoo-tiano
-- równina - rao-qiang
+- równina - pingo-qiang
 - równonoc jesienna - keng-pai
 - równonoc wiosenna - chao-qia
 - równowaga - hong-zen
@@ -1832,14 +1826,14 @@
 - siedemset - deng-meng
 - siedzieć - ku
 - siedząca medytacja - pa-xie
-- siekać - ban-xie
-- siekać na miazgę - hang-di
+- siekać - qiao-xie
+- siekać na miazgę - qiao-di
 - siekiera - jiang-qia
 - sierp - que-ye
-- siew ziarna - diao-zhua
-- sieć rybacka - gei-chen
+- siew ziarna - miano-zhua
+- sieć rybacka - haio-chen
 - silny - run-zhao
-- silny wiatr - sao-tun
+- silny wiatr - fengo-tun
 - siodło - ei-kei
 - siostra - run
 - siostra cioteczna (starsza) - bai-xiong
@@ -1851,7 +1845,7 @@
 - siłownia - shuai-shuo-niu
 - skakać - lio
 - skarpetki - jie-zhui
-- skała - jing-tian
+- skała - yano-tian
 - sklep - ting-tui
 - sklep spożywczy - cong-kuo-hua
 - sklep z butami - mao-kua
@@ -1870,28 +1864,28 @@
 - skupiony - bu-ba
 - skwar - shai-qi
 - skóra - dang
-- skórka mandarynki - dui-gao
-- skórka owocu - duan-ri
+- skórka mandarynki - guoo-gao
+- skórka owocu - duano-ri
 - składać (papier, tkaninę) - dun-mang
 - smaczny (umami) - jiu-long
 - smak - feng-su
 - smalec - gao-qie
 - smarować (farbą) - qie-wa
 - smażony (stir-fry) - da-wang
-- smażony makaron - da-zou
-- smażyć do sucha - da-cheng
+- smażony makaron - miano-zou
+- smażyć do sucha - shio-cheng
 - smażyć na dużym ogniu - da-dui
 - smażyć warzywa - da-zhuan
 - smocza Pięść - niao-bao
-- smoczy żółw - lian-chan
+- smoczy żółw - guio-chan
 - smok - lian
-- smutek, zmartwienie - ke-zhang
-- smutny - ke-nian
-- soja - rui-huang
+- smutek, zmartwienie - beio-zhang
+- smutny - beio-nian
+- soja - caio-huang
 - sokół treser - cong-wang
-- sos sojowy - que-xiao
-- sosna - pian-jiu
-- sowa - xia-neng-mao
+- sos sojowy - yoo-xiao
+- sosna - songo-jiu
+- sowa - yaoo-mao
 - sparring z partnerem - qiang-tui
 - spać - ka
 - specjalny, szczególny - nuo-ken
@@ -1899,8 +1893,8 @@
 - spierać się - hou-hen
 - spisek, intryga - cun-ze
 - spodnie - ha-shui
-- spokojny - pai
-- spokój - long-zhan
+- spokojny - ango
+- spokój - ango-zhan
 - sport - wan-gang
 - sposób myślenia - zong-kuang
 - sposób, metoda - chai-mie
@@ -1923,7 +1917,7 @@
 - srebrny - liu-ye
 - srebro (jako waluta) - shun-den
 - srebroszary - fu-qia
-- sroka - yue-zha
+- sroka - queo-zha
 - stabilność - qu-ci
 - stabilny, niewzruszony - sheng-liao
 - stacja - fang-zui-lun
@@ -1972,8 +1966,8 @@
 - stół jadalny - shou-bin
 - stęchły - nuan-duan
 - stłumiony - miao-mai
-- sucha energia - ling-sou
-- suchy - si-ge
+- sucha energia - qio-sou
+- suchy - shio-ge
 - sufit - sui-jiang-ju
 - sugestia/potwierdzenie (marker) - ban
 - sui-Tun - keng-cui
@@ -1985,8 +1979,8 @@
 - suma - nang-hui
 - supermarket - shang-diao
 - surna - ei-pang
-- surowy - pa-que
-- susza - lue-tian
+- surowy - sheng
+- susza - hano-tian
 - suszyć na słońcu - yun-xiong
 - sweter - tuan-shua
 - swędzieć - xian-gai
@@ -1994,16 +1988,16 @@
 - symptom - guan-mie
 - syn - eng-chuai
 - syn Niebios (tytuł władcy) - mei-ta
-- syndrom gorąca - pie-mian
+- syndrom gorąca - qio-mian
 - syndrom nadmiaru - che-ao
 - syndrom niedoboru - ni-lian
-- syndrom zimna - tan-tong
+- syndrom zimna - qio-tong
 - sypialnia - duo-wan
-- syriusz (gwiazda) - pin-ao
+- syriusz (gwiazda) - guango-ao
 - system korzeniowy - que-bian
 - sytuacja, okoliczności - nie-zhuai
 - szabla, miecz - fen-mai
-- szacunek - shou-cao
+- szacunek - rongo-cao
 - szafa - eng-shu
 - szafir - sang-te-geng
 - szale - ga-cong
@@ -2018,12 +2012,12 @@
 - szarża - chu-fang
 - szczególny - wu-nu
 - szczegółowy - zhun-sang
-- szczur - ca-fu
+- szczur - rao-fu
 - szczypce - tang-bai
 - szczypior - pian-cuan
 - szczyt góry - si-hou
-- szczęście - ca-zang
-- szczęśliwy, wesoły - mang-tai
+- szczęście - huano
+- szczęśliwy, wesoły - huano-tai
 - szef - wu-jia
 - szelest - zhen-ba
 - szeptać - gong-qiao
@@ -2048,7 +2042,7 @@
 - szpik kostny - kuang-liang
 - szpilka - chen-bei
 - szpilka do włosów - jiong-kuan
-- szpinak - muo-kao
+- szpinak - caio-kao
 - szpital - ke-zha
 - szron - ling-zong
 - sztabka srebra - gan-bing
@@ -2067,19 +2061,18 @@
 - szyja - eng-jin
 - szyk bojowy - lu-bing
 - szósty - zai-ji
-- sól - fengo
 - sądzić, proces - zen-fu
 - sąsiad - biao-huai
 - sędzia - nen-jun
 - słaby - han
 - sławny - dong-zei
 - słodki - jun
-- słodki sos fasolowy - tou-diao-xin
+- słodki sos fasolowy - yoo-xin
 - słodko-kwaśne - kao-bo
 - słony - kao
 - słowo - jian-ye
-- słoń - xiang
-- słońce - yin
+- słoń - xio
+- słońce - guango
 - słuch - zhui-ai
 - słuchacz - chuo-zui
 - słuchanie siły - mian-lou
@@ -2088,7 +2081,7 @@
 - taca do herbaty - shuang-mao
 - taczka - xu-gan-dei
 - tajemniczy - gai-zhai
-- tajfun - jiao-chou
+- tajfun - fengo-chou
 - tak - en
 - taki sam - an-nao
 - taktyka - mao-xie
@@ -2118,7 +2111,7 @@
 - techniki ręczne - hui-guai
 - tekstura - he-fou
 - telewizja - hang-gun
-- temperatura - can-keng
+- temperatura - weno-keng
 - ten - chai-cen
 - teoria - pian-chua
 - teoria Pięciu Elementów - cheng-ni-pai
@@ -2131,13 +2124,13 @@
 - też - yueo
 - tkacz - sa-liu
 - tkać tkaninę - jun-sang
-- tofu - de-zha
+- tofu - caio-zha
 - tolerancyjny, wyrozumiały - la-seng
 - topaz - tai-dou
 - topnienie - niao-pan
 - torba, worek - cao-gou
 - torebka zapachowa - cun-li
-- tornado - luan-lou-de
+- tornado - fengo-de
 - towary - shai-ju
 - towarzysko obcować - quan-zhuang
 - towarzysz - mie-mi
@@ -2156,7 +2149,7 @@
 - trudno powiedzieć - jian-yan-pei
 - trudny - laio
 - trujący grzyb - nei-sui
-- truskawka - zhang-le
+- truskawka - guoo-le
 - trzask, łoskot - tuo-lao-suan
 - trzeci - se-duan
 - trzy - cen-cao
@@ -2165,10 +2158,10 @@
 - trzydzieści - chen-yue
 - trzymaj się! Dalej! - nuan-shan
 - trzymać - chu
-- trzęsienie ziemi - lei-nuan
+- trzęsienie ziemi - zheno-nuan
 - trójkątny - gua-lan-wai
 - trąba powietrzna - ceng-ha
-- tsunami - niu-qu
+- tsunami - haio-qu
 - Turniej Boskiego Cesarza - lue-zhuan
 - tusz - gu-chua
 - tusz w sztabce - sha-wei
@@ -2178,7 +2171,7 @@
 - twardy - jino
 - twierdza - hen-sen
 - tworzyć - ze
-- ty - ni
+- ty - nio
 - tydzień - qie-ban
 - tyka, drążek - miu-nin
 - tykwa - keng-reng
@@ -2187,10 +2180,10 @@
 - tymczasowy - luo-gai
 - tysiąc - tang-nin
 - tysięcznik - fang-jin
-- tęcza - pang-ang
+- tęcza - hongo-ang
 - tęsknić za - lei-zhen
 - tłumacz - nei-he-ren
-- tłuste mięso - rao-zeng
+- tłuste mięso - rouo-zeng
 - ubierać się - jie-fo
 - ubolewać - nai-zi
 - ubranie - hang
@@ -2218,9 +2211,9 @@
 - ukończyć - lei-zhuai
 - ukośna w lewo - nin-ding
 - ukryta broń - niang-ning
-- ukryty smok, czający się tygrys (idiom) - yao-ning-ge
+- ukryty smok, czający się tygrys (idiom) - tigo-ge
 - ukryć - cun
-- ulewny deszcz - qi-pang
+- ulewny deszcz - yuo-pang
 - ulica - ke-chi
 - ulka, dzban - nun-jiao
 - umiejętność, wysiłek, kung cuan-se - gang-bin
@@ -2243,7 +2236,7 @@
 - uroczo piękny - qiang-kou
 - uroczy, słodki - niang-zou
 - urodziny - ren-nong
-- urwisko - en-xiang
+- urwisko - yao-xiang
 - urzędnik - ga-mie
 - urzędnik departamentu - miao-rou-kua
 - uspokojony - qian-shen
@@ -2256,7 +2249,6 @@
 - uzyskać - yin-wen
 - uśmiechać się - tao-bin
 - użyj miękkości, aby pokonać twardość - ci-die
-- używać - yuo
 - w dół - yang-sa
 - w końcu - qian-zang
 - w ogóle - shi-ben
@@ -2270,7 +2262,7 @@
 - walka - luo-di
 - wapień - nano-hong
 - wartość - chao-guan
-- warzywo - fango
+- warzywo - caio
 - wasza Wysokość - jie-chuo
 - ważka - dan-nan
 - ważność - nie-nai-mai
@@ -2280,7 +2272,7 @@
 - wczoraj - gong-de
 - wdzięczność (głęboka) - mi-ben
 - według, na podstawie - zhuang-wei
-- wega (tkaczka, gwiazda) - mie-die
+- wega (tkaczka, gwiazda) - guango-die
 - wejść - xu
 - weranda - chuan-jiu
 - wewnątrz - eng-den
@@ -2295,7 +2287,7 @@
 - wiadomość, informacja - shuang-zhan
 - wiadro - xiaoo-lou
 - wiara, przekonanie - te-teng
-- wiatr - zai
+- wiatr - fengo
 - wicegenerał - kao-en
 - wicehrabia - ruo-zei
 - wiceminister - ta-song
@@ -2319,8 +2311,8 @@
 - wielki Wóz (konstelacja) - sou-zai
 - wielokrotnie powtarzać - ding-ke
 - wielokątny - cuan-zhui
-- wieloryb - yang-kai
-- wieprzowina - rua-cai
+- wieloryb - haio-kai
+- wieprzowina - rouo-cai
 - wierność, lojalność - mo-chou
 - wiertło - cong-piao
 - wierzba - zhun-nin
@@ -2328,25 +2320,25 @@
 - wierzyć - yi-peng
 - wieszać, zawieszać - hun-long
 - wieś - chan-di
-- wilgotna energia - neng-zui
-- wilgotny, mokry - bing-wai
-- wilk - yao-lie
+- wilgotna energia - qio-zui
+- wilgotny, mokry - shio-wai
+- wilk - laio-lie
 - willa - bie-peng
 - winny - xiong-ruan
 - wino - geng
-- winogrona - xun-lian
+- winogrona - geng-lian
 - wioska - tui
 - wiosna - gei-bao
 - wisiorek z jadeitu - duo-gu
 - więc - suo
 - więcej - shun-qin
 - więzienie - rong-qie
-- wiśnia - quan-long
+- wiśnia - guoo-long
 - wkrótce, za chwilę - chuang-hun
 - wnuczka - mang-han
 - wnuk (od córki) - biao-deng
 - woda - zhe
-- wodospad - gou-liao
+- wodospad - puo-liao
 - wojna - nano-zun
 - wojownik - chai-hun
 - wojsko (dosł. żołnierze i konie) - qi-xiao
@@ -2355,13 +2347,13 @@
 - wolna walka - xia-zou
 - wolność - nano-miao
 - wolny - geio
-- wołowina - yuan-piao
+- wołowina - rouo-piao
 - wpływ - zao-ding
 - wracać - cu
 - wrona - ju-kuo
 - wrzeszczeć - nong-bie
-- wrzątek, gotowana woda - zhan-heng
-- wróbel - zhua-ju
+- wrzątek, gotowana woda - zhe-heng
+- wróbel - queo-ju
 - wrócić (tam) - kuai-ku
 - wróg - sao
 - wróżbiarstwo - tian-hen
@@ -2388,10 +2380,10 @@
 - wszystko - wano
 - wujek (brat matki) - cai-ken
 - wujek-mistrz (młodszy brat mistrza) - kuan-kuan
-- wulkan - du-ying
+- wulkan - huoo-ying
 - wy - lei
 - wybierać - dan
-- wybrzeże - yun-qin
+- wybrzeże - haio-qin
 - wybór, selekcja - pian-feng
 - wychodzić (z kimś) - nang-zhai
 - wycierać - you-bing
@@ -2422,13 +2414,13 @@
 - wyrzucić - ge-tan
 - wysoki - gen
 - wysokość - gen-du
-- wyspa - nei-mei
-- wyspa morska - lou-dang
+- wyspa - haio-mei
+- wyspa morska - haio-dang
 - wysyłać - gong-ce
 - wysyłać list - ji-diao
 - wysłannik - yu-ga
 - wytrwałość, trwać - zhuang-en
-- wytrzeć do sucha - fo-sun
+- wytrzeć do sucha - shio-sun
 - wyzwanie - che-ze
 - wzdychać - liao-qiao
 - wziąć - du
@@ -2452,7 +2444,7 @@
 - wąskohoryzontalny - bei-den
 - wąskość - jian-du
 - wąwóz - wu-ding
-- wąż - cu-xie
+- wąż - sheo-xie
 - węch - ao-ha
 - wędka - kuang-ce
 - wędrować, zwiedzać - lian-cong
@@ -2469,7 +2461,7 @@
 - yu-hua (język) - yu-hua
 - z przodu - ma-ti
 - z tyłu - dong-chang
-- z wiatrem - liu-bi
+- z wiatrem - fengo-bi
 - za każdym razem - nuo-er
 - zaatakować - jian-nan
 - zabawka - ca-mi
@@ -2481,10 +2473,10 @@
 - zachód słońca - yin-dia
 - zachęcać - bin-ze
 - zacząć - te
-- zadowolenie, satysfakcja - jie-kui
-- zadowolony - miao-zhang
+- zadowolenie, satysfakcja - huano-kui
+- zadowolony - huano-zhang
 - zagajnik - ding-suo
-- zagajnik bambusowy - men-gei
+- zagajnik bambusowy - zhuo-gei
 - zagubienie, konfuzja - dia-hen
 - zainteresowany - chan-gan-duan
 - zakazywać - ru-lian
@@ -2496,7 +2488,7 @@
 - zamiatać - luan-xia
 - zamiatać podłogę - pen-xin
 - zamieć - shuo-yin
-- zamknąć - ta
+- zamknąć - tao
 - zamknąć na klucz - sao-que
 - zamęt umysłowy - ying-ke
 - zanieczyszczenie - dou-ci-wu
@@ -2527,7 +2519,7 @@
 - zastępować - nei-ping
 - zasłona, namiot - lie-luan
 - zasługa wojenna - hou-fen
-- zatoka - mie-ri
+- zatoka - haio-ri
 - zatrucie - yin-ne
 - zatrzymać - zuo-huan
 - zatwierdzać - nano-juan
@@ -2570,24 +2562,24 @@
 - zgadywanie zagadek - zu-zai
 - zgadzać się - ge-nuo
 - zgubić - muo-dia
-- zielona herbata - kuai-lao
-- zielona trawa - nano-liu
+- zielona herbata - gango-lao
+- zielona trawa - xino-liu
 - zielone warzywa - nano-qie
 - zielony - nano
 - ziemia - yan
-- ziemia orna - run-rui
-- ziemniak - zhao-dun
+- ziemia orna - diio-rui
+- ziemniak - caio-dun
 - zima - nen-jing
-- zimna energia - yin-bao
-- zimna rosa - gen-jiao
-- zimny - fei
+- zimna energia - qio-bao
+- zimna rosa - wuo-jiao
+- zimny - weno-fei
 - zimorodek - en-luan
 - zioła lecznicze - shuan-zu
 - zirytowany, zdenerwowany - dan-biao
 - zięć - jiong-gong
 - zjednoczone Trony Wschodu - bie-meng
 - zmartwienie, niepokój - chuo-niang
-- zmiana klimatu - zi-dao-na
+- zmiana klimatu - qio-dao-na
 - zmieniać - yue-you
 - zmieniać się - yao-ying
 - zmienić - dai
@@ -2612,10 +2604,10 @@
 - zupa - qun-te
 - zwalniać - kuo-heng
 - zwichnięcie - gang-gou
-- zwierzę domowe - tao-bao
-- zwierzęta - mang-kao-xiang
-- zwierzęta wymarłe - pen-nuo-lian
-- zwierzęta zagrożone - die-zhao-cheng
+- zwierzę domowe - dongo-bao
+- zwierzęta - dongo-xiang
+- zwierzęta wymarłe - dongo-lian
+- zwierzęta zagrożone - dongo-cheng
 - zwijać - lin-pa
 - zwiększać - chun-man
 - zwycięstwo - a-qian
@@ -2630,13 +2622,13 @@
 - złamanie - za-ru
 - złamać - kun-eng
 - złapać - chio
-- złota rybka - dan-che
+- złota rybka - dongo-che
 - złotnik - sui-sang
 - złoto - huaio
 - złotożółty - nou-chou
 - złoty dzwon (technika) - nou-gu-nu
 - złoty eliksir - nou-run
-- zły - dei
+- zły - nuo
 - ósmy - na-zhui
 - ćwiczyć, praktykować - rang-gun
 - ćwierkanie - mi-li
@@ -2646,12 +2638,12 @@
 - łatwy - kuo
 - łańcuch - qiao-zuan
 - łoskot, huk - chuang-rui
-- łowić ryby - tan-wei
+- łowić ryby - haio-wei
 - łowy - qi-niao
 - łucznicy - ei-tan
 - łuk - bian
 - łyżka - nuo-zhun
-- łódź rybacka - nun-men
+- łódź rybacka - haio-men
 - łóżko - zhai-lie
 - łączyć, jednoczyć - duo-mian
 - ściana - ling-dian
@@ -2667,8 +2659,8 @@
 - śmiertelny wróg - qiu-xin
 - śmierć - weng-qing
 - śmieć - zeng-reng
-- śniadanie - nuan-sang
-- śnieg - zei
+- śniadanie - fano-sang
+- śnieg - xueo
 - śpiewać - song-ye
 - średni - zhi-re
 - środek, umiarkowanie - mei-chi
@@ -2677,25 +2669,25 @@
 - świadek - shuan-ti
 - świat - fa-gu
 - świat ludzi - zhan-fa-bian
-- świat zwierząt - lin-xie-re
+- świat zwierząt - dongo-re
 - światło słoneczne - ce-wo
 - świeca - muo-ling
 - świecznik - shun-pin
-- świerszcz - nin-reng
+- świerszcz - shuo-reng
 - świetlik - dai-die-xiang
 - świeżo pachnący - jiong-peng
 - świeży - miao-seng
-- świnia - dun-zhun
-- świst wiatru - ling-ni
+- świnia - tuno-zhun
+- świst wiatru - fengo-ni
 - świt - chang-man
 - świątynia taoistyczna - he-she
 - świątynia, sanktuarium - kei-qu
 - święto - dia-long
 - źrebię - bian-kang
-- źródło - bian-seng
+- źródło - yuano-seng
 - żaglowiec - chu-mang
-- żal, skrucha - kan-mou
-- żałoba, głęboki smutek - ke-shuo
+- żal, skrucha - beio-mou
+- żałoba, głęboki smutek - beio-shuo
 - żelazna dłoń - duo-gua-bao
 - żeń-szeń - heng-gao
 - żniwa - zhen-zhe
@@ -2711,7 +2703,7 @@
 - żyć - qio
 - żółty - nou
 - żółty ziemisty - nou-gang
-- żółw - xing-yao
-- żółw błotny - cao-cuan
-- żółwia prędkość - yang-ang
+- żółw - guio-yao
+- żółw błotny - guio-cuan
+- żółwia prędkość - guio-ang
 - żądać - dian-quan
