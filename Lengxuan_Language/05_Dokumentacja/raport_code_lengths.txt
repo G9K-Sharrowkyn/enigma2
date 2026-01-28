@@ -1,0 +1,18 @@
+CODE LENGTH ANALYSIS - LENGXUAN DICTIONARY
+================================================================================
+
+Date: 2026-01-28
+Total entries: 2718
+Max length: 15 characters
+Average length: 7.2 characters
+
+LENGTH DISTRIBUTION:
+  Short (1-10): 2588
+  Medium (11-20): 130
+  Long (21-30): 0
+  Very Long (31+): 0
+
+SYLLABLE DISTRIBUTION:
+  1 syllable(s): 299
+  2 syllable(s): 2259
+  3 syllable(s): 160
