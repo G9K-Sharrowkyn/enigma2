@@ -129,11 +129,15 @@ Examples:
 
 ### Automated Tools Available:
 
-1. **`verify_identity.py`** - Check dictionary synchronization
-2. **`find_semantic_inconsistencies.py`** - Find words that should share roots
-3. **`find_color_inconsistencies.py`** - Verify color family consistency
-4. **`apply_all_semantic_fixes.py`** - Apply systematic corrections
-5. **`fix_all_colors.py`** - Unify color families
+1. **`verify_identity.py`** ✅ - Check dictionary synchronization
+2. **`check_chinese_contamination.py`** ✅ - Verify no overlap with Chinese words
+3. **`analyze_code_lengths.py`** ✅ - Check code length limits
+4. **`find_semantic_inconsistencies.py`** ✅ - Find words that should share roots
+5. **`find_color_inconsistencies.py`** 🔜 - Verify color family consistency
+6. **`apply_all_semantic_fixes.py`** 🔜 - Apply systematic corrections
+7. **`fix_all_colors.py`** 🔜 - Unify color families
+
+✅ = Available now | 🔜 = Planned
 
 ---
 
@@ -221,7 +225,32 @@ in case/                   # Automatic backups
 
 ### Known Parsing Issues
 - Terminal wrapping can break long idiom descriptions
-- Fixed by removing lines where code contains `(idiom` or uppercase letters
+- ~~Fixed by removing lines where code contains `(idiom` or uppercase letters~~
+- **✅ VERIFIED**: No codes contain `(idiom` or uppercase letters (except 2 proper names)
+- All dictionary entries are properly formatted
+
+---
+
+## Quality Reports
+
+### Comprehensive Analysis (Jan 28, 2026)
+
+📊 **[Read Full Quality Report](Lengxuan_Language/05_Dokumentacja/comprehensive_quality_report.md)**
+
+**Key Findings:**
+- ✅ **Dictionary Sync**: 100% - Perfect synchronization (2,718 entries)
+- ✅ **Code Lengths**: 100% - All codes within optimal limits (max 15 chars)
+- ✅ **Homonymy**: 100% - Zero duplicates maintained
+- ⚠️ **Chinese Overlap**: 76 single-syllable matches with Chinese - needs policy decision
+- ⚠️ **Semantic Consistency**: 65% - 293 words need semantic organization (8 groups)
+
+**Overall Quality Score: 85%**
+
+### Individual Reports Available:
+- `raport_identity.txt` - Dictionary synchronization verification
+- `raport_code_lengths.txt` - Length and syllable analysis
+- `raport_chinese_contamination.txt` - Chinese word overlap analysis
+- `raport_semantic_inconsistencies.txt` - Semantic family consistency check
 
 ---
 
@@ -243,32 +272,34 @@ This is a fictional language created for literary purposes. Free to use for non-
 
 ### For Dictionary Maintenance:
 ```bash
+cd Lengxuan_Language/06_Narzedzia/
+
 # Verify both dictionaries are identical
-python verify_identity.py
+python3 verify_identity.py
+
+# Check for Chinese word contamination
+python3 check_chinese_contamination.py
+
+# Analyze code lengths
+python3 analyze_code_lengths.py
 
 # Find semantic inconsistencies
-python find_semantic_inconsistencies.py
-
-# Find color inconsistencies  
-python find_color_inconsistencies.py
-
-# Apply fixes (after review)
-python apply_all_semantic_fixes.py
-python fix_all_colors.py
+python3 find_semantic_inconsistencies.py
 ```
 
 ### For Adding New Words:
-```python
-# 1. Check if semantic family exists
-python -c "
-lp_path = 'Lengxuan_Language/03_Slownik/slownik_lengxuan_polski.new.md'
-search_term = 'your_meaning'
-# Search logic here
-"
+```bash
+cd Lengxuan_Language/06_Narzedzia/
 
-# 2. Add to both dictionaries
+# 1. Check if semantic family exists
+python3 find_semantic_inconsistencies.py
+
+# 2. Add to both dictionaries manually
+# Edit: 03_Slownik/slownik_lengxuan_polski.new.md
+# Edit: 03_Slownik/slownik_polski_lengxuan.new.md
+
 # 3. Run verification
-python verify_identity.py
+python3 verify_identity.py
 ```
 
 ---

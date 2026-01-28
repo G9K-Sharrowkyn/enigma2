@@ -1,0 +1,818 @@
+SEMANTIC INCONSISTENCIES - LENGXUAN DICTIONARY
+================================================================================
+
+Date: 2026-01-28
+
+
+COLORS (27 words)
+================================================================================
+
+INCONSISTENT: 11 different roots
+
+
+[nou] - 6 words:
+  nou - żółty
+  nou-chou - złotożółty
+  nou-gang - żółty ziemisty
+  nou-gu-nu - złoty dzwon (technika)
+  nou-run - złoty eliksir
+  nou-zhang-huan - dorsz żółty
+
+[mao] - 4 words:
+  mao - czerwony
+  mao-ban - czerwony ptak (kierunek południe)
+  mao-chuang - jasnoczerwony
+  mao-gen - ciemnoczerwony
+
+[mei] - 4 words:
+  mei - czarny
+  mei-bu - kruk czarny
+  mei-da - czarny wojownik (kierunek północ), żółw i wąż
+  mei-pei - niedźwiedź czarny
+
+[nan] - 3 words:
+  nan - zielony
+  nan-liu-li - ciemnozielony
+  nan-tun - jaskrawozielony
+
+[fu] - 2 words:
+  fu-qia - srebroszary
+  fu-qiong - szary
+
+[miu] - 2 words:
+  miu - biały
+  miu-zen - biały tygrys
+
+[nao] - 2 words:
+  nao - niebieski
+  nao-ling - ciemnoniebieski
+
+[chai] - 1 words:
+  chai-shun - brązowy
+
+[en] - 1 words:
+  en-zong - fioletowy
+
+[mi] - 1 words:
+  mi-kei - różowy
+
+[tian] - 1 words:
+  tian-dai - pomarańczowy
+
+COOKING/FOOD (33 words)
+================================================================================
+
+INCONSISTENT: 19 different roots
+
+
+[mou] - 10 words:
+  mou-ba - gotować ponownie
+  mou-dan - gotować na parze
+  mou-jia - gotować w wodzie
+  mou-jing - gotować ryż
+  mou-kang - gotowany na parze
+  mou-kua - gotować na parze bułeczki
+  mou-pa - gotować wodę
+  mou-sheng - gotowany ryż
+  mou-tao - gotowany, ugotowany
+  mou-wen - gotować
+
+[da] - 6 words:
+  da-cheng - smażyć do sucha
+  da-dui - smażyć na dużym ogniu
+  da-ri - szybko smażyć
+  da-wang - smażony (stir-fry)
+  da-zhuan - smażyć warzywa
+  da-zou - smażony makaron
+
+[bie] - 1 words:
+  bie-zhu - piechota
+
+[bin] - 1 words:
+  bin-jin - piec, grillować
+
+[den] - 1 words:
+  den-sang - kupiec
+
+[diao] - 1 words:
+  diao-eng - bezpieczeństwo
+
+[fo] - 1 words:
+  fo-yuan - podróżny kupiec
+
+[gen] - 1 words:
+  gen-hen-jiang - bezpiecznej podróży
+
+[ji] - 1 words:
+  ji-deng - jedzenie
+
+[jiu] - 1 words:
+  jiu-shou - rezerwować, przygotować z wyprzedzeniem
+
+[lang] - 1 words:
+  lang-xia - dusić w sosie
+
+[nuan] - 1 words:
+  nuan-sang - śniadanie
+
+[piao] - 1 words:
+  piao-chong - niebezpieczeństwo
+
+[rong] - 1 words:
+  rong-pai - pieczony
+
+[she] - 1 words:
+  she-nei - kryzys, niebezpieczeństwo
+
+[tian] - 1 words:
+  tian-xing - obiad
+
+[ying] - 1 words:
+  ying-gui - pieczęć
+
+[zhe] - 1 words:
+  zhe-ni - kolacja
+
+[zong] - 1 words:
+  zong-ting - dusić powoli
+
+DIRECTIONS (22 words)
+================================================================================
+
+INCONSISTENT: 21 different roots
+
+
+[mao] - 2 words:
+  mao-ban - czerwony ptak (kierunek południe)
+  mao-chi - północny wschód
+
+[bao] - 1 words:
+  bao-zei - lazurowy smok (kierunek wschód)
+
+[chan] - 1 words:
+  chan-tao - dokładnie północ
+
+[chao] - 1 words:
+  chao-mo - wschód
+
+[che] - 1 words:
+  che-tao - północ
+
+[dang] - 1 words:
+  dang-sen - południowy wschód
+
+[en] - 1 words:
+  en-ei - kierunek wiatru
+
+[gou] - 1 words:
+  gou-ka - zachód
+
+[he] - 1 words:
+  he-sang - przed południem
+
+[keng] - 1 words:
+  keng-la - wschód słońca
+
+[kuan] - 1 words:
+  kuan-han - kierunek
+
+[mei] - 1 words:
+  mei-da - czarny wojownik (kierunek północ), żółw i wąż
+
+[pu] - 1 words:
+  pu-miao - południe
+
+[re] - 1 words:
+  re-nong - dokładnie wschód
+
+[shuai] - 1 words:
+  shuai-fang - popołudnie
+
+[sou] - 1 words:
+  sou-fei - dokładnie południe
+
+[ya] - 1 words:
+  ya-piao - dokładnie zachód
+
+[yi] - 1 words:
+  yi-fo - północny zachód
+
+[yin] - 1 words:
+  yin-dia - zachód słońca
+
+[zeng] - 1 words:
+  zeng-niu-miu - uderzenie z fintą (wschód-zachód)
+
+[zhuang] - 1 words:
+  zhuang-mi - południowy zachód
+
+EMOTIONS (20 words)
+================================================================================
+
+INCONSISTENT: 17 different roots
+
+
+[ke] - 3 words:
+  ke-nian - smutny
+  ke-shuo - żałoba, głęboki smutek
+  ke-zhang - smutek, zmartwienie
+
+[qu] - 2 words:
+  qu-san - miłość romantyczna
+  qu-zhou - miłość (rzeczownik)
+
+[ca] - 1 words:
+  ca-zang - szczęście
+
+[chan] - 1 words:
+  chan-kou - emocja (rzeczownik)
+
+[dei] - 1 words:
+  dei - zły
+
+[en] - 1 words:
+  en-pang - przestraszony
+
+[guan] - 1 words:
+  guan-wang - radość, szczęście
+
+[hua] - 1 words:
+  hua-lan - pielęgnować uczucie
+
+[huo] - 1 words:
+  huo-pie - uczucie (dotyk)
+
+[jun] - 1 words:
+  jun-tuo - uczucie rodzinne
+
+[mang] - 1 words:
+  mang-tai - szczęśliwy, wesoły
+
+[miao] - 1 words:
+  miao-zhang - zadowolony
+
+[nue] - 1 words:
+  nue-han - niezły, dobry
+
+[ri] - 1 words:
+  ri-xun - nienawiść (rzeczownik)
+
+[ru] - 1 words:
+  ru-she - strach (rzeczownik)
+
+[sha] - 1 words:
+  sha-hou - maitreya (przyszły budda)
+
+[song] - 1 words:
+  song-dun - gniew
+
+FAMILY (29 words)
+================================================================================
+
+INCONSISTENT: 28 different roots
+
+
+[bai] - 2 words:
+  bai-xiong - siostra cioteczna (starsza)
+  bai-zou - przysięgły brat
+
+[ao] - 1 words:
+  ao-duo - przysięgła siostra
+
+[cai] - 1 words:
+  cai-ken - wujek (brat matki)
+
+[che] - 1 words:
+  che-ao - syndrom nadmiaru
+
+[cu] - 1 words:
+  cu-ran - babcia od ojca
+
+[dan] - 1 words:
+  dan-shun - babcia
+
+[dui] - 1 words:
+  dui-bai-suan - dziadek
+
+[ei] - 1 words:
+  ei-ma - babcia od matki
+
+[eng] - 1 words:
+  eng-chuai - syn
+
+[gen] - 1 words:
+  gen-da - brat cioteczny (młodszy)
+
+[gui] - 1 words:
+  gui-liang - córka
+
+[he] - 1 words:
+  he-zhuan - ciocia (siostra ojca)
+
+[kuan] - 1 words:
+  kuan-kuan - wujek-mistrz (młodszy brat mistrza)
+
+[kuang] - 1 words:
+  kuang-kai - siostra stryjeczna (młodsza)
+
+[lang] - 1 words:
+  lang-ku - ciotka (siostra ojca)
+
+[lian] - 1 words:
+  lian-chuan - książę (syn króla)
+
+[mei] - 1 words:
+  mei-ta - syn niebios (tytuł władcy)
+
+[miao] - 1 words:
+  miao-xuan - rodzina od żony
+
+[ni] - 1 words:
+  ni-lian - syndrom niedoboru
+
+[pi] - 1 words:
+  pi-guo - żona wujka
+
+[pie] - 1 words:
+  pie-mian - syndrom gorąca
+
+[quan] - 1 words:
+  quan-xun - starsza siostra
+
+[rou] - 1 words:
+  rou - ojciec
+
+[rua] - 1 words:
+  rua - matka
+
+[rui] - 1 words:
+  rui - brat
+
+[run] - 1 words:
+  run - siostra
+
+[ruo] - 1 words:
+  ruo - rodzina
+
+[tan] - 1 words:
+  tan-tong - syndrom zimna
+
+MEDICAL/BODY (69 words)
+================================================================================
+
+INCONSISTENT: 62 different roots
+
+
+[ci] - 2 words:
+  ci-die - użyj miękkości, aby pokonać twardość
+  ci-ge - pacjent
+
+[jue] - 2 words:
+  jue-kao - ludzkość
+  jue-keng - pokolenie (starsze/młodsze)
+
+[mian] - 2 words:
+  mian-lue - choroba (formalne)
+  mian-pai - kość słoniowa
+
+[si] - 2 words:
+  si - wznieść się wysoko
+  si-mo - chusta, szal
+
+[xiang] - 2 words:
+  xiang-dong - ból zęba
+  xiang-kong - niespokojny
+
+[xun] - 2 words:
+  xun-cui - tradycyjna medycyna chińska
+  xun-rang - lekarz
+
+[yang] - 2 words:
+  yang-ang - żółwia prędkość
+  yang-tong - prędkość
+
+[ang] - 1 words:
+  ang-ran - ból
+
+[beng] - 1 words:
+  beng-kan - niskość
+
+[bin] - 1 words:
+  bin-gua - umysł duchowy
+
+[cai] - 1 words:
+  cai - podnosić
+
+[can] - 1 words:
+  can-quan - blokować
+
+[cang] - 1 words:
+  cang - ręka
+
+[chai] - 1 words:
+  chai - noga
+
+[chao] - 1 words:
+  chao - głowa
+
+[chen] - 1 words:
+  chen - oko
+
+[cheng] - 1 words:
+  cheng-lu - wznosić (budowlę)
+
+[chou] - 1 words:
+  chou - ucho
+
+[chua] - 1 words:
+  chua - nos
+
+[chui] - 1 words:
+  chui - usta
+
+[chuo] - 1 words:
+  chuo - serce
+
+[cong] - 1 words:
+  cong - krew
+
+[cuan] - 1 words:
+  cuan - kość
+
+[dang] - 1 words:
+  dang - skóra
+
+[duan] - 1 words:
+  duan-cuan - nerka (organ)
+
+[fu] - 1 words:
+  fu-diu - jego wysokość (cesarz)
+
+[gen] - 1 words:
+  gen-du - wysokość
+
+[guan] - 1 words:
+  guan-dou - kapusta chińska
+
+[ha] - 1 words:
+  ha-cou - pokonać
+
+[hou] - 1 words:
+  hou-fu - krótkość
+
+[hua] - 1 words:
+  hua-sha - pokorny ja (skromność)
+
+[hun] - 1 words:
+  hun-re - ból brzucha
+
+[jian] - 1 words:
+  jian-du - wąskość
+
+[jie] - 1 words:
+  jie-chuo - wasza wysokość
+
+[ke] - 1 words:
+  ke-za - miu-du i krew
+
+[kei] - 1 words:
+  kei-hou - pokorny sługa (o sobie)
+
+[kuo] - 1 words:
+  kuo-jiong - żołądek (organ)
+
+[liang] - 1 words:
+  liang-miao - patogen suchości
+
+[liao] - 1 words:
+  liao-ca - krokodyl
+
+[ming] - 1 words:
+  ming-en - jakość
+
+[nang] - 1 words:
+  nang-wang - przenosić
+
+[ne] - 1 words:
+  ne-suo - ból głowy
+
+[nie] - 1 words:
+  nie-zhuai - sytuacja, okoliczności
+
+[ning] - 1 words:
+  ning-kua - około
+
+[pai] - 1 words:
+  pai - spokojny
+
+[pin] - 1 words:
+  pin-ba - serce-umysł
+
+[qian] - 1 words:
+  qian-shen - uspokojony
+
+[ren] - 1 words:
+  ren-ban - płuco (organ tcm)
+
+[rui] - 1 words:
+  rui-kuo - prędkość wiatru
+
+[ruo] - 1 words:
+  ruo-nie - nosorożec
+
+[sen] - 1 words:
+  sen - liczba mnoga (marker)
+
+[shui] - 1 words:
+  shui - cienkość
+
+[sou] - 1 words:
+  sou-zhui - ból pleców
+
+[tang] - 1 words:
+  tang-lu - rękawiczki
+
+[wu] - 1 words:
+  wu-que - mięsień
+
+[xi] - 1 words:
+  xi - aspekt dokonany (marker)
+
+[xia] - 1 words:
+  xia-fo - krewni od męża
+
+[yin] - 1 words:
+  yin-beng - niepokoić, przeszkadzać
+
+[yun] - 1 words:
+  yun-bing - lekkość/ciężkość
+
+[zen] - 1 words:
+  zen-zen - szerokość
+
+[zhang] - 1 words:
+  zhang-ji - cang-sou ze skrzyżowanymi nogami
+
+[zhua] - 1 words:
+  zhua-lun - krewetka
+
+PROFESSIONS (26 words)
+================================================================================
+
+INCONSISTENT: 17 different roots
+
+
+[ma] - 9 words:
+  ma-cha - uczeń, adept
+  ma-chuo - wielki nauczyciel (tytuł)
+  ma-kuang - zewnętrzny uczeń
+  ma-nan - wewnętrzny uczeń
+  ma-nian - nauczyciel pięściarstwa
+  ma-ren - nauczyciel
+  ma-rong - uczeń osobisty
+  ma-sen - współuczeń (ogólnie)
+  ma-xie - starszy współuczeń (mężczyzna)
+
+[hua] - 2 words:
+  hua-ren - malarz
+  hua-ze - zwój malarzy
+
+[ban] - 1 words:
+  ban-gou - muzyk
+
+[chai] - 1 words:
+  chai-hun - wojownik
+
+[chi] - 1 words:
+  chi-qia-zui - filozof
+
+[den] - 1 words:
+  den-sang - kupiec
+
+[dui] - 1 words:
+  dui-chang-shuai - historyk
+
+[fo] - 1 words:
+  fo-yuan - podróżny kupiec
+
+[gong] - 1 words:
+  gong-ren - rzemieślnik
+
+[mei] - 1 words:
+  mei-da - czarny wojownik (kierunek północ), żółw i wąż
+
+[mu] - 1 words:
+  mu-ren - pisarz
+
+[ou] - 1 words:
+  ou-xiong - rzemieślnik
+
+[shi] - 1 words:
+  shi-ren - historyk
+
+[xun] - 1 words:
+  xun-rang - lekarz
+
+[yue] - 1 words:
+  yue-ren - muzyk
+
+[zha] - 1 words:
+  zha-chua - filozofia
+
+[zhe] - 1 words:
+  zhe-ren - filozof
+
+WEATHER/NATURE (67 words)
+================================================================================
+
+INCONSISTENT: 61 different roots
+
+
+[geng] - 2 words:
+  geng-leng - kwiaty i trawy
+  geng-ming - deszczowy dzień
+
+[gou] - 2 words:
+  gou-ai - przekazać, podać
+  gou-zun - kroić w plasterki
+
+[jie] - 2 words:
+  jie-wu - przekazywać
+  jie-zhi - pod wiatr
+
+[sui] - 2 words:
+  sui-ha - jadeitowa rzeka
+  sui-xu - burza z piorunami
+
+[tun] - 2 words:
+  tun - góra
+  tun-lian - chmura
+
+[zao] - 2 words:
+  zao - deszcz
+  zao-piao - dzika trawa
+
+[bei] - 1 words:
+  bei-zhao - patogen wiatru
+
+[bie] - 1 words:
+  bie-ga - pyłek kwiatowy
+
+[cang] - 1 words:
+  cang-suo - korzeń
+
+[chuai] - 1 words:
+  chuai-nen - padać (śnieg)
+
+[dei] - 1 words:
+  dei-gun - kwiat brzoskwini
+
+[en] - 1 words:
+  en-ei - kierunek wiatru
+
+[gei] - 1 words:
+  gei-song - gorąco płuc
+
+[gu] - 1 words:
+  gu-shi - mgła i opary
+
+[guai] - 1 words:
+  guai-pao - przyklejać (plaster)
+
+[guan] - 1 words:
+  guan-mou - pole ryżowe
+
+[huan] - 1 words:
+  huan-dei-long - kwiat granatu
+
+[hun] - 1 words:
+  hun-chuo-seng - klasyk zmiany ścięgien
+
+[keng] - 1 words:
+  keng-tong - duży deszcz
+
+[kua] - 1 words:
+  kua-bie - kwiat gruszy
+
+[kun] - 1 words:
+  kun-kan - drzewo sandałowe
+
+[ling] - 1 words:
+  ling-ni - świst wiatru
+
+[liu] - 1 words:
+  liu-bi - z wiatrem
+
+[man] - 1 words:
+  man-pu - pole, dzikie pole
+
+[meng] - 1 words:
+  meng-tui - pogoda
+
+[miao] - 1 words:
+  miao-ke - mały deszcz
+
+[ming] - 1 words:
+  ming-ta - gałąź
+
+[nan] - 1 words:
+  nan-liu - zielona trawa
+
+[nao] - 1 words:
+  nao-du - korzeń drzewa
+
+[nin] - 1 words:
+  nin-lin - grad
+
+[pu] - 1 words:
+  pu-feng - herbata kwiatowa
+
+[qi] - 1 words:
+  qi-pang - ulewny deszcz
+
+[qu] - 1 words:
+  qu-ben - deszcz zbóż
+
+[ran] - 1 words:
+  ran-ka - burza
+
+[rong] - 1 words:
+  rong-bai - mały śnieg
+
+[rui] - 1 words:
+  rui-kuo - prędkość wiatru
+
+[run] - 1 words:
+  run-zei - lekki wiatr
+
+[sao] - 1 words:
+  sao-tun - silny wiatr
+
+[shai] - 1 words:
+  shai-ting - kwiat bambusa
+
+[shen] - 1 words:
+  shen-cun - liść drzewa
+
+[shu] - 1 words:
+  shu-sun - brama góry (klasztoru)
+
+[shua] - 1 words:
+  shua-kua - pole bitwy
+
+[tai] - 1 words:
+  tai-nuo - kwiat moreli
+
+[tuo] - 1 words:
+  tuo - rzeka
+
+[wa] - 1 words:
+  wa-nuan - aluzja klasyczna
+
+[wai] - 1 words:
+  wai - jezioro
+
+[wei] - 1 words:
+  wei - morze
+
+[wen] - 1 words:
+  wen - las
+
+[weng] - 1 words:
+  weng-zhong - pole eliksiru (centrum energii)
+
+[xia] - 1 words:
+  xia - drzewo
+
+[xie] - 1 words:
+  xie - kwiat
+
+[xin] - 1 words:
+  xin - trawa
+
+[xiu] - 1 words:
+  xiu - liść
+
+[xuan] - 1 words:
+  xuan-die - kwiat śliwy
+
+[yin] - 1 words:
+  yin - słońce
+
+[ying] - 1 words:
+  ying-hua - kwiat wiśni
+
+[zai] - 1 words:
+  zai - wiatr
+
+[zei] - 1 words:
+  zei - śnieg
+
+[zhou] - 1 words:
+  zhou-zan - kolega z klasy
+
+[zhun] - 1 words:
+  zhun-ping - klasyfikować
+
+[zong] - 1 words:
+  zong-lu - kanon klasyczny
