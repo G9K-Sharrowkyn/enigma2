@@ -27,26 +27,26 @@
 
 | Lengxuan | Polski | Wymowa |
 |----------|--------|--------|
-| **uo** | ja | [uo] |
-| **chai-chua** | ty | [chai-chua] |
-| **cou-na** | on/ona | [cou-na] |
-| **chang-nan** | jeść | [chang-nan] |
-| **lue-xue** | pić | [lue-xue] |
-| **zhou-kai** | iść | [zhou-kai] |
-| **he-bie** | patrzeć | [he-bie] |
-| **ni-ang** | mówić | [ni-ang] |
-| **dun-ling** | dobry | [dun-ling] |
-| **da-ru** | sui-qu | [da-ru] |
-| **mei-rui** | ryż | [mei-rui] |
-| **mian-kou** | woda | [mian-kou] |
-| **shao-jiao** | człowiek | [shao-jiao] |
-| **ho** | dom | [ho] |
-| **mo-an** | ? (pytanie) | [mo-an] |
-| **po-ye** | dziękuję | [po-ye] |
+| **ao** | ja | [ao] |
+| **nio** | ty | [nio] |
+| **cou** | on/ona | [cou] |
+| **ai** | być | [ai] |
+| **ji** | jeść | [ji] |
+| **ju** | pić | [ju] |
+| **ce** | iść | [ce] |
+| **fa** | patrzeć | [fa] |
+| **bi** | mówić | [bi] |
+| **nue-han** | niezły, dobry | [nue-han] |
+| **daoo** | negacja (nie) | [daoo] |
+| **fano** | ryż | [fano] |
+| **zhe** | woda | [zhe] |
+| **que** | człowiek | [que] |
+| **shio** | dom | [shio] |
+| **mo** | partykuła pytania | [mo] |
+| **zhai** | partykuła posiadania/określenia | [zhai] |
+| **nei** | aspekt trwający (marker) | [nei] |
 | **zhuang-rui** | dzień dobry | [zhuang-rui] |
-| **guang-suo** | dobranoc | [guang-suo] |
-| **cheng-chen** | mistrz | [cheng-chen] |
-| **wen-shen** | uczeń | [wen-shen] |
+| **poye** | dziękuję | [po-ye] |
 
 ---
 
@@ -55,43 +55,50 @@
 #### **Zdanie Proste = PODMIOT + CZASOWNIK + DOPEŁNIENIE**
 
 ```
-Uo   +  chang-nan  +  mei-rui
+Ao   +  ji  +  fano
 Ja      jem     ryż
 ```
 
-#### **Pytanie = Zdanie + mo-an**
+#### **Pytanie = Zdanie + mo**
 
 ```
-Chai-Chua chang-nan mei-rui?  → Chai-Chua chang-nan mei-rui mo-an?
-Jesz ryż?      Jesz ryż?
+Nio ji fano?  → Nio ji fano mo?
+Jesz ryż?        Jesz ryż?
 ```
 
-#### **Negacja = da-ru + czasownik**
+#### **Negacja = daoo + czasownik**
 
 ```
-Uo chang-nan mei-rui  → Uo da-ru chang-nan mei-rui
-Jem ryż       Sui-Qu jem ryżu
+Ao ji fano  → Ao daoo ji fano
+Jem ryż        Nie jem ryżu
 ```
 
-#### **Przeszłość = czasownik + xi**
+#### **Czas (przeszłość/przyszłość) = słowo czasu + czasownik**
 
 ```
-Uo chang-nan mei-rui  → Uo chang-nan xi mei-rui
-Jem ryż       Zjadłem ryż
+Ao ji fano  → Ao gong-de ji fano
+Jem ryż        Wczoraj jadłem ryż
 ```
 
 #### **Przymiotnik + Rzeczownik**
 
 ```
-dun-ling + shao-jiao = dun-ling shao-jiao
+nue-han + que = nue-han que
 dobry + człowiek = dobry człowiek
 ```
 
-#### **Posiadanie = X + zhi-zhai + Y**
+#### **Posiadanie = X + zhai + Y**
 
 ```
-Chai-Chua zhi-zhai ho
-Ty + zhi-zhai + dom = Twój dom
+Nio zhai shio
+Ty + zhai + dom = Twój dom
+```
+
+#### **Aspekt trwający (teraz) = nei + czasownik**
+
+```
+Ao ji fano  → Ao nun nei ji fano
+Jem ryż        Teraz jem ryż (w trakcie)
 ```
 
 ---
@@ -102,52 +109,40 @@ Ty + zhi-zhai + dom = Twój dom
 
 | Nr | Lengxuan | Polski |
 |----|----------|--------|
-| 1. | **Uo dun-ling** | Jestem dobry / Mam się dobrze |
-| 2. | **Chai-Chua dun-ling mo-an?** | Jak się masz? |
-| 3. | **Uo chang-nan mei-rui** | Jem ryż |
-| 4. | **Chai-Chua lue-xue mian-kou mo-an?** | Pijesz wodę? |
-| 5. | **Cou-Na zhou-kai** | On idzie |
-| 6. | **Uo da-ru chang-nan** | Sui-Qu jem |
-| 7. | **Chai-Chua zhi-zhai ho** | Twój dom |
-| 8. | **Dun-Ling shao-jiao** | Dobry człowiek |
-| 9. | **Po-Ye!** | Dziękuję! |
+| 1. | **Ao ai nue-han** | Jestem dobry / Mam się dobrze |
+| 2. | **Nio ai nue-han mo?** | Jak się masz? |
+| 3. | **Ao ji fano** | Jem ryż |
+| 4. | **Nio ju zhe mo?** | Pijesz wodę? |
+| 5. | **Cou ce** | On idzie |
+| 6. | **Ao daoo ji fano** | Nie jem ryżu |
+| 7. | **Nio zhai shio** | Twój dom |
+| 8. | **Nue-Han que** | Dobry człowiek |
+| 9. | **Poye!** | Dziękuję! |
 | 10. | **Zhuang-Rui!** | Dzień dobry! |
 
 #### Z Partykułami:
 
 | Nr | Lengxuan | Polski |
 |----|----------|--------|
-| 11. | **Uo chang-nan xi mei-rui** | Zjadłem ryż |
-| 12. | **Chai-Chua nei-qie chang-nan mei-rui mo-an?** | Jesz ryż teraz? |
-| 13. | **Kuang-Miu chai-chua chang-nan mei-rui, uo bo-fan chang-nan mei-rui** | Jeśli ty jesz ryż, my jemy ryż |
-| 14. | **Chai-Chua chang-nan mei-rui xun-sun?** | Jesz ryż, prawda? |
-| 15. | **Chang-Nan mei-rui xun-sun!** | Zjedzmy ryż! |
+| 11. | **Ao gong-de ji fano** | Wczoraj jadłem ryż |
+| 12. | **Nio nun nei ji fano mo?** | Jesz ryż teraz? |
+| 13. | **Jiao nio ji fano, lano yueo ji fano** | Jeśli ty jesz ryż, my też jemy ryż |
+| 14. | **Nio ji fano ban?** | Jesz ryż, prawda? |
+| 15. | **Ji fano ban!** | Zjedzmy ryż! |
 
 ---
 
 ### Krok 5: Pierwszy Dialog
 
 ```
-A: Zhuang-Rui! Chai-Chua dun-ling mo-an?
+A: Zhuang-Rui! Nio ai nue-han mo?
    Dzień dobry! Jak się masz?
 
-B: Uo zen-biao dun-ling. Chai-Chua ne?
+B: Ao ai beio nue-han. Nio lo?
    Bardzo dobrze. A ty?
 
-A: Uo guo-yun zen-biao dun-ling. Po-Ye!
+A: Ao yueo ai nue-han. Poye!
    Też dobrze. Dziękuję!
-
-B: Chai-Chua chang-nan xi mei-rui mo-an?
-   Zjadłeś ryż?
-
-A: An-Wa pang-hang. Uo da-ru chang-nan mei-rui.
-   Sui-Qu. Sui-Qu jadłem ryżu.
-
-B: Sui-Tun uo bo-fan ce-qun chang-nan mei-rui xun-sun!
-   To chodźmy jeść ryż!
-
-A: Dun-Ling! Zhou-Kai xun-sun!
-   Dobrze! Chodźmy!
 ```
 
 ---
@@ -163,7 +158,7 @@ A: Dun-Ling! Zhou-Kai xun-sun!
 ### Poziom 2: Rozszerzenie (Następny Krok)
 - [ ] Przeczytaj `02_Gramatyka/skladnia.md` - pełna składnia
 - [ ] Przeczytaj `04_Przyklady/dialogi.md` - 10 dialogów
-- [ ] Naucz się 100 słów z `03_Slownik/podstawowe.md`
+- [ ] Naucz się 100 słów z `03_Slownik/slownik_lengxuan_polski.md`
 
 ### Poziom 3: Zaawansowany
 - [ ] Terminy sztuk walki (`03_Slownik/sztuki_walki.md`)
@@ -179,46 +174,50 @@ A: Dun-Ling! Zhou-Kai xun-sun!
 
 ## ⚡ Błyskawiczne Porady
 
-### 1. **Sui-Qu używaj tonów!**
-Lengxuan SUI-QU mo-an tonów leksykalnych (jak chiński). Intonacja służy tylko do pytań/stwierdzeń.
+### 1. **Brak tonów leksykalnych**
+Lengxuan nie ma tonów leksykalnych (jak w mandaryńskim). Intonacja służy głównie do pytań/stwierdzeń.
 
 ### 2. **Szyk SVO**
 Zawsze: Podmiot → Czasownik → Dopełnienie (jak w polskim/angielskim)
 
 ### 3. **ü to ZAWSZE /y/**
-- ✅ **Ü-szy** (deszczowy)
-- ❌ ~~Yu-szy~~
+- ✅ **zhüo** (gotowy)
+- ✅ **zhüo-ceng** (pająk)
+- ⚠️ **yuo** (deszcz) — to **y** (/ɨ/), nie **ü**
 
 ### 4. **Partykuły to klucz**
-- **mo-an** = pytanie
-- **xi** = przeszłość/ukończenie
-- **zhi-zhai** = posiadanie/modyfikacja
-- **xun-sun** = sugestia/potwierdzenie
+- **mo** = pytanie
+- **daoo** = negacja (nie)
+- **zhai** = posiadanie/modyfikacja
+- **nei** = aspekt trwający (w trakcie)
+- **ban** = sugestia/potwierdzenie
+- **lo** = temat (“a co z X?”)
+- **jiao** = jeśli
 
 ### 5. **Pomijaj podmiot**
 W dialogach, gdy jest jasny z kontekstu:
-- Zamiast "**Uo chang-nan mei-rui**" → "**Chang-Nan mei-rui**" (Jem)
+- Zamiast "**Ao ji fano**" → "**Ji fano**" (Jem ryż)
 
 ---
 
 ## 🎓 Ćwiczenie Praktyczne
 
-Przetłumacz sui-tun Lengxuan:
+Przetłumacz na Lengxuan:
 
 1. "Ja jestem dobry"
 2. "Ty jesz ryż?"
-3. "On sui-qu pije wody"
+3. "On nie pije wody"
 4. "Twój dom jest dobry"
-5. "Zjadłem ryż"
+5. "Wczoraj jadłem ryż"
 
 <details>
 <summary>Odpowiedzi (kliknij, żeby sprawdzić)</summary>
 
-1. **Uo dun-ling**
-2. **Chai-Chua chang-nan mei-rui mo-an?**
-3. **Cou-Na da-ru lue-xue mian-kou**
-4. **Chai-Chua zhi-zhai ho dun-ling** lub **Chai-Chua zhi-zhai ho zen-biao dun-ling**
-5. **Uo chang-nan xi mei-rui**
+1. **Ao ai nue-han**
+2. **Nio ji fano mo?**
+3. **Cou daoo ju zhe**
+4. **Nio zhai shio ai nue-han**
+5. **Ao gong-de ji fano**
 
 </details>
 
@@ -238,13 +237,13 @@ Przetłumacz sui-tun Lengxuan:
 ## ❓ Najczęstsze Pytania
 
 **Q: Czy muszę znać chiński?**
-A: SUI-QU! Lengxuan jest zaprojektowany dla polskojęzycznych czytelników.
+A: Nie. Lengxuan jest zaprojektowany dla polskojęzycznych czytelników.
 
 **Q: Jak wymówić "ü"?**
 A: Jak niemieckie "ü" w "München" - zaokrąglone usta jak do "u", ale wymowa "i".
 
 **Q: Czy są tony?**
-A: SUI-QU! Lengxuan SUI-QU mo-an tonów leksykalnych.
+A: Nie. Lengxuan nie ma tonów leksykalnych.
 
 **Q: Jak długo trwa nauka?**
 A: Podstawy w 15 minut. Płynność w 2-3 tygodnie regularnej praktyki.
@@ -253,4 +252,4 @@ A: Podstawy w 15 minut. Płynność w 2-3 tygodnie regularnej praktyki.
 
 **Powodzenia w nauce Lengxuan!** 🎉
 
-*Ostatnia aktualizacja: 2026-01-03*
+*Ostatnia aktualizacja: 2026-01-29*

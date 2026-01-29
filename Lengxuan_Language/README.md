@@ -5,41 +5,25 @@
 ```
 Lengxuan_Language/
 │
-├── 01_Fonologia/           # System dźwiękowy języka
-│   ├── fonemy.md          # Inwentarz samogłosek i spółgłosek
-│   ├── fonotaktyka.md     # Struktura sylab i zbitki
-│   ├── akcent.md          # System pitch-accent
+├── 01_Fonologia/          # System dźwiękowy języka
 │   └── transkrypcja.md    # Przewodnik polskiej romanizacji
 │
-├── 02_Gramatyka/          # Morfologia i składnia
-│   ├── morfologia.md      # Analityczna natura, brak fleksji
-│   ├── skladnia.md        # Szyk wyrazów (SVO), partykuły
-│   ├── partykuly.md       # zhi-zhai, kuang-miu, xi, nei-qie, mo-an, ne, xun-sun
-│   ├── klasyfikatory.md   # Klasyfikatory liczbowe
-│   └── tvorzenie_slow.md  # Składanie wyrazów, RVCs
+├── 02_Gramatyka/          # Składnia
+│   └── skladnia.md
 │
-├── 03_Slownik/            # Słownictwo
-│   ├── slownik_lengxuan_polski.md   # Słownik Lengxuan → Polski (alfabetyczny)
-│   ├── slownik_polski_lengxuan.md   # Słownik Polski → Lengxuan (alfabetyczny)
-│   ├── podstawowe.md      # Najczęstsze 500 słów
-│   ├── sztuki_walki.md    # Terminy sztuk walki i RVCs
-│   ├── kultura.md         # Idiomy, przysłowia, honorifics
-│   └── homonimы_STARE.md  # Lista problemów (ARCHIWUM)
+├── 03_Slownik/            # Słownictwo (wersja referencyjna)
+│   ├── slownik_lengxuan_polski.md
+│   └── slownik_polski_lengxuan.md
 │
 ├── 04_Przyklady/          # Przykłady użycia
-│   ├── zdania.md          # Przykładowe zdania
-│   ├── dialogi.md         # Dialogi z komentarzami
-│   ├── opisy_walki.md     # Sceny sztuk walki
-│   └── idiomy_w_uzyciu.md # Idiomy w kontekście
+│   └── dialogi.md
 │
-├── 05_Dokumentacja/       # Meta-dokumentacja
-│   ├── zasady_projektowe.md  # Filozofia języka
-│   ├── zmiany.md             # Log zmian i poprawek
-│   └── slownik_terminow.md   # Terminy lingwistyczne
+├── 05_Dokumentacja/       # Meta-dokumentacja (raporty)
+│   ├── raport_spojnosci_lengxuan.md
+│   └── zmiany.md
 │
 └── 06_Narzedzia/          # Skrypty i narzędzia
-    ├── analyze_dict.py    # Analiza słownika
-    └── generator_slow.py  # Generator nowych słów
+    └── *.py
 
 ```
 
@@ -51,12 +35,17 @@ Lengxuan_Language/
 - ✅ Przykłady - UKOŃCZONE
 - ✅ Dokumentacja - UKOŃCZONA
 
-## ⚠️ Ostatnie Zmiany (2026-01-03)
+## ⚠️ Ostatnie Zmiany
+
+### 2026-01-29
+- Aktualizacja dokumentacji pod najnowsze słowniki w `03_Slownik/`.
+
+### 2026-01-03
 
 ### Naprawione:
 1. **Homonimia** - zredukowano z 546 do ~50 homonimów
 2. **Duplikaty** - usunięto powtórzenia w słowniku
-3. **Transkrypcja** - ujednolicono sui-tun **ü** dla /y/
+3. **Transkrypcja** - ujednolicono **ü** dla /y/
 4. **Struktura projektu** - zorganizowano w osobne pliki
 
 ### W trakcie:
@@ -67,12 +56,12 @@ Lengxuan_Language/
 
 1. **Fonologia**: Zacznij od `01_Fonologia/transkrypcja.md`
 2. **Gramatyka**: Przeczytaj `02_Gramatyka/skladnia.md`
-3. **Słownik**: Zobacz `03_Slownik/podstawowe.md` (500 najważniejszych słów)
+3. **Słownik**: Zobacz `03_Slownik/slownik_polski_lengxuan.md` oraz `03_Slownik/slownik_lengxuan_polski.md`
 4. **Praktyka**: Sprawdź `04_Przyklady/dialogi.md`
 
 ## 🎯 Cel Języka
 
-Lengxuan to konstruowany język fikcyjny dla powieści osadzonej w świecie inspirowanym starożytnymi Chinami (okres Trzech Królestw), z naciskiem sui-tun sztuki walki w stylu "Tekken/Dragon Ball".
+Lengxuan to konstruowany język fikcyjny dla powieści osadzonej w świecie inspirowanym starożytnymi Chinami (okres Trzech Królestw), z naciskiem na sztuki walki w stylu "Tekken/Dragon Ball".
 
 **Główne założenia:**
 - Bliźniacze podobieństwo do starożytnej chińszczyzny
@@ -81,4 +70,4 @@ Lengxuan to konstruowany język fikcyjny dla powieści osadzonej w świecie insp
 - Głębia kulturowa poprzez idiomy i terminy
 
 ---
-*Ostatnia aktualizacja: 2026-01-03*
+*Ostatnia aktualizacja: 2026-01-29*

@@ -1,302 +1,234 @@
 # Dialogi w Języku Lengxuan
 
+Poniższe dialogi są zaktualizowane pod słowniki w `03_Slownik/` (np. `ao/nio/cou`, `mo`, `zhai`, `daoo`, `nei`, `ban`, `lo`).
+
 ## 🗣️ Dialog 1: Powitanie
 
-### Zwykła Forma (Między Przyjaciółmi)
-
 ```
-A: Zhuang-Rui! Chai-Chua dun-ling mo-an?
-   [zhuang-rui! chai-chua dun-ling mo-an?]
+A: Zhuang-rui! Nio ai nue-han mo?
+   [zhuang-rui! nio ai nue-han mo?]
    Dzień dobry! Jak się masz?
 
-B: Uo zen-biao dun-ling. Chai-Chua ne?
-   [uo zen-biao dun-ling. chai-chua ne?]
+B: Ao ai beio nue-han. Nio lo?
+   [ao ai beio nue-han. nio lo?]
    Bardzo dobrze. A ty?
 
-A: Uo guo-yun zen-biao dun-ling. Po-Ye.
-   [uo guo-yun zen-biao dun-ling. po-ye.]
-   Też dobrze. Dziękuję.
-```
-
-### Honorowa Forma (Uczeń → Mistrz)
-
-```
-Uczeń: Zhuang-Rui, Cheng-Chen! Chai-Chua dun-ling mo-an?
-       [zhuang-rui, cheng-chen! chai-chua dun-ling mo-an?]
-       Dzień dobry, Mistrzu! Jak się masz?
-
-Mistrz: Dun-Ling, wen-shen. Chai-Chua jin-tien ku-lian xi mo-an?
-        [dun-ling, wen-shen. chai-chua jin-tien ku-lian xi mo-an?]
-        Dobrze, uczniu. Ciężko trenowałeś dziś?
-
-Uczeń: Sh, Cheng-Chen. Uo ku-lian xi cen-cao zeng-ai mi-fou.
-       [sh, cheng-chen. uo ku-lian xi cen-cao zeng-ai mi-fou.]
-       Tak, Mistrzu. Trenowałem trzy godziny.
+A: Ao yueo ai nue-han. Poye!
+   [ao yueo ai nue-han. po-ye!]
+   Też dobrze. Dziękuję!
 ```
 
 ---
 
-## ⚔️ Dialog 2: Wyzwanie sui-tun Pojedynek
-
-### Zwykła Forma (Między Równymi Wojownikami)
+## ⚔️ Dialog 2: Wyzwanie na pojedynek
 
 ```
-A: Chai-Chua zhi-zhai zeng-huai zen-biao run-zhao. Uo zhao-ruo che-ze chai-chua!
-   [chai-chua zhi-zhai zeng-huai zen-biao run-zhao. uo zhao-ruo che-ze chai-chua!]
+A: Nio zhai bang-zang ai beio run-zhao. Ao guoo che-ze nio!
+   [nio zhai bang-zang ai beio run-zhao. ao guoo che-ze nio!]
    Twoja technika jest bardzo silna. Chcę cię wyzwać!
 
-B: Dun-Ling! Uo ceng-en. Kuang-Miu chai-chua ju-ye dou-kun uo zhi-zhai man-er, chai-chua a-qian.
-   [dun-ling! uo ceng-en. kuang-miu chai-chua ju-ye dou-kun uo zhi-zhai man-er, chai-chua a-qian.]
+B: Nue-han! Ao ceng-en. Jiao nio pao-he dou-kun ao zhai man-er, nio zang-liao.
+   [nue-han! ao ceng-en. jiao nio pao-he dou-kun ao zhai man-er, nio zang-liao.]
    Dobrze! Przyjmuję. Jeśli możesz przełamać moją obronę, wygrywasz.
 
-A: He-Bie! Uo zhi-zhai Niao-Bao!
-   [he-bie! uo zhi-zhai niao-bao!]
+A: Fa! Ao zhai niao-bao!
+   [fa! ao zhai niao-bao!]
    Patrz! Moja Smocza Pięść!
 
-B: Xiong-Wa! Can-Quan!
-   [xiong-wa! can-quan!]
+B: Zei-shi! Can-quan!
+   [zei-shi! can-quan!]
    Szybko! Blokuj!
 ```
 
-### Honorowa Forma (Uczniowie Różnych Szkół)
+---
+
+## 🏔️ Dialog 3: W podróży
 
 ```
-A: Ni-szi, uo bo-fan eng-wai chun-gan xun-sun?
-   [ni-szi, uo bo-fan eng-wai chun-gan xun-sun?]
-   Wojowniku, może pojedynkujmy się?
+A: Zei-shi! Lano cu-shao ban!
+   [zei-shi! lano cu-shao ban!]
+   Szybko! Zejdźmy w dół!
 
-B: Dun-Ling! Qing-jiao! Uo ei-hu Qian-Zi-Run.
-   [dun-ling! qing-jiao! uo ei-hu qian-zi-run.]
-   Dobrze! Proszę o naukę! Uczę się Qian-Zi-Run.
+B: Lano ero cen-cao tigo-zen!
+   [lano ero cen-cao tigo-zen!]
+   Widzimy trzy białe tygrysy!
 
-A: Uo ei-hu Fengbao-Shen. Ying-Chun!
-   [uo ei-hu fengbao-shen. ying-chun!]
-   Uczę się Fengbao-Shen. Zacznijmy!
+A: Nai! Lano ce haio-qin ban!
+   [nai! lano ce haio-qin ban!]
+   Nie! Chodźmy na wybrzeże!
 ```
 
 ---
 
-## 🏔️ Dialog 3: W Podróży (Czasowniki Ruchu Kierunkowego)
+## 📚 Dialog 4: Lekcja od mistrza (temat + pytanie)
 
 ```
-A: Pao-sziya! Uo bo-fan diu-cha cen-cao zeng-ai nong-bin!
-   [pao-sziya! uo bo-fan diu-cha cen-cao zeng-ai nong-bin!]
-   Biegnij w dół! Widzimy trzy tygrysy!
+Cheng-Chen: Ma-cha, guan-nian lo: cou ai run-zhao.
+            [cheng-chen: ma-cha, guan-nian lo: cou ai run-zhao.]
+            Uczniu, co do przeciwnika: on jest silny.
 
-B: Kuang-Miu uo bo-fan zou-szyang, ju-ye diu-cha Lian-Chan mo-an?
-   [kuang-miu uo bo-fan zou-szyang, ju-ye diu-cha lian-chan mo-an?]
-   Jeśli pójdziemy w górę, czy zobaczymy Smoczego Żółwia?
+Ma-Cha: Ao pao-he dou-kun cou zhai man-er mo?
+        [ma-cha: ao pao-he dou-kun cou zhai man-er mo?]
+        Czy mogę przełamać jego obronę?
 
-A: Mei-you. Lian-Chan nei-qie hai-li.
-   [mei-you. lian-chan nei-qie hai-li.]
-   Sui-Qu. Smok Żółw jest w morzu.
-
-B: Sui-Tun uo bo-fan ce-qun hai-bian xun-sun!
-   [sui-tun uo bo-fan ce-qun hai-bian xun-sun!]
-   To chodźmy nad morze!
+Cheng-Chen: Jiao nio niang-chi beio, nio pao-he.
+            [cheng-chen: jiao nio niang-chi beio, nio pao-he.]
+            Jeśli będziesz dużo trenować, dasz radę.
 ```
 
 ---
 
-## 📚 Dialog 4: Lekcja od Mistrza (Zdania Względne + Idiomy)
+## 🍚 Dialog 5: Uczta
 
 ```
-Mistrz: Wen-Shen, chai-chua diu-cha zhi-zhai shao-jiao, xie-sao chai-chua zhi-zhai guan-nian.
-        [wen-shen, chai-chua diu-cha zhi-zhai shao-jiao, xie-sao chai-chua zhi-zhai guan-nian.]
-        Uczniu, człowiek, którego widzisz, to twój przeciwnik.
-
-Uczeń: Cheng-Chen, cou-na zen-biao run-zhao. Uo ju-ye dou-kun cou-na zhi-zhai man-er mo-an?
-       [cheng-chen, cou-na zen-biao run-zhao. uo ju-ye dou-kun cou-na zhi-zhai man-er mo-an?]
-       Mistrzu, on jest bardzo silny. Czy mogę przełamać jego obronę?
-
-Mistrz: Qian-Heng: Han-Tou Wu-Que Ci-Sen Ci-Die. Da-Shuo mian-rou, dou-kun ying-gang.
-        [qian-heng: han-tou wu-que ci-sen ci-die. da-shuo mian-rou, dou-kun ying-gang.]
-        Pamiętaj: Użyj miękkości, aby pokonać twardość. Użyj miękkości, przełam twardość.
-
-Uczeń: Uo shi-huai xi, Cheng-Chen! Po-Ye!
-       [uo shi-huai xi, cheng-chen! po-ye!]
-       Rozumiem, Mistrzu! Dziękuję!
-```
-
----
-
-## 🍚 Dialog 5: Sui-Tun Uczcie (Klasyfikatory + Liczby)
-
-```
-A: Chai-Chua zhao-ruo cou-chang zeng-ai chi-kao?
-   [chai-chua zhao-ruo cou-chang zeng-ai chi-kao?]
+A: Nio guoo nai-ming bao-zi mo?
+   [nio guoo nai-ming bao-zi mo?]
    Ile bułeczek chcesz?
 
-B: Uo zhao-ruo cen-cao zeng-ai chi-kao nang-hui hu-ting xun-luo mei-rui.
-   [uo zhao-ruo cen-cao zeng-ai chi-kao nang-hui hu-ting xun-luo mei-rui.]
+B: Ao guoo cen-cao bao-zi, yueo hu-ting gong fano.
+   [ao guoo cen-cao bao-zi, yueo hu-ting gong fano.]
    Chcę trzy bułeczki i dwie miski ryżu.
 
-A: Chai-Chua nang-hui ben-xia mo-an?
-   [chai-chua nang-hui ben-xia mo-an?]
+A: Nio ju gango mo?
+   [nio ju gango mo?]
    Pijesz herbatę?
 
-B: Xing-Ting. Zong-Niu nian-cai uo han-tou deng-nuan ben-xia.
-   [xing-ting. zong-niu nian-cai uo han-tou deng-nuan ben-xia.]
-   Tak. Proszę daj beng-dao jedną filiżankę herbaty.
+B: En. Nin dio ao cou-chang chan-ni gango.
+   [en. nin dio ao cou-chang chan-ni gango.]
+   Tak. Proszę daj mi jedną filiżankę herbaty.
 
-A: Dun-Ling. Zong-Niu leng-ku yi-xia.
-   [dun-ling. zong-niu leng-ku yi-xia.]
-   Dobrze. Proszę poczekaj chwilę.
+A: Nue-han. Chuang-hun wa ban.
+   [nue-han. chuang-hun wa ban.]
+   Dobrze. Poczekaj chwilę.
 ```
 
 ---
 
-## 💪 Dialog 6: Trening Sztuk Walki (RVCs - Złożenia Czasownikowo-Rezultatywne)
+## 💪 Dialog 6: Trening
 
 ```
-Mistrz: Jin-tien uo bo-fan ei-hu Zhe-gu!
-        [jin-tien uo bo-fan ei-hu zhe-gu!]
-        Dziś uczymy się Złam-kość!
+Cheng-Chen: Shuang-hen ao ma nio yan-zuan.
+            [cheng-chen: shuang-hen ao ma nio yan-zuan.]
+            Dziś uczę cię techniki pięści.
 
-Uczeń: Cheng-Chen, Zhe-gu zen-biao weng-zen!
-       [cheng-chen, zhe-gu zen-biao weng-zen!]
-       Mistrzu, Złam-kość jest bardzo trudna!
+Ma-Cha: Cheng-chen, yan-zuan beio laio!
+        [ma-cha: cheng-chen, yan-zuan beio laio!]
+        Mistrzu, to bardzo trudne!
 
-Mistrz: Ken-Ling ei-hu Po-fang, ran-hou ei-hu Zhe-gu.
-        [ken-ling ei-hu po-fang, ran-hou ei-hu zhe-gu.]
-        Najpierw ucz się Przełam-obrona, potem ucz się Złam-kość.
+Cheng-Chen: Nin. Nio nun nei ma-lu. Chuang-hun nio pao-he.
+            [cheng-chen: nin. nio nun nei ma-lu. chuang-hun nio pao-he.]
+            Spokojnie. Uczysz się. Za chwilę dasz radę.
 
-Uczeń: Dun-Ling! Uo zhao-ruo ku-lian!
-       [dun-ling! uo zhao-ruo ku-lian!]
-       Dobrze! Będę ciężko trenować!
-
-Mistrz: Dun-Ling! Ying-Chun! Wa-Xia-Seng!
-        [dun-ling! ying-chun! wa-xia-seng!]
-        Dobrze! Zacznij! Latający-kopnięcie-uderz!
-
-Uczeń: Wa-Xia-Seng! Tui-chuan! Zhuan-ding!
-       [wa-xia-seng! tui-chuan! zhuan-ding!]
-       Latający-kopnięcie-uderz! Pchnij-przebij! Chwyć-unieruchom!
+Ma-Cha: Ao guoo niang-chi beio! Poye!
+        [ma-cha: ao guoo niang-chi beio! po-ye!]
+        Chcę trenować dużo! Dziękuję!
 ```
 
 ---
 
-## 🌙 Dialog 7: Rozmowa Filozoficzna (Idiomy + Kultura)
+## 🌙 Dialog 7: Krótka rozmowa filozoficzna
 
 ```
-A: Shi-lao, chai-chua ni-ang zhi-zhai zhuai-niu, xie-sao bang-xiang zhi-zhai dai-te.
-   [shi-lao, chai-chua ni-ang zhi-zhai zhuai-niu, xie-sao bang-xiang zhi-zhai dai-te.]
-   Szanowny Mistrzu, słowa, które wypowiedziałeś, to prawdziwa mądrość.
+A: Dun-fou cheng-chen, nio zhai jian-ye ai lao dai-te.
+   [dun-fou cheng-chen, nio zhai jian-ye ai lao dai-te.]
+   Szanowny Mistrzu, twoje słowa to prawdziwa mądrość.
 
-B: Po-Ye, wen-shen. Qian-Heng: Mie-Hu Fen-Mai Dui-Shen Tian-Ruo.
-   [po-ye, wen-shen. qian-heng: mie-hu fen-mai dui-shen tian-ruo.]
-   Dziękuję, uczniu. Pamiętaj: Droga Niebios jest bez końca.
-
-A: Ying-Bi xing-ting uo zhi-zhai er-nie. Uo zhao-ruo nue-ze.
-   [ying-bi xing-ting uo zhi-zhai er-nie. uo zhao-ruo nue-ze.]
-   Droga-wojownika jest moją ścieżką. Szukam drogi.
-
-B: Dun-Ling. Dzi-sheng-dza sui-kuai. Kao-Mao chai-chua zhi-zhai er-nie.
-   [dun-ling. dzi-sheng-dza sui-kuai. kao-mao chai-chua zhi-zhai er-nie.]
-   Dobrze. Ten, kto pokonuje siebie, jest silny. Prowadź swoją drogę.
+B: Poye. Qian-heng: tian-ruo.
+   [po-ye. qian-heng: tian-ruo.]
+   Dziękuję. Pamiętaj: Droga Niebios jest bez końca.
 ```
 
 ---
 
-## 👨‍👩‍👧 Dialog 8: Rodzina (Terminy Pokrewieństwa)
+## 👨‍👩‍👧 Dialog 8: Rodzina
 
 ```
-Dziecko: Mama, pai-teng nei-qie nali?
-         [mama, pai-teng nei-qie nali?]
-         Mamo, gdzie jest starszy brat?
+Dziecko: Rua, rui ai hen-yuan mo?
+         [rua, rui ai hen-yuan mo?]
+         Mamo, gdzie jest brat?
 
-Matka: Pai-Teng nei-qie keng-cui. Cou-Na nang-hui didi gan-a.
-       [pai-teng nei-qie keng-cui. cou-na nang-hui didi gan-a.]
-       Starszy brat jest sui-tun zewnątrz. On i młodszy brat biegają.
+Matka: Rui ai shan-cuan.
+       [rui ai shan-cuan.]
+       Brat jest na zewnątrz.
 
-Dziecko: Quan-Xun ne?
-         [quan-xun ne?]
+Dziecko: Quan-xun lo?
+         [quan-xun lo?]
          A starsza siostra?
 
-Matka: Quan-Xun nei-qie ao-ming. Cou-Na da-ru zhao-ruo gan-a.
-       [quan-xun nei-qie ao-ming. cou-na da-ru zhao-ruo gan-a.]
-       Starsza siostra czyta książki. Ona sui-qu chce biegać.
+Matka: Quan-xun nun nei mi-ming.
+       [quan-xun nun nei mi-ming.]
+       Starsza siostra teraz czyta książki.
 
-Dziecko: Uo guo-yun zhao-ruo ao-ming!
-         [uo guo-yun zhao-ruo ao-ming!]
+Dziecko: Ao yueo guoo mi-ming!
+         [ao yueo guoo mi-ming!]
          Ja też chcę czytać książki!
 ```
 
 ---
 
-## ⚡ Dialog 9: Scena Walki (Dynamiczna, Bez Podmiotu)
+## ⚡ Dialog 9: Scena walki (krótkie komendy)
 
 ```
-A: Eng-Wai xi! Rong-Niao!
-   [eng-wai xi! rong-niao!]
-   Nadchodzi! Lecący Kopniak!
+A: Ci! Rong-niao!
+   [ci! rong-niao!]
+   Nadchodzi! Lecący kopniak!
 
-B: Can-Quan! Zhua-Lai!
+B: Can-quan! Zhua-lai!
    [can-quan! zhua-lai!]
    Blokuj! Unikaj!
 
-A: Sui-Rong! Pie-Qin!
+A: Sui-rong! Pie-qin!
    [sui-rong! pie-qin!]
-   Wstrząśnij-ziemia! Oślep-wzrok!
+   Wstrząśnij! Oślep-wzrok!
 
-B: Mei-you da-shuo! Fa-qi!
-   [mei-you da-shuo! fa-qi!]
-   Bezużyteczne! Wypuść-qi!
-
-A: Bu-hao! Kang-Xiao run-zhao xi!
-   [bu-hao! kang-xiao run-zhao xi!]
+B: Nuo! Kang-xiao run-zhao!
+   [nuo! kang-xiao run-zhao!]
    Źle! Zbyt silny!
 ```
 
 ---
 
-## 🌟 Dialog 10: Turniej (Honorifics + Tytuły)
+## 🌟 Dialog 10: Turniej (proste ogłoszenie)
 
 ```
-Ogłaszający: Huan-ying eng-wai Feng-dzan Shan-Zui-Rong!
-             [huan-ying eng-wai feng-dzan shan-zui-rong!]
-             Witamy sui-tun Wielkim Turnieju Dziedzictwa Fengzhana!
+Ogłaszający: Zhuang-rui! Shan-zui-rong te!
+             [zhuang-rui! shan-zui-rong te!]
+             Dzień dobry! Wielki Turniej Dziedzictwa Fengzhana zaczyna się!
 
-Wojownik 1: Uo xing-ting Miao-Ju Hu-szi. Uo lai-zi Nang-Qian.
-            [uo xing-ting miao-ju hu-szi. uo lai-zi nang-qian.]
-            Jestem Miao-Ju Nong-Bin, Wojownik. Pochodzę z Niebiańskich Gór.
+Wojownik 1: Ao ai Miao-Ju Hu-szi, chai-hun.
+            [ao ai miao-ju hu-szi, chai-hun.]
+            Jestem Miao-Ju Hu-szi, wojownik.
 
-Wojownik 2: Uo xing-ting Mou-Zhen Ming-gong. Eng-Wai pian-cuan Sui-Ha.
-            [uo xing-ting mou-zhen ming-gong. eng-wai pian-cuan sui-ha.]
-            Jestem Mou-Zhen Leng-Dou, Szanowny Pan. Przybywam z Jadeitowej Rzeki.
+Wojownik 2: Ao ai Mou-Zhen Ming-gong, muo-song.
+            [ao ai mou-zhen ming-gong, muo-song.]
+            Jestem Mou-Zhen Ming-gong, szanowny panie.
 
-Ogłaszający: Zong-Niu ying-chun!
-             [zong-niu ying-chun!]
-             Proszę zacznijcie!
-
-[Walka]
-
-Ogłaszający: Miao-Ju Hu-szi a-qian! Zhu-he!
-             [miao-ju hu-szi a-qian! zhu-he!]
-             Miao-Ju Nong-Bin, Wojownik wygrywa! Gratulacje!
+Ogłaszający: Zei-shi! Te ban!
+             [zei-shi! te ban!]
+             Szybko! Zaczynajcie!
 ```
 
 ---
 
-## 📝 Uwagi do Dialogów
+## 📝 Uwagi do dialogów
 
-### Zasady Naturalnego Dialogu:
+- **Pytanie:** dodaj `mo` na końcu (`... mo?`)
+- **Posiadanie/określenie:** `X zhai Y`
+- **Negacja:** `daoo` przed czasownikiem
+- **Teraz / w trakcie:** `nun nei ...`
+- **Sugestia / potwierdzenie:** `ban` na końcu
+- **Temat (“a co z X?”):** `X lo?`
 
-1. **Pomijanie podmiotu** - W dynamicznych scenach (walka, rozmowy między znajomymi)
-2. **Reduplikacja** - Dla emfazy (szyb-szyb, pu-sha)
-3. **Partykuły emocjonalne** - xun-sun, ne, mo-an dla naturalności
-4. **Honorifics** - Zawsze w hierarchicznych relacjach (uczeń-mistrz, młodszy-starszy)
+### Typowe zwroty (ze słownika)
 
-### Typowe Zwroty:
-
-| Zwrot | Wymowa | Znaczenie | Kontekst |
-|-------|--------|-----------|----------|
-| **Qing-jiao** | [qing-jiao] | Proszę o naukę | Przed pojedynkiem |
-| **Qian-Heng** | [qian-heng] | Pamiętaj | Mistrz → uczeń |
-| **Shi-Huai xi** | [shi-huai xi] | Rozumiem | Dia-Ya wyjaśnieniu |
-| **Ying-Chun** | [ying-chun] | Zacznij/zacznijmy | Rozpoczęcie działania |
-| **Zhu-he** | [zhu-he] | Gratulacje | Dia-Ya sukcesie |
+| Zwrot | Znaczenie |
+|------|-----------|
+| **nin** | proszę |
+| **poye** | dziękuję |
+| **can** | przepraszam |
+| **zei-shi** | natychmiast |
+| **qian-heng** | pamiętaj |
 
 ---
 
-**Ostatnia aktualizacja:** 2026-01-03
+**Ostatnia aktualizacja:** 2026-01-29

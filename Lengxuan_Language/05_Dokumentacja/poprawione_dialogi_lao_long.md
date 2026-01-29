@@ -7,22 +7,24 @@
 
 ## Instrukcja
 Poniżej znajdują się TYLKO poprawione zdania w języku Lengxuan z dialogów Ou-Zang Longa.
-Sui-Qu jest to pełny tekst powieści - jedynie fragmenty, które wymagały korekty.
+To nie jest pełny tekst powieści — tylko fragmenty, które wymagały korekty (wersja historyczna).
+
+> Uwaga: ten plik był przygotowany dla starszej wersji słownika/gramatyki. Aktualne formy referencyjne są w `03_Slownik/` oraz w `SZYBKI_START.md`.
 
 ---
 
 ## Fragment 1 (linia 78-79 oryginału)
-Uo da-ru nong-ci shao-jiao. Zao-jiu zuo-huan. Fu-Qiong xun-sun, da-ru zhao-ruo nei-qie yin-beng uo.
+Ao daoo nong-ci que. Zao-jiu zuo-huan. Fu-Qiong ban, daoo zhao-ruo nei yin-beng ao.
 
 ---
 
 ## Fragment 2 (linia 97-98 oryginału)
-Zhou-Kai! Chai-Chua nei-qie kuan-kua shenme kou-huo mei-you!
+Ce! Nio nei kuan-kua neng-ru kou-huo mei-you!
 
 ---
 
 ## Fragment 3 (linia 131-133 oryginału)
-Zhang-Nie xun-sun. Jin-lai. Yi-ge mi-fou he-nai, nei-he kun-nin. Cou-Na kai-eng ci-cang chai-chua: hui-jia xun-sun.
+Zhang-Nie ban. Jin-lai. Yi-ge mi-fou he-nai, nei-he kun-nin. Cou kai-eng ci-cang nio: hui-jia ban.
 
 ---
 
@@ -37,47 +39,47 @@ Jin-lai, Mou-Zhen Er-Nie.
 ---
 
 ## Fragment 6 (linia 236-237 oryginału - Mou-Zhen Er-Nie)
-Shi-lao, chai-chua nun-mie uo mo-an?
+Shi-lao, nio nun-mie ao mo?
 
 ---
 
 ## Fragment 7 (linia 238-241 oryginału - Ou-Zang Chou-Ri)
-Xing-Ting. Po-Ye. Chai-Chua eng-wai xi ca-lang xiong-wa. Chai-Cen tao-pin shao-jiao eng-wai xi, ruo-dao cou-na da-ru shi-huai Yu-hua. Kai-Eng cou-na eng-wai xi Ashikagama. Suo-yi, kai-eng chai-chua ju-ye ni-ang cou-na zhi-zhai zhuai-niu.
+Xing-Ting. Po-Ye. Nio eng-wai xi ca-lang xiong-wa. Chai-Cen tao-pin que eng-wai xi, ruo-dao cou daoo shi-huai Yu-hua. Kai-Eng cou eng-wai xi Ashikagama. Suo-yi, kai-eng nio ju-ye bi cou zhai zhuai-niu.
 
 ---
 
 ## Fragment 8 (linia 242-243 oryginału - Mou-Zhen Er-Nie)
-Uo dou-xia nun-mie cou-na cou-chang zeng-ai mian-ao mo-an?
+Ao dou-xia nun-mie cou cou-chang zeng-ai mian-ao mo?
 
 ---
 
 ## Fragment 9 (linia 244-245 oryginału - Ou-Zang Chou-Ri)
-Nun-Mie cou-na: cou-na nei-qie chai-cen re-mang luan-ruo shenme. Chai-Cen xing-ting zhao-zu.
+Nun-Mie cou: cou nei chai-cen re-mang luan-ruo neng-ru. Chai-Cen xing-ting zhao-zu.
 
 ---
 
 ## Fragment 10 (linia 280-281 oryginału - Ou-Zang Chou-Ri)
-Chai-Chua zhuo-ying mo-an, xiao-na-shu uo xue-gao chai-chua sun-xie?
+Nio zhuo-ying mo, xiaoo-na-shu ao xue-gao nio sun-xie?
 
 ---
 
 ## Fragment 11 (linia 292-294 oryginału - Ou-Zang Chou-Ri)
-Uo zhuo-ying Heijiro. Cou-Na xing-ting dun-ling zang-mu. Han-Tou zeng-ai nai-che zhi-zhai shao-jiao. Ruo-Dao... chai-chua da-ru ju-ye nei-qie chai-cen re-mang xing-ting wen-shen.
+Ao zhuo-ying Heijiro. Cou xing-ting nue-han zang-mu. Han-Tou zeng-ai nai-che zhai que. Ruo-Dao... nio daoo ju-ye nei chai-cen re-mang xing-ting ma-cha.
 
 ---
 
 ## Fragment 12 (linia 306-309 oryginału - Ou-Zang Chou-Ri)
-Hua-Nao, uo niang-fan cong-pi wen-shen. Han-Tou zeng-ai wen-shen xing-ting Lianyu. Cou-Na mei-you ci-shuo. Suo-yi uo ni-ang zhua-za: uo da-ru nei-qie niang-fan. Chai-Cen xing-ting uo zhi-zhai pan-qing. Suo-yi, uo xue-gao zhao-zu wen-shen ce-qun, na-man xi pi-rou.
+Hua-Nao, ao niang-fan cong-pi ma-cha. Han-Tou zeng-ai ma-cha xing-ting Lianyu. Cou mei-you ci-shuo. Suo-yi ao bi zhua-za: ao daoo nei niang-fan. Chai-Cen xing-ting ao zhai pan-qing. Suo-yi, ao xue-gao zhao-zu ma-cha ce-qun, na-man xi pi-rou.
 
 ---
 
 ## Fragment 13 (linia 375-377 oryginału - Ou-Zang Chou-Ri)
-Suo-yi, chai-chua eng-wai xi chai-cen re-mang... bang-xiang, chai-chua di-zao mei-wu. Xing-Ting chai-cen mo-an?
+Suo-yi, nio eng-wai xi chai-cen re-mang... bang-xiang, nio di-zao mei-wu. Xing-Ting chai-cen mo?
 
 ---
 
 ## Fragment 14 (linia 393-395 oryginału - Ou-Zang Chou-Ri)
-Kuo-Jiong chai-chua zhi-zhai cuan-se... chai-chua pao-he ying-chun kuo-nie-gui. Kuang-Miu chai-chua nai-pian, chai-chua ju-ye nei-qie chai-cen re-mang. Chai-Chua nai-pian xi, zeng-peng zhuo-ying chai-cen re-mang zhi-zhai ge-kang.
+Kuo-Jiong nio zhai cuan-se... nio pao-he ying-chun kuo-nie-gui. Kuang-Miu nio nai-pian, nio ju-ye nei chai-cen re-mang. Nio nai-pian xi, zeng-peng zhuo-ying chai-cen re-mang zhai ge-kang.
 
 ---
 

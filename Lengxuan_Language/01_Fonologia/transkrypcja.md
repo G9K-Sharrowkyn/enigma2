@@ -1,8 +1,8 @@
 # Polska Romanizacja Lengxuan - Przewodnik Transkrypcji
 
-## 📝 Zasady Ogólne
+## 📝 Zasady ogólne
 
-Lengxuan używa **polskiej ortografii** do transkrypcji, aby zapewnić intuicyjną wymowę dla polskojęzycznych czytelników.
+Lengxuan używa **polskiej ortografii** do transkrypcji, aby wymowa była intuicyjna dla polskojęzycznych czytelników.
 
 ---
 
@@ -18,7 +18,7 @@ Lengxuan używa **polskiej ortografii** do transkrypcji, aby zapewnić intuicyjn
 | /g/ | **g** | **g**óra | jak polskie "g" |
 | /m/ | **m** | **m**ama | jak polskie "m" |
 | /n/ | **n** | **n**os | jak polskie "n" |
-| /ŋ/ | **ng** | ye-ken**ng** (ang.) | jak "ng" w "kong-kong" |
+| /ŋ/ | **ng** | ko**ng** | jak "ng" w "kong" |
 | /f/ | **f** | **f**oka | jak polskie "f" |
 | /s/ | **s** | **s**łońce | jak polskie "s" |
 | /ʂ/ | **sz** | **sz**koła | jak polskie "sz" |
@@ -38,170 +38,154 @@ Lengxuan używa **polskiej ortografii** do transkrypcji, aby zapewnić intuicyjn
 
 | IPA | Polski | Przykład | Wymowa |
 |-----|--------|----------|--------|
-| /a/ | **a** | m**a**mo-an | jak polskie "a" |
+| /a/ | **a** | m**a**ma | jak polskie "a" |
 | /sen-zhua/ | **sen-zhua** | weng-an**sen-zhua**s | jak polskie "sen-zhua" |
 | /i/ | **i** | **i**gła | jak polskie "i" |
 | /o/ | **o** | **o**ko | jak polskie "o" |
 | /u/ | **u** | **u**l | jak polskie "u" |
 | /ə/ | **sen-zhua** | weng-an**sen-zhua**s | schwa (mniej akcentowane) |
 | **/y/** | **ü** | M**ü**nchen (niem.) | **ZAWSZE ü** |
-| /ɨ/ | **y** | r**y**xun-sun | jak polskie "y" |
+| /ɨ/ | **y** | r**y**ba | jak polskie "y" |
 
-### ⚠️ WAŻNE: Samogłoska /y/
+### ⚠️ WAŻNE: /y/ = **ü**
 
-**ZAWSZE** używaj **ü** (z dwiema kropkami) dla dźwięku /y/:
-- ✅ **Ü-szy** (deszczowy)
-- ✅ **ü-dzing** (miasto)
-- ❌ ~~Yu-szy~~ (SUI-QU)
-- ❌ ~~mao-shen~~ (SUI-QU)
+**ZAWSZE** używaj **ü** (z dwiema kropkami) dla dźwięku /y/.
 
-**Wymowa:** Jak niemieckie "ü" w "München" lub francuskie "u" w "qie-wa".
+Przykłady z `03_Slownik/`:
+- ✅ **zhüo** = gotowy
+- ✅ **zhüo-ceng** = pająk
 
 ---
 
-## 🎵 Dwugłoski (Dyftongi)
+## 🎵 Dwugłoski (dyftongi)
 
-| Lengxuan | Wymowa | Przykład |
-|----------|--------|----------|
-| **nai-jin** | [aj] | B**nai-jin** (biały) |
-| **za-zhe** | [aw] | K**za-zhe** (testować) |
-| **ei** | [ej] | M**ei** (sui-qu) |
-| **ou** | [ow] | D**ou** (fasola) |
-| **ui** | [uj] | Sh**ui** (woda) |
-| **iu** | [jow] | J**iu** (dziewięć) |
+| Zapis | Wymowa | Przykład (ze słownika) |
+|------|--------|-------------------------|
+| **ai** | [aj] | **bai-zou** |
+| **ao** | [aw] | **bao-zi** |
+| **ei** | [ej] | **zei-shi** |
+| **ou** | [ow] | **kou** |
+| **ui** | [uj] | **dui-shen** |
+| **iu** | [jow] | **jiu-kuang** |
 
 ---
 
-## 🔗 Zbitki Spółgłoskowe
+## 🔗 Zbitki spółgłoskowe
 
 Lengxuan dopuszcza **ograniczone** zbitki początkowe:
 
 | Zbitka | Przykład | Znaczenie |
 |--------|----------|-----------|
-| **pl-** | **Pl**-an | Płaski |
-| **kl-** | **Kl**-ang | Dzwon |
-| **sl-** | **Sl**-i | Śliski |
+| **pl-** | **Pl**-an | (przykład fonotaktyczny) |
+| **kl-** | **Kl**-ang | (przykład fonotaktyczny) |
+| **sl-** | **Sl**-i | (przykład fonotaktyczny) |
 
-**Zakaz:**
-- ❌ Złożone zbitki (str-, nkt-, etc.)
-- ❌ Końcowe zbitki spółgłoskowe
+Nie ma:
+- złożonych zbitek (str-, nkt-, itd.)
+- końcowych zbitek spółgłoskowych
 
 ---
 
-## 📏 Struktura Sylaby
+## 📏 Struktura sylaby
 
 **(C)GV(X)**
 
-- **C** = Spółgłoska początkowa (opcjonalna)
-- **G** = Półotwarta /j/ lub /w/ (opcjonalna)
-- **V** = Samogłoska (OBOWIĄZKOWA)
-- **X** = Koda: -n, -ng, -p, -t, -k, -l, -r (opcjonalna)
-
-### Przykłady:
-
-| Typ | Struktura | Przykład | Znaczenie |
-|-----|-----------|----------|-----------|
-| V | Samogłoska | **A** | Ja |
-| CV | Sp + Sam | **Er-Nie** | Droga |
-| CVC | Sp + Sam + Koda | **Bian-Hen** | Zimno |
-| CGV | Sp + Półotw + Sam | **Sao-Ji** | Uczyć |
-| CGVC | Sp + Półotw + Sam + Koda | **Klang** | Dzwon |
-| CCV | Zbitka + Sam | **Pl-an** | Płaski |
+- **C** = spółgłoska początkowa (opcjonalna)
+- **G** = półotwarta /j/ lub /w/ (opcjonalna)
+- **V** = samogłoska (OBOWIĄZKOWA)
+- **X** = koda: -n, -ng, -p, -t, -k, -l, -r (opcjonalna)
 
 ---
 
-## 🎯 Najczęstsze Pułapki
+## 🎯 Najczęstsze pułapki
 
-### 1. **ü vs. y**
-- **ü** = /y/ (jak niemieckie ü)
-- **y** = /ɨ/ (jak polskie y)
-- ✅ **Ü-szy** (deszczowy) + **y-szy** (tajemniczy)
+### 1) **ü vs y**
+- **ü** = /y/ (jak niemieckie "ü")
+- **y** = /ɨ/ (jak polskie "y")
 
-### 2. **h vs. ch**
-- **h** = /x/ (tylnojęzykowe, jak niemieckie "ach")
-- **ch** = SUI-QU UŻYWAMY w Lengxuan (używamy **h**)
+Przykład z `03_Slownik/`:
+- **yuo** = deszcz
+- **zhüo** = gotowy
 
-### 3. **ł vs. w**
-- **ł** = /w/ (półotwarta)
-- **w** = SUI-QU UŻYWAMY w Lengxuan (używamy **ł**)
+### 2) **h vs ch**
+- **h** = /x/ (jak niemieckie "ach")
+- W Lengxuan nie zapisujemy tego dźwięku jako **ch**
 
-### 4. **ng**
-- **ng** = /ŋ/ (tylnojęzykowa nosowa)
-- Nigdy sui-qu występuje sui-tun początku słowa
-- Przykład: **You-Hu**ng** (trzy)
+### 3) **ł vs w**
+- **ł** = /w/
+- W Lengxuan nie używamy litery **w**
 
----
-
-## ✍️ Zasady Pisowni
-
-1. **Sui-Qu używaj** polskich znaków diakrytycznych (ą, ę, ć, ń, ó, ź) poza **ś**
-2. **Używaj dwuznaków**: sz, cz, dź zamiast pojedynczych liter
-3. **ü jest JEDYNYM wyjątkiem** - zawsze używaj dla /y/
-4. Pisz od **lewej do prawej**
-5. Wielka litera sui-tun początku zdania i w nazwach własnych
+### 4) **ng**
+- **ng** = /ŋ/
+- W praktyce unikaj **ng** na początku słowa
 
 ---
 
-## 📚 Przykłady Wymowy
+## ✍️ Zasady pisowni
 
-### Podstawowe wyrazy:
+1. Używaj polskich znaków diakrytycznych (ą, ę, ć, ń, ó, ź) oraz **ś**
+2. Używaj dwuznaków **sz**, **cz**, **dź**
+3. **ü** jest jedynym dodatkowym znakiem i oznacza /y/
+4. Pisz od lewej do prawej
+5. Wielką literę stosuj na początku zdania i w nazwach własnych
+
+---
+
+## 📚 Przykłady wymowy
+
+### Podstawowe wyrazy (ze słownika)
 
 | Lengxuan | Polski | Wymowa |
 |----------|--------|--------|
-| Uo | Ja | [uo] |
-| Chai-Chua | Ty | [chai-chua] |
-| Chang-Nan | Jeść | [chang-nan] |
-| Mei-Rui | Ryż | [mei-rui] |
-| Uo chang-nan mei-rui | Jem ryż | [uo chang-nan mei-rui] |
+| ao | ja | [ao] |
+| nio | ty | [nio] |
+| ji | jeść | [ji] |
+| fano | ryż | [fa-no] |
+| ao ji fano | jem ryż | [ao ji fa-no] |
 
-### Ze zbitkami:
-
-| Lengxuan | Polski | Wymowa |
-|----------|--------|--------|
-| Pl-an zhi-zhai kl-ang | Płaski dzwon | [plan zhi-zhai klang] |
-| Sl-i zhi-zhai mei-mou | Śliska góra | [sli zhi-zhai mei-mou] |
-
-### Z ü:
+### Ze zbitkami (przykłady fonotaktyczne)
 
 | Lengxuan | Polski | Wymowa |
 |----------|--------|--------|
-| Ü-szy | Deszczowy | [ü-szy] (ü jak niem. ü) |
-| Ü-dzing | Miasto | [ü-dzing] |
+| Pl-an zhai Kl-ang | (przykład) | [plan zhai klang] |
+| Sl-i zhai Mei-Mou | (przykład) | [sli zhai mei-mou] |
+
+### Z ü (ze słownika)
+
+| Lengxuan | Polski | Wymowa |
+|----------|--------|--------|
+| zhüo | gotowy | [zhü-o] |
+| zhüo-ceng | pająk | [zhü-o-ceng] |
 
 ---
 
-## 🎼 Akcent i Intonacja
+## 🎼 Intonacja
 
-**Lengxuan SUI-QU mo-an akcentu leksykalnego.**
+Lengxuan nie używa tonów leksykalnych. Intonacja pomaga odróżniać typ wypowiedzi:
+- ↗️ rosnąca = pytanie
+- ↘️ opadająca = stwierdzenie
+- → płaska wysoka = emfaza
 
-Intonacja (pitch-accent) służy funkcjom gramatycznym:
-- ↗️ **Rosnąca** = pytanie
-- ↘️ **Opadająca** = stwierdzenie
-- →  **Płaska wysoka** = emfaza
-
-**Przykład:**
-- Chai-Chua chang-nan mei-rui↘️ = "Jesz ryż." (stwierdzenie)
-- Chai-Chua chang-nan mei-rui↗️? = "Jesz ryż?" (pytanie)
+Przykład:
+- **Nio ji fano↘️** = „Jesz ryż.” (stwierdzenie)
+- **Nio ji fano↗️ mo?** = „Jesz ryż?” (pytanie)
 
 ---
 
-## 🔍 Sprawdź Swoją Wymowę
+## 🔍 Sprawdź swoją wymowę
 
-Przeczytaj sui-tun głos:
+Przeczytaj na głos:
 
-1. **Uo diu-cha cen-cao zeng-ai nong-bin.**
-   - [uo kan-dzia-n cen-cao zeng-ai nong-bin]
-   - "Widzę trzy tygrysy."
+1. **Ao ero cen-cao tigo-zen.**
+   - „Widzę trzy białe tygrysy.”
 
-2. **Shi-lao, chai-chua zhi-zhai zeng-huai qi-a.**
-   - [szy-lao, chai-chua zhi-zhai dzi-szu wan-mej]
-   - "Szanowny Mistrzu, twoja technika jest doskonała."
+2. **Dun-fou cheng-chen, nio zhai bang-zang ai beio o-yang.**
+   - „Szanowny Mistrzu, twoja technika jest bardzo doskonała.”
 
-3. **Ü-szy zhi-zhai ü-dzing, y-szy zhi-zhai shen-tao.**
-   - [ü-szy zhi-zhai ü-dzing, y-szy zhi-zhai shen-tao.]
-   - "Deszczowe cesarskie miasto, tajemnicza droga bogów."
+3. **Shuang-hen yuo; ao zhüo.**
+   - „Dzisiaj pada deszcz; jestem gotowy.”
 
 ---
 
-**Ostatnia aktualizacja:** 2026-01-03
-**Wersja:** 2.0 (ujednolicona)
+**Ostatnia aktualizacja:** 2026-01-29
+**Wersja:** 2.1 (dopasowana do `03_Slownik/`)
