@@ -161,11 +161,13 @@ Zaimki pytające (wg `03_Slownik/`):
 - **hen-yuan** = gdzie
 - **sui-gen** = kiedy
 - **xiaoo-na-shu** = dlaczego
+- **hen-rǎo** = skąd (pochodzenie)
 
 Przykłady:
 - **Ri-Pie ji fano?** = Kto je ryż?
 - **Nio ji neng-ru mo?** = Co jesz?
 - **Cou ai hen-yuan mo?** = Gdzie on/ona jest?
+- **Nio ci hen-rǎo mo?** = Skąd przyszedłeś?
 
 ---
 

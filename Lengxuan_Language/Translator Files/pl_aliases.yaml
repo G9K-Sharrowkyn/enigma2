@@ -1,0 +1,42 @@
+# Heurystyki ułatwiające PL→LX bez pełnej fleksji w słowniku.
+# Używane przez `translator_cli.py` (spaCy → lematy → aliasy).
+
+lemma_aliases:
+  tu: tutaj
+
+pronoun_cases:
+  mnie: ja
+  mi: ja
+  mną: ja
+  ciebie: ty
+  cię: ty
+  ci: ty
+  tobie: ty
+  jego: on/ona
+  go: on/ona
+  jemu: on/ona
+  jej: on/ona
+  ją: on/ona
+  niej: on/ona
+  nim: on/ona
+  nią: on/ona
+  nas: my
+  nam: my
+  nami: my
+  was: wy
+  wam: wy
+  wami: wy
+
+# Te lematy zwykle można pominąć w Lengxuan (język typu klasycznego),
+# ale **tylko jeśli nie udało się dopasować frazy**.
+drop_lemmas:
+  - do
+  - w
+  - we
+  - na
+  - za
+  - o
+  - że
+  - żeby
+  - się
+

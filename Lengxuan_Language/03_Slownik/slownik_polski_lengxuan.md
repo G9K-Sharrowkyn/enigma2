@@ -1623,6 +1623,7 @@
 - przyjemność - ei-pa
 - przyjmować (gości) - gao-feng
 - przyjmować uczniów - nong-ci
+- przyjmować - nong-ci
 - przyjęcie (z alkoholem) - chua-fa
 - przyjść - ci
 - przyklejać (plaster) - guai-pao
@@ -2166,6 +2167,7 @@
 - tusz - gu-chua
 - tusz w sztabce - sha-wei
 - tutaj - kuan-kua
+- tu - kuan-kua
 - twarda siła - ti-chuo
 - twarde drewno - ka-zheng
 - twardy - jino
@@ -2193,6 +2195,7 @@
 - uczestniczyć - qu-xiao
 - uczeń osobisty - ma-rong
 - uczeń, adept - ma-cha
+- uczeń - ma-cha
 - uczony człowiek - se-li
 - uczony, literat - kai-du
 - uczony-kandydat - ka-ting
@@ -2462,6 +2465,8 @@
 - z przodu - ma-ti
 - z tyłu - dong-chang
 - z wiatrem - fengo-bi
+- z, od (źródło) - rǎo
+- skąd - hen-rǎo
 - za każdym razem - nuo-er
 - zaatakować - jian-nan
 - zabawka - ca-mi
@@ -2707,3 +2712,10 @@
 - żółw błotny - guio-cuan
 - żółwia prędkość - guio-ang
 - żądać - dian-quan
+- mistrz (honorowy tytuł) - chen-zhang
+- obcy, przybysz - wai-que
+- opuścić (miejsce) - deo-re
+- pochodzić z, wywodzić się - rǎo-ci
+- przyjąć, wpuścić - lie-xu
+- trudno (przysłówek) - laio-shun
+- wyglądać na, wydaje się - ying-shun

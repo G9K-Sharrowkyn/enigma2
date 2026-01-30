@@ -1,0 +1,47 @@
+# Propozycje nowych haseł (do włączenia po akceptacji)
+# format: - pl: "polski" ; lx: "lengxuan" ; pos: ... ; note: ...
+
+- pl: "skąd"
+  lx: "hen-rǎo"
+  pos: "zaimek pyt."
+  note: "pytanie o źródło/pochodzenie; 'hen' (gdzie) + nowy przyimek rǎo"
+
+- pl: "z, od (źródło)"
+  lx: "rǎo"
+  pos: "przyimek"
+  note: "przyimek pochodzenia; do użycia przed miejscem / osobą"
+
+- pl: "pochodzić z / wywodzić się"
+  lx: "rǎo-ci"
+  pos: "czas."
+  note: "czasownik pochodzenia; kompozycja przyimka rǎo + 'ci' (przyjść)"
+
+- pl: "wyglądać na / wydaje się"
+  lx: "ying-shun"
+  pos: "czas. modalny"
+  note: "użyteczne w zdaniach typu 'wygląda na to, że...'"
+
+- pl: "trudno (adverbialnie)"
+  lx: "laio-shun"
+  pos: "przysł."
+  note: "wspiera tłumaczenie 'trudno powiedzieć', 'trudno zrobić'"
+
+- pl: "przyjąć, wpuścić"
+  lx: "lie-xu"
+  pos: "czas."
+  note: "od 'lie-ling' (pozwalać) + 'xu' (wejść); bardziej precyzyjne niż ogólne 'pozwolić'"
+
+- pl: "opuścić (miejsce)"
+  lx: "deo-re"
+  pos: "czas."
+  note: "specjalizacja 'deo' (odejdź) dla zdania oznajmującego"
+
+- pl: "obcy / przybysz"
+  lx: "wai-que"
+  pos: "rzecz."
+  note: "przydatne przy rozpoznawaniu ról w dialogach"
+
+- pl: "mistrz (tytuł honor.)"
+  lx: "chen-zhang"
+  pos: "rzecz."
+  note: "różnicuje od ogólnego 'cheng-chen' — dla szkół walki"

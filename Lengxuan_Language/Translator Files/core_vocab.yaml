@@ -1,0 +1,57 @@
+# Minimalny, ręcznie dobrany zasób do generowania korpusu i testów.
+# Wartości to tokeny Lengxuan (zgodne ze słownikiem).
+
+pronouns:
+  - ao
+  - nio
+  - cou
+  - lano
+
+places:
+  - shio
+  - kuan-kua
+  - re-mang
+
+nouns:
+  - fano
+  - zhe
+  - que
+  - ma-cha
+  - kuo-nie-gui
+  - cha-cun
+
+adjectives:
+  - nue-han
+  - nuo
+  - run-zhao
+  - beio-nian
+
+verbs_intransitive:
+  - ce
+  - ci
+  - cu
+  - wo
+
+verbs_transitive:
+  - ji
+  - ju
+  - fu
+  - bi
+  - ga
+
+verbs_modal_like:
+  - lie-ling
+  - lie-xu
+  - rǎo-ci
+
+particles:
+  - daoo
+  - mo
+  - zhai
+  - sen
+  - jiao
+  - ban
+  - lo
+  - rǎo
+  - hen-rǎo
+

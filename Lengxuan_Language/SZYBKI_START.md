@@ -193,6 +193,7 @@ Zawsze: Podmiot → Czasownik → Dopełnienie (jak w polskim/angielskim)
 - **ban** = sugestia/potwierdzenie
 - **lo** = temat (“a co z X?”)
 - **jiao** = jeśli
+- **rǎo / hen-rǎo** = z/od (pochodzenie) / skąd
 
 ### 5. **Pomijaj podmiot**
 W dialogach, gdy jest jasny z kontekstu:

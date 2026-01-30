@@ -57,6 +57,18 @@ Przykłady z `03_Slownik/`:
 
 ---
 
+## ✨ Diakrytyki dodatkowe (opcjonalne, bez tonów)
+
+Lengxuan **nie ma tonów leksykalnych**, ale dopuszcza sporadyczne diakrytyki jako **rozróżniki pisowni** (np. gdy potrzebne jest krótkie słowo, a bez diakrytyku byłaby kolizja).
+
+Aktualnie używane dodatkowe znaki:
+- **ǎ** (np. `rǎo`)
+- **ǒ** (rezerwowane na przyszłe potrzeby)
+
+Zasada: diakrytyki **nie oznaczają tonu**, tylko wariant zapisu.
+
+---
+
 ## 🎵 Dwugłoski (dyftongi)
 
 | Zapis | Wymowa | Przykład (ze słownika) |
@@ -125,9 +137,10 @@ Przykład z `03_Slownik/`:
 
 1. Używaj polskich znaków diakrytycznych (ą, ę, ć, ń, ó, ź) oraz **ś**
 2. Używaj dwuznaków **sz**, **cz**, **dź**
-3. **ü** jest jedynym dodatkowym znakiem i oznacza /y/
-4. Pisz od lewej do prawej
-5. Wielką literę stosuj na początku zdania i w nazwach własnych
+3. **ü** oznacza /y/ (jedyny „nowy” dźwięk spoza polskiego)
+4. Dodatkowe diakrytyki (**ǎ**, **ǒ**) są dopuszczalne jako rozróżniki pisowni (bez tonów)
+5. Pisz od lewej do prawej
+6. Wielką literę stosuj na początku zdania i w nazwach własnych
 
 ---
 
@@ -187,5 +200,5 @@ Przeczytaj na głos:
 
 ---
 
-**Ostatnia aktualizacja:** 2026-01-29
+**Ostatnia aktualizacja:** 2026-01-30
 **Wersja:** 2.1 (dopasowana do `03_Slownik/`)

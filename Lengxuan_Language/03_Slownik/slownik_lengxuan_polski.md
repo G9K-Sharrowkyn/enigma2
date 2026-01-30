@@ -1164,6 +1164,7 @@
 - kuan-gun - wyczerpany
 - kuan-han - kierunek
 - kuan-kua - tutaj
+- kuan-kua - tu
 - kuan-kuan - wujek-mistrz (młodszy brat mistrza)
 - kuan-ni - ogień wątroby
 - kuan-nong - przechodzić przez
@@ -1346,6 +1347,7 @@
 - ma-an - nauka
 - ma-bai - nauka Xiao-Diu
 - ma-cha - uczeń, adept
+- ma-cha - uczeń
 - ma-chao - sala Buddy
 - ma-chuo - wielki nauczyciel (tytuł)
 - ma-dou - nauka Fen-Mai
@@ -1618,6 +1620,7 @@
 - nong-bie - wrzeszczeć
 - nong-bin - wzywać
 - nong-ci - przyjmować uczniów
+- nong-ci - przyjmować
 - nong-gui - nuty muzyczne
 - nong-reng - czterysta
 - nong-wai - uważać że, sądzić
@@ -2664,6 +2667,15 @@
 - zi-fan - cyprys
 - zi-lang - dodatkowy, pomocniczy
 - zong-ba - potężny
+- rǎo - z, od (źródło)
+- hen-rǎo - skąd
+- rǎo-ci - pochodzić z, wywodzić się
+- ying-shun - wyglądać na, wydaje się
+- laio-shun - trudno (przysłówek)
+- lie-xu - przyjąć, wpuścić
+- deo-re - opuścić (miejsce)
+- wai-que - obcy, przybysz
+- chen-zhang - mistrz (honorowy tytuł)
 - zong-fen - wielki chłód
 - zong-kuang - sposób myślenia
 - zong-lu - kanon klasyczny

@@ -1,7 +1,7 @@
 # Ryujin — dialog (PL → Lengxuan, `03_Slownik/`)
 
 Nie przyjmuję uczniów, od dawna. Wracaj skąd przybyłeś i nie zawracaj mi więcej głowy.
-ao ren-shui daoo nong-ci ma-cha sen. cu shio. daoo yin-beng ao shun-qin.
+ao ren-shui daoo nong-ci ma-cha sen. cu rǎo nio ci. daoo yin-beng ao shun-qin.
 
 Odejdź! Nic cię tu nie czeka!
 deo! wuo wa nio kuan-kua!
@@ -22,7 +22,7 @@ Wzywałeś mnie, Mistrzu Lao?
 nio nong-bin ao, cheng-chen Lao mo?
 
 Tak. Posłuchaj mnie. Ten chłopiec pojawił się tu niedawno. Wygląda na to, że przybył z Askikagamy. Powiedz mu, żeby wracał skąd przyszedł. Nie przyjmuję już uczniów.
-en. nio fu ao. chai-cen duoo que du-xiong ci kuan-kua. ao geo: cou zhai li-ying ai ashikagama. bo cou: cou hu cu shio. ao nun daoo nong-ci ma-cha sen.
+en. nio fu ao. chai-cen duoo que du-xiong ci kuan-kua. ao geo: cou rǎo-ci ashikagama. bo cou: cou hu cu rǎo cou ci. ao nun daoo nong-ci ma-cha sen.
 
 Jak sobie życzysz, mistrzu.
 ao bao zhuang-wei nio wan-lang, cheng-chen.
@@ -44,4 +44,3 @@ heijiro ren-shui liu-xia ao. ao bao rongo heijiro zhai hui-ce, dio nio wang-shen
 
 Dziękuję.
 poye.
-

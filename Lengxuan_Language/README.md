@@ -25,6 +25,15 @@ Lengxuan_Language/
 └── 06_Narzedzia/          # Skrypty i narzędzia
     └── *.py
 
+├── Translator Files/      # Pliki pod tłumacza PL↔Lengxuan
+│   ├── README.md
+│   ├── build_lexicon.py
+│   ├── translator_cli.py
+│   ├── parallel_seed.tsv
+│   ├── corpus/
+│   │   └── generated.tsv
+│   └── out/               # wygenerowane słowniki maszynowe (TSV/JSONL)
+
 ```
 
 ## 🔧 Status Projektu
@@ -34,8 +43,12 @@ Lengxuan_Language/
 - 🔄 Słownik - W TRAKCIE POPRAWY (eliminacja homonimii)
 - ✅ Przykłady - UKOŃCZONE
 - ✅ Dokumentacja - UKOŃCZONA
+- 🔄 Tłumacz (offline) - W TRAKCIE (dane + narzędzia gotowe)
 
 ## ⚠️ Ostatnie Zmiany
+
+### 2026-01-30
+- Dodano pakiet `Translator Files/` (budowa lexikonu, seed-korpus, generator korpusu, CLI tłumacza).
 
 ### 2026-01-29
 - Aktualizacja dokumentacji pod najnowsze słowniki w `03_Slownik/`.
@@ -70,4 +83,4 @@ Lengxuan to konstruowany język fikcyjny dla powieści osadzonej w świecie insp
 - Głębia kulturowa poprzez idiomy i terminy
 
 ---
-*Ostatnia aktualizacja: 2026-01-29*
+*Ostatnia aktualizacja: 2026-01-30*

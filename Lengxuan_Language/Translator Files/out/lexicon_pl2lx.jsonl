@@ -1,0 +1,3381 @@
+{"pl": "0", "lx": ["kong"]}
+{"pl": "1", "lx": ["gan"]}
+{"pl": "10", "lx": ["teng"]}
+{"pl": "11", "lx": ["beno"]}
+{"pl": "12", "lx": ["mou"]}
+{"pl": "13", "lx": ["qiu"]}
+{"pl": "14", "lx": ["zhuo"]}
+{"pl": "15", "lx": ["pei"]}
+{"pl": "16", "lx": ["kua"]}
+{"pl": "17", "lx": ["jieo"]}
+{"pl": "18", "lx": ["ran"]}
+{"pl": "19", "lx": ["jue"]}
+{"pl": "2", "lx": ["hun"]}
+{"pl": "20", "lx": ["zun"]}
+{"pl": "3", "lx": ["cen"]}
+{"pl": "4", "lx": ["pan"]}
+{"pl": "5", "lx": ["sai"]}
+{"pl": "7", "lx": ["kou"]}
+{"pl": "8", "lx": ["niu"]}
+{"pl": "9", "lx": ["yaon"]}
+{"pl": "Akademia konfucjańska", "lx": ["dian-ba"]}
+{"pl": "Cesarz", "lx": ["gong-piao"]}
+{"pl": "Cesarz (tytuł)", "lx": ["gong-piao"]}
+{"pl": "Cesarzowa", "lx": ["pan-tu"]}
+{"pl": "Cesarzowa wdowa", "lx": ["tie-dei"]}
+{"pl": "Dynastia", "lx": ["dui-juan"]}
+{"pl": "Geograficzne Centrum", "lx": ["luan-huai"]}
+{"pl": "Jelito cienkie", "lx": ["jia-tui"]}
+{"pl": "Jelito cienkie (organ TCM)", "lx": ["jia-tui"]}
+{"pl": "Jelito grube", "lx": ["zhui-wen"]}
+{"pl": "Jelito grube (organ TCM)", "lx": ["zhui-wen"]}
+{"pl": "Minister", "lx": ["fu-ze"]}
+{"pl": "Ministerstwo Dochodów", "lx": ["nano-rua"]}
+{"pl": "Ministerstwo Personelu", "lx": ["zei-mao"]}
+{"pl": "Ministerstwo Sprawiedliwości", "lx": ["dui-qiong"]}
+{"pl": "Ministerstwo Wojny", "lx": ["lao-ceng"]}
+{"pl": "Niedobór", "lx": ["nu-xun"]}
+{"pl": "Niedobór (TCM)", "lx": ["nu-xun"]}
+{"pl": "Pęcherz moczowy", "lx": ["seng-da"]}
+{"pl": "Pęcherz moczowy (organ TCM)", "lx": ["seng-da"]}
+{"pl": "Pęcherzyk żółciowy", "lx": ["ruo-dao"]}
+{"pl": "Pęcherzyk żółciowy (organ TCM)", "lx": ["ruo-dao"]}
+{"pl": "Płuco", "lx": ["ren-ban"]}
+{"pl": "Płuco (organ TCM)", "lx": ["ren-ban"]}
+{"pl": "Turniej Boskiego Cesarza", "lx": ["lue-zhuan"]}
+{"pl": "aby pokonać twardość", "lx": ["ci-die"]}
+{"pl": "adept", "lx": ["ma-cha"]}
+{"pl": "agat", "lx": ["kei-niang"]}
+{"pl": "akapit", "lx": ["shan-zuo"]}
+{"pl": "aksamitny", "lx": ["zang-fou"]}
+{"pl": "aktualizować", "lx": ["wei-bin"]}
+{"pl": "akupunktura i moksybucja", "lx": ["mi-ba"]}
+{"pl": "akupunkturzysta", "lx": ["mi-ba-ren"]}
+{"pl": "albo", "lx": ["douo"]}
+{"pl": "ale", "lx": ["tan"]}
+{"pl": "ale używany)", "lx": ["jun-qi"]}
+{"pl": "alkohol", "lx": ["geng-peng"]}
+{"pl": "alkohol, wino", "lx": ["geng-peng"]}
+{"pl": "altair", "lx": ["guango-ku"]}
+{"pl": "altair (pasterz wołów", "lx": ["guango-ku"]}
+{"pl": "altair (pasterz wołów, gwiazda)", "lx": ["guango-ku"]}
+{"pl": "aluzja klasyczna", "lx": ["wa-nuan"]}
+{"pl": "ametyst", "lx": ["a-yin-gen"]}
+{"pl": "amitabha", "lx": ["mo-wan-huang"]}
+{"pl": "amitabha (mantra)", "lx": ["mo-wan-huang"]}
+{"pl": "amulet ochronny", "lx": ["cuo-fa-duo"]}
+{"pl": "ananas", "lx": ["kuang-qing"]}
+{"pl": "ani trochę", "lx": ["fang-zhao"]}
+{"pl": "anyż gwiaździsty", "lx": ["liao-qia"]}
+{"pl": "apatyczny", "lx": ["dong-shuan"]}
+{"pl": "apteka", "lx": ["tuo-luo"]}
+{"pl": "arbuz", "lx": ["guoo-can"]}
+{"pl": "architekt", "lx": ["lian-reng-ren"]}
+{"pl": "architektura", "lx": ["lian-reng"]}
+{"pl": "argumentować", "lx": ["ca-li"]}
+{"pl": "arhat", "lx": ["feng-pian"]}
+{"pl": "armia", "lx": ["wu-xuan"]}
+{"pl": "aromat", "lx": ["ne-gu"]}
+{"pl": "aromatyczny", "lx": ["dui-za"]}
+{"pl": "artykuł", "lx": ["shui-ai"]}
+{"pl": "arystokratyczny", "lx": ["gui"]}
+{"pl": "ashikagama", "lx": ["ashikagama"]}
+{"pl": "ashikagama (nazwa własna)", "lx": ["ashikagama"]}
+{"pl": "aspekt trwający", "lx": ["nei"]}
+{"pl": "aspekt trwający (marker)", "lx": ["nei"]}
+{"pl": "astragalus", "lx": ["li-lang"]}
+{"pl": "astronomia", "lx": ["zuan-zhi"]}
+{"pl": "atakować", "lx": ["sun-kan"]}
+{"pl": "atractylodes", "lx": ["tan-da"]}
+{"pl": "atrakcyjny", "lx": ["ne-lai"]}
+{"pl": "auspicyjny", "lx": ["chuang-weng"]}
+{"pl": "autor", "lx": ["gen-pa"]}
+{"pl": "autorytet", "lx": ["run-hai"]}
+{"pl": "autostrada", "lx": ["en-dun-le"]}
+{"pl": "ba-Xue mian-kou", "lx": ["niu-rong"]}
+{"pl": "babcia", "lx": ["dan-shun"]}
+{"pl": "babcia od matki", "lx": ["ei-ma"]}
+{"pl": "babcia od ojca", "lx": ["cu-ran"]}
+{"pl": "badania", "lx": ["wen-bei"]}
+{"pl": "bagno", "lx": ["huai-luan"]}
+{"pl": "bagno, mokradła", "lx": ["huai-luan"]}
+{"pl": "bakłażan", "lx": ["zhan-ti"]}
+{"pl": "balustrada", "lx": ["da-xun"]}
+{"pl": "bambus", "lx": ["zhuo-ming"]}
+{"pl": "bambus łzawy", "lx": ["zhuo-que"]}
+{"pl": "bambusa rdzawa", "lx": ["zhuo-mang"]}
+{"pl": "banan", "lx": ["guoo-gan"]}
+{"pl": "bank", "lx": ["pie-miu"]}
+{"pl": "bankiet", "lx": ["jue-la"]}
+{"pl": "banknot srebrny", "lx": ["liu-kao"]}
+{"pl": "bar", "lx": ["gong-gei"]}
+{"pl": "baran", "lx": ["kao-fa"]}
+{"pl": "baranina", "lx": ["rouo-de"]}
+{"pl": "bardzo", "lx": ["beio"]}
+{"pl": "bardzo ciężki", "lx": ["zhui-za"]}
+{"pl": "bardzo szybki", "lx": ["cu-wei"]}
+{"pl": "baron", "lx": ["cuan-qing"]}
+{"pl": "barwienie", "lx": ["pu-cha"]}
+{"pl": "barwnik", "lx": ["zhong-yue"]}
+{"pl": "basen", "lx": ["ti-dun-ou"]}
+{"pl": "bat jeździecki", "lx": ["tuan-jiong"]}
+{"pl": "bawełna", "lx": ["zhe-qin"]}
+{"pl": "bawełna (tkanina)", "lx": ["zhe-qin"]}
+{"pl": "bawół wodny", "lx": ["niuo-wo"]}
+{"pl": "bać się", "lx": ["ru"]}
+{"pl": "belka", "lx": ["pi-ri"]}
+{"pl": "bezcenny", "lx": ["lang-shang"]}
+{"pl": "bezlitosny", "lx": ["nei-sun"]}
+{"pl": "bezpieczeństwo", "lx": ["diao-eng"]}
+{"pl": "bezpiecznej podróży", "lx": ["gen-hen-jiang"]}
+{"pl": "beżowy", "lx": ["beng-dao"]}
+{"pl": "biała herbata", "lx": ["gango-eng"]}
+{"pl": "biała rosa", "lx": ["de-seng"]}
+{"pl": "biały", "lx": ["miu"]}
+{"pl": "biały tygrys", "lx": ["tigo-zen"]}
+{"pl": "biblioteka", "lx": ["xu-pu-nei"]}
+{"pl": "bicie dzwonu", "lx": ["shun-you"]}
+{"pl": "bicz", "lx": ["fo-jiong"]}
+{"pl": "bicz dziewięcioczłonowy", "lx": ["jia-jia-fo"]}
+{"pl": "biec", "lx": ["le"]}
+{"pl": "biegać", "lx": ["gan-a"]}
+{"pl": "bielizna", "lx": ["shuai-nei"]}
+{"pl": "biodro", "lx": ["bian-xian"]}
+{"pl": "biografia", "lx": ["se-shang"]}
+{"pl": "biurko", "lx": ["pen-kei"]}
+{"pl": "bić pokłony", "lx": ["zhuo-qun"]}
+{"pl": "bić w bęben", "lx": ["suo-pai"]}
+{"pl": "bliscy", "lx": ["sang-zao"]}
+{"pl": "bliscy,", "lx": ["sang-zao"]}
+{"pl": "bliski", "lx": ["gua"]}
+{"pl": "blokować", "lx": ["can-quan"]}
+{"pl": "bo", "lx": ["gun"]}
+{"pl": "bo / ponieważ", "lx": ["gun"]}
+{"pl": "bob", "lx": ["caio-er"]}
+{"pl": "bodhisattwa", "lx": ["pan-gong"]}
+{"pl": "bogactwo", "lx": ["rong-cang"]}
+{"pl": "bogaty", "lx": ["nue"]}
+{"pl": "bracia", "lx": ["wen-ling"]}
+{"pl": "brama", "lx": ["rong-ji"]}
+{"pl": "brama (budowla)", "lx": ["rong-ji"]}
+{"pl": "brama góry", "lx": ["shano-sun"]}
+{"pl": "brama góry (klasztoru)", "lx": ["shano-sun"]}
+{"pl": "bransoletka", "lx": ["xi-suo"]}
+{"pl": "brat", "lx": ["rui"]}
+{"pl": "brat cioteczny", "lx": ["gen-da"]}
+{"pl": "brat cioteczny (młodszy)", "lx": ["gen-da"]}
+{"pl": "brać kąpiel", "lx": ["mie-ken"]}
+{"pl": "broda", "lx": ["yao-ru"]}
+{"pl": "broda, wąsy", "lx": ["yao-ru"]}
+{"pl": "brokat", "lx": ["zei-fu"]}
+{"pl": "bronić się", "lx": ["ye-kua"]}
+{"pl": "browarnik", "lx": ["cheng-yuan"]}
+{"pl": "browarnik, gorzelnik", "lx": ["cheng-yuan"]}
+{"pl": "broń", "lx": ["chui-kan"]}
+{"pl": "brudny", "lx": ["huao"]}
+{"pl": "brutalny", "lx": ["cang-bing"]}
+{"pl": "brutalny, gwałtowny", "lx": ["cang-bing"]}
+{"pl": "brwi", "lx": ["ding-han"]}
+{"pl": "bryła", "lx": ["xiong-wa"]}
+{"pl": "brzeg rzeki", "lx": ["heo-yue"]}
+{"pl": "brzoskwinia", "lx": ["guoo-nuo"]}
+{"pl": "brzuch", "lx": ["de-tian"]}
+{"pl": "brzydki", "lx": ["kui"]}
+{"pl": "brązowy", "lx": ["chai-shun"]}
+{"pl": "budda-przodek", "lx": ["nue-qi"]}
+{"pl": "buddyzm", "lx": ["dian-zhan"]}
+{"pl": "budować", "lx": ["zu"]}
+{"pl": "budować łódź", "lx": ["zu-chu"]}
+{"pl": "budowniczy łodzi", "lx": ["teng-zhang"]}
+{"pl": "budynek piętrowy", "lx": ["zu-ting"]}
+{"pl": "budzący respekt", "lx": ["que-shuai"]}
+{"pl": "burza", "lx": ["baoo-ka"]}
+{"pl": "burza z piorunami", "lx": ["baoo-xu"]}
+{"pl": "burzyć", "lx": ["cuan-yong"]}
+{"pl": "but", "lx": ["heng"]}
+{"pl": "butelka", "lx": ["guan"]}
+{"pl": "butelka wody", "lx": ["a-yang"]}
+{"pl": "bułeczki gotowane na parze", "lx": ["bao-zi"]}
+{"pl": "bułeczki na parze", "lx": ["hun-rou"]}
+{"pl": "bydło", "lx": ["nin-xie"]}
+{"pl": "byk", "lx": ["dang-cong"]}
+{"pl": "bystry", "lx": ["kai-ha"]}
+{"pl": "bystry, mądry", "lx": ["kai-ha"]}
+{"pl": "być", "lx": ["ai"]}
+{"pl": "być może", "lx": ["xun-zei"]}
+{"pl": "być posłusznym", "lx": ["gui-mie"]}
+{"pl": "ból", "lx": ["ang-ran"]}
+{"pl": "ból brzucha", "lx": ["hun-re"]}
+{"pl": "ból głowy", "lx": ["ne-suo"]}
+{"pl": "ból pleców", "lx": ["sou-zhui"]}
+{"pl": "ból zęba", "lx": ["xiang-dong"]}
+{"pl": "bóstw)", "lx": ["si-mu"]}
+{"pl": "bóstwo", "lx": ["dai-pa", "juan-ru"]}
+{"pl": "bęben", "lx": ["cou-ning"]}
+{"pl": "błogosławieństwo", "lx": ["cuan-se"]}
+{"pl": "błyskawica", "lx": ["diano-guo"]}
+{"pl": "błyskawiczny", "lx": ["diano-qiong"]}
+{"pl": "błyszczący", "lx": ["diu-zhai", "re-nai"]}
+{"pl": "błąd", "lx": ["shuo-lin"]}
+{"pl": "błękitny", "lx": ["kun-zou"]}
+{"pl": "cal", "lx": ["ju-le"]}
+{"pl": "cal (~3cm)", "lx": ["ju-le"]}
+{"pl": "cang-Sou", "lx": ["sa-wa"]}
+{"pl": "cang-Sou ze skrzyżowanymi nogami", "lx": ["zhang-ji"]}
+{"pl": "całkiem", "lx": ["eng-bin"]}
+{"pl": "całkowicie", "lx": ["su-zha"]}
+{"pl": "cały", "lx": ["si-zhai"]}
+{"pl": "cecha charakterystyczna", "lx": ["cen-kai"]}
+{"pl": "cegła", "lx": ["bei-xi"]}
+{"pl": "cel", "lx": ["geng-heng", "hun-dian"]}
+{"pl": "cena", "lx": ["jia-ge"]}
+{"pl": "cena zakupu", "lx": ["che-hong"]}
+{"pl": "cenny", "lx": ["eng-hei"]}
+{"pl": "cenny, rzadki", "lx": ["eng-hei"]}
+{"pl": "ceramika", "lx": ["deng-pu"]}
+{"pl": "ceremonia", "lx": ["diao-you"]}
+{"pl": "ceremonia buddyjska", "lx": ["hun-lan"]}
+{"pl": "ceremonia pogrzebowa", "lx": ["pin-za"]}
+{"pl": "ceremonia taoistyczna", "lx": ["gou-gei"]}
+{"pl": "cesarskie", "lx": ["ne-zha"]}
+{"pl": "chaotyczny", "lx": ["zong-seng"]}
+{"pl": "charakter", "lx": ["ao-long"]}
+{"pl": "charakter (rzeczy)", "lx": ["ao-long"]}
+{"pl": "chcieć", "lx": ["guoo"]}
+{"pl": "chen Lu", "lx": ["chen-lu"]}
+{"pl": "chen Lu (imię własne)", "lx": ["chen-lu"]}
+{"pl": "chińska jagoda woskowa", "lx": ["kai-tuan"]}
+{"pl": "chleb", "lx": ["miano"]}
+{"pl": "chmura", "lx": ["tiano-lian"]}
+{"pl": "chodzić", "lx": ["di-cu"]}
+{"pl": "chodzić, iść pieszo", "lx": ["di-cu"]}
+{"pl": "choroba", "lx": ["mian-lue"]}
+{"pl": "choroba (formalne)", "lx": ["mian-lue"]}
+{"pl": "chory", "lx": ["qia"]}
+{"pl": "chorągiew", "lx": ["miu-du"]}
+{"pl": "chronić", "lx": ["liu-xia"]}
+{"pl": "chropowaty", "lx": ["mo-sou"]}
+{"pl": "chropowaty, drapiący", "lx": ["mo-sou"]}
+{"pl": "chryzantema", "lx": ["dei-xue"]}
+{"pl": "chusta", "lx": ["si-mo"]}
+{"pl": "chusta, szal", "lx": ["si-mo"]}
+{"pl": "chusteczka", "lx": ["chuan-che"]}
+{"pl": "chwalić", "lx": ["di-fan"]}
+{"pl": "chwała", "lx": ["rongo"]}
+{"pl": "chwytanie i kontrola", "lx": ["beng-gao"]}
+{"pl": "chwytać", "lx": ["cang-huang"]}
+{"pl": "chwytać, łapać", "lx": ["cang-huang"]}
+{"pl": "chłodny", "lx": ["weno-fou"]}
+{"pl": "chłód", "lx": ["tian-pin"]}
+{"pl": "cichy", "lx": ["ango-pen"]}
+{"pl": "ciekawy", "lx": ["qu-yuan"]}
+{"pl": "ciekawy, interesujący", "lx": ["qu-yuan"]}
+{"pl": "ciemnoczerwony", "lx": ["mao-gen"]}
+{"pl": "ciemnoniebieski", "lx": ["nao-ling"]}
+{"pl": "ciemnozielony", "lx": ["nano-liu-li"]}
+{"pl": "ciemność", "lx": ["ting-gua"]}
+{"pl": "ciemny", "lx": ["mano"]}
+{"pl": "cienkość", "lx": ["shuio"]}
+{"pl": "ciepły", "lx": ["weno-feno"]}
+{"pl": "cierpienie", "lx": ["ru-meng"]}
+{"pl": "cierpienie wewnętrzne", "lx": ["o-kuo"]}
+{"pl": "cień", "lx": ["mi-sheng"]}
+{"pl": "cieśla", "lx": ["xin-hou"]}
+{"pl": "cieśnina", "lx": ["seng-fang"]}
+{"pl": "ciocia", "lx": ["he-zhuan"]}
+{"pl": "ciocia (siostra ojca)", "lx": ["he-zhuan"]}
+{"pl": "ciotka", "lx": ["lang-ku"]}
+{"pl": "ciotka (siostra ojca)", "lx": ["lang-ku"]}
+{"pl": "ciągle", "lx": ["zu-run"]}
+{"pl": "ciąć", "lx": ["pa"]}
+{"pl": "ciąża", "lx": ["shuang-lai"]}
+{"pl": "ciężki", "lx": ["haoo"]}
+{"pl": "ciężkość", "lx": ["yun-bing"]}
+{"pl": "cnota", "lx": ["zhi-zhai"]}
+{"pl": "cnota, moc", "lx": ["zhi-zhai"]}
+{"pl": "co", "lx": ["neng-ru"]}
+{"pl": "cofać się", "lx": ["nie-wu"]}
+{"pl": "cofać się, podupadać", "lx": ["nie-wu"]}
+{"pl": "cordyceps", "lx": ["zhu-zong-ou"]}
+{"pl": "coś", "lx": ["qie"]}
+{"pl": "cukry", "lx": ["ruan-gan"]}
+{"pl": "cyfra", "lx": ["gang-can"]}
+{"pl": "cylindryczny", "lx": ["sheng-ting-san"]}
+{"pl": "cynobrowy", "lx": ["ta-tiao"]}
+{"pl": "cyprys", "lx": ["zi-fan"]}
+{"pl": "cytryna", "lx": ["guoo-ze"]}
+{"pl": "cywilizacja", "lx": ["tiao-heng"]}
+{"pl": "czajnik", "lx": ["xing-bu-sa"]}
+{"pl": "czajnik do herbaty", "lx": ["ning-wen"]}
+{"pl": "czający się tygrys", "lx": ["tigo-ge"]}
+{"pl": "czający się tygrys (idiom)", "lx": ["tigo-ge"]}
+{"pl": "czapka", "lx": ["teng-xia"]}
+{"pl": "czapla biała", "lx": ["te-bian"]}
+{"pl": "czapla szara", "lx": ["si-sen"]}
+{"pl": "czarka do herbaty", "lx": ["xuan-fu"]}
+{"pl": "czarna herbata", "lx": ["gango-min"]}
+{"pl": "czarny", "lx": ["mei"]}
+{"pl": "czarny wojownik", "lx": ["sheo-da"]}
+{"pl": "czarny wojownik (kierunek północ)", "lx": ["sheo-da"]}
+{"pl": "czarny wojownik (kierunek północ), żółw i wąż", "lx": ["sheo-da"]}
+{"pl": "czarny wojownik, żółw i wąż", "lx": ["sheo-da"]}
+{"pl": "czas", "lx": ["huan"]}
+{"pl": "czasem", "lx": ["gang-nou"]}
+{"pl": "czcigodny", "lx": ["si-mu"]}
+{"pl": "czcigodny (dla władców", "lx": ["si-mu"]}
+{"pl": "czcigodny (dla władców/bóstw)", "lx": ["si-mu"]}
+{"pl": "czcić", "lx": ["dang-pin"]}
+{"pl": "czcić bogów", "lx": ["chong-qun"]}
+{"pl": "czcić przodków", "lx": ["diu-wei"]}
+{"pl": "czekać", "lx": ["wa"]}
+{"pl": "czerwony", "lx": ["mao"]}
+{"pl": "czerwony ptak", "lx": ["mao-ban"]}
+{"pl": "czerwony ptak (kierunek południe)", "lx": ["mao-ban"]}
+{"pl": "czesać włosy", "lx": ["zhu-kang"]}
+{"pl": "czoło", "lx": ["geng-guo"]}
+{"pl": "czterdzieści", "lx": ["chui-luan"]}
+{"pl": "cztery", "lx": ["xie-sao"]}
+{"pl": "cztery skarby gabinetu", "lx": ["zhio-chu-o"]}
+{"pl": "cztery skarby gabinetu (pędzel", "lx": ["zhio-chu-o"]}
+{"pl": "cztery skarby gabinetu (pędzel, tusz, papier, kamień)", "lx": ["zhio-chu-o"]}
+{"pl": "czterysta", "lx": ["nong-reng"]}
+{"pl": "czuć", "lx": ["zuan-chan"]}
+{"pl": "czwarty", "lx": ["yuan-cang"]}
+{"pl": "czysta Kraina", "lx": ["seng-ne"]}
+{"pl": "czysty", "lx": ["cha-che", "cha-hui"]}
+{"pl": "czytać", "lx": ["mi"]}
+{"pl": "czytać książki", "lx": ["mi-ming"]}
+{"pl": "czytelnik", "lx": ["mi-zu"]}
+{"pl": "czyścić", "lx": ["cha-jing"]}
+{"pl": "czyścić, myć", "lx": ["cha-jing"]}
+{"pl": "często", "lx": ["nang-diao"]}
+{"pl": "częściowo", "lx": ["li-hou"]}
+{"pl": "częściowo pochmurnie", "lx": ["tiano-gou"]}
+{"pl": "członek", "lx": ["yao-ce"]}
+{"pl": "członek sekty", "lx": ["kuo-kun"]}
+{"pl": "członek sekty/klanu", "lx": ["kuo-kun"]}
+{"pl": "człowiek", "lx": ["que"]}
+{"pl": "człowiek niski", "lx": ["chu-rao"]}
+{"pl": "człowiek zemsty", "lx": ["leng-mi"]}
+{"pl": "córka", "lx": ["gui-liang"]}
+{"pl": "dachówka", "lx": ["zang-qie"]}
+{"pl": "daktyl chiński", "lx": ["zu-ji"]}
+{"pl": "dawać", "lx": ["nian-cai"]}
+{"pl": "dawać rabat", "lx": ["jue-heng"]}
+{"pl": "dawać w prezencie", "lx": ["ai-niang"]}
+{"pl": "dawno się sui-qu widzieliśmy", "lx": ["cou-quan-piao"]}
+{"pl": "dawno temu", "lx": ["ren-shui"]}
+{"pl": "dać", "lx": ["dio"]}
+{"pl": "dać prezent", "lx": ["pai-gei"]}
+{"pl": "dbający", "lx": ["kao-dao"]}
+{"pl": "debata", "lx": ["dang-hang"]}
+{"pl": "debata, spór", "lx": ["dang-hang"]}
+{"pl": "decydować", "lx": ["yu-kao"]}
+{"pl": "degustować", "lx": ["ken-qin", "lue-xiu"]}
+{"pl": "degustować herbatę", "lx": ["ken-xi"]}
+{"pl": "dekarz", "lx": ["zhuang-dang"]}
+{"pl": "dekoracja", "lx": ["nue-nou"]}
+{"pl": "dekret prawny", "lx": ["yan-gu"]}
+{"pl": "delektować się", "lx": ["lue-xiu"]}
+{"pl": "delektować się, degustować", "lx": ["lue-xiu"]}
+{"pl": "delfin", "lx": ["haio-qiu"]}
+{"pl": "delikatnie pachnący", "lx": ["chua-zhou"]}
+{"pl": "delikatnie piękny", "lx": ["zhou-nong"]}
+{"pl": "delikatny", "lx": ["sui-liao", "xin-pan", "zha-mang"]}
+{"pl": "delikatny, subtelny", "lx": ["zha-mang"]}
+{"pl": "demon", "lx": ["hao-quan"]}
+{"pl": "demon, potwór", "lx": ["hao-quan"]}
+{"pl": "deska", "lx": ["nuo-xi"]}
+{"pl": "deszcz", "lx": ["yuo"]}
+{"pl": "deszcz zbóż", "lx": ["yuo-ben"]}
+{"pl": "deszczowy dzień", "lx": ["yuo-ming"]}
+{"pl": "dharma buddyjska", "lx": ["ping-qin"]}
+{"pl": "diagnoza", "lx": ["zhao-xuan"]}
+{"pl": "diagram Taiji", "lx": ["mang-tai-nuan"]}
+{"pl": "diagram rzeki", "lx": ["wa-luo"]}
+{"pl": "dialog", "lx": ["qia-zhua"]}
+{"pl": "diament", "lx": ["duo-xuan"]}
+{"pl": "diu-Ruan z łóżka", "lx": ["pen-lun"]}
+{"pl": "dlaczego", "lx": ["xiaoo-na-shu"]}
+{"pl": "dmuchać", "lx": ["shio-han"]}
+{"pl": "dmuchać (na gorące)", "lx": ["shio-han"]}
+{"pl": "do widzenia", "lx": ["gu-rao"]}
+{"pl": "dobić do brzegu", "lx": ["haio-que"]}
+{"pl": "dobranoc", "lx": ["guang-suo"]}
+{"pl": "dobrobyt", "lx": ["geng-nuan-tuan"]}
+{"pl": "dobry", "lx": ["nue-han"]}
+{"pl": "dobry przyjaciel", "lx": ["de-wu"]}
+{"pl": "dobrze", "lx": ["suo-zhua"]}
+{"pl": "dobrze, porządnie", "lx": ["suo-zhua"]}
+{"pl": "dodatkowy", "lx": ["zi-lang"]}
+{"pl": "dodatkowy, pomocniczy", "lx": ["zi-lang"]}
+{"pl": "dodawać", "lx": ["tan-ou"]}
+{"pl": "dogodny", "lx": ["ceng-zun"]}
+{"pl": "doktor", "lx": ["lei-gun"]}
+{"pl": "doktor (stopień)", "lx": ["lei-gun"]}
+{"pl": "dokument", "lx": ["lai-kei"]}
+{"pl": "dokładać drewna", "lx": ["tuo-lin"]}
+{"pl": "dokładnie południe", "lx": ["fang-nan-zheng"]}
+{"pl": "dokładnie północ", "lx": ["fang-bei-zheng"]}
+{"pl": "dokładnie wschód", "lx": ["fang-dong-zheng"]}
+{"pl": "dokładnie zachód", "lx": ["fang-xi-zheng"]}
+{"pl": "dokładny", "lx": ["liao-ri"]}
+{"pl": "dokładny, precyzyjny", "lx": ["liao-ri"]}
+{"pl": "dolina", "lx": ["guo-guang"]}
+{"pl": "dom", "lx": ["shio"]}
+{"pl": "dorsz żółty", "lx": ["dongo-huan"]}
+{"pl": "doskonały", "lx": ["o-yang"]}
+{"pl": "doskonały, wyśmienity", "lx": ["o-yang"]}
+{"pl": "dostarczać", "lx": ["ting-gen"]}
+{"pl": "dostać", "lx": ["ei"]}
+{"pl": "dostosowywać", "lx": ["kuo-cao"]}
+{"pl": "dotknąć", "lx": ["cuo"]}
+{"pl": "dotrzeć", "lx": ["tiao-chou"]}
+{"pl": "dowód", "lx": ["shai-luan"]}
+{"pl": "dowódca dziesiątki", "lx": ["su-cen"]}
+{"pl": "dowódca wojskowy", "lx": ["zhuai-shen"]}
+{"pl": "doświadczać", "lx": ["ai-cui"]}
+{"pl": "doświadczać, zrozumieć", "lx": ["ai-cui"]}
+{"pl": "doświadczenie", "lx": ["da-zhu"]}
+{"pl": "dość", "lx": ["eng-bin"]}
+{"pl": "dość, całkiem", "lx": ["eng-bin"]}
+{"pl": "drabina", "lx": ["xian-miao"]}
+{"pl": "drapiący", "lx": ["mo-sou"]}
+{"pl": "drewniany bęben rybka", "lx": ["hai-jin"]}
+{"pl": "drewno", "lx": ["zui"]}
+{"pl": "drewno cedrowe", "lx": ["li-le"]}
+{"pl": "drewno różane", "lx": ["hu-pian"]}
+{"pl": "drewno sosnowe", "lx": ["die-shen"]}
+{"pl": "drobny", "lx": ["mang-lao"]}
+{"pl": "droga", "lx": ["tai"]}
+{"pl": "droga Człowieka", "lx": ["pei-gai"]}
+{"pl": "droga Nieba", "lx": ["pu-dao"]}
+{"pl": "droga Niebios jest bez końca", "lx": ["tian-ruo"]}
+{"pl": "droga medyczna", "lx": ["ji-kai"]}
+{"pl": "drogą lądową", "lx": ["mei-ya"]}
+{"pl": "drogą wodną", "lx": ["dei-kei"]}
+{"pl": "drugi", "lx": ["che-yao"]}
+{"pl": "drugorzędny", "lx": ["gao-beng"]}
+{"pl": "drwal", "lx": ["qian-chong"]}
+{"pl": "drzemka", "lx": ["miao-zui"]}
+{"pl": "drzewo", "lx": ["xiaoo"]}
+{"pl": "drzewo sandałowe", "lx": ["tano-kan"]}
+{"pl": "drzwi", "lx": ["sou"]}
+{"pl": "drążek", "lx": ["miu-nin"]}
+{"pl": "dręczyć", "lx": ["qiu-kuan"]}
+{"pl": "duch", "lx": ["lue-ning"]}
+{"pl": "duch (ogólnie)", "lx": ["lue-ning"]}
+{"pl": "duch przodka", "lx": ["qie-you"]}
+{"pl": "duch węża", "lx": ["han-hei"]}
+{"pl": "duchy i bóstwa", "lx": ["pei-nan"]}
+{"pl": "dudnienie", "lx": ["zhuang-gua"]}
+{"pl": "duma", "lx": ["rongo-pao"]}
+{"pl": "duma (pozytywna)", "lx": ["rongo-pao"]}
+{"pl": "dusić powoli", "lx": ["duo-ting"]}
+{"pl": "dusić w sosie", "lx": ["yoo-xia"]}
+{"pl": "dusza", "lx": ["hu-wa"]}
+{"pl": "dużo", "lx": ["gaoo"]}
+{"pl": "duży deszcz", "lx": ["yuo-tong"]}
+{"pl": "dwa", "lx": ["hu-ting"]}
+{"pl": "dwieście", "lx": ["tai-biao"]}
+{"pl": "dynia", "lx": ["hui-den"]}
+{"pl": "dyscyplina naukowa", "lx": ["bing-du"]}
+{"pl": "dyskutować", "lx": ["fo-ping"]}
+{"pl": "dystrybuować", "lx": ["se-ya"]}
+{"pl": "dywan", "lx": ["ken-xing"]}
+{"pl": "dywan, mata", "lx": ["ken-xing"]}
+{"pl": "dzban", "lx": ["nun-jiao"]}
+{"pl": "dzban na wodę", "lx": ["wen-qia"]}
+{"pl": "dziadek", "lx": ["dui-bai-suan"]}
+{"pl": "działanie", "lx": ["cha-wu"]}
+{"pl": "działanie, efekt", "lx": ["cha-wu"]}
+{"pl": "dziczyzna", "lx": ["su-tai"]}
+{"pl": "dziecko", "lx": ["reno"]}
+{"pl": "dziedziniec", "lx": ["sao-dong"]}
+{"pl": "dzielić", "lx": ["guo-liang"]}
+{"pl": "dzielić, rozdzielać", "lx": ["guo-liang"]}
+{"pl": "dziesiąty", "lx": ["za-niu"]}
+{"pl": "dziewiąty", "lx": ["wo-lun"]}
+{"pl": "dziewięćdziesiąt", "lx": ["shuan-wen"]}
+{"pl": "dziewięćset", "lx": ["meng-chuai"]}
+{"pl": "dzieło", "lx": ["juan-tuo"]}
+{"pl": "dzieło, utwór", "lx": ["juan-tuo"]}
+{"pl": "dzień", "lx": ["jian"]}
+{"pl": "dzień dobry", "lx": ["zhuang-rui"]}
+{"pl": "dzik", "lx": ["ru-gu"]}
+{"pl": "dzika trawa", "lx": ["xino-piao"]}
+{"pl": "dzikie pole", "lx": ["man-pu"]}
+{"pl": "dzikie zwierzę", "lx": ["dongo-ta"]}
+{"pl": "dzikie zwierzęta", "lx": ["dongo-shui"]}
+{"pl": "dzisiaj", "lx": ["shuang-hen"]}
+{"pl": "dziwny", "lx": ["zan-hu"]}
+{"pl": "dziwny, osobliwy", "lx": ["zan-hu"]}
+{"pl": "dzięgiel chiński", "lx": ["chu-zhuan"]}
+{"pl": "dziękować", "lx": ["zuo-zhui"]}
+{"pl": "dziękuję", "lx": ["poye"]}
+{"pl": "dół", "lx": ["cang-sou"]}
+{"pl": "dążyć do celu", "lx": ["nue-ze"]}
+{"pl": "dłoń", "lx": ["zan-di"]}
+{"pl": "długa szata", "lx": ["sang-ha"]}
+{"pl": "długi", "lx": ["die"]}
+{"pl": "długi czas", "lx": ["suo-lei"]}
+{"pl": "długotrwały", "lx": ["chan-miao"]}
+{"pl": "długowieczność", "lx": ["geng-nuan-tuan"]}
+{"pl": "długość", "lx": ["guan-sen"]}
+{"pl": "dłuto", "lx": ["niang-cun"]}
+{"pl": "dźgać", "lx": ["gu-che"]}
+{"pl": "dźwigać", "lx": ["ne-nei"]}
+{"pl": "dźwigać (na ramieniu)", "lx": ["ne-nei"]}
+{"pl": "dźwięczny", "lx": ["cha-che"]}
+{"pl": "dźwięczny, czysty", "lx": ["cha-che"]}
+{"pl": "dźwięk", "lx": ["jiao-fo"]}
+{"pl": "dżdżownica", "lx": ["shao-guo"]}
+{"pl": "dżungla", "lx": ["lin-tuo"]}
+{"pl": "edukować", "lx": ["sui-den"]}
+{"pl": "efekt", "lx": ["cha-wu"]}
+{"pl": "egzaminy cesarskie", "lx": ["hu-sui"]}
+{"pl": "ekologia", "lx": ["lue-hang"]}
+{"pl": "ekscytacja", "lx": ["miu-shui"]}
+{"pl": "ekspert", "lx": ["lian-zhuang"]}
+{"pl": "eksploracja", "lx": ["zhun-nun"]}
+{"pl": "eksploracja, poszukiwanie", "lx": ["zhun-nun"]}
+{"pl": "emocja", "lx": ["chan-kou"]}
+{"pl": "emocja (rzeczownik)", "lx": ["chan-kou"]}
+{"pl": "energia", "lx": ["rang-bei"]}
+{"pl": "energiczny", "lx": ["bian-ruo"]}
+{"pl": "energiczny, żywy", "lx": ["bian-ruo"]}
+{"pl": "enoki", "lx": ["pin-lai-huai"]}
+{"pl": "entuzjastyczny", "lx": ["ne-chong"]}
+{"pl": "entuzjazm", "lx": ["za-qing"]}
+{"pl": "entuzjazm, zapał", "lx": ["za-qing"]}
+{"pl": "epoka", "lx": ["hai-le"]}
+{"pl": "era", "lx": ["hai-le"]}
+{"pl": "era, epoka", "lx": ["hai-le"]}
+{"pl": "erudycja", "lx": ["o-zao"]}
+{"pl": "erupcja", "lx": ["guai-suan"]}
+{"pl": "esej", "lx": ["sheng-ben"]}
+{"pl": "esej, kompozycja pisemna", "lx": ["sheng-ben"]}
+{"pl": "esencja-energia-duch", "lx": ["sang-di-dang"]}
+{"pl": "etap", "lx": ["tou-qiang", "zou-gui"]}
+{"pl": "etap, faza", "lx": ["tou-qiang"]}
+{"pl": "etyka", "lx": ["sai-mei"]}
+{"pl": "etykieta", "lx": ["miao-ju", "quan-mei"]}
+{"pl": "ewolucja", "lx": ["le-ceng"]}
+{"pl": "fabryka", "lx": ["jun-heng"]}
+{"pl": "faktyczny", "lx": ["shuai-ga"]}
+{"pl": "fala", "lx": ["dai-pao"]}
+{"pl": "fantazja", "lx": ["zan-shou"]}
+{"pl": "fantazja, iluzja", "lx": ["zan-shou"]}
+{"pl": "farbarz", "lx": ["rua-chun"]}
+{"pl": "farma", "lx": ["jian-run"]}
+{"pl": "fasola", "lx": ["caio-er"]}
+{"pl": "fasola azuki", "lx": ["caio-sheng"]}
+{"pl": "fasola mung", "lx": ["caio-zi"]}
+{"pl": "fasola, bob", "lx": ["caio-er"]}
+{"pl": "faza", "lx": ["tou-qiang"]}
+{"pl": "fałszywy", "lx": ["de-shun", "lie"]}
+{"pl": "feniks", "lx": ["jing-gu"]}
+{"pl": "fermentować", "lx": ["shun-bu"]}
+{"pl": "fermentować, warzyć", "lx": ["shun-bu"]}
+{"pl": "festiwal", "lx": ["que-na"]}
+{"pl": "filiżanka do herbaty", "lx": ["chan-ni"]}
+{"pl": "filozof", "lx": ["chi-qia-zui", "zhe-ren"]}
+{"pl": "filozofia", "lx": ["zha-chua"]}
+{"pl": "fioletowy", "lx": ["en-zong"]}
+{"pl": "firmiana", "lx": ["gun-ping"]}
+{"pl": "flegma-wilgoć", "lx": ["zhuan-reng"]}
+{"pl": "flet bambusowy", "lx": ["zhuo-ce"]}
+{"pl": "forma", "lx": ["chu-a"]}
+{"pl": "forma,", "lx": ["chu-a"]}
+{"pl": "fortuna", "lx": ["geng-nuan-tuan"]}
+{"pl": "fortuna, dobrobyt, długowieczność", "lx": ["geng-nuan-tuan"]}
+{"pl": "futro", "lx": ["zhao-shui"]}
+{"pl": "gabinet", "lx": ["lun-ao"]}
+{"pl": "gad", "lx": ["pai-zun"]}
+{"pl": "ganić", "lx": ["cen-bu"]}
+{"pl": "ganić, łajać", "lx": ["cen-bu"]}
+{"pl": "gardło", "lx": ["ao-meng"]}
+{"pl": "garncarz", "lx": ["ban-hun"]}
+{"pl": "garnek", "lx": ["mai-tang"]}
+{"pl": "garnitur", "lx": ["bie-wa"]}
+{"pl": "gasić ogień", "lx": ["zha-mie"]}
+{"pl": "gaza", "lx": ["ca-zui"]}
+{"pl": "gaza, muślin", "lx": ["ca-zui"]}
+{"pl": "gazeta", "lx": ["ken-dong"]}
+{"pl": "gałązki cynamonu", "lx": ["liao-shang"]}
+{"pl": "gałąź", "lx": ["zhio-ta"]}
+{"pl": "gdzie", "lx": ["hen-yuan"]}
+{"pl": "generał", "lx": ["zei-men"]}
+{"pl": "geografia", "lx": ["reng-xue"]}
+{"pl": "gigantyczny", "lx": ["bie-men-xin", "wen-reng"]}
+{"pl": "glina", "lx": ["la-sha"]}
+{"pl": "glina garnczarska", "lx": ["cuo-rao"]}
+{"pl": "globalne ocieplenie", "lx": ["qio-yu-en"]}
+{"pl": "gnać", "lx": ["chua-chu"]}
+{"pl": "gniew", "lx": ["nuo-dun"]}
+{"pl": "godzina", "lx": ["mi-fou"]}
+{"pl": "goleń", "lx": ["chi-mie"]}
+{"pl": "gorliwy", "lx": ["ne-chong"]}
+{"pl": "gorliwy, entuzjastyczny", "lx": ["ne-chong"]}
+{"pl": "gorzelnik", "lx": ["cheng-yuan"]}
+{"pl": "gorzki", "lx": ["kano"]}
+{"pl": "gorąca energia", "lx": ["qio-gen"]}
+{"pl": "gorąco płuc", "lx": ["qio-song"]}
+{"pl": "gorący", "lx": ["weno-eng"]}
+{"pl": "gospodarz", "lx": ["ke-bu"]}
+{"pl": "gotowana woda", "lx": ["zhe-heng"]}
+{"pl": "gotowany", "lx": ["mou-tao"]}
+{"pl": "gotowany na parze", "lx": ["mou-kang"]}
+{"pl": "gotowany ryż", "lx": ["fano-sheng"]}
+{"pl": "gotowany, ugotowany", "lx": ["mou-tao"]}
+{"pl": "gotować", "lx": ["mou-wen"]}
+{"pl": "gotować na parze", "lx": ["mou-dan"]}
+{"pl": "gotować na parze bułeczki", "lx": ["mou-kua"]}
+{"pl": "gotować ponownie", "lx": ["mou-ba"]}
+{"pl": "gotować ryż", "lx": ["fano-jing"]}
+{"pl": "gotować w wodzie", "lx": ["mou-jia"]}
+{"pl": "gotować wodę", "lx": ["mou-pa"]}
+{"pl": "gotowy", "lx": ["zhüo"]}
+{"pl": "gołąb", "lx": ["geo-ku"]}
+{"pl": "gościnny", "lx": ["miao-gu"]}
+{"pl": "gość", "lx": ["zen-ding"]}
+{"pl": "goździk", "lx": ["liao-ci"]}
+{"pl": "gra", "lx": ["fen-qiu"]}
+{"pl": "grabie", "lx": ["tiao-xuan"]}
+{"pl": "grad", "lx": ["nin-lin"]}
+{"pl": "granit", "lx": ["liu-reng-chen"]}
+{"pl": "gratulacje", "lx": ["feng-zheng"]}
+{"pl": "grawerować", "lx": ["ping-shun"]}
+{"pl": "grać na flecie", "lx": ["shuai-duan"]}
+{"pl": "grać na instrumencie strunowym", "lx": ["xu-lin"]}
+{"pl": "grillować", "lx": ["kaoo-jin"]}
+{"pl": "grubość", "lx": ["jiang-nue"]}
+{"pl": "gruszka", "lx": ["guoo-ye"]}
+{"pl": "grzeczność", "lx": ["nin-zeng"]}
+{"pl": "grzmot", "lx": ["ai-ma"]}
+{"pl": "grzyb", "lx": ["ji-nai"]}
+{"pl": "grzybek srebrny", "lx": ["liu-gao"]}
+{"pl": "grzywna", "lx": ["tian-guai"]}
+{"pl": "guan-Ruan", "lx": ["dao-tuan"]}
+{"pl": "guan-Ruan (lutnia)", "lx": ["dao-tuan"]}
+{"pl": "guanyin", "lx": ["rao-en"]}
+{"pl": "guanyin (bogini litości)", "lx": ["rao-en"]}
+{"pl": "gubernator", "lx": ["mang-wei"]}
+{"pl": "gubernator generalny", "lx": ["keng-feng"]}
+{"pl": "gubernator prowincji", "lx": ["pen-ne"]}
+{"pl": "guqin", "lx": ["juan-bin"]}
+{"pl": "guqin (cytra)", "lx": ["juan-bin"]}
+{"pl": "guzheng", "lx": ["tian-jian"]}
+{"pl": "guzheng (cytra)", "lx": ["tian-jian"]}
+{"pl": "gwarancja", "lx": ["yuan-meng"]}
+{"pl": "gwałtowny", "lx": ["cang-bing"]}
+{"pl": "gwiazda", "lx": ["guango-no"]}
+{"pl": "gwiazda)", "lx": ["guango-die", "guango-ku"]}
+{"pl": "gwóźdź", "lx": ["fang-zhuan"]}
+{"pl": "góra", "lx": ["shano"]}
+{"pl": "górska ścieżka", "lx": ["sheng-bai"]}
+{"pl": "gęsina", "lx": ["xu-fa"]}
+{"pl": "gładki", "lx": ["zhuai-niu"]}
+{"pl": "głaz", "lx": ["nao-xuan"]}
+{"pl": "głodny", "lx": ["pie"]}
+{"pl": "głos śpiewu", "lx": ["song-zhuo"]}
+{"pl": "głowa", "lx": ["chao"]}
+{"pl": "głośny", "lx": ["paoo"]}
+{"pl": "głupi", "lx": ["cu-hun"]}
+{"pl": "głód", "lx": ["sen-zhua"]}
+{"pl": "główny", "lx": ["kuai-zei"]}
+{"pl": "główny, podstawowy", "lx": ["kuai-zei"]}
+{"pl": "głęboki", "lx": ["cui-ca"]}
+{"pl": "głęboki smutek", "lx": ["beio-shuo"]}
+{"pl": "haczyk", "lx": ["guang-nang", "jie-na"]}
+{"pl": "hafciarka", "lx": ["nai-fen"]}
+{"pl": "haft", "lx": ["zun-neng"]}
+{"pl": "hala", "lx": ["jiang-jian-zou"]}
+{"pl": "hala pałacowa", "lx": ["nian-se"]}
+{"pl": "handel", "lx": ["jian-lang"]}
+{"pl": "handel, transakcja", "lx": ["jian-lang"]}
+{"pl": "harmonia", "lx": ["ango-jiu"]}
+{"pl": "hałas", "lx": ["dang-hao"]}
+{"pl": "hałaśliwy", "lx": ["kuang-hen"]}
+{"pl": "heijiro", "lx": ["heijiro"]}
+{"pl": "heijiro (imię własne)", "lx": ["heijiro"]}
+{"pl": "herbaciarnia", "lx": ["pian-zuo"]}
+{"pl": "herbata", "lx": ["gango"]}
+{"pl": "herbata jaśminowa", "lx": ["gango-fa"]}
+{"pl": "herbata kwiatowa", "lx": ["xie-feng"]}
+{"pl": "hełm", "lx": ["ou-tui"]}
+{"pl": "hipokryta", "lx": ["de-shun"]}
+{"pl": "hipokryta, fałszywy", "lx": ["de-shun"]}
+{"pl": "hipopotam", "lx": ["xuan-ze"]}
+{"pl": "historia", "lx": ["ban-zhan"]}
+{"pl": "historia, opowieść", "lx": ["ban-zhan"]}
+{"pl": "historyczne", "lx": ["luan-huai"]}
+{"pl": "historyczne/Geograficzne Centrum", "lx": ["luan-huai"]}
+{"pl": "historyk", "lx": ["dui-chang-shuai", "shi-ren"]}
+{"pl": "homar", "lx": ["xialo-zhen"]}
+{"pl": "honor", "lx": ["rongo"]}
+{"pl": "honor, chwała", "lx": ["rongo"]}
+{"pl": "hołd", "lx": ["jue-tiao"]}
+{"pl": "hołd (w mantrach)", "lx": ["jue-tiao"]}
+{"pl": "hrabia", "lx": ["hun-ning"]}
+{"pl": "huk", "lx": ["chuang-rui"]}
+{"pl": "i", "lx": ["lun"]}
+{"pl": "ideał", "lx": ["cen-zhao"]}
+{"pl": "igiełkowaty", "lx": ["wu-nou"]}
+{"pl": "igła do szycia", "lx": ["nie-huai"]}
+{"pl": "ile", "lx": ["nai-ming"]}
+{"pl": "iloraz", "lx": ["men-la"]}
+{"pl": "ilość", "lx": ["er-fou"]}
+{"pl": "iluzja", "lx": ["zan-shou"]}
+{"pl": "imbir", "lx": ["liao-rang"]}
+{"pl": "imbir świeży", "lx": ["liao-nao"]}
+{"pl": "imię", "lx": ["sha"]}
+{"pl": "imperium", "lx": ["meng-shua"]}
+{"pl": "indygo", "lx": ["caoo-cuo"]}
+{"pl": "indygo (roślina)", "lx": ["caoo-cuo"]}
+{"pl": "informacja", "lx": ["bin-zei", "shuang-zhan"]}
+{"pl": "inny", "lx": ["lang-du", "wang-hu-su"]}
+{"pl": "inspirować", "lx": ["beng-lue"]}
+{"pl": "instalować", "lx": ["ceng-cun"]}
+{"pl": "instrument dęty", "lx": ["ji-tao"]}
+{"pl": "instrument muzyczny", "lx": ["ben-cen"]}
+{"pl": "instrument perkusyjny", "lx": ["cang-zun-ken"]}
+{"pl": "instrument strunowy", "lx": ["tan-fou"]}
+{"pl": "inteligencja", "lx": ["ga-tao"]}
+{"pl": "inteligentny", "lx": ["geng-wai"]}
+{"pl": "intencja", "lx": ["shui-jia"]}
+{"pl": "intensywnie pachnący", "lx": ["jue-nian"]}
+{"pl": "intensywny", "lx": ["zuo-zhou"]}
+{"pl": "intensywny (kolor)", "lx": ["zuo-zhou"]}
+{"pl": "interesujący", "lx": ["qu-yuan"]}
+{"pl": "intryga", "lx": ["cun-ze"]}
+{"pl": "intuicja", "lx": ["dang-xu"]}
+{"pl": "inżynier", "lx": ["gong-cheng-ren", "zhen-diu-jun"]}
+{"pl": "irytacja", "lx": ["nuo-dong"]}
+{"pl": "istnieć", "lx": ["pang-hang"]}
+{"pl": "istnieć, mieć", "lx": ["pang-hang"]}
+{"pl": "iść", "lx": ["ce"]}
+{"pl": "iść pieszo", "lx": ["di-cu"]}
+{"pl": "iść szybko", "lx": ["tuan-re"]}
+{"pl": "iść wolno", "lx": ["ling-zai"]}
+{"pl": "ja", "lx": ["ao"]}
+{"pl": "jabłko", "lx": ["guoo-shang"]}
+{"pl": "jadalny grzyb", "lx": ["sou-an"]}
+{"pl": "jade", "lx": ["chan-ruo"]}
+{"pl": "jadeitowa Rzeka", "lx": ["heo-ha"]}
+{"pl": "jadekit", "lx": ["ting-nie"]}
+{"pl": "jadowity wąż", "lx": ["sheo-shuo"]}
+{"pl": "jagody goji", "lx": ["zhu-chou"]}
+{"pl": "jajka", "lx": ["sen-shuo"]}
+{"pl": "jajko kacze", "lx": ["chong-zhao"]}
+{"pl": "jajko kurze", "lx": ["jio-ruan"]}
+{"pl": "jajko solone", "lx": ["zheng-diu"]}
+{"pl": "jajko stulecia", "lx": ["guai-can"]}
+{"pl": "jak", "lx": ["kuang-miu"]}
+{"pl": "jak, podobny do", "lx": ["kuang-miu"]}
+{"pl": "jak, podobny do (spójnik)", "lx": ["kuang-miu"]}
+{"pl": "jakość", "lx": ["ming-en"]}
+{"pl": "jaskinia", "lx": ["chan-mang"]}
+{"pl": "jaskinia w górze", "lx": ["a-ke"]}
+{"pl": "jaskrawozielony", "lx": ["nano-tun"]}
+{"pl": "jaskółka", "lx": ["yeno-cou"]}
+{"pl": "jasnoczerwony", "lx": ["mao-chuang"]}
+{"pl": "jasność", "lx": ["long-gong"]}
+{"pl": "jasny", "lx": ["maio"]}
+{"pl": "jaspis", "lx": ["chan-ruo"]}
+{"pl": "jaspis, jade", "lx": ["chan-ruo"]}
+{"pl": "jastrząb", "lx": ["yingo-tou"]}
+{"pl": "jastrząb, sokół", "lx": ["yingo-tou"]}
+{"pl": "jaszczurka", "lx": ["sheo-hua"]}
+{"pl": "jaszczurka ścienna", "lx": ["sheo-shi"]}
+{"pl": "jechać", "lx": ["bie"]}
+{"pl": "jechać wozem", "lx": ["kun-lin"]}
+{"pl": "jeden", "lx": ["cou-chang"]}
+{"pl": "jedna czwarta", "lx": ["hang-bin-min"]}
+{"pl": "jedna z 5 części nocy", "lx": ["gun-zhun"]}
+{"pl": "jednoczyć", "lx": ["duo-mian"]}
+{"pl": "jedność nieba i człowieka", "lx": ["lai-zuo-ti"]}
+{"pl": "jednym", "lx": ["xia-piao"]}
+{"pl": "jedwab", "lx": ["geng-xi"]}
+{"pl": "jedzenie", "lx": ["shio-deng"]}
+{"pl": "jego Wysokość", "lx": ["fu-diu"]}
+{"pl": "jego Wysokość (cesarz)", "lx": ["fu-diu"]}
+{"pl": "jeleń", "lx": ["luo-nie"]}
+{"pl": "jesień", "lx": ["mei-liang"]}
+{"pl": "jeszcze", "lx": ["nen"]}
+{"pl": "jeszcze sui-qu", "lx": ["yu-bin"]}
+{"pl": "jezioro", "lx": ["huoo"]}
+{"pl": "jeśli", "lx": ["jiao"]}
+{"pl": "jeść", "lx": ["ji"]}
+{"pl": "jeździć konno", "lx": ["yin-pang"]}
+{"pl": "jeż", "lx": ["lin-zhe"]}
+{"pl": "jiang-Zhua", "lx": ["duo-pao"]}
+{"pl": "jubiler", "lx": ["gei-zha-dian"]}
+{"pl": "junior", "lx": ["ru-ce"]}
+{"pl": "junior (hierarchia)", "lx": ["ru-ce"]}
+{"pl": "jutro", "lx": ["shuang-zha"]}
+{"pl": "język", "lx": ["dong-tang"]}
+{"pl": "kaczka", "lx": ["yamo-nong"]}
+{"pl": "kaczka mandarynka", "lx": ["yamo-ma"]}
+{"pl": "kaczka mandarynka (para)", "lx": ["yamo-ma"]}
+{"pl": "kadzidło", "lx": ["jia-biao"]}
+{"pl": "kadzielnica", "lx": ["yang-cang"]}
+{"pl": "kalendarz księżycowy", "lx": ["guango-peng"]}
+{"pl": "kalendarz słoneczny", "lx": ["zhuan-zang"]}
+{"pl": "kaligraf", "lx": ["ling-mie-rang"]}
+{"pl": "kaligrafia", "lx": ["wa-shuo"]}
+{"pl": "kaligraficzny skarb", "lx": ["juan-tai"]}
+{"pl": "kamieniarz", "lx": ["cun-lou"]}
+{"pl": "kamienna płyta", "lx": ["xue-mo"]}
+{"pl": "kamień", "lx": ["zhio"]}
+{"pl": "kamień do rozcierania tuszu", "lx": ["zhio-jiao"]}
+{"pl": "kamień)", "lx": ["zhio-chu-o"]}
+{"pl": "kampania wojenna", "lx": ["he-peng"]}
+{"pl": "kanclerz", "lx": ["gui-lai"]}
+{"pl": "kanon klasyczny", "lx": ["zong-lu"]}
+{"pl": "kao-Fa wątroby", "lx": ["tian-he"]}
+{"pl": "kapitan", "lx": ["gan-liao"]}
+{"pl": "kapusta chińska", "lx": ["caio-dou"]}
+{"pl": "kara", "lx": ["chong-cuo"]}
+{"pl": "kara śmierci", "lx": ["pin-tai"]}
+{"pl": "karmić piersią", "lx": ["wu-wei"]}
+{"pl": "karp", "lx": ["lio-de"]}
+{"pl": "kaszleć", "lx": ["xue-kuan"]}
+{"pl": "katar", "lx": ["xian-qiu"]}
+{"pl": "katastrofa", "lx": ["huang-fu"]}
+{"pl": "katastrofa spowodowana przez", "lx": ["jing-xi-reng"]}
+{"pl": "kawaleria", "lx": ["ta-kun"]}
+{"pl": "kawałek", "lx": ["xiong-wa"]}
+{"pl": "kawałek, bryła", "lx": ["xiong-wa"]}
+{"pl": "kawiarnia", "lx": ["ze-ban-yuan"]}
+{"pl": "kawowy", "lx": ["ran-pan"]}
+{"pl": "kałamarnica", "lx": ["tou-chun"]}
+{"pl": "każdy", "lx": ["kun"]}
+{"pl": "każdy z osobna", "lx": ["xiong-mang"]}
+{"pl": "kciuk", "lx": ["shai-lou"]}
+{"pl": "kelner", "lx": ["que-wu-chou"]}
+{"pl": "kichać", "lx": ["bei-de"]}
+{"pl": "kiedy", "lx": ["sui-gen"]}
+{"pl": "kiedyś", "lx": ["man-jiu"]}
+{"pl": "kiedyś, niegdyś", "lx": ["man-jiu"]}
+{"pl": "kieliszek do wina", "lx": ["qu-yang"]}
+{"pl": "kierowca", "lx": ["gei-ya"]}
+{"pl": "kierunek", "lx": ["kuan-han"]}
+{"pl": "kierunek wiatru", "lx": ["fengo-ei"]}
+{"pl": "kiełki fasoli", "lx": ["tiao-liu"]}
+{"pl": "kij", "lx": ["beng"]}
+{"pl": "kino", "lx": ["xiang-ba"]}
+{"pl": "kiwać", "lx": ["piao-ju"]}
+{"pl": "kiwać głową", "lx": ["zuo-hu"]}
+{"pl": "klacz", "lx": ["mian-sui"]}
+{"pl": "klamra", "lx": ["guang-nang"]}
+{"pl": "klamra, haczyk", "lx": ["guang-nang"]}
+{"pl": "klanu", "lx": ["kuo-kun"]}
+{"pl": "klasyfikować", "lx": ["zhun-ping"]}
+{"pl": "klasyk zmiany ścięgien", "lx": ["hun-chuo-seng"]}
+{"pl": "klatka piersiowa", "lx": ["chuango"]}
+{"pl": "kleik ryżowy", "lx": ["fano-jun"]}
+{"pl": "klej", "lx": ["xiu-nang"]}
+{"pl": "klepać", "lx": ["nue-nang"]}
+{"pl": "klient", "lx": ["nu-lin"]}
+{"pl": "klimat", "lx": ["qio-zhen"]}
+{"pl": "klon", "lx": ["ba-xue"]}
+{"pl": "klucz", "lx": ["run-zhang"]}
+{"pl": "klęczeć", "lx": ["gun-wan"]}
+{"pl": "kobieta", "lx": ["rao"]}
+{"pl": "kochać", "lx": ["quo"]}
+{"pl": "kogut", "lx": ["di-dao"]}
+{"pl": "kolacja", "lx": ["fano-ni"]}
+{"pl": "kolczyki", "lx": ["qiu-ai"]}
+{"pl": "kolega z klasy", "lx": ["zhou-zan"]}
+{"pl": "kolega z pracy", "lx": ["kang-ou"]}
+{"pl": "kolej", "lx": ["shun-an"]}
+{"pl": "kolendra", "lx": ["er-ye"]}
+{"pl": "kolor", "lx": ["kui-fou"]}
+{"pl": "kolorowy", "lx": ["sha-na"]}
+{"pl": "kolorystyka", "lx": ["wo-jiao"]}
+{"pl": "kolosalny", "lx": ["bie-men-xin"]}
+{"pl": "kolosalny, gigantyczny", "lx": ["bie-men-xin"]}
+{"pl": "komedia", "lx": ["tao-zhuan"]}
+{"pl": "komendant", "lx": ["nue-jiong"]}
+{"pl": "komfortowy", "lx": ["se-qi"]}
+{"pl": "komfortowy, wygodny", "lx": ["se-qi"]}
+{"pl": "komin", "lx": ["jun-zhuang"]}
+{"pl": "kompleks niższości", "lx": ["nang-fang"]}
+{"pl": "komplet", "lx": ["mo-nue"]}
+{"pl": "kompletny", "lx": ["si-zhai"]}
+{"pl": "kompletny, cały", "lx": ["si-zhai"]}
+{"pl": "kompozycja pisemna", "lx": ["sheng-ben"]}
+{"pl": "kondensacja", "lx": ["rao-nian"]}
+{"pl": "konewka", "lx": ["quan-fang"]}
+{"pl": "konfucjanizm", "lx": ["chu-zhu"]}
+{"pl": "konfuzja", "lx": ["dia-hen"]}
+{"pl": "kongie", "lx": ["fano-jun"]}
+{"pl": "kongie, kleik ryżowy", "lx": ["fano-jun"]}
+{"pl": "koniec upału", "lx": ["qi-kuai"]}
+{"pl": "konieczny", "lx": ["shui-kou"]}
+{"pl": "konkubina cesarska", "lx": ["o-chang"]}
+{"pl": "konkurent", "lx": ["fo-you-zuo"]}
+{"pl": "konkurować", "lx": ["ku-tou"]}
+{"pl": "konserwatywny", "lx": ["ge-lao"]}
+{"pl": "konserwować", "lx": ["can-xiang"]}
+{"pl": "konstelacja", "lx": ["chao-ye"]}
+{"pl": "konsultować", "lx": ["wu-gui"]}
+{"pl": "konsultować, omawiać", "lx": ["wu-gui"]}
+{"pl": "konsumować", "lx": ["zai-wu"]}
+{"pl": "konsumować, zużywać", "lx": ["zai-wu"]}
+{"pl": "kontaktować się", "lx": ["ding-hui"]}
+{"pl": "kontynuować", "lx": ["bie-seng"]}
+{"pl": "konwersować", "lx": ["xing-jian"]}
+{"pl": "konwertować", "lx": ["lai-lun"]}
+{"pl": "kopanie", "lx": ["xun-nie"]}
+{"pl": "kopać", "lx": ["gang-mao"]}
+{"pl": "kora cynamonu", "lx": ["liao-yang"]}
+{"pl": "kora drzewa", "lx": ["chang-run"]}
+{"pl": "koral", "lx": ["luan-bo"]}
+{"pl": "korespondencja", "lx": ["kan-duo"]}
+{"pl": "korespondować", "lx": ["pu-ha"]}
+{"pl": "korygować", "lx": ["sa-shua"]}
+{"pl": "korzeń", "lx": ["geno-suo"]}
+{"pl": "korzeń drzewa", "lx": ["geno-du"]}
+{"pl": "kostka", "lx": ["dian-lao"]}
+{"pl": "kostka (nogi)", "lx": ["dian-lao"]}
+{"pl": "kosz", "lx": ["pai-xia"]}
+{"pl": "kosz (duży)", "lx": ["pai-xia"]}
+{"pl": "koszt", "lx": ["che-hong"]}
+{"pl": "koszt, cena zakupu", "lx": ["che-hong"]}
+{"pl": "koszula", "lx": ["cheng-liao"]}
+{"pl": "kot", "lx": ["maoo"]}
+{"pl": "kotlarz", "lx": ["hou-huo"]}
+{"pl": "kowal", "lx": ["bao-jun"]}
+{"pl": "koza", "lx": ["yango-sai"]}
+{"pl": "kołowrotek", "lx": ["ju-reng"]}
+{"pl": "koń", "lx": ["pao"]}
+{"pl": "koń bojowy", "lx": ["pao-shuo"]}
+{"pl": "kości", "lx": ["ri-dai"]}
+{"pl": "kość", "lx": ["cuan"]}
+{"pl": "kość słoniowa", "lx": ["mian-pai"]}
+{"pl": "krab", "lx": ["paoo-ka"]}
+{"pl": "kraina wróżek", "lx": ["kong-xin"]}
+{"pl": "kraj", "lx": ["li-ying"]}
+{"pl": "kraj, państwo", "lx": ["li-ying"]}
+{"pl": "kratka okienna", "lx": ["sha-tu"]}
+{"pl": "krawiec", "lx": ["sou-mei"]}
+{"pl": "kreatywność", "lx": ["juan-chua"]}
+{"pl": "kredens", "lx": ["chang-ruo"]}
+{"pl": "krew", "lx": ["cong"]}
+{"pl": "krewetka", "lx": ["xialo-lun"]}
+{"pl": "krewni od męża", "lx": ["xia-fo"]}
+{"pl": "kroić", "lx": ["qiao-pao"]}
+{"pl": "kroić w kostkę", "lx": ["qiao-hang"]}
+{"pl": "kroić w paski", "lx": ["qiao-ning"]}
+{"pl": "kroić w plasterki", "lx": ["qiao-zun"]}
+{"pl": "krok", "lx": ["zou-gui"]}
+{"pl": "krok, etap", "lx": ["zou-gui"]}
+{"pl": "krokodyl", "lx": ["eo-ca"]}
+{"pl": "krosno", "lx": ["gei-cou"]}
+{"pl": "krowa", "lx": ["niuo-jun"]}
+{"pl": "kruchy", "lx": ["xin-pan"]}
+{"pl": "kruchy, delikatny", "lx": ["xin-pan"]}
+{"pl": "kruk czarny", "lx": ["yamo-bu"]}
+{"pl": "krwawić", "lx": ["meng-zhu"]}
+{"pl": "kryształ", "lx": ["zhun-jie"]}
+{"pl": "krytykować", "lx": ["shua-zhun"]}
+{"pl": "kryzys", "lx": ["she-nei"]}
+{"pl": "kryzys, niebezpieczeństwo", "lx": ["she-nei"]}
+{"pl": "krzesło", "lx": ["hei-zhan"]}
+{"pl": "krzyczeć", "lx": ["bian-hen"]}
+{"pl": "krzyczeć, wołać", "lx": ["bian-hen"]}
+{"pl": "król", "lx": ["gao-niang"]}
+{"pl": "król smoków", "lx": ["lian-jue"]}
+{"pl": "królik", "lx": ["tuo-jiang"]}
+{"pl": "królik (mięso)", "lx": ["tuo-jiang"]}
+{"pl": "królowa", "lx": ["ou-lou"]}
+{"pl": "krótka kurtka", "lx": ["ei-qie"]}
+{"pl": "krótki", "lx": ["diu"]}
+{"pl": "krótkotrwały", "lx": ["zun-xiao"]}
+{"pl": "krótkość", "lx": ["hou-fu"]}
+{"pl": "kręty i nierówny", "lx": ["pai-luan-que"]}
+{"pl": "ksitigarbha", "lx": ["geng-zao"]}
+{"pl": "ksitigarbha (bodhisattwa)", "lx": ["geng-zao"]}
+{"pl": "książka", "lx": ["zhan-ne"]}
+{"pl": "książę", "lx": ["lian-chuan"]}
+{"pl": "książę (syn króla)", "lx": ["lian-chuan"]}
+{"pl": "księgarnia", "lx": ["ying-dei"]}
+{"pl": "księżniczka", "lx": ["guo-jiao"]}
+{"pl": "księżyc", "lx": ["guango-yo"]}
+{"pl": "kształt", "lx": ["qiu-kei"]}
+{"pl": "kto", "lx": ["ri-pie"]}
+{"pl": "ktoś", "lx": ["she"]}
+{"pl": "który", "lx": ["keng-zen"]}
+{"pl": "kubek", "lx": ["guai"]}
+{"pl": "kucharz", "lx": ["xue-han"]}
+{"pl": "kuchnia", "lx": ["shio-dao"]}
+{"pl": "kulisty", "lx": ["rao-ang"]}
+{"pl": "kultura", "lx": ["zun-man"]}
+{"pl": "kultywować", "lx": ["gong-zuan"]}
+{"pl": "kultywować, trenować", "lx": ["gong-zuan"]}
+{"pl": "kung cuan-se", "lx": ["gang-bin", "tun-dia"]}
+{"pl": "kung cuan-se, sztuka walki", "lx": ["tun-dia"]}
+{"pl": "kupiec", "lx": ["den-sang"]}
+{"pl": "kupować", "lx": ["ang"]}
+{"pl": "kupować rzeczy", "lx": ["lang-tan-kou"]}
+{"pl": "kura", "lx": ["jio-zhun"]}
+{"pl": "kurczak", "lx": ["jio-nin"]}
+{"pl": "kurtka", "lx": ["duan-suo"]}
+{"pl": "kusza", "lx": ["xian-zu"]}
+{"pl": "kuzyn", "lx": ["hai-ni"]}
+{"pl": "kuzyn (starszy", "lx": ["hai-ni"]}
+{"pl": "kuzyn (starszy, od matki)", "lx": ["hai-ni"]}
+{"pl": "kwadratowy", "lx": ["ruan-chan"]}
+{"pl": "kwadratowy kształt", "lx": ["zhe-tui"]}
+{"pl": "kwaśny", "lx": ["kai"]}
+{"pl": "kwiaciarnia", "lx": ["le-dang"]}
+{"pl": "kwiat", "lx": ["xie"]}
+{"pl": "kwiat bambusa", "lx": ["xie-ting"]}
+{"pl": "kwiat brzoskwini", "lx": ["xie-gun"]}
+{"pl": "kwiat granatu", "lx": ["xie-long"]}
+{"pl": "kwiat gruszy", "lx": ["xie-bie"]}
+{"pl": "kwiat moreli", "lx": ["xie-nuo"]}
+{"pl": "kwiat wiśni", "lx": ["xie-hua"]}
+{"pl": "kwiat śliwy", "lx": ["xie-die"]}
+{"pl": "kwiaty i trawy", "lx": ["xie-leng"]}
+{"pl": "kąpać się", "lx": ["tang-sheng"]}
+{"pl": "kłamstwo", "lx": ["chuai-geng"]}
+{"pl": "kłopot", "lx": ["xue-zhuan"]}
+{"pl": "kłus", "lx": ["zun-gao"]}
+{"pl": "kłuć", "lx": ["gu-che"]}
+{"pl": "kłuć, dźgać", "lx": ["gu-che"]}
+{"pl": "kłącze lotosu", "lx": ["bian-dao"]}
+{"pl": "lada", "lx": ["diu-li"]}
+{"pl": "lakiernik", "lx": ["miao-ao"]}
+{"pl": "lakierować", "lx": ["xiong-ding"]}
+{"pl": "lampa", "lx": ["leng-ku"]}
+{"pl": "lampa oliwna", "lx": ["run-ting"]}
+{"pl": "las", "lx": ["lino"]}
+{"pl": "latający nóż", "lx": ["pai-huai"]}
+{"pl": "latający-kopnięcie-uderzenie", "lx": ["wa-xia-seng"]}
+{"pl": "latarnia", "lx": ["liu-zu"]}
+{"pl": "lato", "lx": ["yan-ang"]}
+{"pl": "lazurowy smok", "lx": ["lian-zei"]}
+{"pl": "lazurowy smok (kierunek wschód)", "lx": ["lian-zei"]}
+{"pl": "lecieć", "lx": ["er-da"]}
+{"pl": "leczyć", "lx": ["se"]}
+{"pl": "lecący Kopniak", "lx": ["rong-niao"]}
+{"pl": "legenda", "lx": ["dan-di"]}
+{"pl": "lejce", "lx": ["zhuo-zhong"]}
+{"pl": "lekarstwo", "lx": ["zhao-ruo"]}
+{"pl": "lekarstwo, zioła", "lx": ["zhao-ruo"]}
+{"pl": "lekarz", "lx": ["xun-rang"]}
+{"pl": "lekcja", "lx": ["lie-shua"]}
+{"pl": "lekcja (z błędu)", "lx": ["lie-shua"]}
+{"pl": "lekka umiejętność", "lx": ["ken-pa"]}
+{"pl": "lekka umiejętność (latanie)", "lx": ["ken-pa"]}
+{"pl": "lekki", "lx": ["heno"]}
+{"pl": "lekki wiatr", "lx": ["fengo-zei"]}
+{"pl": "lekkość", "lx": ["yun-bing"]}
+{"pl": "lekkość/ciężkość", "lx": ["yun-bing"]}
+{"pl": "leniwy", "lx": ["nen-lian"]}
+{"pl": "lepiej", "lx": ["wu-shou"]}
+{"pl": "lew", "lx": ["leo-run"]}
+{"pl": "lewa strona", "lx": ["kuo-shuai"]}
+{"pl": "leżeć", "lx": ["jun-liu"]}
+{"pl": "leżeć na brzuchu", "lx": ["ban-kuang"]}
+{"pl": "leżeć na plecach", "lx": ["xing-wan"]}
+{"pl": "lianyu", "lx": ["lianyu"]}
+{"pl": "lianyu (nazwa własna)", "lx": ["lianyu"]}
+{"pl": "liczba mnoga", "lx": ["sen"]}
+{"pl": "liczba mnoga (marker)", "lx": ["sen"]}
+{"pl": "liczi", "lx": ["en-si"]}
+{"pl": "liczyć", "lx": ["shang-shan"]}
+{"pl": "ligusticum", "lx": ["tai-ruan"]}
+{"pl": "lilia", "lx": ["e-lue"]}
+{"pl": "lina", "lx": ["bei-zei", "ting-cen"]}
+{"pl": "lina z grotem", "lx": ["ti-rou"]}
+{"pl": "linia", "lx": ["tao-fou"]}
+{"pl": "linia, wiersz", "lx": ["tao-fou"]}
+{"pl": "liryka", "lx": ["ya-ju"]}
+{"pl": "liryka (forma poetycka)", "lx": ["ya-ju"]}
+{"pl": "lis", "lx": ["hulo-bi"]}
+{"pl": "lis używający tygrysiej siły", "lx": ["tigo-lun"]}
+{"pl": "lis używający tygrysiej siły (idiom)", "lx": ["tigo-lun"]}
+{"pl": "list", "lx": ["kan-duo"]}
+{"pl": "list, korespondencja", "lx": ["kan-duo"]}
+{"pl": "litera", "lx": ["o-tai"]}
+{"pl": "literat", "lx": ["kai-du"]}
+{"pl": "literatura", "lx": ["dang-ti"]}
+{"pl": "litościwy", "lx": ["hou-ke"]}
+{"pl": "liście herbaty", "lx": ["qiu-pang"]}
+{"pl": "liść", "lx": ["xiu"]}
+{"pl": "liść drzewa", "lx": ["shen-cun"]}
+{"pl": "lodowaty", "lx": ["zeng-luan"]}
+{"pl": "lodowaty, mroźny", "lx": ["zeng-luan"]}
+{"pl": "lodowiec", "lx": ["den-nen"]}
+{"pl": "lodówka", "lx": ["sui-pang"]}
+{"pl": "lojalność", "lx": ["ci-shuo", "mo-chou"]}
+{"pl": "lojalny", "lx": ["qian-wen"]}
+{"pl": "longan", "lx": ["zuo-duo"]}
+{"pl": "los", "lx": ["leng-dou", "piao-pai"]}
+{"pl": "los, przeznaczenie", "lx": ["piao-pai"]}
+{"pl": "lotnisko", "lx": ["tu-dong"]}
+{"pl": "lotos", "lx": ["muo-qun"]}
+{"pl": "lubić", "lx": ["re"]}
+{"pl": "lud", "lx": ["gun-ci"]}
+{"pl": "ludność", "lx": ["bing-lie"]}
+{"pl": "ludzkość", "lx": ["jue-kao"]}
+{"pl": "lue-Xue i Kao-Fa", "lx": ["xiaoo-diu"]}
+{"pl": "lue-Xue nerek", "lx": ["zao-xiong"]}
+{"pl": "lukrecja", "lx": ["san-chuo"]}
+{"pl": "lutnia chińska", "lx": ["guan-ruan"]}
+{"pl": "lód", "lx": ["zen"]}
+{"pl": "lśniący", "lx": ["diu-zhai"]}
+{"pl": "lśniący, błyszczący", "lx": ["diu-zhai"]}
+{"pl": "machać ręką", "lx": ["kun-beng"]}
+{"pl": "magazyn", "lx": ["lan-re"]}
+{"pl": "maitreya", "lx": ["sha-hou"]}
+{"pl": "maitreya (przyszły Budda)", "lx": ["sha-hou"]}
+{"pl": "makaron", "lx": ["miano-dui"]}
+{"pl": "makaron w zupie", "lx": ["miano-wu"]}
+{"pl": "makrel", "lx": ["ran-tie"]}
+{"pl": "malarstwo", "lx": ["hua-weng"]}
+{"pl": "malarstwo pejzażowe", "lx": ["hua-ba-ba"]}
+{"pl": "malarz", "lx": ["hua-ren"]}
+{"pl": "maleńki", "lx": ["mang-lao"]}
+{"pl": "maleńki, drobny", "lx": ["mang-lao"]}
+{"pl": "malować obrazy", "lx": ["hua-ba"]}
+{"pl": "mandarynka", "lx": ["guoo-en"]}
+{"pl": "mandat Niebios", "lx": ["bin-he"]}
+{"pl": "marchew", "lx": ["caio-pian"]}
+{"pl": "markiz", "lx": ["shun-bie"]}
+{"pl": "marmur", "lx": ["ne-cuan-wo"]}
+{"pl": "marnować", "lx": ["za-rua"]}
+{"pl": "marszałek", "lx": ["bian-huang"]}
+{"pl": "martwy", "lx": ["luo"]}
+{"pl": "marynarka", "lx": ["lei-dan"]}
+{"pl": "marzenie", "lx": ["dian-kan"]}
+{"pl": "marzenie, sen", "lx": ["dian-kan"]}
+{"pl": "marzenie, sen (aspiracja)", "lx": ["dian-kan"]}
+{"pl": "masaż", "lx": ["suan-chuang"]}
+{"pl": "maska", "lx": ["die-hai"]}
+{"pl": "mata", "lx": ["ken-xing", "suo-niao"]}
+{"pl": "mata (do siedzenia)", "lx": ["suo-niao"]}
+{"pl": "matematyka", "lx": ["cou-ruo"]}
+{"pl": "materiał", "lx": ["chuan-zhuo"]}
+{"pl": "matka", "lx": ["rua"]}
+{"pl": "mała łódź", "lx": ["shun-nen"]}
+{"pl": "małe dojrzewanie", "lx": ["nian-hen"]}
+{"pl": "małe dziecko", "lx": ["he-nue"]}
+{"pl": "mało", "lx": ["min"]}
+{"pl": "małpa", "lx": ["houo-nai"]}
+{"pl": "mały bęben", "lx": ["liao-xiang"]}
+{"pl": "mały chłód", "lx": ["zhan-deng"]}
+{"pl": "mały deszcz", "lx": ["yuo-ke"]}
+{"pl": "mały upał", "lx": ["ding-zei"]}
+{"pl": "mały śnieg", "lx": ["xueo-bai"]}
+{"pl": "mdłości", "lx": ["nian-pu"]}
+{"pl": "meble", "lx": ["cao-kuai"]}
+{"pl": "meduza", "lx": ["zheo-kua"]}
+{"pl": "medytować", "lx": ["pa-hen"]}
+{"pl": "medytować (ogólnie)", "lx": ["pa-hen"]}
+{"pl": "melodia", "lx": ["nie-he"]}
+{"pl": "melon zimowy", "lx": ["guoo-ying"]}
+{"pl": "meridiany", "lx": ["jing-luo"]}
+{"pl": "merydian", "lx": ["jing-lou"]}
+{"pl": "metafora", "lx": ["lou-fan"]}
+{"pl": "metal", "lx": ["zouo"]}
+{"pl": "meteor", "lx": ["guango-sun"]}
+{"pl": "meteor, spadająca gwiazda", "lx": ["guango-sun"]}
+{"pl": "meteoryt", "lx": ["beng-ze"]}
+{"pl": "metoda", "lx": ["bang-guai", "chai-mie"]}
+{"pl": "metoda serca", "lx": ["xiang-zhang"]}
+{"pl": "metoda serca/umysłu", "lx": ["xiang-zhang"]}
+{"pl": "metropolia", "lx": ["pi-meng"]}
+{"pl": "mglisty", "lx": ["diu-hei"]}
+{"pl": "mgła i opary", "lx": ["wuo-shi"]}
+{"pl": "miasto", "lx": ["jiong-seng", "tie"]}
+{"pl": "miecz", "lx": ["fen-mai", "zuoo"]}
+{"pl": "miecz Trzech Przysiąg", "lx": ["cang-liu-zhang"]}
+{"pl": "miednica", "lx": ["jing-rang"]}
+{"pl": "miejsce", "lx": ["re-mang"]}
+{"pl": "mierzyć", "lx": ["beng-chuan"]}
+{"pl": "miesiąc", "lx": ["keng"]}
+{"pl": "mieszać", "lx": ["bano-xin"]}
+{"pl": "mieszać (składniki)", "lx": ["bano-xin"]}
+{"pl": "mieszkanie", "lx": ["dan-lang"]}
+{"pl": "mieć", "lx": ["an", "pang-hang"]}
+{"pl": "mieć biegunkę", "lx": ["zhe-cao-jian"]}
+{"pl": "mieć gorączkę", "lx": ["qio-shi"]}
+{"pl": "mieć granice", "lx": ["qie-min"]}
+{"pl": "mieć spotkanie", "lx": ["keng-shun"]}
+{"pl": "mikroskopijny", "lx": ["li-gei-ka"]}
+{"pl": "milion", "lx": ["bai-wan"]}
+{"pl": "miotła", "lx": ["tuan-que"]}
+{"pl": "miska", "lx": ["gong"]}
+{"pl": "mistrz", "lx": ["chen-zhang", "cheng-chen"]}
+{"pl": "mistrz (honorowy tytuł)", "lx": ["chen-zhang"]}
+{"pl": "mistrz (ogólne", "lx": ["cheng-chen"]}
+{"pl": "mistrz (ogólne, szanujące)", "lx": ["cheng-chen"]}
+{"pl": "mistrz (tytuł honor.)", "lx": ["chen-zhang"]}
+{"pl": "mistrz sztuk walki", "lx": ["guo-zhui-zheng"]}
+{"pl": "mit", "lx": ["huai-bing"]}
+{"pl": "mityczna opowieść", "lx": ["ca-zhun-suan"]}
+{"pl": "mityczne zwierzę", "lx": ["dongo-kao"]}
+{"pl": "miu-Du i krew", "lx": ["ke-za"]}
+{"pl": "miąższ owocu", "lx": ["duano-sai"]}
+{"pl": "miękka droga", "lx": ["chuang-cao"]}
+{"pl": "miękka droga (japoński termin)", "lx": ["chuang-cao"]}
+{"pl": "miękka siła", "lx": ["dui-dan"]}
+{"pl": "miękki", "lx": ["jiuo"]}
+{"pl": "miękkie drewno", "lx": ["lu-nue"]}
+{"pl": "mięsień", "lx": ["wu-que"]}
+{"pl": "mięso", "lx": ["rouo"]}
+{"pl": "mięta", "lx": ["pi-yu"]}
+{"pl": "miłość", "lx": ["qu-zhou"]}
+{"pl": "miłość (rzeczownik)", "lx": ["qu-zhou"]}
+{"pl": "miłość romantyczna", "lx": ["qu-san"]}
+{"pl": "mleko", "lx": ["naio-ta"]}
+{"pl": "mleko sojowe", "lx": ["naio-bao"]}
+{"pl": "mnich buddyjski", "lx": ["man-dui"]}
+{"pl": "mniej", "lx": ["sa-dei"]}
+{"pl": "moc", "lx": ["zhi-zhai"]}
+{"pl": "mocny", "lx": ["hai"]}
+{"pl": "modlić się", "lx": ["sa-qiao"]}
+{"pl": "mokradła", "lx": ["huai-luan", "wan-ang"]}
+{"pl": "mokry", "lx": ["shio-wai"]}
+{"pl": "monarcha", "lx": ["zhun-cui"]}
+{"pl": "moneta", "lx": ["xun-zong"]}
+{"pl": "moneta miedziana", "lx": ["bin-hei"]}
+{"pl": "moralność", "lx": ["zhi-dia"]}
+{"pl": "morela", "lx": ["guoo-biao"]}
+{"pl": "morska fala", "lx": ["bao-zong"]}
+{"pl": "morwa", "lx": ["hua-nuan"]}
+{"pl": "morze", "lx": ["haio"]}
+{"pl": "motocykl", "lx": ["jue-han-ga"]}
+{"pl": "motyka", "lx": ["sen-fou"]}
+{"pl": "motyl", "lx": ["dieo-mao"]}
+{"pl": "może", "lx": ["meno"]}
+{"pl": "możliwe", "lx": ["kai-eng"]}
+{"pl": "możliwość", "lx": ["yi-hei-fan"]}
+{"pl": "można", "lx": ["pao-he"]}
+{"pl": "mroźny", "lx": ["zeng-luan"]}
+{"pl": "mrówka", "lx": ["yio-qiong"]}
+{"pl": "mu-ling", "lx": ["jiang-zhua"]}
+{"pl": "mundur", "lx": ["run-rua"]}
+{"pl": "mundur wojskowy", "lx": ["fou-wang"]}
+{"pl": "mur miejski", "lx": ["neng-huan"]}
+{"pl": "musieć", "lx": ["hu"]}
+{"pl": "muszla", "lx": ["beo-za"]}
+{"pl": "muszla, skorupiak", "lx": ["beo-za"]}
+{"pl": "muzeum", "lx": ["nano-geng-cao"]}
+{"pl": "muzyk", "lx": ["ban-gou", "yue-ren"]}
+{"pl": "muł", "lx": ["chun-guan"]}
+{"pl": "muślin", "lx": ["ca-zui"]}
+{"pl": "my", "lx": ["lano"]}
+{"pl": "mysz", "lx": ["rao-mo"]}
+{"pl": "mysz, szczur", "lx": ["rao-mo"]}
+{"pl": "myć", "lx": ["cha-jing"]}
+{"pl": "myć podłogę", "lx": ["cha-qiu"]}
+{"pl": "myć twarz", "lx": ["cha-huai"]}
+{"pl": "myśleć", "lx": ["geo"]}
+{"pl": "myśli)", "lx": ["mie-tang"]}
+{"pl": "myśliwy", "lx": ["cao-ceng"]}
+{"pl": "mówić", "lx": ["bi"]}
+{"pl": "mózg", "lx": ["meng-ya"]}
+{"pl": "mądrość", "lx": ["dai-te"]}
+{"pl": "mądry", "lx": ["geng-wai", "kai-ha"]}
+{"pl": "mądry, inteligentny", "lx": ["geng-wai"]}
+{"pl": "mąż", "lx": ["juan-nie"]}
+{"pl": "mąż cioci", "lx": ["tao-deng"]}
+{"pl": "mężczyzna", "lx": ["qun"]}
+{"pl": "mężny", "lx": ["sou-yu"]}
+{"pl": "mężny, nieustraszony", "lx": ["sou-yu"]}
+{"pl": "młodsza współuczennica", "lx": ["jian-chun"]}
+{"pl": "młodsze)", "lx": ["jue-keng"]}
+{"pl": "młodszy generał", "lx": ["ran-niang"]}
+{"pl": "młody", "lx": ["duoo"]}
+{"pl": "młot", "lx": ["liao-ang"]}
+{"pl": "młotek", "lx": ["chuang-xi"]}
+{"pl": "mżawka", "lx": ["wan-chang-ya"]}
+{"pl": "na podstawie", "lx": ["zhuang-wei"]}
+{"pl": "naczelnik powiatu", "lx": ["zu-wa"]}
+{"pl": "naczynia stołowe", "lx": ["xiong-mei"]}
+{"pl": "naczynie", "lx": ["ei-cuo"]}
+{"pl": "naczynie krwionośne", "lx": ["qiao-lei"]}
+{"pl": "naczynie, przyrząd", "lx": ["ei-cuo"]}
+{"pl": "nad ranem", "lx": ["ren-re"]}
+{"pl": "nadmiernie", "lx": ["nang-niang"]}
+{"pl": "nadzieja", "lx": ["di-zao"]}
+{"pl": "nagle", "lx": ["niu-zuan"]}
+{"pl": "nagolennice", "lx": ["diao-gei"]}
+{"pl": "nagroda wojenna", "lx": ["hou-ku"]}
+{"pl": "najbardziej", "lx": ["lie-gong"]}
+{"pl": "najlepiej", "lx": ["dian-liao"]}
+{"pl": "najwyższa ostateczność", "lx": ["niao-tuan"]}
+{"pl": "najwyższa ostateczność (Taiji)", "lx": ["niao-tuan"]}
+{"pl": "najwyższy", "lx": ["wen-gai"]}
+{"pl": "nalewać wodę", "lx": ["zhuang-tao"]}
+{"pl": "naleśnik", "lx": ["shuo-sou"]}
+{"pl": "namiestnik", "lx": ["na-hei"]}
+{"pl": "namiot", "lx": ["lie-luan"]}
+{"pl": "napierśnik", "lx": ["cu-guan-gun"]}
+{"pl": "naprawdę?", "lx": ["suan-fu-ju"]}
+{"pl": "naprawiać", "lx": ["hei-bie"]}
+{"pl": "naprzeciwko", "lx": ["seng-zui"]}
+{"pl": "naramienniki", "lx": ["nao-guo"]}
+{"pl": "narracja", "lx": ["chi-cong"]}
+{"pl": "narracja, opowiadanie", "lx": ["chi-cong"]}
+{"pl": "naruszyć", "lx": ["wen-fang"]}
+{"pl": "naruszyć (zasadę)", "lx": ["wen-fang"]}
+{"pl": "narzędzia ogrodnicze", "lx": ["ling-nian-fo"]}
+{"pl": "narzędzia rolnicze", "lx": ["gan-tai"]}
+{"pl": "narzędzie", "lx": ["kun-guan"]}
+{"pl": "naręcznice", "lx": ["long-long"]}
+{"pl": "nasiona lotosu", "lx": ["zhono-qia"]}
+{"pl": "nasiono", "lx": ["zhono-chan"]}
+{"pl": "następca tronu", "lx": ["huo-hong"]}
+{"pl": "następny", "lx": ["qia-fen-ling"]}
+{"pl": "następnym razem", "lx": ["zhuan-po"]}
+{"pl": "naszyjnik", "lx": ["xiong-qia"]}
+{"pl": "natura", "lx": ["ao-long"]}
+{"pl": "natura serca", "lx": ["cu-ti"]}
+{"pl": "natura serca/umysłu", "lx": ["cu-ti"]}
+{"pl": "natura, charakter", "lx": ["ao-long"]}
+{"pl": "natura, charakter (rzeczy)", "lx": ["ao-long"]}
+{"pl": "natychmiast", "lx": ["chun-xue", "zei-shi"]}
+{"pl": "natychmiastowy", "lx": ["chi-she"]}
+{"pl": "nauczać", "lx": ["niang-fan"]}
+{"pl": "nauczyciel", "lx": ["ma-ren"]}
+{"pl": "nauczyciel pięściarstwa", "lx": ["ma-nian"]}
+{"pl": "nauczyć się", "lx": ["ma-ju"]}
+{"pl": "nauka", "lx": ["ma-an"]}
+{"pl": "nauka Fen-Mai", "lx": ["ma-dou"]}
+{"pl": "nauka Xiao-Diu", "lx": ["ma-bai"]}
+{"pl": "nauka walki", "lx": ["ma-zuan"]}
+{"pl": "nauka walki, sztuki", "lx": ["ma-zuan"]}
+{"pl": "naukowiec", "lx": ["tan-tun-yu"]}
+{"pl": "nawadniać", "lx": ["yang-wai"]}
+{"pl": "nawozić", "lx": ["pa-ban"]}
+{"pl": "nawóz", "lx": ["cong-geng"]}
+{"pl": "negacja", "lx": ["daoo"]}
+{"pl": "negacja (nie)", "lx": ["daoo"]}
+{"pl": "negocjacje", "lx": ["su-han"]}
+{"pl": "negować", "lx": ["nei-yue"]}
+{"pl": "nerka", "lx": ["duan-cuan"]}
+{"pl": "nerka (organ)", "lx": ["duan-cuan"]}
+{"pl": "nic", "lx": ["wuo"]}
+{"pl": "nici do haftu", "lx": ["lie-de"]}
+{"pl": "nie", "lx": ["nai"]}
+{"pl": "nie lubić", "lx": ["nin-se"]}
+{"pl": "nie ma problemu", "lx": ["man-song-di"]}
+{"pl": "nie ma za co", "lx": ["a-er-ma"]}
+{"pl": "nie można", "lx": ["kun-beng-e"]}
+{"pl": "nie rozumieć", "lx": ["ning-lang"]}
+{"pl": "nie szkodzi", "lx": ["mou-ruo-kang"]}
+{"pl": "niebezpieczeństwo", "lx": ["piao-chong", "she-nei"]}
+{"pl": "niebiański król", "lx": ["beng-weng"]}
+{"pl": "niebiański-mistrz", "lx": ["chao-teng"]}
+{"pl": "niebiańskie", "lx": ["nang-qian"]}
+{"pl": "niebiańskie Imperium Smoczej Korony", "lx": ["ha-chuo"]}
+{"pl": "niebiańskie Schody Ziemi", "lx": ["nuo-chua"]}
+{"pl": "niebieski", "lx": ["nao"]}
+{"pl": "niebo", "lx": ["tiano"]}
+{"pl": "niedbale", "lx": ["chua-zhuang"]}
+{"pl": "niedbale, od niechcenia", "lx": ["chua-zhuang"]}
+{"pl": "niedobór Kao-Fa", "lx": ["tian-gua"]}
+{"pl": "niedobór Lue-Xue", "lx": ["tou-fu"]}
+{"pl": "niedobór Miu-Du", "lx": ["lao-you"]}
+{"pl": "niedobór esencji", "lx": ["min-chuo"]}
+{"pl": "niedobór krwi", "lx": ["zha-hao"]}
+{"pl": "niedobór nerek", "lx": ["sa-can"]}
+{"pl": "niedobór śledziony", "lx": ["lin-pen"]}
+{"pl": "niedźwiedź czarny", "lx": ["xiongo-pei"]}
+{"pl": "niefortunny", "lx": ["gao-luo"]}
+{"pl": "niegdyś", "lx": ["man-jiu"]}
+{"pl": "niegrzeczny", "lx": ["bang-bai"]}
+{"pl": "niegrzeczny, psotny", "lx": ["bang-bai"]}
+{"pl": "niejasny", "lx": ["diu-hei"]}
+{"pl": "niejasny, mglisty", "lx": ["diu-hei"]}
+{"pl": "niekompletny", "lx": ["nun-ying-luo"]}
+{"pl": "niekoniecznie", "lx": ["ha-fan-ming"]}
+{"pl": "niemowlę", "lx": ["wa-nen"]}
+{"pl": "niemożliwe", "lx": ["zheng-liang-ou"]}
+{"pl": "niemożliwy do...", "lx": ["qiong-chui"]}
+{"pl": "nienawidzić", "lx": ["rio"]}
+{"pl": "nienawistny", "lx": ["dun-sa"]}
+{"pl": "nienawistny, wstrętny", "lx": ["dun-sa"]}
+{"pl": "nienawiść", "lx": ["ri-xun"]}
+{"pl": "nienawiść (rzeczownik)", "lx": ["ri-xun"]}
+{"pl": "niepełny", "lx": ["men-da"]}
+{"pl": "niepełny, uszkodzony", "lx": ["men-da"]}
+{"pl": "niepokoić", "lx": ["yin-beng"]}
+{"pl": "niepokoić, przeszkadzać", "lx": ["yin-beng"]}
+{"pl": "niepokój", "lx": ["chuo-niang"]}
+{"pl": "nieprzezroczysty", "lx": ["cha-zhan-bao"]}
+{"pl": "nieprzytomny", "lx": ["ge-chuan"]}
+{"pl": "nieregularny", "lx": ["guang-leng-tang"]}
+{"pl": "nierozgarnięty", "lx": ["gua-bing"]}
+{"pl": "niespodziewany atak", "lx": ["ceng-run"]}
+{"pl": "niespokojny", "lx": ["xiang-kong"]}
+{"pl": "niestabilny", "lx": ["kan-na-pi"]}
+{"pl": "nietoperz", "lx": ["zeng-gan"]}
+{"pl": "nieuchronność", "lx": ["luo-su-sao"]}
+{"pl": "nieustraszony", "lx": ["sou-yu"]}
+{"pl": "nieuważny", "lx": ["xie-zang-san"]}
+{"pl": "niewinny", "lx": ["shun-diao"]}
+{"pl": "niewygodny", "lx": ["pu-sou"]}
+{"pl": "niewyraźny", "lx": ["cao-hun"]}
+{"pl": "niewyraźny, zamglony", "lx": ["cao-hun"]}
+{"pl": "niewzruszony", "lx": ["sheng-liao"]}
+{"pl": "niezadowolenie", "lx": ["long-heng"]}
+{"pl": "niezmien ny", "lx": ["hui-leng"]}
+{"pl": "nieznany", "lx": ["xiu-kong"]}
+{"pl": "niezwykły", "lx": ["bang-pin"]}
+{"pl": "niezły", "lx": ["nue-han"]}
+{"pl": "niezły, dobry", "lx": ["nue-han"]}
+{"pl": "nieśmiertelny", "lx": ["dai-pa"]}
+{"pl": "nieśmiertelny, bóstwo", "lx": ["dai-pa"]}
+{"pl": "nigdy", "lx": ["mie"]}
+{"pl": "nikt", "lx": ["heio"]}
+{"pl": "niski", "lx": ["gou"]}
+{"pl": "niskiej jakości", "lx": ["hao-gong"]}
+{"pl": "niskość", "lx": ["beng-kan"]}
+{"pl": "niszczyć", "lx": ["zi"]}
+{"pl": "noga", "lx": ["chai"]}
+{"pl": "nos", "lx": ["chua"]}
+{"pl": "nosorożec", "lx": ["ruo-nie"]}
+{"pl": "nowy", "lx": ["duio"]}
+{"pl": "nożyce", "lx": ["qie-qiao"]}
+{"pl": "nuda", "lx": ["zao-xin"]}
+{"pl": "nudny", "lx": ["zhen-tuo"]}
+{"pl": "nuty muzyczne", "lx": ["nong-gui"]}
+{"pl": "nóż", "lx": ["bang"]}
+{"pl": "obawa", "lx": ["ru-pin"]}
+{"pl": "obawiać się", "lx": ["fen-wan"]}
+{"pl": "obcy", "lx": ["wai-que"]}
+{"pl": "obcy / przybysz", "lx": ["wai-que"]}
+{"pl": "obcy, przybysz", "lx": ["wai-que"]}
+{"pl": "obiad", "lx": ["tian-xing"]}
+{"pl": "obietnica", "lx": ["teng-kuo"]}
+{"pl": "objaśniać", "lx": ["sang-pi"]}
+{"pl": "oblegać", "lx": ["fo-nuan"]}
+{"pl": "obliczać", "lx": ["shang-shan"]}
+{"pl": "obliczać, liczyć", "lx": ["shang-shan"]}
+{"pl": "oblężenie", "lx": ["juan-nu"]}
+{"pl": "obojętny", "lx": ["dong-shuan"]}
+{"pl": "obojętny, apatyczny", "lx": ["dong-shuan"]}
+{"pl": "obok", "lx": ["fo-qun"]}
+{"pl": "obracać", "lx": ["ge-lei"]}
+{"pl": "obracać się", "lx": ["ha-ga"]}
+{"pl": "obrona", "lx": ["man-er"]}
+{"pl": "obserwować", "lx": ["rao-zha"]}
+{"pl": "obudzić się", "lx": ["ke"]}
+{"pl": "ocean", "lx": ["haio-ye"]}
+{"pl": "oceniać", "lx": ["nou-ju", "zun-ding"]}
+{"pl": "oceniać, wartościować", "lx": ["nou-ju"]}
+{"pl": "ocet", "lx": ["yoo-biao"]}
+{"pl": "ochrona zdrowia", "lx": ["man-chao"]}
+{"pl": "ochrona środowiska", "lx": ["wen-dai"]}
+{"pl": "oczekiwać z niecierpliwością", "lx": ["nuan-cou"]}
+{"pl": "oczywiście", "lx": ["nei-niao"]}
+{"pl": "od", "lx": ["rǎo"]}
+{"pl": "od (źródło)", "lx": ["rǎo"]}
+{"pl": "od matki)", "lx": ["hai-ni"]}
+{"pl": "od niechcenia", "lx": ["chua-zhuang"]}
+{"pl": "odcinać", "lx": ["zeng-ai"]}
+{"pl": "odczuwać", "lx": ["dao-geng"]}
+{"pl": "oddychanie", "lx": ["ye-hu"]}
+{"pl": "oddychanie (praktyka)", "lx": ["ye-hu"]}
+{"pl": "oddzielać", "lx": ["tu-zan"]}
+{"pl": "odejść", "lx": ["deo"]}
+{"pl": "odepchnąć", "lx": ["fan-keng"]}
+{"pl": "odkrycie", "lx": ["shuan-tou"]}
+{"pl": "odległość", "lx": ["fo-mao"]}
+{"pl": "odmawiać", "lx": ["cuo-qie"]}
+{"pl": "odmrożenie", "lx": ["lu-qing"]}
+{"pl": "odnawiać", "lx": ["wei-bin"]}
+{"pl": "odnawiać, aktualizować", "lx": ["wei-bin"]}
+{"pl": "odosobniony", "lx": ["kuang-shuo"]}
+{"pl": "odpowiadać", "lx": ["ca"]}
+{"pl": "odpowiedź", "lx": ["ha-gong"]}
+{"pl": "odpowiedź, rozwiązanie", "lx": ["ha-gong"]}
+{"pl": "odpychający", "lx": ["ju-jia"]}
+{"pl": "odrodzić się", "lx": ["zhen-si"]}
+{"pl": "odrodzić się, powstać", "lx": ["zhen-si"]}
+{"pl": "odróżnić", "lx": ["sai-zui"]}
+{"pl": "odwaga", "lx": ["ba-niu"]}
+{"pl": "odwar lekarski", "lx": ["bo-tuo"]}
+{"pl": "odwiedzać", "lx": ["wa-jing"]}
+{"pl": "odwrócić", "lx": ["chan-shun"]}
+{"pl": "odwrócić/otworzyć", "lx": ["chan-shun"]}
+{"pl": "ofiara", "lx": ["lu-rui"]}
+{"pl": "ofiara (przedmiot)", "lx": ["lu-rui"]}
+{"pl": "ogier", "lx": ["hou-han"]}
+{"pl": "ogień", "lx": ["zha"]}
+{"pl": "ogień serca", "lx": ["cuo-hui"]}
+{"pl": "ogień wątroby", "lx": ["kuan-ni"]}
+{"pl": "ograniczony", "lx": ["qie-min"]}
+{"pl": "ograniczony, mieć granice", "lx": ["qie-min"]}
+{"pl": "ogromny", "lx": ["wen-reng"]}
+{"pl": "ogromny, gigantyczny", "lx": ["wen-reng"]}
+{"pl": "ogród wewnętrzny", "lx": ["san-wo"]}
+{"pl": "ogórek", "lx": ["caio-zen"]}
+{"pl": "ogórek morski", "lx": ["caio-nen"]}
+{"pl": "ohydny", "lx": ["ju-jia"]}
+{"pl": "ohydny, odpychający", "lx": ["ju-jia"]}
+{"pl": "ojciec", "lx": ["rou"]}
+{"pl": "okazja", "lx": ["dai-lu", "wang-shen"]}
+{"pl": "okej", "lx": ["kei"]}
+{"pl": "okno", "lx": ["sui"]}
+{"pl": "oko", "lx": ["chen"]}
+{"pl": "okoliczności", "lx": ["nie-zhuai"]}
+{"pl": "około", "lx": ["ning-kua"]}
+{"pl": "określenia", "lx": ["zhai"]}
+{"pl": "określony", "lx": ["cha-suo"]}
+{"pl": "okrutny", "lx": ["nei-sun"]}
+{"pl": "okrutny, bezlitosny", "lx": ["nei-sun"]}
+{"pl": "okrągły kształt", "lx": ["yin-zhe"]}
+{"pl": "okręt wojenny", "lx": ["lue-shuan"]}
+{"pl": "okulary", "lx": ["fei-chui"]}
+{"pl": "olej orzechowy", "lx": ["yoo-cuan"]}
+{"pl": "olej sezamowy", "lx": ["yoo-a"]}
+{"pl": "oleje", "lx": ["yoo-fang"]}
+{"pl": "omawiać", "lx": ["wu-gui"]}
+{"pl": "on", "lx": ["cou"]}
+{"pl": "on/ona", "lx": ["cou"]}
+{"pl": "ona", "lx": ["cou"]}
+{"pl": "one", "lx": ["lin"]}
+{"pl": "oni", "lx": ["lin"]}
+{"pl": "oni/one", "lx": ["lin"]}
+{"pl": "oolong", "lx": ["gao-ta"]}
+{"pl": "opadanie szronu", "lx": ["nian-pa"]}
+{"pl": "opanować", "lx": ["duan-luo"]}
+{"pl": "opanować (umiejętność)", "lx": ["duan-luo"]}
+{"pl": "oparzenie", "lx": ["ni-gu"]}
+{"pl": "opera", "lx": ["die-you-jue"]}
+{"pl": "opisywać", "lx": ["keng-shen"]}
+{"pl": "opowiadanie", "lx": ["chi-cong"]}
+{"pl": "opowieść", "lx": ["ban-zhan"]}
+{"pl": "opuścić", "lx": ["deo-re", "sun-jin"]}
+{"pl": "opuścić (miejsce)", "lx": ["deo-re"]}
+{"pl": "opuścić się", "lx": ["ga-juan"]}
+{"pl": "opuścić się, spaść", "lx": ["ga-juan"]}
+{"pl": "opuścić, wyjechać", "lx": ["sun-jin"]}
+{"pl": "opóźniony", "lx": ["biao-zui"]}
+{"pl": "orchidea", "lx": ["kuo-che"]}
+{"pl": "organizować", "lx": ["ban-chua", "muo-zheng"]}
+{"pl": "orzeszki ziemne", "lx": ["chou-guo"]}
+{"pl": "osa", "lx": ["mio-xiu"]}
+{"pl": "osiem", "lx": ["xun-sun"]}
+{"pl": "osiem kawałków brokatu", "lx": ["nou-gu-zun"]}
+{"pl": "osiem trigramów", "lx": ["nang-qin"]}
+{"pl": "osiemdziesiąt", "lx": ["gei-mu"]}
+{"pl": "osiemset", "lx": ["diao-tuo"]}
+{"pl": "osioł", "lx": ["mai-mi"]}
+{"pl": "osiągnięcie", "lx": ["huang-tang"]}
+{"pl": "osmanthus", "lx": ["xue-yi"]}
+{"pl": "osobliwy", "lx": ["zan-hu"]}
+{"pl": "ostatni", "lx": ["geng-zuo"]}
+{"pl": "ostatnio", "lx": ["du-xiong"]}
+{"pl": "ostry", "lx": ["se-nu"]}
+{"pl": "ostry, pikantny", "lx": ["se-nu"]}
+{"pl": "ostryga", "lx": ["luo-shuo"]}
+{"pl": "ostrzegać", "lx": ["tong-mai"]}
+{"pl": "oszczędność energii", "lx": ["lan-mai-hu"]}
+{"pl": "oszczędność zasobów", "lx": ["ri-qian-nei"]}
+{"pl": "oszczędzać", "lx": ["ceng-wo"]}
+{"pl": "oszołomiony", "lx": ["hai-pang"]}
+{"pl": "oszukiwać", "lx": ["huo-jiong"]}
+{"pl": "osądzać", "lx": ["zun-ding"]}
+{"pl": "osądzać, oceniać", "lx": ["zun-ding"]}
+{"pl": "osłabiać", "lx": ["xing-shou"]}
+{"pl": "otrzymać", "lx": ["ceng-en", "zhu-dun"]}
+{"pl": "otrzymać płatność", "lx": ["min-duan"]}
+{"pl": "otrzymać, przyjąć", "lx": ["ceng-en"]}
+{"pl": "otrzymywać", "lx": ["chu-pei"]}
+{"pl": "otrzymywać, zbierać", "lx": ["chu-pei"]}
+{"pl": "otwarty", "lx": ["zhuai-nu"]}
+{"pl": "otworzyć", "lx": ["chan-shun", "su"]}
+{"pl": "owad", "lx": ["chongo"]}
+{"pl": "owalny", "lx": ["keng-cao-gu"]}
+{"pl": "owca", "lx": ["yango-shang"]}
+{"pl": "owoc", "lx": ["duano"]}
+{"pl": "owocowy zapach", "lx": ["duano-meng"]}
+{"pl": "ozdoba włosów", "lx": ["li-tie"]}
+{"pl": "oślepić wzrok", "lx": ["pie-qin"]}
+{"pl": "ośmiokątny", "lx": ["kan-zou-song"]}
+{"pl": "ośmiornica", "lx": ["zhango-tong"]}
+{"pl": "pacjent", "lx": ["ci-ge"]}
+{"pl": "padać", "lx": ["yuo-nen"]}
+{"pl": "padać (śnieg)", "lx": ["yuo-nen"]}
+{"pl": "pagoda buddyjska", "lx": ["guo-zen"]}
+{"pl": "paifang", "lx": ["ye-cai"]}
+{"pl": "paifang, łuk pamiątkowy", "lx": ["ye-cai"]}
+{"pl": "pająk", "lx": ["zhüo-ceng"]}
+{"pl": "pakować", "lx": ["huang-tie"]}
+{"pl": "palec", "lx": ["ceng"]}
+{"pl": "palec u nogi", "lx": ["zu-bing"]}
+{"pl": "palec u ręki", "lx": ["qia-fo"]}
+{"pl": "palisander", "lx": ["liao-tai"]}
+{"pl": "palić kadzidło", "lx": ["feng-zhuan"]}
+{"pl": "pamiętać", "lx": ["qian-heng"]}
+{"pl": "pamięć", "lx": ["hui-ce"]}
+{"pl": "pamięć, wspomnienie", "lx": ["hui-ce"]}
+{"pl": "pan", "lx": ["cao-kuang"]}
+{"pl": "pan (szlachetny)", "lx": ["cao-kuang"]}
+{"pl": "pancerz", "lx": ["dian-ben"]}
+{"pl": "panda", "lx": ["ruo-tuan"]}
+{"pl": "panika", "lx": ["ru-bie"]}
+{"pl": "papier", "lx": ["ming-bao", "zhio-chu-o"]}
+{"pl": "papier chuan-jiu", "lx": ["zhong-ze"]}
+{"pl": "papierowy pieniądz", "lx": ["cen-qiu"]}
+{"pl": "papryka chili", "lx": ["caio-zhong"]}
+{"pl": "papuga", "lx": ["wuo-yong"]}
+{"pl": "para", "lx": ["pai-nu"]}
+{"pl": "para (ludzi", "lx": ["pai-nu"]}
+{"pl": "para (ludzi, rzeczy)", "lx": ["pai-nu"]}
+{"pl": "para wodna", "lx": ["bu-pao"]}
+{"pl": "parasol", "lx": ["qun-cha"]}
+{"pl": "parawan", "lx": ["eng-neng"]}
+{"pl": "park", "lx": ["ai-te"]}
+{"pl": "park narodowy", "lx": ["fa-san-xing"]}
+{"pl": "parowanie", "lx": ["le-qu"]}
+{"pl": "partner", "lx": ["niang-chao"]}
+{"pl": "partykuła posiadania", "lx": ["zhai"]}
+{"pl": "partykuła posiadania/określenia", "lx": ["zhai"]}
+{"pl": "partykuła pytania", "lx": ["mo"]}
+{"pl": "partykuła tematu", "lx": ["lo"]}
+{"pl": "pasek", "lx": ["gan-lei"]}
+{"pl": "pasmo górskie", "lx": ["he-shuang"]}
+{"pl": "pasta z bobu", "lx": ["chuo-ce-zeng"]}
+{"pl": "pasterz", "lx": ["chuo-chen"]}
+{"pl": "patogen ognia", "lx": ["tun-kou"]}
+{"pl": "patogen suchości", "lx": ["qio-miao"]}
+{"pl": "patogen wiatru", "lx": ["fengo-zhao"]}
+{"pl": "patogen wilgoci", "lx": ["pa-nue"]}
+{"pl": "patrzeć", "lx": ["fa"]}
+{"pl": "patrzeć w dal", "lx": ["cou-luo"]}
+{"pl": "paznokieć", "lx": ["shua-luan"]}
+{"pl": "pałac", "lx": ["nian-se"]}
+{"pl": "pałac Boskich", "lx": ["ning-nin-hua"]}
+{"pl": "pałac postu", "lx": ["le-xu"]}
+{"pl": "pałac, hala pałacowa", "lx": ["nian-se"]}
+{"pl": "pałeczki", "lx": ["nou-shan"]}
+{"pl": "pałka", "lx": ["liang-tuo"]}
+{"pl": "państwo", "lx": ["li-ying"]}
+{"pl": "peleryna", "lx": ["bi-mian"]}
+{"pl": "perfumy", "lx": ["kuan-pang"]}
+{"pl": "perilla", "lx": ["zun-che"]}
+{"pl": "permanentny", "lx": ["nong-yue"]}
+{"pl": "perła", "lx": ["kang-eng"]}
+{"pl": "pestka", "lx": ["xi-song"]}
+{"pl": "pewność", "lx": ["sao-niang"]}
+{"pl": "pełny", "lx": ["hou"]}
+{"pl": "piasek", "lx": ["shao"]}
+{"pl": "piaskowiec", "lx": ["mo-shan"]}
+{"pl": "piec", "lx": ["kaoo-jin"]}
+{"pl": "piec, grillować", "lx": ["kaoo-jin"]}
+{"pl": "piechota", "lx": ["bie-zhu"]}
+{"pl": "pieczony", "lx": ["kaoo-pai"]}
+{"pl": "pieczęć", "lx": ["ying-gui"]}
+{"pl": "piekarz", "lx": ["die-pin"]}
+{"pl": "piekarz (ciasto)", "lx": ["die-pin"]}
+{"pl": "piekło", "lx": ["hua-rang"]}
+{"pl": "pielić", "lx": ["dun-xia"]}
+{"pl": "pielęgniarka", "lx": ["hu-ren", "nian-de"]}
+{"pl": "pielęgnowanie życia", "lx": ["xiu-nei"]}
+{"pl": "pielęgnować uczucie", "lx": ["hua-lan"]}
+{"pl": "pieniądze", "lx": ["hongo"]}
+{"pl": "pieprz syczuański", "lx": ["liao-hua"]}
+{"pl": "pierogi", "lx": ["zhuo-jiang"]}
+{"pl": "pierwotna energia", "lx": ["tong-sa"]}
+{"pl": "pierwotna natura", "lx": ["chao-kao"]}
+{"pl": "pierwotna pustka", "lx": ["shi-hou"]}
+{"pl": "pierwotne niemowlę", "lx": ["nue-wu"]}
+{"pl": "pierwszy", "lx": ["xiong-ju"]}
+{"pl": "pierwszy na egzaminie cesarskim", "lx": ["peng-chuo"]}
+{"pl": "pierś", "lx": ["ri-xu"]}
+{"pl": "pierś (żeńska)", "lx": ["ri-xu"]}
+{"pl": "pierścień", "lx": ["bei-xiang"]}
+{"pl": "pies", "lx": ["gouo"]}
+{"pl": "pieszo", "lx": ["sui-la"]}
+{"pl": "pigułka", "lx": ["fu-suan"]}
+{"pl": "pijać", "lx": ["chong-mi"]}
+{"pl": "pijać (formalnie)", "lx": ["chong-mi"]}
+{"pl": "pikantny", "lx": ["se-nu"]}
+{"pl": "pilnik", "lx": ["ke-gen"]}
+{"pl": "piosenka", "lx": ["song-zhai"]}
+{"pl": "pisarz", "lx": ["muo-ren"]}
+{"pl": "pisać", "lx": ["muo"]}
+{"pl": "pisać list", "lx": ["muo-pei"]}
+{"pl": "pisklę", "lx": ["li-shang"]}
+{"pl": "pismo Duo-Pao", "lx": ["muo-hui"]}
+{"pl": "pismo urzędowe", "lx": ["muo-niu"]}
+{"pl": "piwonia", "lx": ["niang-miao"]}
+{"pl": "piwonia biała", "lx": ["qi-chuan"]}
+{"pl": "piwonia zielna", "lx": ["jia-xuan"]}
+{"pl": "piąty", "lx": ["wang-dong"]}
+{"pl": "pić", "lx": ["ju"]}
+{"pl": "pięciokątny", "lx": ["kou-zhui-zuan"]}
+{"pl": "piękny", "lx": ["ken"]}
+{"pl": "pięta", "lx": ["chou-a"]}
+{"pl": "piętro", "lx": ["cuo-pang"]}
+{"pl": "piętro, warstwa", "lx": ["cuo-pang"]}
+{"pl": "pięć", "lx": ["dui-shen"]}
+{"pl": "pięć elementów", "lx": ["cheng-teng"]}
+{"pl": "pięć stałości", "lx": ["zeng-ran"]}
+{"pl": "pięćdziesiąt", "lx": ["gui-nin"]}
+{"pl": "pięćset", "lx": ["she-pin"]}
+{"pl": "pięść", "lx": ["bing"]}
+{"pl": "pięść podbija", "lx": ["zhu-da"]}
+{"pl": "piżama", "lx": ["zhan-chong"]}
+{"pl": "plac", "lx": ["nang-xuan"]}
+{"pl": "placek", "lx": ["shuo-sou"]}
+{"pl": "placek, naleśnik", "lx": ["shuo-sou"]}
+{"pl": "planować", "lx": ["shen-jing"]}
+{"pl": "plaża", "lx": ["haio-mo"]}
+{"pl": "plotka", "lx": ["wo-ba"]}
+{"pl": "plotka, pogłoska", "lx": ["wo-ba"]}
+{"pl": "plutonowy", "lx": ["o-an"]}
+{"pl": "pochmurny dzień", "lx": ["tiano-peng"]}
+{"pl": "pochodnia", "lx": ["tai-ti"]}
+{"pl": "pochodzić z", "lx": ["rǎo-ci"]}
+{"pl": "pochodzić z / wywodzić się", "lx": ["rǎo-ci"]}
+{"pl": "pochodzić z, wywodzić się", "lx": ["rǎo-ci"]}
+{"pl": "pocieszenie", "lx": ["yin-gai"]}
+{"pl": "pocieszenie, ukojenie", "lx": ["yin-gai"]}
+{"pl": "pociąg", "lx": ["yuan-lan"]}
+{"pl": "pocić się", "lx": ["chang-yan"]}
+{"pl": "poczta", "lx": ["xin-gei"]}
+{"pl": "poczucie winy", "lx": ["bin-dia"]}
+{"pl": "poczuć zapach", "lx": ["o-gui"]}
+{"pl": "początek jesieni", "lx": ["feng-biao"]}
+{"pl": "początek lata", "lx": ["hou-sun"]}
+{"pl": "początek wiosny", "lx": ["ei-run"]}
+{"pl": "początek zimy", "lx": ["fo-qiao"]}
+{"pl": "początkujący", "lx": ["chan-geng"]}
+{"pl": "pod Niebem", "lx": ["san-wang"]}
+{"pl": "pod Niebem, świat", "lx": ["san-wang"]}
+{"pl": "pod wiatr", "lx": ["fengo-zhi"]}
+{"pl": "podarować", "lx": ["chuan-sai"]}
+{"pl": "podać", "lx": ["gou-ai"]}
+{"pl": "podbródek", "lx": ["huang-gong"]}
+{"pl": "poddać się", "lx": ["zou-en"]}
+{"pl": "podejrzliwość", "lx": ["cen-bai"]}
+{"pl": "podejść blisko", "lx": ["sheng-guai"]}
+{"pl": "podekscytowany", "lx": ["dong-nong"]}
+{"pl": "podeszwa stopy", "lx": ["lao-chun"]}
+{"pl": "podglądać", "lx": ["ei-mu"]}
+{"pl": "podnieść", "lx": ["lan-ba"]}
+{"pl": "podnieść rękę", "lx": ["qiao-dai"]}
+{"pl": "podnieść, wziąć", "lx": ["lan-ba"]}
+{"pl": "podnosić", "lx": ["cai"]}
+{"pl": "podobny", "lx": ["pian-niu"]}
+{"pl": "podobny do", "lx": ["kuang-miu"]}
+{"pl": "podobny do (spójnik)", "lx": ["kuang-miu"]}
+{"pl": "podróż", "lx": ["qiu-cao"]}
+{"pl": "podróżny kupiec", "lx": ["fo-yuan"]}
+{"pl": "podstawowe ćwiczenia", "lx": ["ca-ei-kou"]}
+{"pl": "podstawowy", "lx": ["kuai-zei"]}
+{"pl": "podupadać", "lx": ["nie-wu"]}
+{"pl": "poduszka", "lx": ["sha-xue"]}
+{"pl": "poduszka do siedzenia", "lx": ["zui-dan"]}
+{"pl": "podwójna tęcza", "lx": ["hongo-mou"]}
+{"pl": "podwójne haki", "lx": ["lei-zhuan"]}
+{"pl": "podwładny", "lx": ["hao-pu"]}
+{"pl": "podziw", "lx": ["dai-pai"]}
+{"pl": "podziw, uznanie", "lx": ["dai-pai"]}
+{"pl": "podziwiać", "lx": ["ding-zui"]}
+{"pl": "podłoga", "lx": ["ga-sa"]}
+{"pl": "poeta", "lx": ["zao-xiang"]}
+{"pl": "poezja", "lx": ["cong-ni"]}
+{"pl": "poezja (formalna)", "lx": ["cong-ni"]}
+{"pl": "pogardzać", "lx": ["hua-cu"]}
+{"pl": "pogoda", "lx": ["qio-tui"]}
+{"pl": "pogodny dzień", "lx": ["rong-sha"]}
+{"pl": "pogrzeb", "lx": ["wen-cao"]}
+{"pl": "pogłoska", "lx": ["wo-ba"]}
+{"pl": "poinformować", "lx": ["ci-cang"]}
+{"pl": "poinformować, powiedzieć", "lx": ["ci-cang"]}
+{"pl": "pojazd", "lx": ["quan-wa"]}
+{"pl": "pojedynek", "lx": ["chun-gan"]}
+{"pl": "pojedynek na śmierć i życie", "lx": ["sheng-si"]}
+{"pl": "pokazać", "lx": ["cui"]}
+{"pl": "pokolenie", "lx": ["jue-keng"]}
+{"pl": "pokolenie (starsze", "lx": ["jue-keng"]}
+{"pl": "pokolenie (starsze/młodsze)", "lx": ["jue-keng"]}
+{"pl": "pokonać", "lx": ["ha-cou"]}
+{"pl": "pokorny ja", "lx": ["hua-sha"]}
+{"pl": "pokorny ja (skromność)", "lx": ["hua-sha"]}
+{"pl": "pokorny sługa", "lx": ["kei-hou"]}
+{"pl": "pokorny sługa (o sobie)", "lx": ["kei-hou"]}
+{"pl": "pokrzewka", "lx": ["la-tang"]}
+{"pl": "pokwitowanie", "lx": ["kang-hen"]}
+{"pl": "pokój", "lx": ["ango-shu"]}
+{"pl": "pokój medytacji", "lx": ["da-sun"]}
+{"pl": "pole", "lx": ["man-pu"]}
+{"pl": "pole bitwy", "lx": ["shua-kua"]}
+{"pl": "pole eliksiru", "lx": ["weng-zhong"]}
+{"pl": "pole eliksiru (centrum energii)", "lx": ["weng-zhong"]}
+{"pl": "pole ryżowe", "lx": ["fano-mou"]}
+{"pl": "pole, dzikie pole", "lx": ["man-pu"]}
+{"pl": "policjant", "lx": ["la-ba"]}
+{"pl": "policzek", "lx": ["bin-tan"]}
+{"pl": "polityka", "lx": ["nuo-lun"]}
+{"pl": "polowanie", "lx": ["zong-xing"]}
+{"pl": "pomagać", "lx": ["sa"]}
+{"pl": "pomarańcza", "lx": ["guoo-en"]}
+{"pl": "pomarańcza/mandarynka", "lx": ["guoo-en"]}
+{"pl": "pomarańczowy", "lx": ["tian-dai"]}
+{"pl": "pomelo", "lx": ["mao-diu"]}
+{"pl": "pomidor", "lx": ["caio-den"]}
+{"pl": "pomniejszać", "lx": ["chuo-dun"]}
+{"pl": "pomocniczy", "lx": ["zi-lang"]}
+{"pl": "pomyśleć o", "lx": ["ruo-ni"]}
+{"pl": "pomyśleć o, wpaść na pomysł", "lx": ["ruo-ni"]}
+{"pl": "ponieważ", "lx": ["gun"]}
+{"pl": "ponownie", "lx": ["keng-zhuan"]}
+{"pl": "popełnić przestępstwo", "lx": ["ne-bian"]}
+{"pl": "popołudnie", "lx": ["shuai-fang"]}
+{"pl": "poprawiać", "lx": ["chen-tou"]}
+{"pl": "poprawność", "lx": ["kua-suo"]}
+{"pl": "poprzedni", "lx": ["yu-wa-hun"]}
+{"pl": "poprzednim razem", "lx": ["sao-kua"]}
+{"pl": "poranek", "lx": ["pan-hui"]}
+{"pl": "porażka", "lx": ["pan-qing"]}
+{"pl": "porcelana", "lx": ["zhui-o"]}
+{"pl": "poria", "lx": ["cai-rao"]}
+{"pl": "port", "lx": ["ban-ang"]}
+{"pl": "portfel", "lx": ["chui-duo"]}
+{"pl": "porucznik", "lx": ["ce-luan"]}
+{"pl": "porywczy", "lx": ["bao-shuan"]}
+{"pl": "porzucić", "lx": ["bei-guan"]}
+{"pl": "porządkować", "lx": ["muo-zheng"]}
+{"pl": "porządkować, organizować", "lx": ["muo-zheng"]}
+{"pl": "porządnie", "lx": ["suo-zhua"]}
+{"pl": "porównywać", "lx": ["dui-chu"]}
+{"pl": "posiadać", "lx": ["biao-tou"]}
+{"pl": "post od zbóż", "lx": ["hun-ha"]}
+{"pl": "post-niebiański", "lx": ["re-rou"]}
+{"pl": "postawić", "lx": ["zhun-pao"]}
+{"pl": "postrzegać", "lx": ["cang-chu"]}
+{"pl": "postępować", "lx": ["ning-pian"]}
+{"pl": "postępować, rozwijać", "lx": ["ning-pian"]}
+{"pl": "posypywać", "lx": ["you-hu"]}
+{"pl": "posyłać", "lx": ["ting-gen"]}
+{"pl": "posyłać, dostarczać", "lx": ["ting-gen"]}
+{"pl": "poszukiwanie", "lx": ["zhun-nun"]}
+{"pl": "potem", "lx": ["tou"]}
+{"pl": "potomek", "lx": ["mou-lai"]}
+{"pl": "potrzebować", "lx": ["ha"]}
+{"pl": "potrząsać", "lx": ["piao-ju"]}
+{"pl": "potrząsać głową", "lx": ["cui-gong"]}
+{"pl": "potrząsać głową (zaprzeczenie)", "lx": ["cui-gong"]}
+{"pl": "potrząsać, kiwać", "lx": ["piao-ju"]}
+{"pl": "potrójny ogrzewacz", "lx": ["kua-gun"]}
+{"pl": "potrójny ogrzewacz (organ)", "lx": ["kua-gun"]}
+{"pl": "potwierdzenie (marker)", "lx": ["ban"]}
+{"pl": "potwierdzić", "lx": ["duo-kuan"]}
+{"pl": "potwór", "lx": ["hao-quan"]}
+{"pl": "potężny", "lx": ["zong-ba"]}
+{"pl": "poważnie", "lx": ["tiao-ne"]}
+{"pl": "poważnie, starannie", "lx": ["tiao-ne"]}
+{"pl": "powiedzieć", "lx": ["bo", "ci-cang"]}
+{"pl": "powieść", "lx": ["lao-shun"]}
+{"pl": "powinien", "lx": ["dou-xia"]}
+{"pl": "powiększać", "lx": ["han-lie"]}
+{"pl": "powodzenia", "lx": ["liu-hu"]}
+{"pl": "powoli", "lx": ["jiang-juan"]}
+{"pl": "powolny", "lx": ["qun-ceng"]}
+{"pl": "powrócić", "lx": ["shuai-nu"]}
+{"pl": "powstać", "lx": ["zhen-si"]}
+{"pl": "powstrzymywać", "lx": ["dian-jia"]}
+{"pl": "powszechny", "lx": ["ci-shi"]}
+{"pl": "powtarzać", "lx": ["sha-ying"]}
+{"pl": "powódź", "lx": ["shuo-shuang"]}
+{"pl": "powóz konny", "lx": ["xu-chou"]}
+{"pl": "pozdrawiać", "lx": ["pai-yu"]}
+{"pl": "pozdrawiać głośno", "lx": ["ying-sa-su"]}
+{"pl": "poziom", "lx": ["bian-na"]}
+{"pl": "poziom, sfera", "lx": ["bian-na"]}
+{"pl": "pozioma kreska", "lx": ["hong-la"]}
+{"pl": "poznać", "lx": ["wu-hun"]}
+{"pl": "poznać, rozpoznać", "lx": ["wu-hun"]}
+{"pl": "pozwalać", "lx": ["lie-ling"]}
+{"pl": "pozycja konia", "lx": ["chuai-lin"]}
+{"pl": "pozycja słupowa", "lx": ["long-lao"]}
+{"pl": "pozycja łuku", "lx": ["zhuo-xia"]}
+{"pl": "połowa", "lx": ["kai-luo"]}
+{"pl": "położyć", "lx": ["zhun-pao"]}
+{"pl": "położyć, postawić", "lx": ["zhun-pao"]}
+{"pl": "południe", "lx": ["fang-nan"]}
+{"pl": "południowy wschód", "lx": ["fang-nan-dong"]}
+{"pl": "południowy zachód", "lx": ["fang-nan-xi"]}
+{"pl": "połykać", "lx": ["peng-tan"]}
+{"pl": "pośladki", "lx": ["xiaoo-ri"]}
+{"pl": "pożar", "lx": ["mo-ta"]}
+{"pl": "pożyczyć", "lx": ["cou-bai"]}
+{"pl": "pożyczyć (komuś)", "lx": ["cou-bai"]}
+{"pl": "praca domowa", "lx": ["cang-jiu"]}
+{"pl": "praca domowa, zadanie", "lx": ["cang-jiu"]}
+{"pl": "praca oczu", "lx": ["hua-ping"]}
+{"pl": "pracować", "lx": ["ne"]}
+{"pl": "pracowity", "lx": ["ben-she"]}
+{"pl": "pragnąć", "lx": ["wan-lang"]}
+{"pl": "pragnąć, życzyć sobie", "lx": ["wan-lang"]}
+{"pl": "praktykować", "lx": ["rang-gun"]}
+{"pl": "pralka", "lx": ["shuai-min-shui"]}
+{"pl": "prawa", "lx": ["lan-deng"]}
+{"pl": "prawda", "lx": ["nin-tian"]}
+{"pl": "prawdopodobnie", "lx": ["tian-cun"]}
+{"pl": "prawdziwy", "lx": ["lao"]}
+{"pl": "prawidłowość", "lx": ["kui-gong"]}
+{"pl": "prawidłowość, wzorzec", "lx": ["kui-gong"]}
+{"pl": "prawnik", "lx": ["fa-ren", "she-mao"]}
+{"pl": "prawo", "lx": ["zong-zong"]}
+{"pl": "prawo pięści", "lx": ["tang-za"]}
+{"pl": "prawość", "lx": ["han-tou"]}
+{"pl": "prawość, sprawiedliwość", "lx": ["han-tou"]}
+{"pl": "pre-niebiański", "lx": ["tang-jiao"]}
+{"pl": "precyzyjny", "lx": ["liao-ri"]}
+{"pl": "prefekt", "lx": ["sui-tao"]}
+{"pl": "premier", "lx": ["gui-lai"]}
+{"pl": "premier, kanclerz", "lx": ["gui-lai"]}
+{"pl": "pretensja", "lx": ["ting-jia"]}
+{"pl": "prezydent", "lx": ["zhi-nun"]}
+{"pl": "problem", "lx": ["dong-zuo"]}
+{"pl": "proces", "lx": ["dang-ban", "zen-fu"]}
+{"pl": "produkować", "lx": ["nano-ci"]}
+{"pl": "produkty", "lx": ["wa-chan"]}
+{"pl": "produkty mleczne", "lx": ["xue-xian"]}
+{"pl": "prostokątny", "lx": ["eng-nian-po"]}
+{"pl": "prosty", "lx": ["zan-yao"]}
+{"pl": "proszę", "lx": ["nin"]}
+{"pl": "proszę pozwolić zapytać", "lx": ["gong-tan"]}
+{"pl": "proszę usiąść", "lx": ["xuan-nei"]}
+{"pl": "proszę wejść", "lx": ["hua-kuo"]}
+{"pl": "protektor", "lx": ["ding-sang"]}
+{"pl": "prowadzenie i rozciąganie", "lx": ["ren-liang"]}
+{"pl": "prowadzić", "lx": ["ang-yong"]}
+{"pl": "proza", "lx": ["zhun-shuo"]}
+{"pl": "prymitywny", "lx": ["nano-xu"]}
+{"pl": "prymitywny, zgrubny", "lx": ["nano-xu"]}
+{"pl": "przebaczać", "lx": ["ji-te"]}
+{"pl": "przebijać oblężenie", "lx": ["nao-nu"]}
+{"pl": "przebudzenie owadów", "lx": ["ka-lie"]}
+{"pl": "przechodzić przez", "lx": ["kuan-nong"]}
+{"pl": "przechowywać", "lx": ["gai-zhuo", "zhui-sao"]}
+{"pl": "przeciwnik", "lx": ["guan-nian"]}
+{"pl": "przeciwstawiać", "lx": ["lang-tuan"]}
+{"pl": "przeciwstawiać się", "lx": ["ku-xie"]}
+{"pl": "przeciętny", "lx": ["shuan-ei"]}
+{"pl": "przed chwilą", "lx": ["niu-ya"]}
+{"pl": "przed południem", "lx": ["he-sang"]}
+{"pl": "przedmiot", "lx": ["qing-nu"]}
+{"pl": "przedmioty z jadeitu", "lx": ["ta-yao"]}
+{"pl": "przedstawiać", "lx": ["fou-duan"]}
+{"pl": "przedstawiać (kogoś)", "lx": ["fou-duan"]}
+{"pl": "przedwczoraj", "lx": ["zhuan-yuan"]}
+{"pl": "przedłużać", "lx": ["gu-chuan", "tian-jie"]}
+{"pl": "przekazać", "lx": ["gou-ai"]}
+{"pl": "przekazać, podać", "lx": ["gou-ai"]}
+{"pl": "przekazywać", "lx": ["jie-wu"]}
+{"pl": "przekonanie", "lx": ["te-teng"]}
+{"pl": "przekształcać", "lx": ["jin-wei"]}
+{"pl": "przekąska", "lx": ["fano-chui"]}
+{"pl": "przekąska, przysmak", "lx": ["fano-chui"]}
+{"pl": "przemawiać", "lx": ["e-liao"]}
+{"pl": "przemawiać, wygłaszać", "lx": ["e-liao"]}
+{"pl": "przemyśleć", "lx": ["ya-chu"]}
+{"pl": "przenosić", "lx": ["nang-wang"]}
+{"pl": "przepis", "lx": ["pie-tun"]}
+{"pl": "przepowiednia", "lx": ["mi-cun"]}
+{"pl": "przepraszam", "lx": ["can"]}
+{"pl": "przepraszać", "lx": ["pan-nei"]}
+{"pl": "przerywać", "lx": ["shan-yun"]}
+{"pl": "przesilenie letnie", "lx": ["niang-sha"]}
+{"pl": "przesilenie zimowe", "lx": ["qie-pu"]}
+{"pl": "przeskoczyć", "lx": ["qia-hai"]}
+{"pl": "przestraszony", "lx": ["en-pang"]}
+{"pl": "przestrzeń", "lx": ["bie-you"]}
+{"pl": "przeszkadzać", "lx": ["yin-beng"]}
+{"pl": "przeszłość", "lx": ["hua-nao"]}
+{"pl": "przewrócić", "lx": ["dong-mie"]}
+{"pl": "przeznaczenie", "lx": ["leng-dou", "piao-pai"]}
+{"pl": "przeznaczenie, los", "lx": ["leng-dou"]}
+{"pl": "przezroczysty", "lx": ["cha-cong"]}
+{"pl": "przełamać", "lx": ["dou-kun"]}
+{"pl": "przełożony", "lx": ["chi-guang"]}
+{"pl": "prześcieradło", "lx": ["chuai-teng"]}
+{"pl": "przodek", "lx": ["chao-le"]}
+{"pl": "przybity", "lx": ["zao-jia"]}
+{"pl": "przybysz", "lx": ["wai-que"]}
+{"pl": "przybyć", "lx": ["tiao-chou"]}
+{"pl": "przybyć, dotrzeć", "lx": ["tiao-chou"]}
+{"pl": "przyciągnąć", "lx": ["suan-shuo"]}
+{"pl": "przyczyna", "lx": ["pen-jing"]}
+{"pl": "przydzielać", "lx": ["ge-sun"]}
+{"pl": "przygotować z wyprzedzeniem", "lx": ["jio-shou"]}
+{"pl": "przygotowywać", "lx": ["jio-diu"]}
+{"pl": "przyjaciel", "lx": ["sano"]}
+{"pl": "przyjaźń", "lx": ["xian-cai"]}
+{"pl": "przyjemność", "lx": ["ei-pa"]}
+{"pl": "przyjmować", "lx": ["gao-feng", "nong-ci"]}
+{"pl": "przyjmować (gości)", "lx": ["gao-feng"]}
+{"pl": "przyjmować uczniów", "lx": ["nong-ci"]}
+{"pl": "przyjąć", "lx": ["ceng-en", "lie-xu"]}
+{"pl": "przyjąć, wpuścić", "lx": ["lie-xu"]}
+{"pl": "przyjęcie", "lx": ["chua-fa"]}
+{"pl": "przyjęcie (z alkoholem)", "lx": ["chua-fa"]}
+{"pl": "przyjść", "lx": ["ci"]}
+{"pl": "przyklejać", "lx": ["guai-pao"]}
+{"pl": "przyklejać (plaster)", "lx": ["guai-pao"]}
+{"pl": "przykucnąć", "lx": ["xian-tang"]}
+{"pl": "przynieść", "lx": ["ye"]}
+{"pl": "przypominać sobie", "lx": ["jiu-kuang"]}
+{"pl": "przypływ i odpływ", "lx": ["ca-zhun"]}
+{"pl": "przyrząd", "lx": ["ei-cuo"]}
+{"pl": "przysięga", "lx": ["ba-za"]}
+{"pl": "przysięgła siostra", "lx": ["ao-duo"]}
+{"pl": "przysięgły brat", "lx": ["bai-zou"]}
+{"pl": "przysmak", "lx": ["fano-chui"]}
+{"pl": "przystojny", "lx": ["ne-lai"]}
+{"pl": "przystojny, atrakcyjny", "lx": ["ne-lai"]}
+{"pl": "przyszłość", "lx": ["zhao-ding"]}
+{"pl": "przytomny", "lx": ["luan-shen"]}
+{"pl": "przytulać", "lx": ["da-shuo"]}
+{"pl": "przywracać", "lx": ["niang-xin"]}
+{"pl": "przywódca", "lx": ["rang-duo"]}
+{"pl": "przywódca szkoły", "lx": ["xia-rang"]}
+{"pl": "przywódca szkoły/sekty", "lx": ["xia-rang"]}
+{"pl": "przyznawać", "lx": ["dang-zhong"]}
+{"pl": "przyznawać, uznawać", "lx": ["dang-zhong"]}
+{"pl": "przyłączyć się", "lx": ["dai-an"]}
+{"pl": "przyśpieszać", "lx": ["shen-qing"]}
+{"pl": "próby", "lx": ["kuo-nie-gui"]}
+{"pl": "próby, trudne testy", "lx": ["kuo-nie-gui"]}
+{"pl": "próg", "lx": ["pang-weng"]}
+{"pl": "pręcik", "lx": ["mang-dai"]}
+{"pl": "prędkość", "lx": ["yang-tong"]}
+{"pl": "prędkość wiatru", "lx": ["fengo-kuo"]}
+{"pl": "psotny", "lx": ["bang-bai"]}
+{"pl": "pszczoła", "lx": ["mio-zou"]}
+{"pl": "pszenica", "lx": ["miano-piao"]}
+{"pl": "ptak", "lx": ["niao"]}
+{"pl": "ptak latający", "lx": ["niao-xue"]}
+{"pl": "puchar ceremonialny", "lx": ["jiong-qin"]}
+{"pl": "punkt", "lx": ["chuai-shang"]}
+{"pl": "punkt akupunkturowy", "lx": ["yang-nue"]}
+{"pl": "punkt końcowy", "lx": ["yong-que"]}
+{"pl": "punkt startowy", "lx": ["miu-shan"]}
+{"pl": "punkt wrzenia", "lx": ["man-mu"]}
+{"pl": "punkt zamarzania", "lx": ["meng-yu"]}
+{"pl": "punkty akupunkturowe", "lx": ["pan-tuo"]}
+{"pl": "purpurowy", "lx": ["hua-ou"]}
+{"pl": "pustka", "lx": ["ei-hun"]}
+{"pl": "pustkowie", "lx": ["yao-quan"]}
+{"pl": "pusty", "lx": ["hua"]}
+{"pl": "pustynia", "lx": ["gu-ruo"]}
+{"pl": "pułapka", "lx": ["nin-pin"]}
+{"pl": "pyszny", "lx": ["gang-piao"]}
+{"pl": "pytanie i odpowiedź", "lx": ["niao-nong"]}
+{"pl": "pytać", "lx": ["buo"]}
+{"pl": "pyton", "lx": ["cu-zhuang"]}
+{"pl": "pył", "lx": ["chua-rao"]}
+{"pl": "pyłek kwiatowy", "lx": ["xie-ga"]}
+{"pl": "półka", "lx": ["meng-zhui"]}
+{"pl": "półka, regał", "lx": ["meng-zhui"]}
+{"pl": "północ", "lx": ["fang-bei"]}
+{"pl": "północny wschód", "lx": ["fang-bei-dong"]}
+{"pl": "północny zachód", "lx": ["fang-bei-xi"]}
+{"pl": "półwysep", "lx": ["haio-lai"]}
+{"pl": "późno", "lx": ["gua-wei"]}
+{"pl": "późny wieczór", "lx": ["gei-fu"]}
+{"pl": "pędzel do pisania", "lx": ["jun-rang"]}
+{"pl": "pędzel i tusz", "lx": ["pa-nong"]}
+{"pl": "pędzić", "lx": ["chua-chu"]}
+{"pl": "pędzić, gnać", "lx": ["chua-chu"]}
+{"pl": "płakać", "lx": ["beio-miu"]}
+{"pl": "płakać, łkać", "lx": ["beio-miu"]}
+{"pl": "płaski", "lx": ["cheng-gang"]}
+{"pl": "płaszcz skórzany", "lx": ["cou-liao"]}
+{"pl": "płatek", "lx": ["tu-pi"]}
+{"pl": "płonąć", "lx": ["lou-piao"]}
+{"pl": "płynąć statkiem", "lx": ["die-bian"]}
+{"pl": "płytki", "lx": ["sheng-zu"]}
+{"pl": "pływać", "lx": ["bin"]}
+{"pl": "pływać dia-ya wietrze i falach", "lx": ["xiu-ken-guan"]}
+{"pl": "qilin", "lx": ["ka-can"]}
+{"pl": "radość", "lx": ["huano-wang"]}
+{"pl": "radość, szczęście", "lx": ["huano-wang"]}
+{"pl": "rafinowanie ducha", "lx": ["ca-cou"]}
+{"pl": "rafinowanie esencji", "lx": ["bo-zhe"]}
+{"pl": "rafinowanie miu-du", "lx": ["shui-wu"]}
+{"pl": "rafinowanie pustki", "lx": ["jian-yue"]}
+{"pl": "ramię", "lx": ["dang-ruo"]}
+{"pl": "ramię (bark)", "lx": ["dang-ruo"]}
+{"pl": "rano", "lx": ["jing"]}
+{"pl": "raportować", "lx": ["fang-tou"]}
+{"pl": "raportować, zgłaszać", "lx": ["fang-tou"]}
+{"pl": "ratan", "lx": ["re-kong"]}
+{"pl": "razem", "lx": ["gao-ha"]}
+{"pl": "rdest chiński", "lx": ["le-hai-qian"]}
+{"pl": "recytować", "lx": ["cao-guan"]}
+{"pl": "regał", "lx": ["meng-zhui"]}
+{"pl": "regał na książki", "lx": ["shi-lao"]}
+{"pl": "regulacja", "lx": ["chang-zhuo"]}
+{"pl": "reguła", "lx": ["pie-tun"]}
+{"pl": "reguła, przepis", "lx": ["pie-tun"]}
+{"pl": "reinkarnacja", "lx": ["na-rong"]}
+{"pl": "reishi", "lx": ["la-xian"]}
+{"pl": "reishi (grzyb nieśmiertelności)", "lx": ["la-xian"]}
+{"pl": "rejestrować", "lx": ["bian-deng"]}
+{"pl": "rekin", "lx": ["sharo-zha"]}
+{"pl": "relacja", "lx": ["zan-ren"]}
+{"pl": "relacja, związek", "lx": ["zan-ren"]}
+{"pl": "relaksować się", "lx": ["qing-xiong"]}
+{"pl": "religia", "lx": ["gu-gui"]}
+{"pl": "ren-zhai", "lx": ["rong-man"]}
+{"pl": "ren-zhai (czas)", "lx": ["rong-man"]}
+{"pl": "restauracja", "lx": ["dia-zhua"]}
+{"pl": "restaurować", "lx": ["chu-yin"]}
+{"pl": "rezerwat", "lx": ["hua-wei-hei"]}
+{"pl": "rezerwować", "lx": ["jio-shou"]}
+{"pl": "rezerwować, przygotować z wyprzedzeniem", "lx": ["jio-shou"]}
+{"pl": "rezultat", "lx": ["cun-kuang"]}
+{"pl": "rezultat, skutek", "lx": ["cun-kuang"]}
+{"pl": "robić", "lx": ["bao"]}
+{"pl": "robić zakupy", "lx": ["hang-cheng"]}
+{"pl": "robotnik", "lx": ["kuo-biao"]}
+{"pl": "rodzice", "lx": ["gu-shuo"]}
+{"pl": "rodzina", "lx": ["ruo"]}
+{"pl": "rodzina od żony", "lx": ["miao-xuan"]}
+{"pl": "rodzinna wioska", "lx": ["jiong-seng"]}
+{"pl": "rodzinna wioska/miasto", "lx": ["jiong-seng"]}
+{"pl": "rok", "lx": ["kang"]}
+{"pl": "rolnik", "lx": ["nie-juan"]}
+{"pl": "ronić łzy", "lx": ["beio-zhua"]}
+{"pl": "ropucha", "lx": ["wao-fen"]}
+{"pl": "rower", "lx": ["ken-ting-diao"]}
+{"pl": "rozbierać", "lx": ["cuan-yong"]}
+{"pl": "rozbierać się", "lx": ["san-zei"]}
+{"pl": "rozbierać, burzyć", "lx": ["cuan-yong"]}
+{"pl": "rozbijać", "lx": ["dia-ya"]}
+{"pl": "rozbity", "lx": ["xing-lie"]}
+{"pl": "rozciągać", "lx": ["tian-jie"]}
+{"pl": "rozciągać, przedłużać", "lx": ["tian-jie"]}
+{"pl": "rozczarowanie", "lx": ["pa-xuan"]}
+{"pl": "rozdzielać", "lx": ["guo-liang"]}
+{"pl": "rozgwiazda", "lx": ["guango-qia"]}
+{"pl": "rozkaz wojskowy", "lx": ["qi-xi"]}
+{"pl": "rozkaz wojskowy (tabliczka)", "lx": ["qi-xi"]}
+{"pl": "rozkazywać", "lx": ["nue-zui"]}
+{"pl": "rozkojarzony", "lx": ["shuai-meng"]}
+{"pl": "rozliczyć rachunek", "lx": ["suan-chi"]}
+{"pl": "rozluźniony", "lx": ["geng-nang"]}
+{"pl": "rozmiar", "lx": ["ce-dian"]}
+{"pl": "rozmieszczenie", "lx": ["ji-ci"]}
+{"pl": "rozmieszczenie (wojsk)", "lx": ["ji-ci"]}
+{"pl": "rozpacz", "lx": ["beio-dei"]}
+{"pl": "rozpakowywać", "lx": ["sui-jun"]}
+{"pl": "rozpatrywać", "lx": ["ye-fen"]}
+{"pl": "rozpocząć podróż", "lx": ["chu-xun"]}
+{"pl": "rozpoznać", "lx": ["jin-qi", "wu-hun"]}
+{"pl": "roztrzaskać", "lx": ["zhe-gua"]}
+{"pl": "rozumieć", "lx": ["tao-kang"]}
+{"pl": "rozumieć, znać", "lx": ["tao-kang"]}
+{"pl": "rozważać", "lx": ["ya-chu"]}
+{"pl": "rozważać, przemyśleć", "lx": ["ya-chu"]}
+{"pl": "rozwijać", "lx": ["ning-pian"]}
+{"pl": "rozwijać się", "lx": ["piao-na"]}
+{"pl": "rozwiązanie", "lx": ["ha-gong"]}
+{"pl": "rozwiązać", "lx": ["hou-rui"]}
+{"pl": "roślina", "lx": ["caoo-chui"]}
+{"pl": "roślina ryżowa", "lx": ["caoo-sun"]}
+{"pl": "rubin", "lx": ["pian-she-nei"]}
+{"pl": "ruch", "lx": ["weng-liu"]}
+{"pl": "rumak", "lx": ["ge-shui"]}
+{"pl": "ryba", "lx": ["dongo"]}
+{"pl": "ryba mandarynka", "lx": ["dongo-kui"]}
+{"pl": "rybak", "lx": ["haio-seng"]}
+{"pl": "rynek", "lx": ["bao-shao"]}
+{"pl": "rytuał", "lx": ["miao-ju"]}
+{"pl": "rytuał, etykieta", "lx": ["miao-ju"]}
+{"pl": "ryż", "lx": ["fano"]}
+{"pl": "ryżowar", "lx": ["fano-dai"]}
+{"pl": "rzadki", "lx": ["eng-hei", "qing-dian"]}
+{"pl": "rzecz", "lx": ["mian-ao"]}
+{"pl": "rzeczy)", "lx": ["pai-nu"]}
+{"pl": "rzeczywistość", "lx": ["teng-fa"]}
+{"pl": "rzeczywisty", "lx": ["shuai-ga"]}
+{"pl": "rzeczywisty, faktyczny", "lx": ["shuai-ga"]}
+{"pl": "rzeka", "lx": ["heo"]}
+{"pl": "rzemieślnik", "lx": ["gong-ren", "ou-xiong"]}
+{"pl": "rzemiosło", "lx": ["zu-huai"]}
+{"pl": "rzepa", "lx": ["nai-yan"]}
+{"pl": "rzepa, rzodkiew", "lx": ["nai-yan"]}
+{"pl": "rzeźba", "lx": ["ming-qi"]}
+{"pl": "rzeźbiarz", "lx": ["diao-ren", "nen-zong-zheng"]}
+{"pl": "rzodkiew", "lx": ["nai-yan"]}
+{"pl": "rzodkiew biała", "lx": ["niu-she-xiao"]}
+{"pl": "rzucać", "lx": ["na-shao"]}
+{"pl": "rzucić", "lx": ["cheo"]}
+{"pl": "rzutka", "lx": ["ou-ning"]}
+{"pl": "rzuty", "lx": ["pian-er"]}
+{"pl": "rząd", "lx": ["dai-ran"]}
+{"pl": "rzęsy", "lx": ["lie-nong"]}
+{"pl": "róg wojenny", "lx": ["zhuan-kua"]}
+{"pl": "rówieśnik", "lx": ["zuoo-tiano"]}
+{"pl": "równina", "lx": ["pingo-qiang"]}
+{"pl": "równonoc jesienna", "lx": ["keng-pai"]}
+{"pl": "równonoc wiosenna", "lx": ["chao-qia"]}
+{"pl": "równowaga", "lx": ["hong-zen"]}
+{"pl": "róża chińska", "lx": ["gang-gong"]}
+{"pl": "różnica", "lx": ["dui-ting"]}
+{"pl": "różnorodność", "lx": ["chi-fa-duo"]}
+{"pl": "różny", "lx": ["lang-du"]}
+{"pl": "różny, inny", "lx": ["lang-du"]}
+{"pl": "różowy", "lx": ["mi-kei"]}
+{"pl": "ręcznik", "lx": ["gan-rao"]}
+{"pl": "ręka", "lx": ["cang"]}
+{"pl": "rękawiczki", "lx": ["tang-lu"]}
+{"pl": "sadzonka", "lx": ["liu-zhong"]}
+{"pl": "sala Buddy", "lx": ["ma-chao"]}
+{"pl": "sala Dharmy", "lx": ["tao-ke"]}
+{"pl": "sala koncertowa", "lx": ["da-tuo-rao"]}
+{"pl": "sala przodków", "lx": ["ce-cao"]}
+{"pl": "sala sutr", "lx": ["ling-tuo"]}
+{"pl": "salon", "lx": ["chou-hui"]}
+{"pl": "samantabhadra", "lx": ["he-ceng"]}
+{"pl": "samantabhadra (bodhisattwa)", "lx": ["he-ceng"]}
+{"pl": "samolot", "lx": ["ge-ga"]}
+{"pl": "samotność", "lx": ["sui-chun"]}
+{"pl": "sanktuarium", "lx": ["kei-qu"]}
+{"pl": "satysfakcja", "lx": ["huano-kui"]}
+{"pl": "scalać", "lx": ["se-si"]}
+{"pl": "scalać, łączyć", "lx": ["se-si"]}
+{"pl": "scenariusz", "lx": ["nie-shou"]}
+{"pl": "schludny", "lx": ["pin-jiang"]}
+{"pl": "schody", "lx": ["meng-nuan"]}
+{"pl": "schodzić w dół", "lx": ["cu-shao"]}
+{"pl": "sekretarz", "lx": ["bin-zhuai"]}
+{"pl": "sekty", "lx": ["xia-rang"]}
+{"pl": "selekcja", "lx": ["pian-feng"]}
+{"pl": "sen", "lx": ["dian-kan"]}
+{"pl": "sen (aspiracja)", "lx": ["dian-kan"]}
+{"pl": "senior", "lx": ["mi-shui"]}
+{"pl": "senior (hierarchia)", "lx": ["mi-shui"]}
+{"pl": "senny", "lx": ["ka-nin"]}
+{"pl": "sens", "lx": ["kun-hong"]}
+{"pl": "serce", "lx": ["chuo"]}
+{"pl": "serce-umysł", "lx": ["pin-ba"]}
+{"pl": "setnik", "lx": ["zhuai-ling"]}
+{"pl": "sezam", "lx": ["mi-pi"]}
+{"pl": "sfera", "lx": ["bian-na"]}
+{"pl": "shiitake", "lx": ["ei-yun"]}
+{"pl": "sidła", "lx": ["nin-pin"]}
+{"pl": "sidła, pułapka", "lx": ["nin-pin"]}
+{"pl": "siedemdziesiąt", "lx": ["diu-liu"]}
+{"pl": "siedemset", "lx": ["deng-meng"]}
+{"pl": "siedzieć", "lx": ["ku"]}
+{"pl": "siedząca medytacja", "lx": ["pa-xie"]}
+{"pl": "siekać", "lx": ["qiao-xie"]}
+{"pl": "siekać na miazgę", "lx": ["qiao-di"]}
+{"pl": "siekiera", "lx": ["jiang-qia"]}
+{"pl": "sierp", "lx": ["que-ye"]}
+{"pl": "siew ziarna", "lx": ["miano-zhua"]}
+{"pl": "sieć rybacka", "lx": ["haio-chen"]}
+{"pl": "silny", "lx": ["run-zhao"]}
+{"pl": "silny wiatr", "lx": ["fengo-tun"]}
+{"pl": "siodło", "lx": ["ei-kei"]}
+{"pl": "siostra", "lx": ["run"]}
+{"pl": "siostra cioteczna", "lx": ["bai-xiong"]}
+{"pl": "siostra cioteczna (starsza)", "lx": ["bai-xiong"]}
+{"pl": "siostra stryjeczna", "lx": ["kuang-kai"]}
+{"pl": "siostra stryjeczna (młodsza)", "lx": ["kuang-kai"]}
+{"pl": "siódmy", "lx": ["yue-cu"]}
+{"pl": "siła", "lx": ["bian-pei"]}
+{"pl": "siła sprężynująca", "lx": ["zhui-liu"]}
+{"pl": "siła umysłowa", "lx": ["gan-jin"]}
+{"pl": "siłownia", "lx": ["shuai-shuo-niu"]}
+{"pl": "skakać", "lx": ["lio"]}
+{"pl": "skarpetki", "lx": ["jie-zhui"]}
+{"pl": "skała", "lx": ["yano-tian"]}
+{"pl": "sklep", "lx": ["ting-tui"]}
+{"pl": "sklep spożywczy", "lx": ["cong-kuo-hua"]}
+{"pl": "sklep z butami", "lx": ["mao-kua"]}
+{"pl": "sklep z czapkami", "lx": ["ren-da-chun"]}
+{"pl": "sklep z torbami", "lx": ["rang-gen"]}
+{"pl": "sklep z ubraniami", "lx": ["man-mian-xiang"]}
+{"pl": "skomplikowany", "lx": ["quan-nuan"]}
+{"pl": "skoncentrowany", "lx": ["tong-ken"]}
+{"pl": "skorupiak", "lx": ["beo-za"]}
+{"pl": "skosztować", "lx": ["chang-yong"]}
+{"pl": "skończyć", "lx": ["ti"]}
+{"pl": "skracać", "lx": ["ang-ying"]}
+{"pl": "skrobać", "lx": ["fen-shuo"]}
+{"pl": "skrobać (terapia)", "lx": ["fen-shuo"]}
+{"pl": "skromność", "lx": ["tu-fen"]}
+{"pl": "skrucha", "lx": ["beio-mou"]}
+{"pl": "skrzypce chińskie", "lx": ["ping-mie"]}
+{"pl": "skręcenie", "lx": ["mo-rua"]}
+{"pl": "skupiony", "lx": ["bu-ba"]}
+{"pl": "skutek", "lx": ["cun-kuang"]}
+{"pl": "skwar", "lx": ["shai-qi"]}
+{"pl": "skóra", "lx": ["dang"]}
+{"pl": "skórka mandarynki", "lx": ["guoo-gao"]}
+{"pl": "skórka owocu", "lx": ["duano-ri"]}
+{"pl": "skąd", "lx": ["hen-rǎo"]}
+{"pl": "składać", "lx": ["dun-mang"]}
+{"pl": "składać (papier", "lx": ["dun-mang"]}
+{"pl": "składać (papier, tkaninę)", "lx": ["dun-mang"]}
+{"pl": "smaczny", "lx": ["jiu-long"]}
+{"pl": "smaczny (umami)", "lx": ["jiu-long"]}
+{"pl": "smak", "lx": ["feng-su"]}
+{"pl": "smalec", "lx": ["gao-qie"]}
+{"pl": "smarować", "lx": ["qie-wa"]}
+{"pl": "smarować (farbą)", "lx": ["qie-wa"]}
+{"pl": "smażony", "lx": ["da-wang"]}
+{"pl": "smażony (stir-fry)", "lx": ["da-wang"]}
+{"pl": "smażony makaron", "lx": ["miano-zou"]}
+{"pl": "smażyć do sucha", "lx": ["shio-cheng"]}
+{"pl": "smażyć na dużym ogniu", "lx": ["da-dui"]}
+{"pl": "smażyć warzywa", "lx": ["da-zhuan"]}
+{"pl": "smocza Pięść", "lx": ["niao-bao"]}
+{"pl": "smoczy żółw", "lx": ["guio-chan"]}
+{"pl": "smok", "lx": ["lian"]}
+{"pl": "smutek", "lx": ["beio-zhang"]}
+{"pl": "smutek, zmartwienie", "lx": ["beio-zhang"]}
+{"pl": "smutny", "lx": ["beio-nian"]}
+{"pl": "soja", "lx": ["caio-huang"]}
+{"pl": "sokół", "lx": ["yingo-tou"]}
+{"pl": "sokół treser", "lx": ["cong-wang"]}
+{"pl": "sos sojowy", "lx": ["yoo-xiao"]}
+{"pl": "sosna", "lx": ["songo-jiu"]}
+{"pl": "sowa", "lx": ["yaoo-mao"]}
+{"pl": "spadająca gwiazda", "lx": ["guango-sun"]}
+{"pl": "sparring z partnerem", "lx": ["qiang-tui"]}
+{"pl": "spać", "lx": ["ka"]}
+{"pl": "spaść", "lx": ["ga-juan"]}
+{"pl": "specjalny", "lx": ["nuo-ken"]}
+{"pl": "specjalny, szczególny", "lx": ["nuo-ken"]}
+{"pl": "spichlerz", "lx": ["heng-nen"]}
+{"pl": "spierać się", "lx": ["hou-hen"]}
+{"pl": "spisek", "lx": ["cun-ze"]}
+{"pl": "spisek, intryga", "lx": ["cun-ze"]}
+{"pl": "spięty", "lx": ["nun-zhuo"]}
+{"pl": "spodnie", "lx": ["ha-shui"]}
+{"pl": "spokojny", "lx": ["ango"]}
+{"pl": "spokój", "lx": ["ango-zhan"]}
+{"pl": "sport", "lx": ["wan-gang"]}
+{"pl": "sposób", "lx": ["chai-mie"]}
+{"pl": "sposób myślenia", "lx": ["zong-kuang"]}
+{"pl": "sposób, metoda", "lx": ["chai-mie"]}
+{"pl": "spotkać się", "lx": ["chuo-long"]}
+{"pl": "społeczeństwo", "lx": ["jiu-zheng"]}
+{"pl": "spragniony", "lx": ["pin"]}
+{"pl": "sprawa", "lx": ["mian-ao"]}
+{"pl": "sprawa, rzecz", "lx": ["mian-ao"]}
+{"pl": "sprawiedliwość", "lx": ["han-tou", "tuo-cheng"]}
+{"pl": "sprawiedliwy", "lx": ["ke-zui"]}
+{"pl": "sprzeciwiać się", "lx": ["shen-shuan"]}
+{"pl": "sprzeczność", "lx": ["lei-bo"]}
+{"pl": "sprzedawać", "lx": ["baio"]}
+{"pl": "sprzedawca", "lx": ["duan-he-hua"]}
+{"pl": "sprzedać", "lx": ["miao-xin"]}
+{"pl": "sprzątać", "lx": ["can-xiong"]}
+{"pl": "sprzęt", "lx": ["mao-kuo"]}
+{"pl": "spódnica", "lx": ["kan-xuan"]}
+{"pl": "spór", "lx": ["dang-hang"]}
+{"pl": "spłacić dług", "lx": ["re-jie"]}
+{"pl": "srebrnik", "lx": ["kuai-zun"]}
+{"pl": "srebrny", "lx": ["liu-ye"]}
+{"pl": "srebro", "lx": ["shun-den"]}
+{"pl": "srebro (jako waluta)", "lx": ["shun-den"]}
+{"pl": "srebroszary", "lx": ["fu-qia"]}
+{"pl": "sroka", "lx": ["queo-zha"]}
+{"pl": "stabilność", "lx": ["qu-ci"]}
+{"pl": "stabilny", "lx": ["sheng-liao"]}
+{"pl": "stabilny, niewzruszony", "lx": ["sheng-liao"]}
+{"pl": "stacja", "lx": ["fang-zui-lun"]}
+{"pl": "stagnacja Miu-Du", "lx": ["sun-wan"]}
+{"pl": "stan", "lx": ["zhui-lou"]}
+{"pl": "stan, warunki", "lx": ["zhui-lou"]}
+{"pl": "starannie", "lx": ["tiao-ne"]}
+{"pl": "starożytna", "lx": ["hun-bang"]}
+{"pl": "starożytne Królestwo", "lx": ["zan-wa"]}
+{"pl": "starożytność", "lx": ["cui-tuan"]}
+{"pl": "starsza siostra", "lx": ["quan-xun"]}
+{"pl": "starszy współuczeń", "lx": ["ma-xie"]}
+{"pl": "starszy współuczeń (mężczyzna)", "lx": ["ma-xie"]}
+{"pl": "stary", "lx": ["dun"]}
+{"pl": "statek", "lx": ["ha-jing"]}
+{"pl": "statek handlowy", "lx": ["shua-min"]}
+{"pl": "statek, łódź", "lx": ["ha-jing"]}
+{"pl": "staw", "lx": ["man-zui"]}
+{"pl": "stawać się", "lx": ["yu-fa"]}
+{"pl": "stawać się, zostawać", "lx": ["yu-fa"]}
+{"pl": "staza krwi", "lx": ["bi-dan"]}
+{"pl": "stać", "lx": ["la"]}
+{"pl": "stały", "lx": ["hui-leng"]}
+{"pl": "stały, niezmien ny", "lx": ["hui-leng"]}
+{"pl": "step", "lx": ["zhuo-reng"]}
+{"pl": "sto", "lx": ["ang-neng"]}
+{"pl": "sto tysięcy", "lx": ["man-chai"]}
+{"pl": "stolarz", "lx": ["xin-hou"]}
+{"pl": "stolarz, cieśla", "lx": ["xin-hou"]}
+{"pl": "stopa", "lx": ["chan"]}
+{"pl": "stopiony", "lx": ["cai-a"]}
+{"pl": "stopnie", "lx": ["po-min"]}
+{"pl": "stosować", "lx": ["fou-ti"]}
+{"pl": "stosować (zewnętrznie)", "lx": ["fou-ti"]}
+{"pl": "stołek", "lx": ["zuo-deng"]}
+{"pl": "stożkowaty", "lx": ["zhou-kang-yin"]}
+{"pl": "strach", "lx": ["ru-she"]}
+{"pl": "strach (rzeczownik)", "lx": ["ru-she"]}
+{"pl": "stracić", "lx": ["ruo-zheng"]}
+{"pl": "straszny", "lx": ["ru-tuo"]}
+{"pl": "strata", "lx": ["er-ba"]}
+{"pl": "strategia", "lx": ["chuang-peng"]}
+{"pl": "strażnik", "lx": ["ding-sang"]}
+{"pl": "strażnik, protektor", "lx": ["ding-sang"]}
+{"pl": "strzała", "lx": ["biaoo"]}
+{"pl": "strzelać z łuku", "lx": ["qiong-mao"]}
+{"pl": "strzemiona", "lx": ["tai-fa"]}
+{"pl": "strój kung", "lx": ["ne-nang-ha"]}
+{"pl": "strączki fasolowe", "lx": ["kan-zhuo"]}
+{"pl": "student", "lx": ["xiaoo-zhuang"]}
+{"pl": "styl", "lx": ["weng-nie-jin"]}
+{"pl": "styl Kung Cuan-Se", "lx": ["qian-zi-run"]}
+{"pl": "styl podobny do Muay", "lx": ["mei-kuan-xu"]}
+{"pl": "styl podobny do Shotokan", "lx": ["ju-guan-dian"]}
+{"pl": "stół", "lx": ["sha-dia"]}
+{"pl": "stół jadalny", "lx": ["shou-bin"]}
+{"pl": "stęchły", "lx": ["nuan-duan"]}
+{"pl": "stłumiony", "lx": ["miao-mai"]}
+{"pl": "subtelny", "lx": ["zha-mang"]}
+{"pl": "sucha energia", "lx": ["qio-sou"]}
+{"pl": "suchy", "lx": ["shio-ge"]}
+{"pl": "sufit", "lx": ["sui-jiang-ju"]}
+{"pl": "sugestia", "lx": ["ban"]}
+{"pl": "sugestia/potwierdzenie", "lx": ["ban"]}
+{"pl": "sugestia/potwierdzenie (marker)", "lx": ["ban"]}
+{"pl": "sui-Tun", "lx": ["keng-cui"]}
+{"pl": "sui-Tun dole", "lx": ["luo-du"]}
+{"pl": "sui-Tun pewno", "lx": ["reng-bin"]}
+{"pl": "sukces", "lx": ["nai-pian"]}
+{"pl": "suknia wieczorowa", "lx": ["shuo-zhuo"]}
+{"pl": "suknia ślubna", "lx": ["bie-pang"]}
+{"pl": "suma", "lx": ["nang-hui"]}
+{"pl": "supermarket", "lx": ["shang-diao"]}
+{"pl": "surna", "lx": ["ei-pang"]}
+{"pl": "surowy", "lx": ["sheng"]}
+{"pl": "susza", "lx": ["hano-tian"]}
+{"pl": "suszyć na słońcu", "lx": ["yun-xiong"]}
+{"pl": "sweter", "lx": ["tuan-shua"]}
+{"pl": "swędzieć", "lx": ["xian-gai"]}
+{"pl": "symetryczny", "lx": ["sa-ling"]}
+{"pl": "symptom", "lx": ["guan-mie"]}
+{"pl": "syn", "lx": ["eng-chuai"]}
+{"pl": "syn Niebios", "lx": ["mei-ta"]}
+{"pl": "syn Niebios (tytuł władcy)", "lx": ["mei-ta"]}
+{"pl": "syndrom gorąca", "lx": ["qio-mian"]}
+{"pl": "syndrom nadmiaru", "lx": ["che-ao"]}
+{"pl": "syndrom niedoboru", "lx": ["ni-lian"]}
+{"pl": "syndrom zimna", "lx": ["qio-tong"]}
+{"pl": "sypialnia", "lx": ["duo-wan"]}
+{"pl": "syriusz", "lx": ["guango-ao"]}
+{"pl": "syriusz (gwiazda)", "lx": ["guango-ao"]}
+{"pl": "system korzeniowy", "lx": ["que-bian"]}
+{"pl": "sytuacja", "lx": ["nie-zhuai"]}
+{"pl": "sytuacja, okoliczności", "lx": ["nie-zhuai"]}
+{"pl": "szabla", "lx": ["fen-mai"]}
+{"pl": "szabla, miecz", "lx": ["fen-mai"]}
+{"pl": "szacunek", "lx": ["rongo-cao"]}
+{"pl": "szafa", "lx": ["eng-shu"]}
+{"pl": "szafir", "lx": ["sang-te-geng"]}
+{"pl": "szal", "lx": ["si-mo"]}
+{"pl": "szale", "lx": ["ga-cong"]}
+{"pl": "szalik", "lx": ["sun-cu"]}
+{"pl": "szanować", "lx": ["cao-huan"]}
+{"pl": "szanowny", "lx": ["dun-fou"]}
+{"pl": "szanowny pan", "lx": ["muo-song"]}
+{"pl": "szanowny panie", "lx": ["ka-xin"]}
+{"pl": "szanowny panie (urzędnik)", "lx": ["ka-xin"]}
+{"pl": "szansa", "lx": ["wang-shen"]}
+{"pl": "szansa, okazja", "lx": ["wang-shen"]}
+{"pl": "szanujące)", "lx": ["cheng-chen"]}
+{"pl": "szarańcza", "lx": ["mai-bai"]}
+{"pl": "szary", "lx": ["fu-qiong"]}
+{"pl": "szarża", "lx": ["chu-fang"]}
+{"pl": "szczególny", "lx": ["nuo-ken", "wu-nu"]}
+{"pl": "szczegółowy", "lx": ["zhun-sang"]}
+{"pl": "szczur", "lx": ["rao-fu", "rao-mo"]}
+{"pl": "szczypce", "lx": ["tang-bai"]}
+{"pl": "szczypior", "lx": ["pian-cuan"]}
+{"pl": "szczyt góry", "lx": ["si-hou"]}
+{"pl": "szczęście", "lx": ["huano", "huano-wang"]}
+{"pl": "szczęśliwy", "lx": ["huano-tai"]}
+{"pl": "szczęśliwy, wesoły", "lx": ["huano-tai"]}
+{"pl": "szef", "lx": ["wu-jia"]}
+{"pl": "szelest", "lx": ["zhen-ba"]}
+{"pl": "szeptać", "lx": ["gong-qiao"]}
+{"pl": "szeregować", "lx": ["qu-pao"]}
+{"pl": "szeroki", "lx": ["bei-hui"]}
+{"pl": "szerokość", "lx": ["zen-zen"]}
+{"pl": "sześciokątny", "lx": ["shi-xian-zha"]}
+{"pl": "sześć", "lx": ["ne-bi"]}
+{"pl": "sześćdziesiąt", "lx": ["lu-xi"]}
+{"pl": "sześćset", "lx": ["shu-lan"]}
+{"pl": "szkoła", "lx": ["de-zhai"]}
+{"pl": "szkoła konfucjańska", "lx": ["shen-cong"]}
+{"pl": "szkoła taoistyczna", "lx": ["gang-pu"]}
+{"pl": "szlachetna konkubina", "lx": ["tie-tao"]}
+{"pl": "szlachetny", "lx": ["gui"]}
+{"pl": "szlachetny mąż", "lx": ["chou-zhen"]}
+{"pl": "szlachetny, arystokratyczny", "lx": ["gui"]}
+{"pl": "szmaragd", "lx": ["o-ming-nie"]}
+{"pl": "szmaragdowy", "lx": ["bo-lie"]}
+{"pl": "sznur", "lx": ["ting-cen"]}
+{"pl": "sznur, lina", "lx": ["ting-cen"]}
+{"pl": "szorować", "lx": ["cong-lou"]}
+{"pl": "szorstki", "lx": ["rui-zhuo"]}
+{"pl": "szpik kostny", "lx": ["kuang-liang"]}
+{"pl": "szpilka", "lx": ["chen-bei"]}
+{"pl": "szpilka do włosów", "lx": ["jiong-kuan"]}
+{"pl": "szpinak", "lx": ["caio-kao"]}
+{"pl": "szpital", "lx": ["ke-zha"]}
+{"pl": "szron", "lx": ["ling-zong"]}
+{"pl": "sztabka srebra", "lx": ["gan-bing"]}
+{"pl": "sztandar", "lx": ["miu-du"]}
+{"pl": "sztandar, chorągiew", "lx": ["miu-du"]}
+{"pl": "sztorm", "lx": ["chai-duan"]}
+{"pl": "sztuka", "lx": ["guai-chan"]}
+{"pl": "sztuka ręki", "lx": ["jun-qi"]}
+{"pl": "sztuka ręki (japoński termin", "lx": ["jun-qi"]}
+{"pl": "sztuka ręki (japoński termin, ale używany)", "lx": ["jun-qi"]}
+{"pl": "sztuka walki", "lx": ["tun-dia"]}
+{"pl": "sztuka walki kijem", "lx": ["kun-wa"]}
+{"pl": "sztuka walki mieczem", "lx": ["xin-heng"]}
+{"pl": "sztuka walki szablą", "lx": ["ken-liao"]}
+{"pl": "sztuka walki włócznią", "lx": ["qing-ning"]}
+{"pl": "sztuki", "lx": ["ma-zuan"]}
+{"pl": "sztuki piękne", "lx": ["zan-de"]}
+{"pl": "szukać drogi", "lx": ["nue-ze"]}
+{"pl": "szukać drogi, dążyć do celu", "lx": ["nue-ze"]}
+{"pl": "szybki", "lx": ["gai"]}
+{"pl": "szybko smażyć", "lx": ["da-ri"]}
+{"pl": "szyja", "lx": ["eng-jin"]}
+{"pl": "szyk bojowy", "lx": ["lu-bing"]}
+{"pl": "szósty", "lx": ["zai-ji"]}
+{"pl": "sądzić", "lx": ["nong-wai", "zen-fu"]}
+{"pl": "sądzić, proces", "lx": ["zen-fu"]}
+{"pl": "sąsiad", "lx": ["biao-huai"]}
+{"pl": "sędzia", "lx": ["nen-jun"]}
+{"pl": "słaby", "lx": ["han"]}
+{"pl": "sławny", "lx": ["dong-zei"]}
+{"pl": "słodki", "lx": ["jun", "niang-zou"]}
+{"pl": "słodki sos fasolowy", "lx": ["yoo-xin"]}
+{"pl": "słodko-kwaśne", "lx": ["kao-bo"]}
+{"pl": "słony", "lx": ["kao"]}
+{"pl": "słowo", "lx": ["jian-ye"]}
+{"pl": "słoń", "lx": ["xio"]}
+{"pl": "słońce", "lx": ["guango"]}
+{"pl": "słuch", "lx": ["zhui-ai"]}
+{"pl": "słuchacz", "lx": ["chuo-zui"]}
+{"pl": "słuchanie siły", "lx": ["mian-lou"]}
+{"pl": "słuchać", "lx": ["fu"]}
+{"pl": "słyszeć", "lx": ["fo"]}
+{"pl": "taca do herbaty", "lx": ["shuang-mao"]}
+{"pl": "taczka", "lx": ["xu-gan-dei"]}
+{"pl": "tajemniczy", "lx": ["gai-zhai"]}
+{"pl": "tajfun", "lx": ["fengo-chou"]}
+{"pl": "tak", "lx": ["en"]}
+{"pl": "taki sam", "lx": ["an-nao"]}
+{"pl": "taktyka", "lx": ["mao-xie"]}
+{"pl": "talent", "lx": ["xin-li"]}
+{"pl": "talerz", "lx": ["long-chuai"]}
+{"pl": "tamci", "lx": ["hu-dou"]}
+{"pl": "tani", "lx": ["liao-re"]}
+{"pl": "taniec", "lx": ["lao-bi"]}
+{"pl": "taoista", "lx": ["ti-cou"]}
+{"pl": "taoistyczny kapłan", "lx": ["xin-duo"]}
+{"pl": "taoizm", "lx": ["qie-bu"]}
+{"pl": "tarcza", "lx": ["ci-ne"]}
+{"pl": "targ warzywny", "lx": ["pi-shan-zha"]}
+{"pl": "targować się", "lx": ["qiang-pu"]}
+{"pl": "tathagata", "lx": ["hai-fei"]}
+{"pl": "tańczyć", "lx": ["lao-za"]}
+{"pl": "tchórzliwy", "lx": ["zui-keng"]}
+{"pl": "tchórzostwo", "lx": ["xu-bo"]}
+{"pl": "teatr", "lx": ["qu-zhan"]}
+{"pl": "technika", "lx": ["bang-zang"]}
+{"pl": "technika ciała", "lx": ["weng-liu"]}
+{"pl": "technika ciała, ruch", "lx": ["weng-liu"]}
+{"pl": "technika miecza", "lx": ["jie-lian"]}
+{"pl": "technika nóg", "lx": ["tao-heng"]}
+{"pl": "technika pięści", "lx": ["yan-zuan"]}
+{"pl": "technika szabli", "lx": ["wei-heng"]}
+{"pl": "technika włóczni", "lx": ["fen-fang"]}
+{"pl": "techniki ręczne", "lx": ["hui-guai"]}
+{"pl": "tekstura", "lx": ["he-fou"]}
+{"pl": "telewizja", "lx": ["hang-gun"]}
+{"pl": "temperatura", "lx": ["weno-keng"]}
+{"pl": "ten", "lx": ["chai-cen"]}
+{"pl": "teoria", "lx": ["pian-chua"]}
+{"pl": "teoria Pięciu Elementów", "lx": ["cheng-ni-pai"]}
+{"pl": "terapia", "lx": ["yang-zhai"]}
+{"pl": "terapia manipulacyjna", "lx": ["hao-chuan"]}
+{"pl": "terapia medyczna", "lx": ["cao-liang"]}
+{"pl": "teraz", "lx": ["nun"]}
+{"pl": "teraźniejszość", "lx": ["sang-mu"]}
+{"pl": "terminy solarne", "lx": ["tun-zhang"]}
+{"pl": "terminy solarne (24)", "lx": ["tun-zhang"]}
+{"pl": "też", "lx": ["yueo"]}
+{"pl": "też dobrze", "lx": ["zhang-nie"]}
+{"pl": "tkacz", "lx": ["sa-liu"]}
+{"pl": "tkaninę)", "lx": ["dun-mang"]}
+{"pl": "tkać tkaninę", "lx": ["jun-sang"]}
+{"pl": "tofu", "lx": ["caio-zha"]}
+{"pl": "tolerancyjny", "lx": ["la-seng"]}
+{"pl": "tolerancyjny, wyrozumiały", "lx": ["la-seng"]}
+{"pl": "topaz", "lx": ["tai-dou"]}
+{"pl": "topnienie", "lx": ["niao-pan"]}
+{"pl": "torba", "lx": ["cao-gou"]}
+{"pl": "torba, worek", "lx": ["cao-gou"]}
+{"pl": "torebka zapachowa", "lx": ["cun-li"]}
+{"pl": "tornado", "lx": ["fengo-de"]}
+{"pl": "towary", "lx": ["shai-ju"]}
+{"pl": "towarzysko obcować", "lx": ["quan-zhuang"]}
+{"pl": "towarzysz", "lx": ["mie-mi"]}
+{"pl": "tradycja", "lx": ["ba-wang"]}
+{"pl": "tradycyjna medycyna chińska", "lx": ["xun-cui"]}
+{"pl": "trafić", "lx": ["huo-da"]}
+{"pl": "tragedia", "lx": ["ri-zan"]}
+{"pl": "transakcja", "lx": ["cha-jiong", "jian-lang"]}
+{"pl": "trasa", "lx": ["jue-hong"]}
+{"pl": "tratwa", "lx": ["ke-yun"]}
+{"pl": "trawa", "lx": ["xino"]}
+{"pl": "trawnik", "lx": ["ang-nuo"]}
+{"pl": "trenować", "lx": ["gong-zuan", "niang-chi"]}
+{"pl": "trochę", "lx": ["xun"]}
+{"pl": "troskliwy", "lx": ["kao-dao"]}
+{"pl": "troskliwy, dbający", "lx": ["kao-dao"]}
+{"pl": "trudne testy", "lx": ["kuo-nie-gui"]}
+{"pl": "trudno", "lx": ["laio-shun"]}
+{"pl": "trudno (adverbialnie)", "lx": ["laio-shun"]}
+{"pl": "trudno (przysłówek)", "lx": ["laio-shun"]}
+{"pl": "trudno powiedzieć", "lx": ["jian-yan-pei"]}
+{"pl": "trudny", "lx": ["laio"]}
+{"pl": "trujący grzyb", "lx": ["nei-sui"]}
+{"pl": "truskawka", "lx": ["guoo-le"]}
+{"pl": "trwać", "lx": ["zhuang-en"]}
+{"pl": "trzask", "lx": ["tuo-lao-suan"]}
+{"pl": "trzask, łoskot", "lx": ["tuo-lao-suan"]}
+{"pl": "trzeci", "lx": ["se-duan"]}
+{"pl": "trzy", "lx": ["cen-cao"]}
+{"pl": "trzy skarby", "lx": ["ying-liu"]}
+{"pl": "trzy zasady", "lx": ["huai-yu"]}
+{"pl": "trzydzieści", "lx": ["chen-yue"]}
+{"pl": "trzymaj się! Dalej!", "lx": ["nuan-shan"]}
+{"pl": "trzymać", "lx": ["chu"]}
+{"pl": "trzęsienie ziemi", "lx": ["zheno-nuan"]}
+{"pl": "trójkątny", "lx": ["gua-lan-wai"]}
+{"pl": "trąba powietrzna", "lx": ["ceng-ha"]}
+{"pl": "tsunami", "lx": ["haio-qu"]}
+{"pl": "tu", "lx": ["kuan-kua"]}
+{"pl": "tusz", "lx": ["gu-chua", "zhio-chu-o"]}
+{"pl": "tusz w sztabce", "lx": ["sha-wei"]}
+{"pl": "tutaj", "lx": ["kuan-kua"]}
+{"pl": "twarda siła", "lx": ["ti-chuo"]}
+{"pl": "twarde drewno", "lx": ["ka-zheng"]}
+{"pl": "twardy", "lx": ["jino"]}
+{"pl": "twierdza", "lx": ["hen-sen"]}
+{"pl": "tworzyć", "lx": ["ze"]}
+{"pl": "ty", "lx": ["nio"]}
+{"pl": "tydzień", "lx": ["qie-ban"]}
+{"pl": "tyka", "lx": ["miu-nin"]}
+{"pl": "tyka, drążek", "lx": ["miu-nin"]}
+{"pl": "tykwa", "lx": ["keng-reng"]}
+{"pl": "tylko", "lx": ["sun"]}
+{"pl": "tym razem", "lx": ["tan-guai"]}
+{"pl": "tymczasowy", "lx": ["luo-gai"]}
+{"pl": "tysiąc", "lx": ["tang-nin"]}
+{"pl": "tysięcznik", "lx": ["fang-jin"]}
+{"pl": "tęcza", "lx": ["hongo-ang"]}
+{"pl": "tęsknić za", "lx": ["lei-zhen"]}
+{"pl": "tłumacz", "lx": ["nei-he-ren"]}
+{"pl": "tłuste mięso", "lx": ["rouo-zeng"]}
+{"pl": "ubierać się", "lx": ["jie-fo"]}
+{"pl": "ubolewać", "lx": ["nai-zi"]}
+{"pl": "ubranie", "lx": ["hang"]}
+{"pl": "ucho", "lx": ["chou"]}
+{"pl": "uciec", "lx": ["nou-en"]}
+{"pl": "uczciwość", "lx": ["bing-jie"]}
+{"pl": "uczestniczyć", "lx": ["qu-xiao"]}
+{"pl": "uczeń", "lx": ["ma-cha"]}
+{"pl": "uczeń osobisty", "lx": ["ma-rong"]}
+{"pl": "uczeń, adept", "lx": ["ma-cha"]}
+{"pl": "uczony", "lx": ["kai-du"]}
+{"pl": "uczony człowiek", "lx": ["se-li"]}
+{"pl": "uczony, literat", "lx": ["kai-du"]}
+{"pl": "uczony-kandydat", "lx": ["ka-ting"]}
+{"pl": "uczucie", "lx": ["huo-pie"]}
+{"pl": "uczucie (dotyk)", "lx": ["huo-pie"]}
+{"pl": "uczucie rodzinne", "lx": ["jun-tuo"]}
+{"pl": "uczyć", "lx": ["ma"]}
+{"pl": "uczyć się", "lx": ["ma-lu"]}
+{"pl": "uderzać pięścią", "lx": ["zuo-zen"]}
+{"pl": "uderzenie w punkt akupunkturowy", "lx": ["zai-lian"]}
+{"pl": "uderzenie z fintą", "lx": ["zeng-niu-miu"]}
+{"pl": "uderzenie z fintą (wschód-zachód)", "lx": ["zeng-niu-miu"]}
+{"pl": "uderzyć", "lx": ["ou"]}
+{"pl": "udo", "lx": ["mei-gen"]}
+{"pl": "ugniatać", "lx": ["sui-qu"]}
+{"pl": "ugotowany", "lx": ["mou-tao"]}
+{"pl": "ujście rzeki", "lx": ["pan-fa"]}
+{"pl": "ukarać", "lx": ["jue-pa"]}
+{"pl": "ukojenie", "lx": ["yin-gai"]}
+{"pl": "ukończyć", "lx": ["lei-zhuai"]}
+{"pl": "ukośna w lewo", "lx": ["nin-ding"]}
+{"pl": "ukryta broń", "lx": ["niang-ning"]}
+{"pl": "ukryty smok", "lx": ["tigo-ge"]}
+{"pl": "ukryty smok, czający się tygrys", "lx": ["tigo-ge"]}
+{"pl": "ukryty smok, czający się tygrys (idiom)", "lx": ["tigo-ge"]}
+{"pl": "ukryć", "lx": ["cun"]}
+{"pl": "ulewny deszcz", "lx": ["yuo-pang"]}
+{"pl": "ulica", "lx": ["ke-chi"]}
+{"pl": "ulka", "lx": ["nun-jiao"]}
+{"pl": "ulka, dzban", "lx": ["nun-jiao"]}
+{"pl": "umiarkowanie", "lx": ["mei-chi"]}
+{"pl": "umiejętność", "lx": ["gang-bin"]}
+{"pl": "umiejętność, wysiłek, kung cuan-se", "lx": ["gang-bin"]}
+{"pl": "umiłowanie", "lx": ["deng-ya"]}
+{"pl": "umowa", "lx": ["yong-huo"]}
+{"pl": "umrzeć", "lx": ["pu"]}
+{"pl": "umysł duchowy", "lx": ["bin-gua"]}
+{"pl": "umysłu", "lx": ["cu-ti", "xiang-zhang"]}
+{"pl": "uniform", "lx": ["jin-zhao"]}
+{"pl": "unikalny", "lx": ["yao-na"]}
+{"pl": "unikać", "lx": ["zhua-lai"]}
+{"pl": "uniwersytet", "lx": ["xiong-ning"]}
+{"pl": "upaść", "lx": ["shu-chai"]}
+{"pl": "upić się", "lx": ["ju-lou"]}
+{"pl": "uporządkowany", "lx": ["pin-jiang"]}
+{"pl": "uporządkowany, schludny", "lx": ["pin-jiang"]}
+{"pl": "uprawiać hazard", "lx": ["biao-yun"]}
+{"pl": "uprawy", "lx": ["long-qiao-zan"]}
+{"pl": "uprzejmy", "lx": ["xiu-cen"]}
+{"pl": "upuścić", "lx": ["caoo"]}
+{"pl": "uraza", "lx": ["ting-jia"]}
+{"pl": "uraza, pretensja", "lx": ["ting-jia"]}
+{"pl": "uroczo piękny", "lx": ["qiang-kou"]}
+{"pl": "uroczy", "lx": ["niang-zou"]}
+{"pl": "uroczy, słodki", "lx": ["niang-zou"]}
+{"pl": "urodziny", "lx": ["ren-nong"]}
+{"pl": "urwisko", "lx": ["yao-xiang"]}
+{"pl": "urzędnik", "lx": ["ga-mie"]}
+{"pl": "urzędnik departamentu", "lx": ["miao-rou-kua"]}
+{"pl": "uspokojony", "lx": ["qian-shen"]}
+{"pl": "usta", "lx": ["chui"]}
+{"pl": "uszko Judasza", "lx": ["zuo-chao"]}
+{"pl": "uszkodzony", "lx": ["men-da", "mou-kui"]}
+{"pl": "uszkodzony, zepsuty", "lx": ["mou-kui"]}
+{"pl": "usłyszeć", "lx": ["qi-kai"]}
+{"pl": "utrzymywać", "lx": ["can-xiang"]}
+{"pl": "utrzymywać, konserwować", "lx": ["can-xiang"]}
+{"pl": "utwór", "lx": ["juan-tuo"]}
+{"pl": "uważać że", "lx": ["nong-wai"]}
+{"pl": "uważać że, sądzić", "lx": ["nong-wai"]}
+{"pl": "uznanie", "lx": ["dai-pai"]}
+{"pl": "uznawać", "lx": ["dang-zhong"]}
+{"pl": "uzyskać", "lx": ["yin-wen"]}
+{"pl": "uśmiechać się", "lx": ["tao-bin"]}
+{"pl": "użyj miękkości", "lx": ["ci-die"]}
+{"pl": "użyj miękkości, aby pokonać twardość", "lx": ["ci-die"]}
+{"pl": "w dół", "lx": ["yang-sa"]}
+{"pl": "w końcu", "lx": ["qian-zang"]}
+{"pl": "w ogóle", "lx": ["shi-ben"]}
+{"pl": "w pobliżu", "lx": ["wu-hong"]}
+{"pl": "w porządku", "lx": ["zhang-nie"]}
+{"pl": "w porządku, też dobrze", "lx": ["zhang-nie"]}
+{"pl": "wachlarz", "lx": ["du-luo"]}
+{"pl": "waga", "lx": ["bai-nang"]}
+{"pl": "wakacje", "lx": ["qiu-chai"]}
+{"pl": "walczyć", "lx": ["nu"]}
+{"pl": "walić młotem", "lx": ["lang-ka"]}
+{"pl": "walka", "lx": ["luo-di"]}
+{"pl": "wapień", "lx": ["nano-hong"]}
+{"pl": "warstwa", "lx": ["cuo-pang"]}
+{"pl": "wartościować", "lx": ["nou-ju"]}
+{"pl": "wartość", "lx": ["chao-guan"]}
+{"pl": "warunki", "lx": ["zhui-lou"]}
+{"pl": "warzywo", "lx": ["caio"]}
+{"pl": "warzyć", "lx": ["shun-bu"]}
+{"pl": "wasza Wysokość", "lx": ["jie-chuo"]}
+{"pl": "ważka", "lx": ["dan-nan"]}
+{"pl": "ważność", "lx": ["nie-nai-mai"]}
+{"pl": "ważny", "lx": ["liuo"]}
+{"pl": "wcześnie", "lx": ["lian-shuan"]}
+{"pl": "wcześniejszy", "lx": ["sang-xiao"]}
+{"pl": "wczoraj", "lx": ["gong-de"]}
+{"pl": "wdzięczność", "lx": ["mi-ben"]}
+{"pl": "wdzięczność (głęboka)", "lx": ["mi-ben"]}
+{"pl": "według", "lx": ["zhuang-wei"]}
+{"pl": "według, na podstawie", "lx": ["zhuang-wei"]}
+{"pl": "wega", "lx": ["guango-die"]}
+{"pl": "wega (tkaczka", "lx": ["guango-die"]}
+{"pl": "wega (tkaczka, gwiazda)", "lx": ["guango-die"]}
+{"pl": "wejść", "lx": ["xu"]}
+{"pl": "weranda", "lx": ["chuan-jiu"]}
+{"pl": "wesoły", "lx": ["huano-tai"]}
+{"pl": "wewnątrz", "lx": ["eng-den"]}
+{"pl": "wewnętrzna", "lx": ["yan-mie"]}
+{"pl": "wewnętrzna alchemia", "lx": ["hui-jie"]}
+{"pl": "wewnętrzna moc", "lx": ["xiaoo-ce"]}
+{"pl": "wewnętrzna siła", "lx": ["chuo-chuo"]}
+{"pl": "wewnętrzny uczeń", "lx": ["ma-nan"]}
+{"pl": "wewnętrzny-zewnętrzny", "lx": ["bian-pian"]}
+{"pl": "wełna", "lx": ["tui-tiao"]}
+{"pl": "wiadomości", "lx": ["ceng-feng"]}
+{"pl": "wiadomość", "lx": ["shuang-zhan"]}
+{"pl": "wiadomość, informacja", "lx": ["shuang-zhan"]}
+{"pl": "wiadro", "lx": ["xiaoo-lou"]}
+{"pl": "wiara", "lx": ["te-teng"]}
+{"pl": "wiara, przekonanie", "lx": ["te-teng"]}
+{"pl": "wiatr", "lx": ["fengo"]}
+{"pl": "wicegenerał", "lx": ["kao-en"]}
+{"pl": "wicehrabia", "lx": ["ruo-zei"]}
+{"pl": "wiceminister", "lx": ["ta-song"]}
+{"pl": "wicher", "lx": ["shai-you"]}
+{"pl": "wiciokrzew japoński", "lx": ["jia-dou-che"]}
+{"pl": "widelec", "lx": ["chui-nong"]}
+{"pl": "widzieć", "lx": ["ero"]}
+{"pl": "wieczór", "lx": ["juan"]}
+{"pl": "wiedzieć", "lx": ["ga"]}
+{"pl": "wiedzieć jak", "lx": ["huan-pin"]}
+{"pl": "wielbłąd", "lx": ["shi-hai"]}
+{"pl": "wielka", "lx": ["sun-hui-bu"]}
+{"pl": "wielki Mistrz", "lx": ["kuai-ben"]}
+{"pl": "wielki Turniej Dziedzictwa Fengzhana", "lx": ["shan-zui-rong"]}
+{"pl": "wielki Wóz", "lx": ["sou-zai"]}
+{"pl": "wielki Wóz (konstelacja)", "lx": ["sou-zai"]}
+{"pl": "wielki chłód", "lx": ["zong-fen"]}
+{"pl": "wielki człowiek", "lx": ["rong-wang"]}
+{"pl": "wielki człowiek (tytuł)", "lx": ["rong-wang"]}
+{"pl": "wielki generał", "lx": ["kong-dia-rua"]}
+{"pl": "wielki nauczyciel", "lx": ["ma-chuo"]}
+{"pl": "wielki nauczyciel (tytuł)", "lx": ["ma-chuo"]}
+{"pl": "wielki opiekun", "lx": ["ou-jiao"]}
+{"pl": "wielki opiekun (tytuł)", "lx": ["ou-jiao"]}
+{"pl": "wielki upał", "lx": ["reng-zui"]}
+{"pl": "wielokrotnie powtarzać", "lx": ["ding-ke"]}
+{"pl": "wielokątny", "lx": ["cuan-zhui"]}
+{"pl": "wieloryb", "lx": ["haio-kai"]}
+{"pl": "wieprzowina", "lx": ["rouo-cai"]}
+{"pl": "wierność", "lx": ["mo-chou"]}
+{"pl": "wierność, lojalność", "lx": ["mo-chou"]}
+{"pl": "wiersz", "lx": ["tao-fou"]}
+{"pl": "wiertło", "lx": ["cong-piao"]}
+{"pl": "wierzba", "lx": ["zhun-nin"]}
+{"pl": "wierzchnie ubranie", "lx": ["shuang-reng"]}
+{"pl": "wierzyć", "lx": ["yi-peng"]}
+{"pl": "wieszać", "lx": ["hun-long"]}
+{"pl": "wieszać, zawieszać", "lx": ["hun-long"]}
+{"pl": "wieś", "lx": ["chan-di"]}
+{"pl": "wilgotna energia", "lx": ["qio-zui"]}
+{"pl": "wilgotny", "lx": ["shio-wai"]}
+{"pl": "wilgotny, mokry", "lx": ["shio-wai"]}
+{"pl": "wilk", "lx": ["laio-lie"]}
+{"pl": "willa", "lx": ["bie-peng"]}
+{"pl": "winny", "lx": ["xiong-ruan"]}
+{"pl": "wino", "lx": ["geng", "geng-peng"]}
+{"pl": "winogrona", "lx": ["geng-lian"]}
+{"pl": "wioska", "lx": ["tui"]}
+{"pl": "wiosna", "lx": ["gei-bao"]}
+{"pl": "wisiorek z jadeitu", "lx": ["duo-gu"]}
+{"pl": "więc", "lx": ["suo"]}
+{"pl": "więcej", "lx": ["shun-qin"]}
+{"pl": "więzienie", "lx": ["rong-qie"]}
+{"pl": "wiśnia", "lx": ["guoo-long"]}
+{"pl": "wkrótce", "lx": ["chuang-hun"]}
+{"pl": "wkrótce, za chwilę", "lx": ["chuang-hun"]}
+{"pl": "wnuczka", "lx": ["mang-han"]}
+{"pl": "wnuk", "lx": ["biao-deng"]}
+{"pl": "wnuk (od córki)", "lx": ["biao-deng"]}
+{"pl": "woda", "lx": ["zhe"]}
+{"pl": "wodospad", "lx": ["puo-liao"]}
+{"pl": "wojna", "lx": ["nano-zun"]}
+{"pl": "wojownik", "lx": ["chai-hun"]}
+{"pl": "wojsko", "lx": ["qi-xiao"]}
+{"pl": "wojsko (dosł. żołnierze i konie)", "lx": ["qi-xiao"]}
+{"pl": "wojskowy", "lx": ["nai-cen"]}
+{"pl": "wok", "lx": ["ei-ni"]}
+{"pl": "wolna walka", "lx": ["xia-zou"]}
+{"pl": "wolność", "lx": ["nano-miao"]}
+{"pl": "wolny", "lx": ["geio"]}
+{"pl": "worek", "lx": ["cao-gou"]}
+{"pl": "wołać", "lx": ["bian-hen"]}
+{"pl": "wołowina", "lx": ["rouo-piao"]}
+{"pl": "wpaść na pomysł", "lx": ["ruo-ni"]}
+{"pl": "wpuścić", "lx": ["lie-xu"]}
+{"pl": "wpływ", "lx": ["zao-ding"]}
+{"pl": "wracać", "lx": ["cu"]}
+{"pl": "wrona", "lx": ["ju-kuo"]}
+{"pl": "wrzeszczeć", "lx": ["nong-bie"]}
+{"pl": "wrzątek", "lx": ["zhe-heng"]}
+{"pl": "wrzątek, gotowana woda", "lx": ["zhe-heng"]}
+{"pl": "wróbel", "lx": ["queo-ju"]}
+{"pl": "wrócić", "lx": ["kuai-ku"]}
+{"pl": "wrócić (tam)", "lx": ["kuai-ku"]}
+{"pl": "wróg", "lx": ["sao"]}
+{"pl": "wróżbiarstwo", "lx": ["tian-hen"]}
+{"pl": "wróżenie z losu", "lx": ["jin-wen"]}
+{"pl": "wschód", "lx": ["fang-dong"]}
+{"pl": "wschód słońca", "lx": ["keng-la"]}
+{"pl": "wspierać", "lx": ["niang-ran"]}
+{"pl": "wspinać się", "lx": ["chong-tiao"]}
+{"pl": "wspominać", "lx": ["ge-xiu"]}
+{"pl": "wspomnienie", "lx": ["hui-ce"]}
+{"pl": "współczesność", "lx": ["yi-nen"]}
+{"pl": "współczujący", "lx": ["hou-ke"]}
+{"pl": "współczujący, litościwy", "lx": ["hou-ke"]}
+{"pl": "współpracować", "lx": ["pei-shao"]}
+{"pl": "współuczeń", "lx": ["ma-sen"]}
+{"pl": "współuczeń (ogólnie)", "lx": ["ma-sen"]}
+{"pl": "wstawać", "lx": ["hang-nuo"]}
+{"pl": "wstać", "lx": ["xu-nong"]}
+{"pl": "wstać (na nogi)", "lx": ["xu-nong"]}
+{"pl": "wstrzymywać", "lx": ["mei-biao"]}
+{"pl": "wstrząsać", "lx": ["piao-qin"]}
+{"pl": "wstrząsnąć", "lx": ["sui-rong"]}
+{"pl": "wstrętny", "lx": ["dun-sa", "nang-chuan"]}
+{"pl": "wstyd", "lx": ["ou-guai"]}
+{"pl": "wstęp", "lx": ["chan-geng"]}
+{"pl": "wstęp, początkujący", "lx": ["chan-geng"]}
+{"pl": "wszechświat", "lx": ["re-biao"]}
+{"pl": "wszyscy", "lx": ["cai-zheng"]}
+{"pl": "wszystko", "lx": ["wano"]}
+{"pl": "wujek", "lx": ["cai-ken"]}
+{"pl": "wujek (brat matki)", "lx": ["cai-ken"]}
+{"pl": "wujek-mistrz", "lx": ["kuan-kuan"]}
+{"pl": "wujek-mistrz (młodszy brat mistrza)", "lx": ["kuan-kuan"]}
+{"pl": "wulkan", "lx": ["huoo-ying"]}
+{"pl": "wy", "lx": ["lei"]}
+{"pl": "wybierać", "lx": ["dan"]}
+{"pl": "wybrzeże", "lx": ["haio-qin"]}
+{"pl": "wybór", "lx": ["pian-feng"]}
+{"pl": "wybór, selekcja", "lx": ["pian-feng"]}
+{"pl": "wychodzić", "lx": ["nang-zhai"]}
+{"pl": "wychodzić (z kimś)", "lx": ["nang-zhai"]}
+{"pl": "wycierać", "lx": ["you-bing"]}
+{"pl": "wyciągać sieć", "lx": ["zui-si"]}
+{"pl": "wycofać się", "lx": ["ce-er"]}
+{"pl": "wyczerpany", "lx": ["kuan-gun"]}
+{"pl": "wyczyny bojowe", "lx": ["zhuai-den"]}
+{"pl": "wydaje się", "lx": ["ying-shun"]}
+{"pl": "wydać wyrok", "lx": ["yao-heng"]}
+{"pl": "wydra", "lx": ["liang-lie"]}
+{"pl": "wyglądać na", "lx": ["ying-shun"]}
+{"pl": "wyglądać na / wydaje się", "lx": ["ying-shun"]}
+{"pl": "wyglądać na, wydaje się", "lx": ["ying-shun"]}
+{"pl": "wygnanie", "lx": ["qin-dei"]}
+{"pl": "wygodny", "lx": ["ceng-zun", "se-qi"]}
+{"pl": "wygodny, dogodny", "lx": ["ceng-zun"]}
+{"pl": "wygłaszać", "lx": ["e-liao"]}
+{"pl": "wyjaśniać", "lx": ["suan-zeng"]}
+{"pl": "wyjechać", "lx": ["sun-jin"]}
+{"pl": "wyjść", "lx": ["ya"]}
+{"pl": "wymieniać", "lx": ["cheng-suan"]}
+{"pl": "wymiotować", "lx": ["min-ling"]}
+{"pl": "wynalazek", "lx": ["ei-ruo"]}
+{"pl": "wyniosły", "lx": ["ceng-qia"]}
+{"pl": "wyobrażać sobie", "lx": ["tang-dian"]}
+{"pl": "wyprostowany", "lx": ["ying-gang"]}
+{"pl": "wypuszczenie siły", "lx": ["kang-biao"]}
+{"pl": "wypytywać", "lx": ["nun-mie"]}
+{"pl": "wypytywać (o objawy)", "lx": ["nun-mie"]}
+{"pl": "wypłynąć", "lx": ["ye-dong"]}
+{"pl": "wyrabiać ceramikę", "lx": ["geng-fan"]}
+{"pl": "wyrafinowany", "lx": ["lu-bao"]}
+{"pl": "wyraźny", "lx": ["cha-suo"]}
+{"pl": "wyraźny, określony", "lx": ["cha-suo"]}
+{"pl": "wyrażać", "lx": ["mie-tang"]}
+{"pl": "wyrażać (uczucia", "lx": ["mie-tang"]}
+{"pl": "wyrażać (uczucia, myśli)", "lx": ["mie-tang"]}
+{"pl": "wyrozumiały", "lx": ["la-seng"]}
+{"pl": "wyrzucać", "lx": ["cha-huang"]}
+{"pl": "wyrzucić", "lx": ["ge-tan"]}
+{"pl": "wysiłek", "lx": ["gang-bin"]}
+{"pl": "wysoki", "lx": ["gen"]}
+{"pl": "wysokość", "lx": ["gen-du"]}
+{"pl": "wyspa", "lx": ["haio-mei"]}
+{"pl": "wyspa morska", "lx": ["haio-dang"]}
+{"pl": "wysyłać", "lx": ["gong-ce"]}
+{"pl": "wysyłać list", "lx": ["ji-diao"]}
+{"pl": "wysłannik", "lx": ["yu-ga"]}
+{"pl": "wytrwałość", "lx": ["zhuang-en"]}
+{"pl": "wytrwałość, trwać", "lx": ["zhuang-en"]}
+{"pl": "wytrzeć do sucha", "lx": ["shio-sun"]}
+{"pl": "wywodzić się", "lx": ["rǎo-ci"]}
+{"pl": "wyzwanie", "lx": ["che-ze"]}
+{"pl": "wyśmienity", "lx": ["o-yang"]}
+{"pl": "wzdychać", "lx": ["liao-qiao"]}
+{"pl": "wziąć", "lx": ["du", "lan-ba"]}
+{"pl": "wzmacniać", "lx": ["zuan-zhuang"]}
+{"pl": "wznawiać", "lx": ["niang-xin"]}
+{"pl": "wznawiać, przywracać", "lx": ["niang-xin"]}
+{"pl": "wznieść się", "lx": ["zhun-sun"]}
+{"pl": "wznieść się wysoko", "lx": ["sio"]}
+{"pl": "wznieść toast", "lx": ["dao-eng"]}
+{"pl": "wznosić", "lx": ["cheng-lu"]}
+{"pl": "wznosić (budowlę)", "lx": ["cheng-lu"]}
+{"pl": "wzorzec", "lx": ["kui-gong"]}
+{"pl": "wzrastać", "lx": ["cen-zhuan"]}
+{"pl": "wzrok", "lx": ["zui-ka"]}
+{"pl": "wzruszenie", "lx": ["chu-cao"]}
+{"pl": "wzywać", "lx": ["nong-bin"]}
+{"pl": "wzór", "lx": ["nue-nou"]}
+{"pl": "wzór, dekoracja", "lx": ["nue-nou"]}
+{"pl": "wóz", "lx": ["quan-wa"]}
+{"pl": "wóz wołowy", "lx": ["xiang-o"]}
+{"pl": "wóz, pojazd", "lx": ["quan-wa"]}
+{"pl": "wózek", "lx": ["zan-ning"]}
+{"pl": "wół", "lx": ["bing-wo"]}
+{"pl": "wąchać aromat", "lx": ["se-seng"]}
+{"pl": "wąski", "lx": ["yu-jun"]}
+{"pl": "wąskohoryzontalny", "lx": ["bei-den"]}
+{"pl": "wąskość", "lx": ["jian-du"]}
+{"pl": "wąsy", "lx": ["yao-ru"]}
+{"pl": "wąwóz", "lx": ["wu-ding"]}
+{"pl": "wąż", "lx": ["sheo-xie"]}
+{"pl": "węch", "lx": ["ao-ha"]}
+{"pl": "wędka", "lx": ["kuang-ce"]}
+{"pl": "wędrować", "lx": ["lian-cong"]}
+{"pl": "wędrować, zwiedzać", "lx": ["lian-cong"]}
+{"pl": "wędzić", "lx": ["wo-nang"]}
+{"pl": "władca", "lx": ["zhun-cui"]}
+{"pl": "władca, monarcha", "lx": ["zhun-cui"]}
+{"pl": "władza", "lx": ["zong-zong"]}
+{"pl": "władza, prawo", "lx": ["zong-zong"]}
+{"pl": "właściciel sklepu", "lx": ["zhuai-quan"]}
+{"pl": "właśnie", "lx": ["shou-bei"]}
+{"pl": "właśnie (w trakcie)", "lx": ["shou-bei"]}
+{"pl": "włosy", "lx": ["xian-dong"]}
+{"pl": "włosy na głowie", "lx": ["hen-lun"]}
+{"pl": "włócznia", "lx": ["sui-kuai"]}
+{"pl": "ya-Ju", "lx": ["hua-biao"]}
+{"pl": "ying-Gang", "lx": ["shi-dong"]}
+{"pl": "yu-hua", "lx": ["yu-hua"]}
+{"pl": "yu-hua (język)", "lx": ["yu-hua"]}
+{"pl": "z", "lx": ["rǎo"]}
+{"pl": "z przodu", "lx": ["ma-ti"]}
+{"pl": "z tyłu", "lx": ["dong-chang"]}
+{"pl": "z wiatrem", "lx": ["fengo-bi"]}
+{"pl": "z, od", "lx": ["rǎo"]}
+{"pl": "z, od (źródło)", "lx": ["rǎo"]}
+{"pl": "za bardzo", "lx": ["kang-xiao"]}
+{"pl": "za chwilę", "lx": ["chuang-hun"]}
+{"pl": "za każdym razem", "lx": ["nuo-er"]}
+{"pl": "zaatakować", "lx": ["jian-nan"]}
+{"pl": "zabawka", "lx": ["ca-mi"]}
+{"pl": "zabierać", "lx": ["gou-mao"]}
+{"pl": "zabić", "lx": ["pi"]}
+{"pl": "zabrudzony", "lx": ["bie-jing"]}
+{"pl": "zabrudzony, zanieczyszczony", "lx": ["bie-jing"]}
+{"pl": "zachowywać", "lx": ["zhui-sao"]}
+{"pl": "zachowywać, przechowywać", "lx": ["zhui-sao"]}
+{"pl": "zachód", "lx": ["fang-xi"]}
+{"pl": "zachód słońca", "lx": ["yin-dia"]}
+{"pl": "zachęcać", "lx": ["bin-ze"]}
+{"pl": "zacząć", "lx": ["te"]}
+{"pl": "zadanie", "lx": ["cang-jiu"]}
+{"pl": "zadowolenie", "lx": ["huano-kui"]}
+{"pl": "zadowolenie, satysfakcja", "lx": ["huano-kui"]}
+{"pl": "zadowolony", "lx": ["huano-zhang"]}
+{"pl": "zagajnik", "lx": ["ding-suo"]}
+{"pl": "zagajnik bambusowy", "lx": ["zhuo-gei"]}
+{"pl": "zagubienie", "lx": ["dia-hen"]}
+{"pl": "zagubienie, konfuzja", "lx": ["dia-hen"]}
+{"pl": "zainteresowany", "lx": ["chan-gan-duan"]}
+{"pl": "zakazywać", "lx": ["ru-lian"]}
+{"pl": "zakonnica", "lx": ["da-fei"]}
+{"pl": "zakrzywiony", "lx": ["kua-niao"]}
+{"pl": "zamarzanie", "lx": ["kuang-zhun"]}
+{"pl": "zamek", "lx": ["ca-gou"]}
+{"pl": "zamglony", "lx": ["cao-hun"]}
+{"pl": "zamiar", "lx": ["geng-heng"]}
+{"pl": "zamiar, cel", "lx": ["geng-heng"]}
+{"pl": "zamiatać", "lx": ["luan-xia"]}
+{"pl": "zamiatać podłogę", "lx": ["pen-xin"]}
+{"pl": "zamieć", "lx": ["shuo-yin"]}
+{"pl": "zamknąć", "lx": ["tao"]}
+{"pl": "zamknąć na klucz", "lx": ["sao-que"]}
+{"pl": "zamęt umysłowy", "lx": ["ying-ke"]}
+{"pl": "zanieczyszczenie", "lx": ["dou-ci-wu"]}
+{"pl": "zanieczyszczony", "lx": ["bie-jing"]}
+{"pl": "zapach", "lx": ["lao-nuo"]}
+{"pl": "zapach dymu", "lx": ["pei-die"]}
+{"pl": "zapach mięsa", "lx": ["bin-za"]}
+{"pl": "zapach ziół", "lx": ["que-ying"]}
+{"pl": "zaparcia", "lx": ["dou-bin"]}
+{"pl": "zaparzać herbatę", "lx": ["pang-kuan"]}
+{"pl": "zapał", "lx": ["za-qing"]}
+{"pl": "zapisywać", "lx": ["bian-deng"]}
+{"pl": "zapisywać, rejestrować", "lx": ["bian-deng"]}
+{"pl": "zapobiegać", "lx": ["muo-jiang"]}
+{"pl": "zapomnieć", "lx": ["gong-kuai"]}
+{"pl": "zapomnieć całkowicie", "lx": ["zeng-ding"]}
+{"pl": "zapraszać", "lx": ["guan-shao"]}
+{"pl": "zaprzeczać", "lx": ["fa-wu"]}
+{"pl": "zapłacić", "lx": ["cui-de"]}
+{"pl": "zaraz", "lx": ["chun-xue"]}
+{"pl": "zaraz, natychmiast", "lx": ["chun-xue"]}
+{"pl": "zarzucać sieć", "lx": ["ju-zhan"]}
+{"pl": "zarządca powiatu", "lx": ["zhui-lai"]}
+{"pl": "zarządzać", "lx": ["zhuang-gong"]}
+{"pl": "zasada", "lx": ["cha-cun"]}
+{"pl": "zasady Niebios", "lx": ["se-lei"]}
+{"pl": "zasadzka", "lx": ["ming-wo"]}
+{"pl": "zaskoczenie", "lx": ["she-xia"]}
+{"pl": "zasoby", "lx": ["beng-rou"]}
+{"pl": "zastój krwi", "lx": ["weng-yuan"]}
+{"pl": "zastępca przywódcy", "lx": ["den-ao-qun"]}
+{"pl": "zastępować", "lx": ["nei-ping"]}
+{"pl": "zasłona", "lx": ["lie-luan"]}
+{"pl": "zasłona, namiot", "lx": ["lie-luan"]}
+{"pl": "zasługa wojenna", "lx": ["hou-fen"]}
+{"pl": "zatoka", "lx": ["haio-ri"]}
+{"pl": "zatrucie", "lx": ["yin-ne"]}
+{"pl": "zatrzymać", "lx": ["zuo-huan"]}
+{"pl": "zatwierdzać", "lx": ["nano-juan"]}
+{"pl": "zaufanie", "lx": ["bie-keng"]}
+{"pl": "zauważyć", "lx": ["song-dong"]}
+{"pl": "zauważyć, zwracać uwagę", "lx": ["song-dong"]}
+{"pl": "zawiadomienie", "lx": ["gang-chun"]}
+{"pl": "zawias", "lx": ["qu-yue"]}
+{"pl": "zawieszać", "lx": ["hun-long"]}
+{"pl": "zawiniątko", "lx": ["suan-o"]}
+{"pl": "zawroty głowy", "lx": ["shou-dao"]}
+{"pl": "zawsze", "lx": ["yong"]}
+{"pl": "zazdrość", "lx": ["cuan-bin"]}
+{"pl": "zazdrość (rzeczownik)", "lx": ["cuan-bin"]}
+{"pl": "zazwyczaj", "lx": ["man-bei"]}
+{"pl": "zaćmienie słońca", "lx": ["mo-dan"]}
+{"pl": "zbierać", "lx": ["chu-pei"]}
+{"pl": "zbocze", "lx": ["dian-pang"]}
+{"pl": "zboże", "lx": ["sha-teng"]}
+{"pl": "zbrodniarz", "lx": ["chua-shan"]}
+{"pl": "zbroja", "lx": ["dian-ben"]}
+{"pl": "zbroja, pancerz", "lx": ["dian-ben"]}
+{"pl": "zbyt", "lx": ["kang-xiao"]}
+{"pl": "zbyt, za bardzo", "lx": ["kang-xiao"]}
+{"pl": "zdający egzamin cesarski", "lx": ["nin-hang"]}
+{"pl": "zdanie", "lx": ["lue-zhen"]}
+{"pl": "zdawać sobie sprawę", "lx": ["pan-ren-liang"]}
+{"pl": "zdecydowanie", "lx": ["tian-ha"]}
+{"pl": "zdenerwowany", "lx": ["dan-biao", "nun-zhuo"]}
+{"pl": "zdenerwowany, spięty", "lx": ["nun-zhuo"]}
+{"pl": "zdobyć", "lx": ["zhu-dun"]}
+{"pl": "zdobyć, otrzymać", "lx": ["zhu-dun"]}
+{"pl": "zdolność", "lx": ["ti-de"]}
+{"pl": "zdrada", "lx": ["pu-tong"]}
+{"pl": "zdrajczy", "lx": ["reng-wa"]}
+{"pl": "zdrowia", "lx": ["nuo-zong-sou"]}
+{"pl": "zdrowia (dosł. ciało zdrowe)", "lx": ["nuo-zong-sou"]}
+{"pl": "zdrowy", "lx": ["qin"]}
+{"pl": "zegarek", "lx": ["chen-chun"]}
+{"pl": "zemścić się", "lx": ["mei-wu"]}
+{"pl": "zepsuty", "lx": ["mou-kui"]}
+{"pl": "zestaw dzwonów", "lx": ["liao-nen"]}
+{"pl": "zewnątrz", "lx": ["shan-cuan"]}
+{"pl": "zewnętrzna", "lx": ["tuo-bo"]}
+{"pl": "zewnętrzna alchemia", "lx": ["chun-ming"]}
+{"pl": "zewnętrzna moc", "lx": ["kou-hai"]}
+{"pl": "zewnętrzna siła", "lx": ["ming-shan"]}
+{"pl": "zewnętrzny uczeń", "lx": ["ma-kuang"]}
+{"pl": "zezwalać", "lx": ["can-ling"]}
+{"pl": "zgadywanie zagadek", "lx": ["zu-zai"]}
+{"pl": "zgadzać się", "lx": ["ge-nuo"]}
+{"pl": "zgrubny", "lx": ["nano-xu"]}
+{"pl": "zgubić", "lx": ["muo-dia"]}
+{"pl": "zgłaszać", "lx": ["fang-tou"]}
+{"pl": "zielona herbata", "lx": ["gango-lao"]}
+{"pl": "zielona trawa", "lx": ["xino-liu"]}
+{"pl": "zielone warzywa", "lx": ["nano-qie"]}
+{"pl": "zielony", "lx": ["nano"]}
+{"pl": "ziemia", "lx": ["yan"]}
+{"pl": "ziemia orna", "lx": ["diio-rui"]}
+{"pl": "ziemniak", "lx": ["caio-dun"]}
+{"pl": "zima", "lx": ["nen-jing"]}
+{"pl": "zimna energia", "lx": ["qio-bao"]}
+{"pl": "zimna rosa", "lx": ["wuo-jiao"]}
+{"pl": "zimny", "lx": ["weno-fei"]}
+{"pl": "zimorodek", "lx": ["en-luan"]}
+{"pl": "zioła", "lx": ["zhao-ruo"]}
+{"pl": "zioła lecznicze", "lx": ["shuan-zu"]}
+{"pl": "zirytowany", "lx": ["dan-biao"]}
+{"pl": "zirytowany, zdenerwowany", "lx": ["dan-biao"]}
+{"pl": "zięć", "lx": ["jiong-gong"]}
+{"pl": "zjednoczone Trony Wschodu", "lx": ["bie-meng"]}
+{"pl": "zmartwienie", "lx": ["beio-zhang", "chuo-niang"]}
+{"pl": "zmartwienie, niepokój", "lx": ["chuo-niang"]}
+{"pl": "zmiana klimatu", "lx": ["qio-dao-na"]}
+{"pl": "zmieniać", "lx": ["yue-you"]}
+{"pl": "zmieniać się", "lx": ["yao-ying"]}
+{"pl": "zmienić", "lx": ["dai"]}
+{"pl": "zmienny", "lx": ["chai-xun"]}
+{"pl": "zmierzch", "lx": ["ku-ge"]}
+{"pl": "zmniejszać", "lx": ["chou-jie"]}
+{"pl": "zmywać naczynia", "lx": ["kao-sun"]}
+{"pl": "zmęczenie", "lx": ["chua-cheng", "chua-gui"]}
+{"pl": "zmęczyłeś się", "lx": ["ou-ya-dun"]}
+{"pl": "zmęczyłeś się (współczucie)", "lx": ["ou-ya-dun"]}
+{"pl": "znaczenie", "lx": ["kun-hong"]}
+{"pl": "znaczenie, sens", "lx": ["kun-hong"]}
+{"pl": "znać", "lx": ["tao-kang"]}
+{"pl": "zniszczony", "lx": ["fu-mai"]}
+{"pl": "zniszczony, zużyty", "lx": ["fu-mai"]}
+{"pl": "zniszczyć całkowicie", "lx": ["wai-bo"]}
+{"pl": "znowu", "lx": ["zan"]}
+{"pl": "znudzenie", "lx": ["chua-gui"]}
+{"pl": "znudzenie, zmęczenie", "lx": ["chua-gui"]}
+{"pl": "zobaczymy", "lx": ["ruo-fan-lan"]}
+{"pl": "zobaczymy (dosł. patrz sytuacja)", "lx": ["ruo-fan-lan"]}
+{"pl": "zobaczyć", "lx": ["bie-pian"]}
+{"pl": "zostawać", "lx": ["yu-fa"]}
+{"pl": "zostać", "lx": ["wo"]}
+{"pl": "zrealizować", "lx": ["ma-zhao"]}
+{"pl": "zrozumienie siły", "lx": ["xia-mei"]}
+{"pl": "zrozumieć", "lx": ["ai-cui", "shi-huai"]}
+{"pl": "zrównoważony", "lx": ["guo-nen-zhuo"]}
+{"pl": "zupa", "lx": ["qun-te"]}
+{"pl": "zużyty", "lx": ["fu-mai"]}
+{"pl": "zużywać", "lx": ["zai-wu"]}
+{"pl": "zwalniać", "lx": ["kuo-heng"]}
+{"pl": "zwichnięcie", "lx": ["gang-gou"]}
+{"pl": "zwiedzać", "lx": ["lian-cong"]}
+{"pl": "zwierzę domowe", "lx": ["dongo-bao"]}
+{"pl": "zwierzęta", "lx": ["dongo-xiang"]}
+{"pl": "zwierzęta wymarłe", "lx": ["dongo-lian"]}
+{"pl": "zwierzęta zagrożone", "lx": ["dongo-cheng"]}
+{"pl": "zwijać", "lx": ["lin-pa"]}
+{"pl": "związek", "lx": ["zan-ren"]}
+{"pl": "zwiększać", "lx": ["chun-man"]}
+{"pl": "zwracać uwagę", "lx": ["song-dong"]}
+{"pl": "zwycięstwo", "lx": ["a-qian"]}
+{"pl": "zwyciężyć", "lx": ["zang-liao"]}
+{"pl": "zwyczaj", "lx": ["ha-mou"]}
+{"pl": "zwykły", "lx": ["shuan-ei"]}
+{"pl": "zwykły, przeciętny", "lx": ["shuan-ei"]}
+{"pl": "zwój malarzy", "lx": ["hua-ze"]}
+{"pl": "zysk", "lx": ["rao-tao"]}
+{"pl": "ząb", "lx": ["chun"]}
+{"pl": "zła energia", "lx": ["jia-gui"]}
+{"pl": "zła fortuna", "lx": ["zhun-shen"]}
+{"pl": "złamanie", "lx": ["za-ru"]}
+{"pl": "złamać", "lx": ["kun-eng"]}
+{"pl": "złapać", "lx": ["chio"]}
+{"pl": "złota rybka", "lx": ["dongo-che"]}
+{"pl": "złotnik", "lx": ["sui-sang"]}
+{"pl": "złoto", "lx": ["huaio"]}
+{"pl": "złotożółty", "lx": ["nou-chou"]}
+{"pl": "złoty dzwon", "lx": ["nou-gu-nu"]}
+{"pl": "złoty dzwon (technika)", "lx": ["nou-gu-nu"]}
+{"pl": "złoty eliksir", "lx": ["nou-run"]}
+{"pl": "zły", "lx": ["nuo"]}
+{"pl": "ósmy", "lx": ["na-zhui"]}
+{"pl": "ćwiczyć", "lx": ["rang-gun"]}
+{"pl": "ćwiczyć, praktykować", "lx": ["rang-gun"]}
+{"pl": "ćwierkanie", "lx": ["mi-li"]}
+{"pl": "łabędź", "lx": ["cuan-gai"]}
+{"pl": "łagodny", "lx": ["sui-liao"]}
+{"pl": "łagodny, delikatny", "lx": ["sui-liao"]}
+{"pl": "łajać", "lx": ["cen-bu"]}
+{"pl": "łapać", "lx": ["cang-huang", "seng-lou"]}
+{"pl": "łapać (w powietrzu)", "lx": ["seng-lou"]}
+{"pl": "łatwy", "lx": ["kuo"]}
+{"pl": "łańcuch", "lx": ["qiao-zuan"]}
+{"pl": "łkać", "lx": ["beio-miu"]}
+{"pl": "łoskot", "lx": ["chuang-rui", "tuo-lao-suan"]}
+{"pl": "łoskot, huk", "lx": ["chuang-rui"]}
+{"pl": "łowić ryby", "lx": ["haio-wei"]}
+{"pl": "łowy", "lx": ["qi-niao"]}
+{"pl": "łucznicy", "lx": ["ei-tan"]}
+{"pl": "łuk", "lx": ["bian"]}
+{"pl": "łuk pamiątkowy", "lx": ["ye-cai"]}
+{"pl": "łyżka", "lx": ["nuo-zhun"]}
+{"pl": "łódź", "lx": ["ha-jing"]}
+{"pl": "łódź rybacka", "lx": ["haio-men"]}
+{"pl": "łóżko", "lx": ["zhai-lie"]}
+{"pl": "łączyć", "lx": ["duo-mian", "se-si"]}
+{"pl": "łączyć, jednoczyć", "lx": ["duo-mian"]}
+{"pl": "Śledziona", "lx": ["mo-qi"]}
+{"pl": "Śledziona (TCM)", "lx": ["mo-qi"]}
+{"pl": "ściana", "lx": ["ling-dian"]}
+{"pl": "ściereczka do herbaty", "lx": ["wang-cha"]}
+{"pl": "ścierka", "lx": ["bai-pai"]}
+{"pl": "ścigać", "lx": ["zhong-dian"]}
+{"pl": "ścigać (wroga)", "lx": ["zhong-dian"]}
+{"pl": "ślimak", "lx": ["han-jian"]}
+{"pl": "ślimak wodny", "lx": ["rong-chua"]}
+{"pl": "ślub", "lx": ["pin-kun"]}
+{"pl": "śmiać się", "lx": ["tao-pin"]}
+{"pl": "śmiać się radośnie", "lx": ["tao-mai"]}
+{"pl": "śmiertelny wróg", "lx": ["qiu-xin"]}
+{"pl": "śmierć", "lx": ["weng-qing"]}
+{"pl": "śmieć", "lx": ["zeng-reng"]}
+{"pl": "śniadanie", "lx": ["fano-sang"]}
+{"pl": "śnieg", "lx": ["xueo"]}
+{"pl": "śpiewać", "lx": ["song-ye"]}
+{"pl": "średni", "lx": ["zhi-re"]}
+{"pl": "środek", "lx": ["mei-chi"]}
+{"pl": "środek, umiarkowanie", "lx": ["mei-chi"]}
+{"pl": "środowisko", "lx": ["zhuai-hu"]}
+{"pl": "śruba", "lx": ["jiang-can"]}
+{"pl": "świadek", "lx": ["shuan-ti"]}
+{"pl": "świat", "lx": ["fa-gu", "san-wang"]}
+{"pl": "świat ludzi", "lx": ["zhan-fa-bian"]}
+{"pl": "świat zwierząt", "lx": ["dongo-re"]}
+{"pl": "światło słoneczne", "lx": ["ce-wo"]}
+{"pl": "świeca", "lx": ["muo-ling"]}
+{"pl": "świecznik", "lx": ["shun-pin"]}
+{"pl": "świerszcz", "lx": ["shuo-reng"]}
+{"pl": "świetlik", "lx": ["dai-die-xiang"]}
+{"pl": "świeżo pachnący", "lx": ["jiong-peng"]}
+{"pl": "świeży", "lx": ["miao-seng"]}
+{"pl": "świnia", "lx": ["tuno-zhun"]}
+{"pl": "świst wiatru", "lx": ["fengo-ni"]}
+{"pl": "świt", "lx": ["chang-man"]}
+{"pl": "świątynia", "lx": ["kei-qu"]}
+{"pl": "świątynia taoistyczna", "lx": ["he-she"]}
+{"pl": "świątynia, sanktuarium", "lx": ["kei-qu"]}
+{"pl": "święto", "lx": ["dia-long"]}
+{"pl": "źrebię", "lx": ["bian-kang"]}
+{"pl": "źródło", "lx": ["yuano-seng"]}
+{"pl": "żaglowiec", "lx": ["chu-mang"]}
+{"pl": "żal", "lx": ["beio-mou"]}
+{"pl": "żal, skrucha", "lx": ["beio-mou"]}
+{"pl": "żałoba", "lx": ["beio-shuo"]}
+{"pl": "żałoba, głęboki smutek", "lx": ["beio-shuo"]}
+{"pl": "żelazna dłoń", "lx": ["duo-gua-bao"]}
+{"pl": "żeń-szeń", "lx": ["heng-gao"]}
+{"pl": "żniwa", "lx": ["zhen-zhe"]}
+{"pl": "żona", "lx": ["miao-you"]}
+{"pl": "żona wujka", "lx": ["pi-guo"]}
+{"pl": "żołnierz", "lx": ["fou-bing"]}
+{"pl": "żołądek", "lx": ["kuo-jiong"]}
+{"pl": "żołądek (organ)", "lx": ["kuo-jiong"]}
+{"pl": "żuć", "lx": ["chuo-pei"]}
+{"pl": "żwir", "lx": ["zhui-zhuai"]}
+{"pl": "życzliwość", "lx": ["e-ling"]}
+{"pl": "życzyć sobie", "lx": ["wan-lang"]}
+{"pl": "życzę tobie", "lx": ["hang-xin"]}
+{"pl": "żywy", "lx": ["bian-ruo", "lue"]}
+{"pl": "żyć", "lx": ["qio"]}
+{"pl": "żółty", "lx": ["nou"]}
+{"pl": "żółty ziemisty", "lx": ["nou-gang"]}
+{"pl": "żółw", "lx": ["guio-yao"]}
+{"pl": "żółw błotny", "lx": ["guio-cuan"]}
+{"pl": "żółw i wąż", "lx": ["sheo-da"]}
+{"pl": "żółwia prędkość", "lx": ["guio-ang"]}
+{"pl": "żądać", "lx": ["dian-quan"]}
